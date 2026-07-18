@@ -32,9 +32,23 @@ def live_price(
     ticker: str,
     fmp_api_key: str | None = None,
     client: httpx.Client | None = None,
+    schwab=None,
 ) -> float | None:
-    """Latest market price. FMP stable API first (key), Yahoo chart fallback
-    (keyless). None on total failure — targets then degrade to NOT_SCORABLE."""
+    """Latest market price, most precise source first.
+
+    Order: Schwab real-time quote (when authorized) -> FMP stable (key) ->
+    Yahoo chart (keyless). None on total failure — targets then degrade to
+    NOT_SCORABLE. `schwab` is an optional authorized SchwabProvider; any
+    error there falls through to the keyless path.
+    """
+    if schwab is not None:
+        try:
+            if getattr(schwab, "available", False):
+                px = schwab.last_price(ticker)
+                if isinstance(px, (int, float)) and px > 0:
+                    return float(px)
+        except Exception:  # noqa: BLE001 — never let quotes break the report
+            pass
     own = client is None
     client = client or httpx.Client(timeout=8.0)
     try:

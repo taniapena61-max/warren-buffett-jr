@@ -33,6 +33,15 @@ _lock = threading.Lock()
 settings = load_settings()
 edgar = EdgarProvider(settings, Cache(settings.cache_dir))
 
+# Optional real-time price source (Charles Schwab). Read-only; used only once
+# the user has authorized via scripts/schwab_catch.py. Falls back to FMP/Yahoo.
+from wbj.providers.schwab import SchwabProvider  # noqa: E402
+
+schwab = SchwabProvider(
+    settings.schwab_app_key, settings.schwab_app_secret,
+    settings.schwab_callback_url, settings.schwab_token_path,
+)
+
 
 def ticker_map() -> list[dict]:
     payload = edgar.get_json(
@@ -83,7 +92,7 @@ def analyze(ticker: str) -> dict:
 
     packet = _build_packet(ticker)
     result = _compute(packet)
-    price = live_price(ticker, fmp_api_key=settings.fmp_api_key)
+    price = live_price(ticker, fmp_api_key=settings.fmp_api_key, schwab=schwab)
     targets = price_targets(packet, price)
     # Seed agent memory: every web analysis also records its prediction.
     save_prediction(settings.reports_dir, ticker, date.today(),
@@ -152,6 +161,8 @@ PAGE = """<!doctype html>
   .c-chart { grid-column:span 12; background:#0e1113; color:#e8eaed; }
   .c-score { grid-column:span 5; } .c-target { grid-column:span 7; }
   .c-brief { grid-column:span 12; }
+  .c-tv { grid-column:span 12; }
+  #tvchart_ema { height:520px; }
   @media (max-width:860px) { .c-hero,.c-words,.c-chart,.c-score,.c-target { grid-column:span 12; } }
   /* --- company brief panel --- */
   .brief-grid { display:grid; grid-template-columns:repeat(12,1fr); gap:18px; margin-top:6px; }
@@ -347,6 +358,7 @@ PAGE = """<!doctype html>
     <div class="card c-score" id="scoreCard"></div>
     <div class="card c-target" id="targetCard"></div>
     <div class="card c-brief" id="briefCard"></div>
+    <div class="card c-tv" id="tvCard" style="display:none"></div>
   </div>
   <div class="foot" id="foot"><b>Nota:</b> Puntaje rápido con datos oficiales de la SEC (EDGAR).
   Sin evidencia no hay número: las categorías pendientes se muestran como N/S, nunca se inventan.
@@ -700,6 +712,35 @@ function briefHtml(d) {
 let tvData = [], tvTargets = null;
 const PERIODS = { '1M': 21, '3M': 63, '6M': 126, '1A': 9999 };
 
+// Gráfica de TradingView con la EMA de 200 (estrategia de Tania: comprar bajo
+// la EMA200). Widget externo de TradingView; carga tv.js una sola vez.
+function renderTradingView(ticker) {
+  const card = document.getElementById('tvCard');
+  card.style.display = 'block';
+  card.innerHTML = `<h2>${ticker} — gráfica con EMA 200 (TradingView)</h2>
+    <div class="sub">La línea de la EMA200 marca tu zona de descuento: por debajo = entrada preferida.</div>
+    <div id="tvchart_ema"></div>`;
+  const build = () => {
+    if (!window.TradingView) return;
+    new TradingView.widget({
+      container_id: 'tvchart_ema',
+      symbol: ticker.toUpperCase(),
+      interval: 'D',
+      autosize: true,
+      theme: 'light',
+      style: '1',
+      locale: 'es',
+      hide_side_toolbar: false,
+      studies: [{ id: 'MAExp@tv-basicstudies', inputs: { length: 200 } }],
+    });
+  };
+  if (window.TradingView) { build(); return; }
+  const s = document.createElement('script');
+  s.src = 'https://s3.tradingview.com/tv.js';
+  s.onload = build;
+  document.head.appendChild(s);
+}
+
 function renderChart(d) {
   const el = document.getElementById('chartCard');
   tvData = d.chart || [];
@@ -848,6 +889,7 @@ async function run(t) {
     document.getElementById('scoreCard').innerHTML = scoreHtml(d);
     document.getElementById('targetCard').innerHTML = targetHtml(d);
     document.getElementById('briefCard').innerHTML = briefHtml(d);
+    renderTradingView(d.ticker);
     finishLoading(true, () => {
       grid.style.display = 'grid';
       renderChart(d);

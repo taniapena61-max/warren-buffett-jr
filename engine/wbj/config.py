@@ -22,12 +22,21 @@ class Settings:
     finnhub_api_key: str | None = None
     fred_api_key: str | None = None
     anthropic_api_key: str | None = None
+    # Charles Schwab (read-only market data, OAuth) — real-time price source.
+    schwab_app_key: str | None = None
+    schwab_app_secret: str | None = None
+    schwab_callback_url: str = "https://127.0.0.1"
     # Model for the qualitative judgment agent; override to cut cost (e.g.
     # "claude-haiku-4-5"). Default per the Anthropic SDK guidance.
     judge_model: str = "claude-opus-4-8"
     repo_root: Path = field(default_factory=_find_repo_root)
     cache_dir: Path = field(default_factory=lambda: _find_repo_root() / "engine" / "cache")
     reports_dir: Path = field(default_factory=lambda: _find_repo_root() / "Reportes")
+
+    @property
+    def schwab_token_path(self) -> Path:
+        """Gitignored token store for Schwab OAuth tokens (under API/)."""
+        return self.repo_root / "API" / "schwab_tokens.json"
 
     def __repr__(self) -> str:
         """Custom repr that never includes secret keys."""
@@ -71,12 +80,18 @@ def load_settings(env_file: Path | None = None) -> Settings:
         env_vars.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_API_KEY") or None
     )
     judge_model = env_vars.get("JUDGE_MODEL") or "claude-opus-4-8"
+    schwab_app_key = env_vars.get("SCHWAB_APP_KEY") or None
+    schwab_app_secret = env_vars.get("SCHWAB_APP_SECRET") or None
+    schwab_callback_url = env_vars.get("SCHWAB_CALLBACK_URL") or "https://127.0.0.1"
 
     return Settings(
         fmp_api_key=fmp_api_key,
         finnhub_api_key=finnhub_api_key,
         fred_api_key=fred_api_key,
         anthropic_api_key=anthropic_api_key,
+        schwab_app_key=schwab_app_key,
+        schwab_app_secret=schwab_app_secret,
+        schwab_callback_url=schwab_callback_url,
         judge_model=judge_model,
         repo_root=repo_root,
         cache_dir=repo_root / "engine" / "cache",
