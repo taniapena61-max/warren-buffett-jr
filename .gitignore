@@ -19,3 +19,7 @@ Reportes/*
 Memoria/tesis/*
 !Memoria/tesis/.gitkeep
 Memoria/calibracion.md
+
+# Datos personales de posiciones (Tania)
+API/posiciones.json
+API/monitor_estado.json
