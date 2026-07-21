@@ -114,13 +114,22 @@ def revisar() -> dict:
                     "precio": round(px, 2), "costo": costo,
                     "pl_pct": round(pl_pct, 1),
                     "pl_usd": round((px - costo) * n, 0)}
-            for nivel in p.get("niveles_criticos", []):
-                antes = previo.get(p["id"], {}).get("precio")
-                if antes and float(antes) >= nivel > px:
-                    disparos.append(
-                        f"NIVEL ROTO: {p['descripcion']} cayo bajo ${nivel:.2f} "
-                        f"(ahora ${px:.2f})")
-            fila["niveles"] = p.get("niveles_criticos", [])
+            # Niveles etiquetados: avisan al CRUZAR, y dicen que significan.
+            # "abajo" = riesgo al perderlo; "arriba" = oportunidad al alcanzarlo.
+            antes = previo.get(p["id"], {}).get("precio")
+            niveles = p.get("niveles_etiquetados", [])
+            for nv in niveles:
+                lv, sentido = float(nv["precio"]), nv.get("sentido", "abajo")
+                if antes is None:
+                    continue
+                antes_f = float(antes)
+                if sentido == "abajo" and antes_f >= lv > px:
+                    disparos.append(f"NIVEL PERDIDO ${lv:.2f}: {nv['que']} "
+                                    f"— IREN cayo a ${px:.2f}")
+                elif sentido == "arriba" and antes_f <= lv < px:
+                    disparos.append(f"NIVEL ALCANZADO ${lv:.2f}: {nv['que']} "
+                                    f"— IREN subio a ${px:.2f}")
+            fila["niveles"] = niveles
             nuevo[p["id"]] = {"precio": px, "visto": datetime.now().isoformat()}
             filas.append(fila)
             continue
@@ -219,8 +228,9 @@ def texto(r: dict) -> str:
                 f"  {f['desc']}\n"
                 f"    costo ${f['costo']:.2f} -> ${f['precio']:.2f}  "
                 f"({f['pl_pct']:+.1f}%, ${f['pl_usd']:+,.0f})"
-                + (f"\n    niveles vigilados: " +
-                   ", ".join(f"${n:.2f}" for n in f["niveles"]) if f.get("niveles") else ""))
+                + ("\n    niveles vigilados:\n" +
+                   "\n".join(f"      ${n['precio']:.2f} ({n['sentido']}) — {n['que']}"
+                             for n in f["niveles"]) if f.get("niveles") else ""))
         elif t == "opcion_corta":
             sub = f" | IREN ${f['subyacente']:.2f}" if f.get("subyacente") else ""
             itm = (f" | ITM ${f['itm']:.2f}" if f.get("itm", 0) > 0
