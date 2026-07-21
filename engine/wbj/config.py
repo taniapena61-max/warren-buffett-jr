@@ -26,6 +26,10 @@ class Settings:
     schwab_app_key: str | None = None
     schwab_app_secret: str | None = None
     schwab_callback_url: str = "https://127.0.0.1"
+    # Gmail IMAP (solo lectura) — para leer alertas de MarketSnack.
+    gmail_address: str | None = None
+    gmail_app_password: str | None = None
+    marketsnack_sender: str | None = None
     # Model for the qualitative judgment agent; override to cut cost (e.g.
     # "claude-haiku-4-5"). Default per the Anthropic SDK guidance.
     judge_model: str = "claude-opus-4-8"
@@ -83,6 +87,9 @@ def load_settings(env_file: Path | None = None) -> Settings:
     schwab_app_key = env_vars.get("SCHWAB_APP_KEY") or None
     schwab_app_secret = env_vars.get("SCHWAB_APP_SECRET") or None
     schwab_callback_url = env_vars.get("SCHWAB_CALLBACK_URL") or "https://127.0.0.1"
+    gmail_address = env_vars.get("GMAIL_ADDRESS") or env_vars.get("EMAIL_TO") or None
+    gmail_app_password = env_vars.get("GMAIL_APP_PASSWORD") or None
+    marketsnack_sender = env_vars.get("MARKETSNACK_SENDER") or None
 
     return Settings(
         fmp_api_key=fmp_api_key,
@@ -92,6 +99,9 @@ def load_settings(env_file: Path | None = None) -> Settings:
         schwab_app_key=schwab_app_key,
         schwab_app_secret=schwab_app_secret,
         schwab_callback_url=schwab_callback_url,
+        gmail_address=gmail_address,
+        gmail_app_password=gmail_app_password,
+        marketsnack_sender=marketsnack_sender,
         judge_model=judge_model,
         repo_root=repo_root,
         cache_dir=repo_root / "engine" / "cache",
