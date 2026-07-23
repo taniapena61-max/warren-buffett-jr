@@ -80,7 +80,8 @@ def revisar() -> dict:
 
     s = load_settings()
     sch = SchwabProvider(s.schwab_app_key, s.schwab_app_secret,
-                         s.schwab_callback_url, s.schwab_token_path)
+                         s.schwab_callback_url, s.schwab_token_path,
+                         history_dir=s.history_dir)  # archiva cada consulta
     if not sch.available:
         return {"error": "Schwab no autorizado — renueva con 'Renovar Schwab.bat'"}
 
@@ -168,14 +169,21 @@ def revisar() -> dict:
                     f"RIESGO ASIGNACION TEMPRANA: {p['descripcion']} — valor "
                     f"temporal ${float(vt):.2f} (bajo ${vt_critico:.2f}) e ITM. "
                     f"Pueden ejercerte antes del vencimiento.")
-            # 2) profundidad ITM relevante
+            # 2) profundidad ITM — solo cuando EMPEORA, no en cada revision.
+            # Estar ITM es un estado permanente; avisarlo cada media hora seria
+            # ruido y acabaria por enterrar la alerta que si importa. Solo se
+            # avisa al cruzar un escalon nuevo de 5 puntos de profundidad.
             if subyacente is not None and float(subyacente) < strike:
                 prof = (strike - float(subyacente)) / strike * 100
-                if prof >= 10:
+                fila["itm_pct"] = round(prof, 1)
+                escalon = int(prof // 5) * 5
+                previo_esc = previo.get(p["id"], {}).get("itm_escalon", 0)
+                if prof >= 10 and escalon > previo_esc:
                     disparos.append(
-                        f"MUY ITM: {p['descripcion']} — {p['simbolo_schwab'][:4]} "
-                        f"en ${float(subyacente):.2f}, {prof:.0f}% bajo el strike "
-                        f"${strike:.0f}.")
+                        f"ITM SE PROFUNDIZA: {p['descripcion']} — "
+                        f"{p['simbolo_schwab'][:4]} en ${float(subyacente):.2f}, "
+                        f"{prof:.0f}% bajo el strike ${strike:.0f}.")
+                fila["itm_escalon"] = escalon
             # 3) ganancia capturada (oportunidad de cerrar barato)
             if ganado_pct >= ideal_pct:
                 disparos.append(
@@ -206,6 +214,8 @@ def revisar() -> dict:
                 disparos.append(f"MOVIMIENTO {cambio:+.1f}%: {p['descripcion']} "
                                 f"${float(antes):.2f} -> ${mark:.2f}")
         nuevo[p["id"]] = {"mark": mark, "visto": datetime.now().isoformat()}
+        if "itm_escalon" in fila:  # recordar el escalon ya avisado
+            nuevo[p["id"]]["itm_escalon"] = fila["itm_escalon"]
         filas.append(fila)
 
     ESTADO.write_text(json.dumps(nuevo, indent=2), encoding="utf-8")
@@ -283,13 +293,26 @@ def enviar_email(asunto: str, cuerpo: str, destino: str) -> str:
 
 
 def main() -> int:
+    # --resumen: informe diario, se envia aunque no haya disparos (cierre de
+    # mercado). --forzar: igual, para pruebas manuales.
+    resumen = "--resumen" in sys.argv
     forzar = "--forzar" in sys.argv
     r = revisar()
     print(texto(r))
     if r.get("error"):
+        # Un fallo de Schwab deja el monitoreo ciego: eso SI hay que avisarlo.
+        if resumen:
+            cfg = _cargar(POSICIONES, {})
+            enviar_email("Warren Buffett Jr — MONITOREO CAIDO",
+                         f"El monitor no pudo revisar tus posiciones:\n\n{r['error']}\n\n"
+                         "Mientras tanto no hay vigilancia automatica.",
+                         cfg.get("email_destino", ""))
         return 1
-    if r["disparos"] or forzar:
-        cab = r["disparos"][0].split(":")[0] if r["disparos"] else "reporte"
+    if r["disparos"] or forzar or resumen:
+        if r["disparos"]:
+            cab = r["disparos"][0].split(":")[0]
+        else:
+            cab = "resumen del dia" if resumen else "reporte"
         print(enviar_email(f"Warren Buffett Jr — {cab}", texto(r), r["email_destino"]))
     return 0
 

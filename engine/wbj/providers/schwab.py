@@ -47,12 +47,16 @@ class SchwabProvider:
         callback_url: str,
         token_path: Path,
         client: httpx.Client | None = None,
+        history_dir: Path | None = None,
     ) -> None:
         self.app_key = app_key
         self.app_secret = app_secret
         self.callback_url = callback_url
         self.token_path = token_path
         self.client = client if client is not None else httpx.Client(timeout=10.0)
+        # Si se da, cada cotizacion exitosa se archiva (una fila por dia).
+        # Schwab no guarda historial; asi lo vamos construyendo nosotros.
+        self.history_dir = history_dir
 
     # --- configuration state -------------------------------------------------
 
@@ -192,7 +196,14 @@ class SchwabProvider:
         entry = data.get(symbol.upper())
         if not isinstance(entry, dict):
             return None
-        return entry.get("quote") or entry
+        q = entry.get("quote") or entry
+        if self.history_dir is not None and isinstance(q, dict):
+            try:  # archivar nunca debe romper una cotizacion
+                from wbj.history import registrar_quote
+                registrar_quote(symbol.upper(), q, self.history_dir)
+            except Exception:  # noqa: BLE001
+                pass
+        return q
 
     def last_price(self, symbol: str) -> float | None:
         """Latest real-time price for `symbol`, or None."""

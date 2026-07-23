@@ -23,3 +23,6 @@ Memoria/calibracion.md
 # Datos personales de posiciones (Tania)
 API/posiciones.json
 API/monitor_estado.json
+
+# Historial diario de mercado (personal, Schwab no lo guarda)
+historial/

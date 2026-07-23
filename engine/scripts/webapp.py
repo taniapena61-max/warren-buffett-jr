@@ -40,6 +40,7 @@ from wbj.providers.schwab import SchwabProvider  # noqa: E402
 schwab = SchwabProvider(
     settings.schwab_app_key, settings.schwab_app_secret,
     settings.schwab_callback_url, settings.schwab_token_path,
+    history_dir=settings.history_dir,  # archiva cada consulta (Schwab no lo hace)
 )
 
 

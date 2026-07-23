@@ -42,6 +42,11 @@ class Settings:
         """Gitignored token store for Schwab OAuth tokens (under API/)."""
         return self.repo_root / "API" / "schwab_tokens.json"
 
+    @property
+    def history_dir(self) -> Path:
+        """Gitignored daily history store (Schwab no guarda el pasado)."""
+        return self.repo_root / "historial"
+
     def __repr__(self) -> str:
         """Custom repr that never includes secret keys."""
         return (
