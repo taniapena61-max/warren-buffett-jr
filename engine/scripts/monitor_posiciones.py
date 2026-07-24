@@ -178,23 +178,32 @@ def revisar() -> dict:
             strike = float(p.get("strike", 0))
             # vendida: gana lo que la opcion BAJA respecto a la prima cobrada
             ganado_pct = (prima - mark) / prima * 100
+            # Valor extrinseco REAL = mark - intrinseco. El campo timeValue de
+            # Schwab NO es confiable (reporta ~0 cuando el extrinseco real es
+            # >$1), asi que lo calculamos. Es lo que de verdad protege de la
+            # asignacion temprana.
+            extrinseco = None
+            if subyacente is not None:
+                intrinseco = max(0.0, strike - float(subyacente))
+                extrinseco = round(mark - intrinseco, 2)
             fila = {"id": p["id"], "desc": p["descripcion"], "tipo": tipo,
                     "prima": prima, "mark": round(mark, 2),
                     "ganado_pct": round(ganado_pct, 1),
                     "pl_usd": round((prima - mark) * 100 * n, 0),
                     "strike": strike, "subyacente": subyacente,
-                    "valor_temporal": round(float(vt), 2) if vt is not None else None,
+                    "valor_temporal": extrinseco,
                     "delta": q.get("delta"),
                     "equilibrio": round(strike - prima, 2)}
             if subyacente is not None:
                 fila["itm"] = round(strike - float(subyacente), 2)
 
-            # 1) asignacion temprana: lo que de verdad la provoca
-            if vt is not None and float(vt) < vt_critico and \
+            # 1) asignacion temprana: la provoca el extrinseco casi agotado
+            #    estando ITM (no los dias que falten).
+            if extrinseco is not None and extrinseco < vt_critico and \
                     subyacente is not None and float(subyacente) < strike:
                 disparos.append(
                     f"RIESGO ASIGNACION TEMPRANA: {p['descripcion']} — valor "
-                    f"temporal ${float(vt):.2f} (bajo ${vt_critico:.2f}) e ITM. "
+                    f"extrinseco ${extrinseco:.2f} (bajo ${vt_critico:.2f}) e ITM. "
                     f"Pueden ejercerte antes del vencimiento.")
             # 2) profundidad ITM — solo cuando EMPEORA, no en cada revision.
             # Estar ITM es un estado permanente; avisarlo cada media hora seria
