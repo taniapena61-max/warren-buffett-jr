@@ -100,6 +100,33 @@ def revisar() -> dict:
                           "error": "sin cotizacion"})
             continue
 
+        # ---------------------------------------------------------- indice
+        # Solo vigila cruces de nivel (no es una posicion, no hay P/L).
+        if tipo == "indice":
+            px = q.get("lastPrice") or q.get("mark")
+            if px is None:
+                filas.append({"id": p["id"], "desc": p["descripcion"],
+                              "error": "sin precio"})
+                continue
+            px = float(px)
+            antes = previo.get(p["id"], {}).get("precio")
+            niveles = p.get("niveles_etiquetados", [])
+            for nv in niveles:
+                lv, sentido = float(nv["precio"]), nv.get("sentido", "abajo")
+                if antes is None:
+                    continue
+                af = float(antes)
+                if sentido == "abajo" and af >= lv > px:
+                    disparos.append(f"SPX rompio ${lv:.0f} a la BAJA: {nv['que']} "
+                                    f"— ahora {px:.2f}")
+                elif sentido == "arriba" and af <= lv < px:
+                    disparos.append(f"SPX alcanzo ${lv:.0f}: {nv['que']} "
+                                    f"— ahora {px:.2f}")
+            nuevo[p["id"]] = {"precio": px, "visto": datetime.now().isoformat()}
+            filas.append({"id": p["id"], "desc": p["descripcion"], "tipo": "indice",
+                          "precio": round(px, 2), "niveles": niveles})
+            continue
+
         # ---------------------------------------------------------- acciones
         if tipo == "accion":
             px = q.get("lastPrice") or q.get("mark")
@@ -233,7 +260,12 @@ def texto(r: dict) -> str:
             out.append(f"  {f['desc']}: {f['error']}")
             continue
         t = f.get("tipo")
-        if t == "accion":
+        if t == "indice":
+            out.append(
+                f"  {f['desc']}: {f['precio']:.2f}\n"
+                + "\n".join(f"      ${n['precio']:.0f} ({n['sentido']}) — {n['que']}"
+                            for n in f.get("niveles", [])))
+        elif t == "accion":
             out.append(
                 f"  {f['desc']}\n"
                 f"    costo ${f['costo']:.2f} -> ${f['precio']:.2f}  "
