@@ -53,6 +53,30 @@ def gann_sq9(pivote: float, precio: float, rango: float = 0.04,
     return sorted(vistos.values(), key=lambda x: x["nivel"])
 
 
+def evaluar_vix(vix_nivel: float | None = None,
+                backwardation: bool = False,
+                subiendo_spx_plano: bool = False) -> dict:
+    """Filtro de régimen del VIX para confirmar una entrada de venta de prima.
+
+    De la clase del VIX + Vanna: el VIX confirma o VETA según el régimen.
+      - backwardation (curva invertida) -> el régimen cambió: NO vender prima.
+      - VIX subiendo con SPX plano -> venta mecánica en camino: aviso serio.
+      - contango + VIX estable -> viento a favor del vendedor de prima.
+    Devuelve {"estado": favorable|precaucion|veta, "razon": ...}.
+    """
+    if backwardation:
+        return {"estado": "veta",
+                "razon": "curva en BACKWARDATION — el régimen cambió, no vender prima"}
+    if subiendo_spx_plano:
+        return {"estado": "veta",
+                "razon": "VIX subiendo con SPX plano — venta mecánica en camino"}
+    if vix_nivel is not None and vix_nivel < 12:
+        return {"estado": "precaucion",
+                "razon": f"VIX {vix_nivel:.1f} muy bajo (complacencia) — poco colchón, la vol solo puede subir"}
+    return {"estado": "favorable",
+            "razon": "contango / VIX estable — viento a favor del vendedor de prima"}
+
+
 @dataclass
 class Zona:
     centro: float
@@ -67,7 +91,8 @@ def mapa_confluencia(precio: float, gann: list[dict],
                      marketsnack: list[float] | None = None,
                      tolerancia: float = 5.0,
                      volumen_confirmado: bool = False,
-                     min_fuentes: int = 2) -> dict:
+                     min_fuentes: int = 2,
+                     vix: dict | None = None) -> dict:
     """Agrupa niveles de las 3 fuentes en zonas de confluencia.
 
     - `tolerancia`: pts para considerar que dos niveles son la misma zona.
@@ -100,15 +125,27 @@ def mapa_confluencia(precio: float, gann: list[dict],
             z.gann_cardinal = True
         z.centro = round(sum(z.niveles) / len(z.niveles), 2)  # centro = media
 
+    # filtro VIX (tercera luz). Si no se pasa, no se evalúa (no veta).
+    vix = vix or {"estado": "no_evaluado", "razon": "VIX no aportado"}
+    vix_veta = vix["estado"] == "veta"
+    vix_ok = vix["estado"] in ("favorable", "no_evaluado")
+
     # clasificar
     resultado = []
     for z in zonas:
         n = len(z.fuentes)
         if n < min_fuentes:
             continue
-        # apto para ENTRAR: confluencia suficiente Y volumen presente. Sin
-        # volumen, jamás. La regla no es negociable.
-        apto = (n >= min_fuentes) and volumen_confirmado
+        # Las TRES luces para ENTRAR: confluencia + volumen + VIX no en contra.
+        luz_conf = n >= min_fuentes
+        luz_vol = volumen_confirmado
+        luz_vix = not vix_veta
+        apto = luz_conf and luz_vol and luz_vix
+        faltan = []
+        if not luz_vol:
+            faltan.append("VOLUMEN")
+        if vix_veta:
+            faltan.append("VIX en contra")
         resultado.append({
             "zona": round(z.centro, 2),
             "distancia": round(z.centro - precio, 1),
@@ -116,11 +153,12 @@ def mapa_confluencia(precio: float, gann: list[dict],
             "n_fuentes": n,
             "gann_cardinal": z.gann_cardinal,
             "detalle": z.detalle,
+            "luces": {"confluencia": luz_conf, "volumen": luz_vol,
+                      "vix": vix_ok},
             "volumen": "PRESENTE" if volumen_confirmado else "AUSENTE",
-            "veredicto": ("ZONA DE ENTRADA (confluencia + volumen)" if apto
-                          else "SOLO VIGILAR — " +
-                          ("falta volumen" if not volumen_confirmado
-                           else "falta confluencia")),
+            "vix": vix["razon"],
+            "veredicto": ("ZONA DE ENTRADA (confluencia + volumen + VIX)" if apto
+                          else "SOLO VIGILAR — falta: " + ", ".join(faltan)),
         })
     # ordenar: más fuentes primero, Cardinal primero, más cerca primero
     resultado.sort(key=lambda r: (-r["n_fuentes"], not r["gann_cardinal"],
@@ -128,7 +166,10 @@ def mapa_confluencia(precio: float, gann: list[dict],
     return {
         "precio": precio,
         "volumen_confirmado": volumen_confirmado,
-        "regla": "SIN VOLUMEN NO HAY ENTRADA. La confluencia marca la zona; "
-                 "el volumen confirma que es real. Es regla de Tania, no opcional.",
+        "vix": vix,
+        "regla": "TRES LUCES PARA ENTRAR: (1) confluencia de las 3 lentes, "
+                 "(2) VOLUMEN presente, (3) VIX no en contra. Sin volumen NUNCA "
+                 "se entra; el VIX en backwardation o subiendo con SPX plano veta. "
+                 "Regla de Tania, no opcional.",
         "zonas": resultado,
     }
