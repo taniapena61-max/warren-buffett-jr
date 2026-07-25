@@ -55,21 +55,22 @@ def gann_sq9(pivote: float, precio: float, rango: float = 0.04,
 
 def mapa_en_vivo(symbol: str, pivote: float,
                  vs3d: list[float] | None = None,
-                 volumen_confirmado: bool = False,
                  vix_backwardation: bool = False,
                  vix_subiendo_spx_plano: bool = False,
-                 tolerancia: float = 5.0, fecha: str | None = None) -> dict:
-    """Confluencia en vivo: baja MarketSnack + Gann + VIX (Schwab) y cruza todo.
+                 tolerancia: float = 5.0, proximidad: float = 8.0) -> dict:
+    """Confluencia en vivo: baja MarketSnack + Gann + VIX + VOLUMEN (todo Schwab).
 
-    - MarketSnack: strikes de mayor premium (automático, se auto-renueva la cookie).
+    - MarketSnack: strikes de mayor premium (automático, cookie auto-renovada).
     - Gann: se calcula desde `pivote`.
     - VS3D: los aporta Tania (login-gated, sin API).
-    - VIX: nivel en vivo de Schwab + los flags de régimen que evalúa Tania.
-    El volumen sigue siendo obligatorio para marcar ENTRADA.
+    - VIX: nivel en vivo de Schwab + los flags de régimen.
+    - **Volumen: automático** (SPY como proxy del SPX). El volumen ya NO se le
+      deja a Tania: se mide con Schwab (regla del volumen sigue firme).
     """
     from wbj.config import load_settings
     from wbj.providers.marketsnack import MarketSnackProvider
     from wbj.providers.schwab import SchwabProvider
+    from wbj.volumen import volumen_estado
 
     s = load_settings()
     ms = MarketSnackProvider(s.marketsnack_cookie, cookie_path=s.marketsnack_cookie_path)
@@ -78,19 +79,25 @@ def mapa_en_vivo(symbol: str, pivote: float,
     sch = SchwabProvider(s.schwab_app_key, s.schwab_app_secret,
                          s.schwab_callback_url, s.schwab_token_path,
                          history_dir=s.history_dir)
+    disponible = getattr(sch, "available", False)
     sym = symbol if symbol.startswith("$") else "$" + symbol
-    q = sch.quote(sym) if getattr(sch, "available", False) else None
+    q = sch.quote(sym) if disponible else None
     precio = float(q["lastPrice"]) if q and q.get("lastPrice") else pivote
-    vix_q = sch.quote("$VIX") if getattr(sch, "available", False) else None
+    vix_q = sch.quote("$VIX") if disponible else None
     vix_nivel = float(vix_q["lastPrice"]) if vix_q and vix_q.get("lastPrice") else None
     vix = evaluar_vix(vix_nivel, vix_backwardation, vix_subiendo_spx_plano)
+
+    vol = volumen_estado(symbol, sch) if disponible else {"error": "Schwab no disponible"}
+    volumen_elevado = bool(vol.get("elevado"))
 
     gann = gann_sq9(pivote=pivote, precio=precio)
     r = mapa_confluencia(precio=precio, gann=gann, vs3d=vs3d,
                          marketsnack=ms_strikes, tolerancia=tolerancia,
-                         volumen_confirmado=volumen_confirmado, vix=vix)
+                         volumen_elevado=volumen_elevado, proximidad=proximidad,
+                         vix=vix)
     r["marketsnack_strikes"] = ms_strikes
     r["vix_nivel"] = vix_nivel
+    r["volumen"] = vol
     return r
 
 
@@ -131,7 +138,8 @@ def mapa_confluencia(precio: float, gann: list[dict],
                      vs3d: list[float] | None = None,
                      marketsnack: list[float] | None = None,
                      tolerancia: float = 5.0,
-                     volumen_confirmado: bool = False,
+                     volumen_elevado: bool = False,
+                     proximidad: float = 8.0,
                      min_fuentes: int = 2,
                      vix: dict | None = None) -> dict:
     """Agrupa niveles de las 3 fuentes en zonas de confluencia.
@@ -178,25 +186,31 @@ def mapa_confluencia(precio: float, gann: list[dict],
         if n < min_fuentes:
             continue
         # Las TRES luces para ENTRAR: confluencia + volumen + VIX no en contra.
+        # El volumen solo confirma una zona si el PRECIO la está probando (cerca)
+        # con volumen elevado — no vale volumen elevado en otro lado.
+        dist = z.centro - precio
+        probando = abs(dist) <= proximidad
         luz_conf = n >= min_fuentes
-        luz_vol = volumen_confirmado
+        luz_vol = volumen_elevado and probando
         luz_vix = not vix_veta
         apto = luz_conf and luz_vol and luz_vix
         faltan = []
         if not luz_vol:
-            faltan.append("VOLUMEN")
+            if not probando:
+                faltan.append("el precio aún no prueba esta zona")
+            elif not volumen_elevado:
+                faltan.append("VOLUMEN (no elevado)")
         if vix_veta:
             faltan.append("VIX en contra")
         resultado.append({
             "zona": round(z.centro, 2),
-            "distancia": round(z.centro - precio, 1),
+            "distancia": round(dist, 1),
             "fuentes": sorted(z.fuentes),
             "n_fuentes": n,
             "gann_cardinal": z.gann_cardinal,
             "detalle": z.detalle,
-            "luces": {"confluencia": luz_conf, "volumen": luz_vol,
-                      "vix": vix_ok},
-            "volumen": "PRESENTE" if volumen_confirmado else "AUSENTE",
+            "luces": {"confluencia": luz_conf, "volumen": luz_vol, "vix": vix_ok},
+            "probando": probando,
             "vix": vix["razon"],
             "veredicto": ("ZONA DE ENTRADA (confluencia + volumen + VIX)" if apto
                           else "SOLO VIGILAR — falta: " + ", ".join(faltan)),
@@ -206,11 +220,11 @@ def mapa_confluencia(precio: float, gann: list[dict],
                                   abs(r["distancia"])))
     return {
         "precio": precio,
-        "volumen_confirmado": volumen_confirmado,
+        "volumen_elevado": volumen_elevado,
         "vix": vix,
         "regla": "TRES LUCES PARA ENTRAR: (1) confluencia de las 3 lentes, "
-                 "(2) VOLUMEN presente, (3) VIX no en contra. Sin volumen NUNCA "
-                 "se entra; el VIX en backwardation o subiendo con SPX plano veta. "
-                 "Regla de Tania, no opcional.",
+                 "(2) VOLUMEN elevado con el precio PROBANDO la zona, (3) VIX no "
+                 "en contra. El volumen se mide con datos (Schwab/SPY), no a ojo; "
+                 "sin él NUNCA se entra. Regla de Tania.",
         "zonas": resultado,
     }
