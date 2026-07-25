@@ -23,22 +23,68 @@ _REFERER = "https://app.marketsnack.com/app/flow-feed"
 
 
 class MarketSnackProvider:
-    """Cliente de solo lectura del feed de MarketSnack vía cookie de sesión."""
+    """Cliente de solo lectura del feed de MarketSnack, con AUTO-RENOVACIÓN.
 
-    def __init__(self, cookie: str | None, client: httpx.Client | None = None,
+    MarketSnack renueva `_market_snack_session` en cada respuesta (Set-Cookie).
+    Este cliente captura esa cookie nueva y la guarda en `cookie_path`, así la
+    sesión se mantiene viva sola mientras se hagan peticiones — sin contraseña.
+
+    Orden de la cookie: el archivo vivo (`cookie_path`) manda; si no existe, se
+    siembra con la cookie inicial del .env.
+    """
+
+    def __init__(self, cookie: str | None, cookie_path: Path | None = None,
+                 client: httpx.Client | None = None,
                  flow_url: str = _FLOW_URL) -> None:
-        self._cookie = cookie
+        self._seed = cookie                 # cookie inicial del .env (semilla)
+        self.cookie_path = cookie_path      # archivo vivo (se auto-renueva)
         self.flow_url = flow_url
         self.client = client or httpx.Client(timeout=15.0)
 
     @property
     def configured(self) -> bool:
-        return bool(self._cookie)
+        return bool(self._current_cookie())
+
+    def _current_cookie(self) -> str | None:
+        """La cookie viva: del archivo si existe, si no la semilla del .env."""
+        if self.cookie_path and self.cookie_path.exists():
+            try:
+                txt = self.cookie_path.read_text(encoding="utf-8").strip()
+                if txt:
+                    return txt
+            except OSError:
+                pass
+        return self._seed
+
+    def _guardar_refresco(self, resp: httpx.Response) -> None:
+        """Si la respuesta trae una `_market_snack_session` nueva, la fusiona en
+        la cookie viva y la guarda. Así la sesión no caduca mientras se use."""
+        if not self.cookie_path:
+            return
+        nueva = None
+        getter = getattr(resp.headers, "get_list", None)
+        setcookies = getter("set-cookie") if getter else [resp.headers.get("set-cookie", "")]
+        for sc in setcookies:
+            if sc and sc.startswith("_market_snack_session="):
+                nueva = sc.split(";", 1)[0]  # '_market_snack_session=NUEVOVALOR'
+                break
+        if not nueva:
+            return
+        actual = self._current_cookie() or ""
+        import re
+        if "_market_snack_session=" in actual:
+            actual = re.sub(r"_market_snack_session=[^;]*", nueva, actual)
+        else:
+            actual = (actual + "; " + nueva).strip("; ")
+        try:
+            self.cookie_path.write_text(actual, encoding="utf-8")
+        except OSError:
+            pass
 
     def _headers(self) -> dict:
         # La cookie se usa solo aquí, en memoria; nunca se loguea.
         return {
-            "Cookie": self._cookie or "",
+            "Cookie": self._current_cookie() or "",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) warren-buffett-jr",
             "Accept": "application/json",
             "Referer": _REFERER,
@@ -52,7 +98,7 @@ class MarketSnackProvider:
         Replica los filtros de la URL de MarketSnack (formato filter[...][...]).
         `fecha` es un día YYYY-MM-DD (por defecto hoy).
         """
-        if not self._cookie:
+        if not self._current_cookie():
             return {"error": "falta MARKETSNACK_COOKIE en API/.env"}
         from datetime import date as _date
         dia = fecha or _date.today().isoformat()
@@ -76,9 +122,10 @@ class MarketSnackProvider:
         except httpx.HTTPError as e:
             return {"error": f"red: {type(e).__name__}"}
         if r.status_code in (401, 403):
-            return {"error": "cookie caducada — refréscala desde el navegador"}
+            return {"error": "cookie caducada — vuelve a entrar a MarketSnack y pégala"}
         if r.status_code != 200:
             return {"error": f"MarketSnack respondió {r.status_code}"}
+        self._guardar_refresco(r)  # auto-renovación: guarda la cookie nueva
         try:
             return {"data": r.json()}
         except ValueError:

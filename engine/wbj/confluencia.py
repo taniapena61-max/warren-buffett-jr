@@ -53,6 +53,47 @@ def gann_sq9(pivote: float, precio: float, rango: float = 0.04,
     return sorted(vistos.values(), key=lambda x: x["nivel"])
 
 
+def mapa_en_vivo(symbol: str, pivote: float,
+                 vs3d: list[float] | None = None,
+                 volumen_confirmado: bool = False,
+                 vix_backwardation: bool = False,
+                 vix_subiendo_spx_plano: bool = False,
+                 tolerancia: float = 5.0, fecha: str | None = None) -> dict:
+    """Confluencia en vivo: baja MarketSnack + Gann + VIX (Schwab) y cruza todo.
+
+    - MarketSnack: strikes de mayor premium (automático, se auto-renueva la cookie).
+    - Gann: se calcula desde `pivote`.
+    - VS3D: los aporta Tania (login-gated, sin API).
+    - VIX: nivel en vivo de Schwab + los flags de régimen que evalúa Tania.
+    El volumen sigue siendo obligatorio para marcar ENTRADA.
+    """
+    from wbj.config import load_settings
+    from wbj.providers.marketsnack import MarketSnackProvider
+    from wbj.providers.schwab import SchwabProvider
+
+    s = load_settings()
+    ms = MarketSnackProvider(s.marketsnack_cookie, cookie_path=s.marketsnack_cookie_path)
+    ms_strikes = ms.strikes_para_confluencia(symbol)
+
+    sch = SchwabProvider(s.schwab_app_key, s.schwab_app_secret,
+                         s.schwab_callback_url, s.schwab_token_path,
+                         history_dir=s.history_dir)
+    sym = symbol if symbol.startswith("$") else "$" + symbol
+    q = sch.quote(sym) if getattr(sch, "available", False) else None
+    precio = float(q["lastPrice"]) if q and q.get("lastPrice") else pivote
+    vix_q = sch.quote("$VIX") if getattr(sch, "available", False) else None
+    vix_nivel = float(vix_q["lastPrice"]) if vix_q and vix_q.get("lastPrice") else None
+    vix = evaluar_vix(vix_nivel, vix_backwardation, vix_subiendo_spx_plano)
+
+    gann = gann_sq9(pivote=pivote, precio=precio)
+    r = mapa_confluencia(precio=precio, gann=gann, vs3d=vs3d,
+                         marketsnack=ms_strikes, tolerancia=tolerancia,
+                         volumen_confirmado=volumen_confirmado, vix=vix)
+    r["marketsnack_strikes"] = ms_strikes
+    r["vix_nivel"] = vix_nivel
+    return r
+
+
 def evaluar_vix(vix_nivel: float | None = None,
                 backwardation: bool = False,
                 subiendo_spx_plano: bool = False) -> dict:

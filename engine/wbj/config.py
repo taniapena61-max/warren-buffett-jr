@@ -50,6 +50,11 @@ class Settings:
         """Gitignored daily history store (Schwab no guarda el pasado)."""
         return self.repo_root / "historial"
 
+    @property
+    def marketsnack_cookie_path(self) -> Path:
+        """Cookie viva de MarketSnack (se auto-renueva). Gitignored, bajo API/."""
+        return self.repo_root / "API" / "marketsnack_cookie.txt"
+
     def __repr__(self) -> str:
         """Custom repr that never includes secret keys."""
         return (

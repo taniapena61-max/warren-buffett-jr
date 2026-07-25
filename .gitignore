@@ -26,3 +26,6 @@ API/monitor_estado.json
 
 # Historial diario de mercado (personal, Schwab no lo guarda)
 historial/
+
+# Cookie viva de MarketSnack (se auto-renueva)
+API/marketsnack_cookie.txt
