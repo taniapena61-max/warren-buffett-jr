@@ -32,6 +32,7 @@ _BASE = "https://api.schwabapi.com"
 _AUTHORIZE = f"{_BASE}/v1/oauth/authorize"
 _TOKEN = f"{_BASE}/v1/oauth/token"
 _QUOTES = f"{_BASE}/marketdata/v1/quotes"
+_CHAINS = f"{_BASE}/marketdata/v1/chains"
 
 _ACCESS_TTL_GUARD = 60  # refresh this many seconds before nominal expiry.
 _REFRESH_TTL_DAYS = 7   # Schwab refresh tokens expire after ~7 days.
@@ -204,6 +205,36 @@ class SchwabProvider:
             except Exception:  # noqa: BLE001
                 pass
         return q
+
+    def chains(self, symbol: str, *, contract_type: str = "ALL",
+               from_date: str | None = None, to_date: str | None = None,
+               strike_count: int = 50) -> dict | None:
+        """Cadena de opciones (read-only) para calcular GEX / niveles del dealer.
+
+        Sigue siendo solo datos de mercado — no toca órdenes ni posiciones. Fechas
+        en 'YYYY-MM-DD'; para 0DTE usar hoy en `from_date` y `to_date`.
+        """
+        token = self._valid_access_token()
+        if not token:
+            return None
+        params: dict[str, Any] = {"symbol": symbol.upper(),
+                                  "contractType": contract_type,
+                                  "strikeCount": strike_count}
+        if from_date:
+            params["fromDate"] = from_date
+        if to_date:
+            params["toDate"] = to_date
+        try:
+            r = self.client.get(_CHAINS, params=params,
+                                headers={"Authorization": f"Bearer {token}"})
+        except httpx.HTTPError:
+            return None
+        if r.status_code != 200:
+            return None
+        try:
+            return r.json()
+        except ValueError:
+            return None
 
     def last_price(self, symbol: str) -> float | None:
         """Latest real-time price for `symbol`, or None."""

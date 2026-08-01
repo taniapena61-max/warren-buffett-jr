@@ -74,7 +74,9 @@ def mapa_en_vivo(symbol: str, pivote: float,
 
     s = load_settings()
     ms = MarketSnackProvider(s.marketsnack_cookie, cookie_path=s.marketsnack_cookie_path)
-    ms_strikes = ms.strikes_para_confluencia(symbol)
+    # MarketSnack filtra por símbolo SIN el '$' (Schwab sí lo usa). Sin esto el
+    # feed devuelve vacío y la 3ª lente queda muda. (bug encontrado 2026-07-27)
+    ms_strikes = ms.strikes_para_confluencia(symbol.lstrip("$"))
 
     sch = SchwabProvider(s.schwab_app_key, s.schwab_app_secret,
                          s.schwab_callback_url, s.schwab_token_path,

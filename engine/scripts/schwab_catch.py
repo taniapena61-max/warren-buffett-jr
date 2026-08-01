@@ -22,6 +22,7 @@ import ssl
 import sys
 import tempfile
 import threading
+import time
 import webbrowser
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
@@ -97,6 +98,19 @@ def _make_handler(schwab: SchwabProvider):
 
 
 def main() -> int:
+    # --escuchar: modo pasivo — NO abre el navegador y espera a que el usuario
+    # haga clic en el enlace que le llega por email. --timeout N: cierra la
+    # escucha tras N segundos si nadie autoriza (ventana del email del vigilante).
+    escuchar = "--escuchar" in sys.argv
+    timeout_s = 0
+    if "--timeout" in sys.argv:
+        i = sys.argv.index("--timeout")
+        if i + 1 < len(sys.argv):
+            try:
+                timeout_s = int(sys.argv[i + 1])
+            except ValueError:
+                timeout_s = 0
+
     s = load_settings()
     if not (s.schwab_app_key and s.schwab_app_secret):
         print("Faltan SCHWAB_APP_KEY / SCHWAB_APP_SECRET en API/.env.")
@@ -125,14 +139,27 @@ def main() -> int:
     httpd.socket = ctx.wrap_socket(httpd.socket, server_side=True)
 
     url = schwab.authorize_url()
-    print("Abriendo el navegador para el login de Schwab…")
-    print("Si no se abre solo, abre esta URL manualmente:\n" + url)
-    print("\nTras autorizar, el navegador mostrará un AVISO DE SEGURIDAD en")
-    print("127.0.0.1: haz clic en 'Avanzado' -> 'Continuar a 127.0.0.1'.")
-    print("Esperando la redirección de Schwab…\n")
-    webbrowser.open(url)
+    if escuchar:
+        # Modo email: el usuario clicará el enlace desde su correo. Solo
+        # escuchamos; opcionalmente cerramos la ventana tras timeout_s.
+        if timeout_s > 0:
+            def _deadline() -> None:
+                time.sleep(timeout_s)
+                if "status" not in _RESULT:
+                    threading.Thread(target=httpd.shutdown, daemon=True).start()
+            threading.Thread(target=_deadline, daemon=True).start()
+        print(f"Escuchando en {host}:{port} la redirección de Schwab "
+              f"(ventana {timeout_s or '∞'} s). No abro navegador: "
+              "el usuario clicará el enlace del email.")
+    else:
+        print("Abriendo el navegador para el login de Schwab…")
+        print("Si no se abre solo, abre esta URL manualmente:\n" + url)
+        print("\nTras autorizar, el navegador mostrará un AVISO DE SEGURIDAD en")
+        print("127.0.0.1: haz clic en 'Avanzado' -> 'Continuar a 127.0.0.1'.")
+        print("Esperando la redirección de Schwab…\n")
+        webbrowser.open(url)
 
-    httpd.serve_forever()  # sale cuando el handler llama shutdown()
+    httpd.serve_forever()  # sale cuando el handler llama shutdown() o vence el timeout
     status = _RESULT.get("status")
     if status == "ok":
         print("EXITO: Schwab autorizado. Tokens guardados. available =", schwab.available)

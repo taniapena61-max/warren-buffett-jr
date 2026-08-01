@@ -26,6 +26,11 @@ class Settings:
     schwab_app_key: str | None = None
     schwab_app_secret: str | None = None
     schwab_callback_url: str = "https://127.0.0.1"
+    # TradeStation (read-only market data + posiciones, OAuth 2.0). Refresh token
+    # de larga vida (no caduca a los 7 días como Schwab).
+    tradestation_client_id: str | None = None
+    tradestation_client_secret: str | None = None
+    tradestation_callback_url: str = "http://localhost:3000"
     # Gmail IMAP (solo lectura) — para leer alertas de MarketSnack.
     gmail_address: str | None = None
     gmail_app_password: str | None = None
@@ -44,6 +49,11 @@ class Settings:
     def schwab_token_path(self) -> Path:
         """Gitignored token store for Schwab OAuth tokens (under API/)."""
         return self.repo_root / "API" / "schwab_tokens.json"
+
+    @property
+    def tradestation_token_path(self) -> Path:
+        """Gitignored token store for TradeStation OAuth tokens (under API/)."""
+        return self.repo_root / "API" / "tradestation_tokens.json"
 
     @property
     def history_dir(self) -> Path:
@@ -100,6 +110,11 @@ def load_settings(env_file: Path | None = None) -> Settings:
     schwab_app_key = env_vars.get("SCHWAB_APP_KEY") or None
     schwab_app_secret = env_vars.get("SCHWAB_APP_SECRET") or None
     schwab_callback_url = env_vars.get("SCHWAB_CALLBACK_URL") or "https://127.0.0.1"
+    tradestation_client_id = env_vars.get("TRADESTATION_CLIENT_ID") or None
+    tradestation_client_secret = env_vars.get("TRADESTATION_CLIENT_SECRET") or None
+    tradestation_callback_url = (
+        env_vars.get("TRADESTATION_CALLBACK_URL") or "http://localhost:3000"
+    )
     gmail_address = env_vars.get("GMAIL_ADDRESS") or env_vars.get("EMAIL_TO") or None
     gmail_app_password = env_vars.get("GMAIL_APP_PASSWORD") or None
     marketsnack_sender = env_vars.get("MARKETSNACK_SENDER") or None
@@ -113,6 +128,9 @@ def load_settings(env_file: Path | None = None) -> Settings:
         schwab_app_key=schwab_app_key,
         schwab_app_secret=schwab_app_secret,
         schwab_callback_url=schwab_callback_url,
+        tradestation_client_id=tradestation_client_id,
+        tradestation_client_secret=tradestation_client_secret,
+        tradestation_callback_url=tradestation_callback_url,
         gmail_address=gmail_address,
         gmail_app_password=gmail_app_password,
         marketsnack_sender=marketsnack_sender,

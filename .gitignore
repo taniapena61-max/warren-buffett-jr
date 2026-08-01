@@ -29,3 +29,11 @@ historial/
 
 # Cookie viva de MarketSnack (se auto-renueva)
 API/marketsnack_cookie.txt
+
+# Audio/video de clases (regenerable, pesado) — nunca versionar
+*.m4a
+*.mp4
+*.webm
+Escuela/Materiales/Pendiente de transcribir/
+# Respaldos personales
+_mis-adiciones-respaldo/
