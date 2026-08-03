@@ -1,0 +1,3335 @@
+Transcripción de: MarketSnack_Workshop_LIVE.m4a
+Modelo: small  |  Idioma: en  |  Duración: 7786s
+------------------------------------------------------------
+
+[04:20] Hello
+[04:29] Hello
+[04:32] I don't know if you can hear me
+[04:37] We are going to do it in Spanish this life
+[04:56] Perfect
+[05:18] Greetings to all
+[05:20] But they are fine today we are going to do a workshop
+[05:24] So that you can understand how the application of Marquesenac works
+[05:30] Basically we divided this into an agenda that we are going to be giving to all of you
+[05:37] You can see it
+[05:39] We are going to be working on an agenda today so that you can see it calmly
+[05:44] And add that we also have a person who is going to be with us in this
+[05:51] Tutorial or walkthrough basically what we are going to be talking a little bit today are
+[05:56] Basic options we are going to be talking a little bit about how to understand options
+[06:00] After a little bit of walkthrough on the platform
+[06:04] We are going to be talking about the flow feed
+[06:06] Washlist and then finally we are going to be doing a Q&A
+[06:09] Okay, and for that I am going to introduce Kevin who is with us. He is an expert in
+[06:16] Platforms of flows and also an expert in trading so that he is going to be with us
+[06:23] During these minutes where he is going to be talking a little bit about how to understand the options and also
+[06:27] He is going to be talking a little bit about how he can get straights within the platform
+[06:32] Of Marquesenac, okay, so if I'm going to be there, Kevin, how are you?
+[06:39] Thank you for bringing me today
+[06:42] So basically what you are going to be teaching us a little bit about how the options work
+[06:46] So we are going to be giving a little bit of a tour of how the options work
+[06:51] and from there we are going to be giving a tour of the application
+[06:56] So without further ado, I'm going to let Kevin then so that he can communicate and I'm going to be here too with you
+[07:03] True but he is not going to be giving a little more of how this market works, how they can reach the success within the options
+[07:10] So Kevin, let me introduce you to the presentation
+[07:15] Hello, my name is Kevin and I am going to explain to you a basic concept of what the options are
+[07:20] And how to use the flow platforms, especially Marquesenac
+[07:26] I want to start by explaining that it is an option, an option is a contract
+[07:30] And this contract gives you the right but it is not an obligation to buy or sell an action at a specific price
+[07:36] Before a day
+[07:39] An option has two sides, the buyer and the seller, the buyer pays the first
+[07:44] Has the right and has a limited risk
+[07:47] The seller takes the first
+[07:50] Has the obligation but has a more limited risk
+[07:56] As I was saying, rights are not obligations
+[07:59] A buyer, you have the right, you can say if you exercise or leave the spiral option
+[08:07] And your maximum loss is the first thing you pay
+[08:12] It is important that you know that a contract or options are 100 actions
+[08:18] And you are buying a fraction of the price
+[08:20] And also that you are going to say that there are also many people when we talk about the options, they do not understand this
+[08:27] That the options are a lever, right?
+[08:29] So usually when you talk with options
+[08:32] It is because you want to receive some kind of launch, right?
+[08:35] So basically the option leaves you to control an asset
+[08:40] At a much lower price
+[08:42] So basically as if you were controlling 100 actions
+[08:45] Of Apple or the company that you want, at a lower price
+[08:48] But it is very important to also talk about the same options that not only exist in the premium
+[08:53] But there is also the Notional Value
+[08:55] What does this mean?
+[08:56] Every option that is going to be exercised in the money
+[08:59] It also has what is known as the Notional Value
+[09:02] And that Notional Value
+[09:04] Sometimes it is very important or very important when
+[09:07] The right is exercised in an option, remember that the options are to balance all the time
+[09:13] But it gives you the right of a lot of
+[09:16] The Notional Value, right?
+[09:17] For example, it has happened and Kevin himself knows that I think the other day we were talking about this
+[09:21] That they were saying that Michael Berry
+[09:24] He was cheating a billion dollars in a company and he really wasn't cheating a billion dollars
+[09:29] He was doing a short selling with exposure to a Notional Value
+[09:34] Of a billion dollars
+[09:36] But he didn't have a billion dollars in options
+[09:38] Okay, that's very important
+[09:40] Because there are a lot of people who still don't understand it
+[09:42] And then when we are in the application, we are going to explain a little more about how it works
+[09:47] Yes, very well, what Victor was explaining about Palanque Artset
+[09:51] I put it here, which is the leverage
+[09:52] We have the RIS Management and the Income Generation
+[09:54] These are the three important parts of why the options are used
+[09:57] Because a lot of people can be asked, but if the actions are safer, why am I going to use an option
+[10:03] Like very well Victor Lijo, I can, let's suppose Apple
+[10:07] It's around 250
+[10:09] And I want to buy an Apple contract for 260 calls
+[10:12] That we are going to now, which is a call, which is a put
+[10:14] But maybe that contract costs me $5
+[10:18] $5 for each action, it's 100, it multiplies 100 times, it costs me 500
+[10:22] But buying 100 actions from Apple for 250, it's going to cost me a lot more
+[10:26] That's only 500, and for 500 dollars I can control a contract that is 100 actions
+[10:33] That's correct
+[10:35] We have the two sides of the coin, here we are going to enter a little bit of what the options are
+[10:39] And we have the call and the put
+[10:41] The call is the famous long and the put is the famous short in Spanish
+[10:44] So when you buy a call, you think the action goes up, it's a long
+[10:48] When you buy a put, you think the action goes down, it's basically a short
+[10:59] No, what you are saying is that it is very important that people understand that it is a
+[11:02] Launching in two types of sides in the market, which is what is then the long side
+[11:07] That usually people want to buy the long or have the exposition also the short
+[11:11] So basically you choose what exposition you want to enter an option, right, when you buy it
+[11:18] Yes, that's why I also put two colors to help me, the long, the call, which is for the top
+[11:23] And the red, the put, which is for the bottom
+[11:26] Here we have the terms that can define an option, and we have the underline asset
+[11:35] An option has always been an underline asset, which in this case is, let's use the example of Apple
+[11:40] And the option is going to move according to how Apple moves
+[11:45] So if I buy an option in $1 and Apple is at $50 and the option is for $2.60
+[11:49] If Apple goes up $1, that option value will go up according to the delta and it will go up in the value of the call
+[11:56] If I buy a put and the action goes up in value, the put will decrease in value because it is the opposite
+[12:01] As I was explaining now, the call is for the top, the put is for the bottom
+[12:05] To choose a contract, the strike price is very important
+[12:09] Let's go back, if it's $2.50, I can choose a strike price of $2.60
+[12:13] Let's go to OutDimoning, which we are also going to explain what it is
+[12:18] That is the price that you get in an agreement with the person who sells the contract
+[12:22] I am the buyer, I get an agreement, I go to $2.60, if the action reaches $2.60, I can exercise my rights
+[12:29] And there are the DTEs, which are the days of inspiration, which is something very important
+[12:33] That right now the DTEs are the most famous, they are the mensuals
+[12:36] All the third months of each month, the mensual DTEs are inspired
+[12:40] For example, right now the next February 20th, March 20th, April 17th, May 15th, all of those are mensual DTEs
+[12:49] And that's when the action contracts are inspired
+[12:54] It is very important, and we are going to talk about it here, that when we talk about the options
+[13:00] The options have several instruments or several functions that are very important
+[13:05] And when we are talking about the options, we usually refer to this payment
+[13:11] That we seek to have more exposure to the financial markets
+[13:18] For the financial markets, basically when we want to buy an action
+[13:23] And usually we refer to an action like Apple, an action like Nvidia, that is an underlying asset
+[13:29] It means that the underlying is what we are going to see the option
+[13:33] Not necessarily, the option is an asset
+[13:35] Although if it is considered an asset, it is an asset attached to a financial instrument
+[13:40] In this case, Apple is what we want to verify and what we are going to buy
+[13:45] Because the options have become so famous, or because the options have become so fundamental in the growth of the assets
+[13:53] Because nowadays it is brought up much more options in terms of volume than the same actions
+[13:59] Or the growth of the options has been so, so, so, so big that subsequently we have had an impact
+[14:07] In the action movement due to what is being exchanged in the market of options
+[14:12] That is basically, if the company today moved 2 billion dollars and we have over 300 billion dollars in expiration
+[14:20] In options, basically to where that money is going
+[14:23] And here it is very important that when we are talking about the basic fundamentals of the options
+[14:28] We have to understand that you can sell different prices, basically
+[14:32] I can bring an Apple at a future price
+[14:37] So I can say, look, my opinion is that Apple, if it is 200 dollars today, Apple can be at 240 dollars tomorrow
+[14:44] Well, for that there is an option that allows me to say, okay, I'm not going to buy Apple at 200
+[14:49] I'm going to sell the price at 240 to a relatively low premium
+[14:54] Because the probability that Apple will reach 240 dollars from one day to another is very low
+[14:59] Because obviously the action would have to move almost 30% of the performance in one day
+[15:03] Which usually companies do not move in that way from one day to another
+[15:08] And the DTE basically is how many days you have left for you to make money in an option
+[15:15] So I can say, look, I have Apple, I think Apple will go up to 240 and within 240 I have different expiration dates
+[15:23] And these expiration dates will help me to determine when I think Apple can reach 240
+[15:30] So imagine that the market of the options is not a literal market of auctioneers like the one of the actions
+[15:37] But if it tells you where or less the auction is going
+[15:41] If people think that the auction thinks that this company is supposed to be at a high price
+[15:46] Or if the company at the price it is at a stable price
+[15:50] That's why many times when we bring the options
+[15:53] People tend to say, okay, where can we see the future price of this company based on the volume
+[16:02] That is bringing an option to this date
+[16:05] Because we know that that volume is going to have an impact on the underlying asset
+[16:11] Right? In this case, we are talking about Apple, Tesla or the company we are investigating
+[16:18] Yes
+[16:19] Now let's explain what the first one is
+[16:22] The first one, this part is very important and it is that the first one is a set of the intrinsic value and the extrinsic value
+[16:29] What is this?
+[16:30] The first one is the price that you can buy when you buy a contract
+[16:34] Remember, a contract is 100 shares
+[16:37] So if I buy
+[16:39] If I buy 240 for Apple and it's at 5.50 the first one
+[16:43] This doesn't mean that I'm going to like 5.50 for the contract
+[16:46] The contract is going to cost me 5.50 for 100 shares
+[16:50] That's going to cost me 550
+[16:52] This is your maximum loss as a buyer of the contract
+[16:55] Remember that there is a seller and a buyer
+[16:57] This is something confusing that new people in the space of options always have
+[17:05] 5.50 is the price that you are going to get in the option chain
+[17:09] You have to multiply it by 100 and this is the price that you are going to pay
+[17:12] 5.50 for 100 contracts
+[17:15] Let's talk about the first one, it's very important to also talk about
+[17:19] What do you think the market of options is like a safe market?
+[17:23] In a safe market
+[17:26] For example, if I want to make sure my property is against fire
+[17:30] I'm going to pay a premium
+[17:31] Usually the insurance company is going to tell you
+[17:35] Okay, this is the premium that you are going to pay for this product
+[17:38] That's basically if your house is worth 200,000 dollars
+[17:41] And you say look, the insurance is against fire
+[17:43] You are going to pay a premium of 300 dollars
+[17:46] But those 300 dollars have an exposition of 200,000 dollars
+[17:50] Because if an fire occurs in your house and you end up losing it
+[17:55] Those 300 dollars or 500 dollars give you an exposition
+[17:59] To keep an asset that is worth 200,000 dollars
+[18:02] That's basically in the options
+[18:04] This allows you to have control of an asset that is much more valuable
+[18:09] For a quarter of the price
+[18:11] That eventually you can flip it
+[18:13] Or eventually you can sell it at a much more expensive price
+[18:18] Yes, a lot of people ask you where the word premium comes from
+[18:21] And that's the insurance itself
+[18:23] Because insurance is used for premiums
+[18:26] I pay 1,000 dollars to secure a 100,000 dollar house
+[18:29] Something happens to my house and
+[18:31] Well, those 1,000 dollars of premiums make it active
+[18:34] That insurance is 100,000 dollars
+[18:35] That's where the premium comes from
+[18:37] It's a insurance, if I buy a 100,000 dollar house
+[18:39] I buy 1,000 shares of Apple up top
+[18:41] I want to have 1,000 dollars
+[18:43] I pay 1,000 dollars in a put
+[18:45] That put was 1,000 dollars and I invested 100,000 dollars up top
+[18:49] And that's going to protect me
+[18:50] That's a hedge
+[18:51] It's a insurance against what happens in the action
+[18:56] And here comes Mark Snack
+[18:57] Mark Snack comes and says, okay, look
+[19:00] There are a lot of people buying insurance
+[19:02] But there are some particular insurance that can cause certain movements in a company
+[19:06] And here is that then experts like Kevin
+[19:10] And like many people we know in the company
+[19:13] They say, okay, if someone is going to pay a premium of 20 million dollars
+[19:18] Less than 7 days
+[19:20] With these conditions
+[19:22] It can happen a movement
+[19:24] And eventually it happens a movement
+[19:25] We can see it with the gold
+[19:27] A while ago Kevin was analyzing the gold
+[19:31] He was also analyzing the silver
+[19:35] That's why it's very important that when we see certain patterns
+[19:42] In buying insurance, they will indicate that the asset can move at x price
+[19:47] That's why I was telling you right now
+[19:48] The gold
+[19:49] And for the people in the community
+[19:51] The gold for January 30th
+[19:54] Has an exposition of more than 5 billion dollars in Indemone contract
+[19:57] In Notional Value
+[19:59] That means that it is actively active
+[20:02] On Monday
+[20:02] In pre-market
+[20:03] The gold can shoot because there is a lot of money
+[20:06] That is going to go into the asset
+[20:09] That's why there are some scenarios that we are looking for
+[20:13] In this purchase of insurance in the options markets
+[20:17] Where it determines
+[20:19] It determines for us
+[20:20] Look
+[20:21] Something is happening here
+[20:23] This can be
+[20:24] That there is a movement
+[20:25] Imagine in Puerto Rico
+[20:27] Or you are in the United States
+[20:29] And a week ago
+[20:31] The people began to buy the insurance
+[20:33] Of
+[20:36] For example, in the United States
+[20:37] There is still a wave of colds
+[20:39] We are going to tell them that they were buying
+[20:43] A lot of natural gas
+[20:44] Or etc
+[20:45] Well, you can buy a insurance
+[20:47] Because if something explodes in your house
+[20:48] Because of the cold that is happening
+[20:50] Well, you can buy a insurance
+[20:52] That means that if you see a lot of people buying a insurance
+[20:55] It means that a movement is waiting
+[20:57] Or is waiting for an event
+[20:59] That you are not counting
+[21:00] And that's what we are experts in
+[21:03] To tell you
+[21:04] Where is a movement happening
+[21:07] Some kind of financial instrument
+[21:09] So that you can capture it
+[21:11] And that's what's going to give you
+[21:13] To understand where these big institutions are moving
+[21:17] Through the premium
+[21:19] To be able to identify opportunities
+[21:20] In the secondary markets
+[21:24] Exactly
+[21:25] Yes, it is also clear that
+[21:27] We can see how the first one is going up
+[21:28] Because if everyone buys
+[21:30] The same insurance for the first one is going to increase
+[21:32] And those are things that we have to deal with
+[21:34] With MarketSnap
+[21:37] Here what you are explaining
+[21:38] Of the contract size
+[21:39] A contract is 100 actions
+[21:44] And here I repeat again
+[21:46] 250 in an option
+[21:49] It's not that it costs 250
+[21:50] That it costs 250
+[21:51] You have to multiply it by 100
+[21:53] That's the basic mistake
+[21:55] That if you see it all in a hurry
+[21:58] You can make that mistake
+[21:59] But let's do it again
+[22:00] 250% are $250
+[22:04] Okay, let's go to the monies
+[22:06] This part is very important to understand
+[22:09] Because here we are going to see the intrinsic and extrinsic value
+[22:12] The most famous
+[22:15] Are the out of the money
+[22:17] Why? Because the out of the money is pure hope
+[22:20] Now, if I see Tesla
+[22:23] An action that is going to be a lot like Nvidia
+[22:25] And I see someone who is buying the 700 col
+[22:28] And now Tesla is at 400 and Pico 450
+[22:32] And I see someone who is buying 700 col for two weeks
+[22:35] That's a contract that is very hard of the money
+[22:38] Because if it's at 450
+[22:41] It's 250
+[22:42] Of the far, that strike price
+[22:44] So this contract, if it has some kind of value
+[22:46] That the value is going to be minimal
+[22:48] And it doesn't have enough time
+[22:50] Because it's extrinsic value
+[22:52] Because it's a value that requires a huge amount of time
+[22:57] And it's just an expectation
+[22:59] It doesn't have a lot of value
+[23:01] We have the Adimony
+[23:04] That Apple is at 250
+[23:08] And I buy a contract at 250
+[23:10] That's a contract that doesn't have intrinsic value
+[23:13] It's also extrinsic value
+[23:15] But it's a value that doesn't have much time to enter
+[23:17] And it has a national value
+[23:19] This is a 50-50
+[23:21] We can call it the Adimony
+[23:23] And this is the Indemony
+[23:25] That are more expensive contracts
+[23:27] Because this is usually
+[23:29] If Apple is at 250
+[23:31] I can buy a contract at 240
+[23:33] And I'm already $10 Indemony
+[23:35] It's going to be more expensive
+[23:37] Because it's safer, it has a higher delta
+[23:39] Basically
+[23:41] It's a value that has intrinsic value
+[23:43] The only of the three
+[23:46] In other words
+[23:48] What you mean by this
+[23:50] Is the probability of money
+[23:52] Or the percentage of money
+[23:54] That has an option between the value of time
+[23:56] And the real value
+[23:58] Let me explain
+[24:00] An option
+[24:02] When you have real value
+[24:04] It means that the product that you have
+[24:06] Basically you have a better price
+[24:08] It's like for example
+[24:10] If you bought a phone
+[24:12] Or basically you bought an iPhone
+[24:15] And you bought it at $1,000
+[24:17] And now the iPhone is at $1,500
+[24:21] Basically there are $500 already
+[24:23] That you have real value
+[24:25] Or basically appreciation
+[24:27] Okay
+[24:29] Usually the financial endings are a little complex
+[24:31] But what I want to let you know
+[24:33] Is that there is a level of appreciation
+[24:35] Basically here you are saying
+[24:37] Indemony contracts have
+[24:39] Activity appreciation
+[24:41] Basically it has real value
+[24:43] So it means that if you contract
+[24:45] You get to aspire
+[24:47] You are going to aspire
+[24:49] And you are not going to lose your money
+[24:51] But there is going to be a quantity
+[24:53] That is going to be tied to your contract
+[24:55] Due to the price that you paid for it
+[24:57] And the asset is at a higher price
+[24:59] The out-of-demonish contracts
+[25:01] Usually are the most speculative
+[25:03] And they are the most economical
+[25:05] When we see them
+[25:07] And let's say we are going to give them the tour
+[25:09] Where you are going to be able to see
+[25:12] That the out-of-demonish contracts are usually
+[25:14] The contracts that are most bought and sold
+[25:16] Because they are contracts that are worth $1
+[25:18] $2 or $3
+[25:20] Basically that with $200
+[25:22] You have an exposition at $100,000
+[25:24] And you can do
+[25:26] A 200% performance
+[25:28] A 6,000% performance
+[25:30] Versus the other option
+[25:32] Indemony, you can do a $30, $40, $80
+[25:34] It is still an incredible performance
+[25:36] But it is less attractive
+[25:38] Because the cost is much more
+[25:40] High
+[25:42] And the options
+[25:44] Many people use it to speculate
+[25:46] But what we want you to be able to learn
+[25:48] Today is to distinguish between
+[25:50] What is an institutional investor
+[25:52] Because the movement of the options
+[25:54] Or the full market
+[25:56] The 80% is attributed
+[25:58] To the financial institutions
+[26:00] And the 20%
+[26:02] Is attributed to
+[26:04] What are the minority investors
+[26:06] That we are
+[26:09] Basically
+[26:11] That the 80% of the movements of the financial markets
+[26:13] Come through large institutions or banks
+[26:15] And we want to learn to filter
+[26:17] What are the movements of banks
+[26:19] And what are the movements
+[26:21] Of minority investors
+[26:23] Because if we start to understand
+[26:25] Who controls the financial markets
+[26:27] We are going to have a better understanding
+[26:29] To know where it is going to be moving
+[26:31] A particular instrument
+[26:33] So
+[26:35] When we talk about
+[26:37] Indemony, Addemony and Out of Demony
+[26:39] It is inside
+[26:41] Of the diagnosis that we make
+[26:43] It is a fundamental
+[26:45] Or important piece
+[26:47] Why?
+[26:49] Because you let yourself know
+[26:51] Who is not in the institution
+[26:53] Where is the minority
+[26:55] And in the end
+[26:57] Majorly
+[26:59] The minorities are buying
+[27:01] Contracts out of the money
+[27:03] Because they are looking for
+[27:05] The money in the financial markets
+[27:07] Remember
+[27:09] Something very important
+[27:11] You want to know
+[27:13] How much you are going to pay for an asset
+[27:15] Every time it moves
+[27:17] So basically
+[27:19] The asset
+[27:21] Is going to be a lot
+[27:23] To how many shares you buy
+[27:25] So if I buy an Apple
+[27:27] And Apple moves from $240
+[27:29] To $241
+[27:31] I won $1
+[27:33] So basically
+[27:35] The delta of an asset
+[27:37] Is $1
+[27:39] So for every share I buy
+[27:41] I will pay $1
+[27:43] So if I buy two shares
+[27:45] I will buy $2
+[27:47] If I buy three shares
+[27:49] I will earn $3
+[27:51] In the options
+[27:53] You cannot buy one share
+[27:55] One option is tied to 100 shares
+[27:57] So basically
+[27:59] In one option
+[28:01] There are different ranges
+[28:03] Of delta prices
+[28:05] We have delta of $1
+[28:07] And we have delta of $0.10
+[28:09] Of $0.20
+[28:11] And of $0.30
+[28:13] All contracts
+[28:15] That pay
+[28:17] Less than $0.50
+[28:19] For each share
+[28:21] Are contracts that are
+[28:23] Out of the money
+[28:25] That means
+[28:27] That if I buy a contract
+[28:29] Or less
+[28:31] If I buy a contract
+[28:33] And I will pay $50
+[28:35] Or more
+[28:37] So the more I pay
+[28:39] The more the dollar
+[28:41] That is interchanging the company
+[28:43] That means that the movement
+[28:45] Of my option
+[28:47] Is being
+[28:49] This is not a word
+[28:51] So sorry
+[28:53] My translation
+[28:55] Not translation
+[28:57] This is not a word
+[28:59] I just pay
+[29:01] To another share
+[29:03] I will buy an option
+[29:05] That has a delta of $1
+[29:07] And I will buy an action
+[29:09] That has a delta of $1
+[29:11] Because I will involve
+[29:13] The risk factor of time
+[29:15] When I can go directly
+[29:17] To buy the asset
+[29:19] That's why usually
+[29:21] When you buy contracts
+[29:23] In the money
+[29:26] If you want
+[29:28] I want to play again with that
+[29:30] Green
+[29:32] This has the colors there on purpose
+[29:34] Red is that the delta
+[29:36] As you can see
+[29:38] Is usually less than $0.50
+[29:40] Yellow is that
+[29:42] Is in the same half and green is that
+[29:44] More than $0.50
+[29:46] What happens?
+[29:48] The contracts with a bigger delta
+[29:50] Are in the money
+[29:52] More than $0.50 are more expensive
+[29:54] More than $0.50
+[29:56] What happens?
+[29:58] If I have a delta of $30
+[30:00] I have a 30% probability that
+[30:02] That will generate money
+[30:04] If I have a version of $70
+[30:06] Or $80
+[30:08] I have an 80% probability that
+[30:10] That will generate money
+[30:12] Because I already have an intrinsic value
+[30:14] I already have a notional value
+[30:16] Let's go back
+[30:18] This is the only one that has an intrinsic value
+[30:20] These two nodes
+[30:22] And here we go to the famous words
+[30:26] Intrinsic versus extrinsic
+[30:28] The intrinsic value
+[30:32] Is the real value of the option
+[30:34] As you can see
+[30:36] If I buy an iPhone at $1,000
+[30:38] And then it's $1,500
+[30:40] Those $500 is the intrinsic value
+[30:42] That I have
+[30:44] Here we can see that the value
+[30:46] Of the call
+[30:48] Of the long
+[30:50] Is how much is on the strike price
+[30:52] If I have $2.50
+[30:54] And my strike price is $2.40
+[30:56] I have $10 of intrinsic value
+[30:58] $10 was on the strike price
+[31:00] And versus put, on the other hand
+[31:02] If I have a put of $2.50
+[31:04] And the action is $2.40
+[31:06] I have $10
+[31:08] On the strike price
+[31:10] So I have $10 of intrinsic value
+[31:12] Let's go back
+[31:14] The options in the money
+[31:16] Are the only ones that have intrinsic value
+[31:18] Addimony and Audimony
+[31:20] Have extrinsic value
+[31:22] Extrinsic value
+[31:24] Is the value of time
+[31:26] That's why Audimony and Audimony
+[31:28] Are the ones that have this
+[31:30] Because usually the person who buys this
+[31:32] Is speculating and trading the time
+[31:34] The person is going to think
+[31:36] That from here it has given time
+[31:38] The action will go up or down
+[31:40] According to what you buy
+[31:42] If you buy a call or a put
+[31:44] And here we are going to start talking
+[31:46] About the other Greek
+[31:48] That is theta
+[31:50] As far as this is concerned
+[31:52] Theta affects you more
+[31:54] So basically if you buy a contract of $5
+[31:56] And it is Audimony
+[31:58] You are paying $5
+[32:00] For the time
+[32:02] That means that you are paying
+[32:04] $500
+[32:06] Because the time of you
+[32:08] Is the reason
+[32:10] So basically
+[32:12] If I think that X company is going to be at X price
+[32:14] I have to know how much I am paying
+[32:16] Of the time and of course
+[32:18] Many of you, or many people
+[32:20] The mistake they make
+[32:22] Is that when they buy an option
+[32:24] They buy 100% of the time
+[32:26] And the delta
+[32:28] Reduce a 20% daily
+[32:30] The value of your contract
+[32:32] And in 5 days
+[32:34] You see
+[32:36] That you lost the 90%
+[32:38] Of the value of your option
+[32:40] Because you buy 100% of the time
+[32:42] With a 20%
+[32:44] Of daily depreciation
+[32:46] Daily
+[32:48] So if you have a 100%
+[32:50] Of the value of a 20%
+[32:52] Of daily depreciation
+[32:54] In 4 days
+[32:56] You are going to lose the 90%
+[32:58] Of the value of an option
+[33:00] And that is why the option is for many people
+[33:02] It is not profitable
+[33:04] And it is not because they are not good
+[33:06] It is because they don't understand
+[33:10] How the options work
+[33:12] You have to know how to choose
+[33:14] To know how to choose
+[33:16] That you have to fit it properly
+[33:18] So that it works
+[33:20] You don't buy by buying
+[33:22] Ok, now let's go to the spread part
+[33:24] This is another very important part
+[33:28] Because here we can see the bid
+[33:30] The mid and the ask
+[33:32] What does this mean?
+[33:34] The bid is
+[33:36] What a buyer is willing to pay
+[33:38] The ask is what a seller is willing to sell
+[33:42] And the mid
+[33:44] The word is the medium
+[33:46] So if I have a person
+[33:48] Who wants to buy in 2.35
+[33:50] And someone who wants to sell in 2.45
+[33:54] Then the mid is 2.40
+[33:56] What happens?
+[33:58] This can be seen in another way
+[34:00] And it is very important
+[34:02] Because now we are going to see it
+[34:04] With market snack
+[34:06] But I'm going to advance this
+[34:08] If I see that a person
+[34:10] An institution
+[34:12] Is positioning
+[34:14] If I see that millions of dollars
+[34:16] And it is a lot in the bid
+[34:18] Are they selling or are they coming out
+[34:20] And in the mid
+[34:22] We have to keep studying
+[34:24] The option
+[34:26] It is very important to have these three things
+[34:28] And in the platform it will not be seen
+[34:30] It is marked in the ask
+[34:32] It is marked green
+[34:34] In the mid it is marked gray
+[34:36] And in the bid it is marked red
+[34:38] But it is very important because the bid
+[34:40] Are they selling or are they coming out
+[34:42] And in the ask
+[34:44] They are buying the contract and they are coming
+[34:46] And in the mid we have to keep studying
+[34:52] The option
+[34:54] Here we have the gray
+[34:56] That we have also mentioned
+[34:58] We have the delta, the theta and the vega
+[35:00] There are two more that is the gamma and the rho
+[35:02] The gamma is the delta of the delta
+[35:04] I'm going to explain that now
+[35:06] And the rho is what one option
+[35:08] Is what the underline of the option
+[35:10] Is exposed to the interest rates
+[35:12] It depends on what action
+[35:14] What action it is
+[35:16] But it is the less used gray
+[35:18] The three most used are these
+[35:20] The delta, as I was very well explaining
+[35:22] Victoria also mentioned right now
+[35:24] The delta what you do
+[35:26] Is that if I have a contract
+[35:28] Of apple in 250
+[35:30] I have
+[35:32] If apple moves $1
+[35:34] And my delta is $30
+[35:36] I generate $30
+[35:38] It is the same
+[35:40] If apple moves $2
+[35:42] I generate $60
+[35:44] I generate $30
+[35:46] So what happens?
+[35:48] The gamma that is not here
+[35:50] The gamma works the same as the delta
+[35:52] We are going to assume that apple moves $3
+[35:54] The delta is not going to do $30
+[35:56] The gamma is going to raise
+[35:58] This delta to $31, $32
+[36:00] And for the third dollar
+[36:02] I have $30, $30, $32
+[36:04] The gamma is exactly how the delta works
+[36:06] But the delta of the delta
+[36:08] The delta of the delta
+[36:10] So we have the theta
+[36:12] The theta is very famous in the off-demo
+[36:14] Because the theta
+[36:16] Is the time decay
+[36:18] Is the decay of the price of an action
+[36:20] If I buy a put
+[36:22] Or a call
+[36:24] And I buy it very off-demo
+[36:26] And I buy 300 calls of apple
+[36:28] And I buy it for a month
+[36:30] Because I have a decay
+[36:32] Diary
+[36:34] If it costs me $2
+[36:36] Diary it will lose the value
+[36:38] And you will see that the action that goes up a little
+[36:40] But while I'm hitting
+[36:42] At the time of expiration
+[36:44] And although the action goes up
+[36:46] But it is not hitting my call or my put
+[36:48] Because every time it goes down less
+[36:50] And it is very important
+[36:52] Because this is seen a lot in the off-demo
+[36:54] And they are the most attractive for their price
+[36:56] And this is the Vega
+[36:58] How much is that contract
+[37:00] How sensitive is that contract to volatility
+[37:02] The Vega
+[37:04] The Vega is used a lot in the leaps
+[37:06] Which are the long-term options
+[37:08] In the long-term options the Vega
+[37:10] It affects it a lot because if the action
+[37:12] Is very volatile today
+[37:14] If I want to buy it an option for 2027
+[37:16] In January 2027
+[37:18] Because the Vega affects me a lot
+[37:20] The price of that leap also affects
+[37:22] The prices
+[37:24] Usually in the earnings
+[37:26] For example this week we have Microsoft
+[37:28] Tesla, Meta, Apple
+[37:30] Right now the Vega is
+[37:32] Involved in that
+[37:34] In those contracts
+[37:36] Everything that people are looking
+[37:38] Wall Street is looking
+[37:40] Is going to have a lot of volatility
+[37:42] And Vega is going to go up
+[37:44] Do you want to add something here Victor?
+[37:46] Yes, what I was going to say
+[37:48] In this area
+[37:50] People
+[37:52] In an option there are many very important factors
+[37:56] But there are two things that you have to understand
+[37:58] One
+[38:00] Is to identify where
+[38:02] There are these big valleys
+[38:04] Which usually we refer to these
+[38:06] Eggs
+[38:08] That
+[38:10] Definitely in one area or another
+[38:12] Move
+[38:14] The sectors and the companies
+[38:18] But we also have these
+[38:20] Greeks
+[38:22] Which is how much it will affect
+[38:24] Or how to say what option
+[38:26] You are going to exchange
+[38:28] One of the movements that is happening
+[38:30] In the world of options
+[38:32] Does not mean that you are going to buy
+[38:34] The same contract
+[38:36] That you buy this whale
+[38:38] So you are going to have to look for a position
+[38:40] Right?
+[38:42] So we know for example
+[38:44] You know that the horse
+[38:46] We are in a race
+[38:48] We are in the hippodrome
+[38:50] In Kentucky Derby
+[38:52] And you know more or less
+[38:54] The horse that is going to win
+[38:56] The horse that is going to win
+[38:58] Because the bets indicate
+[39:00] That there is more money
+[39:02] In horse number 6
+[39:04] You have already identified the opportunity
+[39:06] Of horse number 6
+[39:08] The one who has the most probability of winning
+[39:10] Now it's your turn
+[39:12] In your role
+[39:14] Decide how you are going to put the bet
+[39:16] In horse number 6
+[39:18] You can be the one who wins
+[39:20] For a margin of error
+[39:22] The time you can take
+[39:24] That in a significant option
+[39:26] You already know that this company
+[39:28] According to this whale
+[39:30] Is saying that Apple can go up
+[39:32] But now then
+[39:34] In my sheet
+[39:36] That is basically in my broker account
+[39:38] That I am going to buy
+[39:40] What are the conditions
+[39:42] And these Greeks are going to help you
+[39:44] Understand the conditions
+[39:46] That if you already know that Apple
+[39:48] Is going to go up $10
+[39:50] How much do you want Apple to pay
+[39:52] Do you want it to pay you $20
+[39:54] Do you want it to pay you $30
+[39:56] Do you want it to pay you $70
+[39:58] And now
+[40:00] The time
+[40:02] The time is very important because remember
+[40:04] That this
+[40:06] Expiration does not mean that you have
+[40:08] For life
+[40:10] You are saying that this company is going to go up
+[40:12] Because it has to have a limited time
+[40:14] When you think that the movement is going to happen
+[40:16] And obviously the volatility
+[40:18] Often speaks
+[40:20] The exposure of the movement
+[40:22] How big it can be
+[40:24] Usually the Vega
+[40:26] They speak of volatility but really
+[40:28] It is the exposure
+[40:30] Of the amplitude of the movement
+[40:32] That is
+[40:34] The more Vega you have
+[40:36] That is given to a volatility
+[40:38] It means
+[40:40] That the movement is greater
+[40:42] In a financial asset
+[40:44] And usually when the companies
+[40:46] Are in the annouce of profits
+[40:48] How do we know that
+[40:50] The company can report
+[40:52] Loss or loss
+[40:54] Well
+[40:56] Definitely
+[40:58] We are going to be able to see
+[41:00] In a way or another
+[41:02] A very expected movement
+[41:04] What the company reports
+[41:06] In its financial state
+[41:08] Imagine that you are investing in a company
+[41:10] And in its financial state say
+[41:12] Tomorrow we are going to the break
+[41:14] What is going to happen with everyone
+[41:16] Because the company is going to disappear
+[41:18] That is why the earnings
+[41:20] Or the corporate earnings
+[41:22] Tell you a lot
+[41:24] The movement that can be happening
+[41:26] In a particular asset
+[41:28] And remember
+[41:30] The good thing about the options
+[41:32] Is that everyone is
+[41:34] Believing the future
+[41:36] Unlike the assets of today
+[41:38] You are buying the price that is changing today
+[41:40] The options they are telling you
+[41:42] For this date
+[41:44] Everyone is saying that the company
+[41:46] Is going to go up here
+[41:48] Or a single person is saying
+[41:50] That the company is going to go up at this price
+[41:52] So basically the options are like
+[41:54] A future measure
+[41:56] To where the whole future is going to be
+[41:58] What is going to happen in the future
+[42:00] To where we are going to see
+[42:02] That it is being shared
+[42:04] And each time more
+[42:06] Everyone wants to know the outcomes
+[42:08] Like in a boxing fight
+[42:10] You want to know what is the final result
+[42:12] Putting money
+[42:14] In a particular outcome
+[42:16] Or in a particular result
+[42:18] You can use that
+[42:20] As a measure
+[42:22] For you to be able to buy
+[42:24] The favorite
+[42:26] There are people who are against
+[42:28] And being against
+[42:30] Is not bad
+[42:32] It is not sustainable
+[42:34] It is going to leave you naked
+[42:36] Or it is going to leave you without money
+[42:38] Before you give it
+[42:40] Against
+[42:42] And we saw it also the other day
+[42:44] In a basketball game
+[42:46] Where the bets were at 98%
+[42:48] In favor of Oklahoma
+[42:50] Basically that would pay you
+[42:52] For each thousand dollars
+[42:54] It would pay you like 30 thousand dollars
+[42:56] Because the probability was very low
+[42:58] You keep betting on that all the time
+[43:00] On the contrary, if you pay
+[43:02] You will probably lose a lot of money
+[43:04] But when you can pay
+[43:06] It will pay you in large amounts
+[43:08] It is an option
+[43:10] If you decide to be the opposite
+[43:12] You can lose a lot of money
+[43:14] And you can get one
+[43:16] That tends to be the boat and make a lot of money
+[43:18] Or you can return to the rentable boat
+[43:20] And make money all the time
+[43:22] But for that
+[43:24] You have to be like a meteorologist
+[43:26] You have to know what are the perfect conditions
+[43:28] For you to be able to buy
+[43:30] An asset and be able to make money
+[43:32] Because at the end of the day
+[43:34] We are talking about all this
+[43:36] You want to make money with an asset
+[43:38] And for you to be able to make money with that asset
+[43:40] You have to understand how it works
+[43:42] Ok?
+[43:47] Yes
+[43:49] Now let's talk about implied volatility
+[43:51] That supports Vega
+[43:55] The implied volatility
+[43:57] Has hit Vega's hand
+[43:59] And it is
+[44:01] A number that tells us
+[44:03] The expected future movement
+[44:05] An action
+[44:07] Usually implied volatility goes up
+[44:09] As they say in English
+[44:11] That are the earnings
+[44:13] Now let's go to Microsoft
+[44:15] Meta, Tesla, Apple
+[44:17] That are 4 magnificent 7
+[44:19] That report this week
+[44:21] Let's see that its implied volatility is higher
+[44:24] Than its history
+[44:26] That its history is a week that is not earnings
+[44:28] It is very important to clarify
+[44:30] That this
+[44:32] Is a movement that can go up
+[44:34] Or down
+[44:36] The options with implied volatility
+[44:38] Are higher when implied volatility goes up
+[44:40] And here what it is explaining
+[44:42] Here we have earnings, news or uncertainty
+[44:44] This is good
+[44:46] For the sellers
+[44:48] Because the sellers sell implied volatility
+[44:50] And the options inflate
+[44:52] But it is bad for the buyers
+[44:54] If you are buying a contract
+[44:56] With implied volatility high
+[44:58] In an earnings out of the money
+[45:02] That is a disaster, honestly
+[45:04] But if you are buying a contract
+[45:06] Out of the money
+[45:08] For an earnings
+[45:10] And you compare it with low implied volatility
+[45:12] It is very likely that before the earnings
+[45:14] That contract
+[45:16] Has a higher value
+[45:18] Than the one you bought because implied volatility went up
+[45:20] But for this
+[45:22] This is a matter of timing
+[45:24] We return, this needs a catalyst
+[45:26] The market needs big movements
+[45:28] What does the number of
+[45:32] IV rank and IV percentile
+[45:34] This is quite clear here
+[45:36] And it is that
+[45:38] If implied volatility is at a 45%
+[45:40] Rank
+[45:42] Or a 45%
+[45:44] Of its average year
+[45:46] If we look at
+[45:48] Any company on video
+[45:50] And the market is at 50%
+[45:52] That means it is 50%
+[45:54] Of its average year
+[45:56] If it is 100%
+[45:58] That means there is a catalyst
+[46:00] That the market is waiting for aggressive movement
+[46:02] Whether it goes up or down
+[46:04] But with market snack
+[46:06] The market wants it to really go
+[46:08] Because as Victor said
+[46:10] The market moves thanks to the shares
+[46:12] But in the options there is a lot of money
+[46:14] And the shares are already happening
+[46:16] In terms of liquidity
+[46:18] And we can see where people really want
+[46:20] To go for an action
+[46:24] We have the break even price
+[46:26] That the break even price is important
+[46:28] That you understand it so well
+[46:30] We have the call and the put
+[46:32] If I buy a 240 strike
+[46:34] And the contract
+[46:36] Is going to expire
+[46:38] And I paid $5.50
+[46:40] I need Apple to close
+[46:42] Over $245.50
+[46:44] The day it expires
+[46:46] If I buy
+[46:48] Apple for February 20
+[46:50] Apple
+[46:52] And I pay $5.50
+[46:54] With a 240 strike
+[46:56] It has to close
+[46:58] Over $2.45
+[47:00] For me to go for a break even
+[47:02] Because
+[47:04] The price goes up to the strike
+[47:06] So if you want to see the other example
+[47:08] Imagine that I have $2.40
+[47:10] And I paid $1.00
+[47:12] Because it has to close
+[47:14] Over $2.41
+[47:16] For me to go for a break even
+[47:18] The same thing happens
+[47:20] With put but reverse
+[47:22] You have to pay the price to the strike
+[47:24] For me to go for a break even
+[47:26] Or start to generate income
+[47:28] After the expiration date
+[47:30] It has to close
+[47:32] And I have to pay $5.50
+[47:34] There is Victor
+[47:38] I'm sorry
+[47:40] There is also after we go to the application
+[47:42] Yes, what is missing is this
+[47:46] I'm going to explain this in more detail
+[47:48] Now Victorillo
+[47:50] This is something a little more complicated
+[47:52] But it is basically what you are explaining
+[47:54] At the beginning that there are buyers and sellers
+[47:56] If you see that they are selling the calls
+[47:58] Is that they want
+[48:00] If you see that they are selling the puts
+[48:02] If you see the 300
+[48:04] Two actions that they are constantly selling
+[48:06] That we can see now in Market Snack
+[48:08] Is Google and TCM
+[48:10] What the people do is
+[48:12] They take the 300
+[48:14] Puts and sell them
+[48:16] They put them in the bid completely
+[48:18] And they give them 20 million in the bid
+[48:20] What does that mean?
+[48:22] They know that
+[48:24] They wait
+[48:26] That Google does not go down 300
+[48:28] And they are betting
+[48:30] On that
+[48:32] If I see that right now
+[48:34] They go to an action like M1
+[48:36] And they sell me the 500 calls
+[48:38] They put 20 million
+[48:40] And they put the 500 calls
+[48:42] That means that they wait
+[48:44] That M1 stays below 500
+[48:46] And they are going to solve that first
+[48:48] Don't worry, if you did not understand this
+[48:50] Very well, we are going to explain
+[48:52] In depth in Market Snack
+[48:54] We are going to put it live
+[48:56] And
+[48:58] Just as important
+[49:00] We have the volume and the open interest
+[49:02] This is going to be important
+[49:04] With Market Snack
+[49:06] And the volume is the total
+[49:08] Of exchanges that took place
+[49:10] In that specific contract
+[49:12] We can see that in the bid
+[49:14] There were 50,000 traded contracts
+[49:16] Those 50,000 contracts can be an opening
+[49:18] Someone can buy 50,000 contracts
+[49:20] And the other day we have to see
+[49:22] If those 50,000 contracts are left
+[49:24] And if they are left, they are going to be open interest
+[49:26] But what happens?
+[49:28] The volume in those 50,000 contracts
+[49:30] Can be 25,000 sold, 25,000 bought
+[49:32] Every other day
+[49:34] The open interest can be at 0
+[49:36] This is taken
+[49:38] By hand
+[49:40] What happens? I see
+[49:42] If I see that someone enters
+[49:44] 5 million dollars in the SPY 700 calls
+[49:46] In volume, I see it
+[49:48] And I see that the other day
+[49:50] The open interest reflects
+[49:52] That person has the conviction
+[49:54] That he enters with 5 million
+[49:56] And the other day it is not reflected
+[49:58] It reflects 10% of that trade
+[50:00] In the open interest
+[50:02] Because that person has no conviction
+[50:04] And it was a day trade
+[50:08] Or it was closing a position
+[50:10] And that is all for this presentation
+[50:12] So that they know
+[50:14] What are the options
+[50:16] And what are the terms that we use
+[50:18] A lot on the platform
+[50:20] And now we go to the platform
+[50:22] To see what we are talking about
+[50:24] A
+[50:26] Overview of the platform with Kevin
+[50:28] Kevin also shared his screen
+[50:30] When
+[50:32] I finish what's in the part
+[50:34] When you enter the application
+[50:36] There are several important things
+[50:38] Remember about the Indemone contracts
+[50:40] Out of the money
+[50:42] So basically
+[50:44] The big delta
+[50:46] All these contracts
+[50:48] Are Indemone
+[50:50] 79 of Delta
+[50:52] 95 of Delta
+[50:54] And 97 of Delta
+[50:56] What is this program looking for
+[50:58] All contracts that are trading
+[51:00] Indemone contracts
+[51:02] With high value of premium
+[51:04] So basically if I go here
+[51:06] I can see what is being traded
+[51:08] During today's day
+[51:10] With a high delta
+[51:12] And a premium
+[51:14] Also high
+[51:16] Here we have a delta
+[51:18] Of 93 with 1 million
+[51:20] Invested
+[51:22] This means that this is really
+[51:24] Filtering with people
+[51:26] Who are buying Indemone contracts
+[51:28] So basically
+[51:30] I can identify
+[51:32] I can investigate here
+[51:34] Where people are buying
+[51:36] At a specific price
+[51:38] This is what you are going to see here
+[51:40] That Kevin was also explaining
+[51:42] To the last
+[51:44] Are the contracts with greater open
+[51:46] Interest or greater change
+[51:48] In new open contracts
+[51:50] And this can tell you
+[51:52] Where you can be moving
+[51:54] A particular company
+[51:56] To identify where
+[51:58] People are entering
+[52:00] In large quantities and can give you
+[52:02] More or less an aspect
+[52:04] Where money is moving
+[52:06] For example, if I look at the BICS
+[52:08] That they opened
+[52:10] 244 contracts
+[52:12] It means that on Friday
+[52:14] For Monday
+[52:16] 244 contracts
+[52:18] It means that they were the most
+[52:20] Open that existed
+[52:22] One day for another
+[52:24] Then we have IWM
+[52:26] Basically it's Russell
+[52:28] We have GDX
+[52:30] We have SPX
+[52:32] We have...
+[52:34] Almost all were
+[52:36] Indices
+[52:38] And lastly we have AR
+[52:40] That has 269,000 open interest
+[52:42] And they know 47,000 new contracts
+[52:44] That's what is telling you the first part
+[52:46] Of the market
+[52:48] And here you have your watchlist
+[52:50] This watchlist
+[52:52] Is going to tell you the contracts
+[52:54] That have had
+[52:56] Contracts that you
+[52:58] Have
+[53:00] And have kept in the application
+[53:02] Ok?
+[53:04] That's very important
+[53:06] This
+[53:08] This part
+[53:10] Has been a stick
+[53:12] For the application
+[53:14] Why?
+[53:16] Because usually these contracts
+[53:18] Have several days of continuity
+[53:20] That means that they are the contracts
+[53:22] With bigger movements in the day
+[53:24] That
+[53:26] Have a cost up to $10
+[53:28] But they are trading $1,000,000
+[53:30] In the day
+[53:32] That means that all contracts
+[53:34] That have an incredible movement in the day
+[53:36] But that
+[53:38] The contract
+[53:40] Is $1,000,000
+[53:42] More than $1,000,000
+[53:44] And you can come here
+[53:46] I want to look for contracts that have between $5 and $10
+[53:48] Basically this is a contract that
+[53:50] Costs $6
+[53:52] With a premium of $1.5 million
+[53:54] And it was
+[53:56] The Zoom call
+[53:58] Because you can already investigate
+[54:00] That something is happening in Zoom
+[54:02] So you can come here
+[54:04] To our Flow Fit program
+[54:06] And you can look
+[54:08] And now
+[54:10] You can see that this company
+[54:12] Did $11,000,000 in today's day
+[54:14] And not only $11,000,000
+[54:16] But
+[54:18] That $11,000,000 in the market
+[54:20] Of options
+[54:22] They traded $25,000,000 in calls
+[54:24] That is equivalent to
+[54:26] 86% of everything that was traded
+[54:28] In the option chain
+[54:30] Versus $3.9 million
+[54:32] That means
+[54:34] That all the movement that had
+[54:36] Was calls today
+[54:38] So it's not worth it
+[54:40] To make a put in a company
+[54:42] That is definitely what is dominating
+[54:44] In feelings
+[54:46] Are calls
+[54:48] Ok
+[54:50] And something very simple
+[54:52] That you can understand in this first widget
+[54:54] That is basically
+[54:56] What we call them
+[54:58] That are contracts with more movements
+[55:00] And usually they have a good follow up
+[55:02] Ok
+[55:04] For example, this SLV
+[55:06] This SLV
+[55:08] Has $17,000,000
+[55:10] Inverted today
+[55:12] What is happening
+[55:14] In SLV
+[55:16] These are all the contracts with more
+[55:18] Volume in today's day
+[55:20] What were the contracts with more volume
+[55:22] In today's day
+[55:24] What were the contracts with more
+[55:26] Change in the open interest
+[55:28] Meaning
+[55:30] I want to look for contracts that have more than $1,000,000
+[55:32] And here I can see
+[55:34] All the companies that have more than $1,000,000
+[55:36] Right
+[55:38] In premium
+[55:40] Ok
+[55:42] And that their contract is $1,000
+[55:44] So basically I have this company
+[55:46] What is called
+[55:48] The RCX
+[55:50] Which expires in 53 days
+[55:52] Has $10,000 in premium
+[55:54] Had a change
+[55:56] Of an open interest of $40,000
+[55:58] That means that
+[56:00] 29% of these contracts
+[56:02] Were opened yesterday
+[56:04] For today
+[56:06] On Monday
+[56:08] And they added $40,000,000
+[56:10] In premium
+[56:12] I want to know what is happening in that company
+[56:14] Ok
+[56:16] Because definitely this is indicating to me
+[56:18] That something
+[56:20] Ok
+[56:22] Something is happening
+[56:26] And then it will give me names
+[56:28] Of research
+[56:30] Where I can
+[56:32] Identify great opportunities
+[56:34] I don't know if you have a comment
+[56:36] Basically on the dashboard
+[56:38] So
+[56:40] You want to share your screen
+[56:42] If there is something on the dashboard
+[56:44] Which particularly your search
+[56:46] At the time of trading
+[56:48] Or which part you use
+[56:50] I'm going to share my screen
+[56:52] So that I can see it
+[56:56] There
+[56:58] Yes, in the dashboard
+[57:00] I usually do the same as Victor
+[57:02] Personally
+[57:04] I like to use this part of
+[57:06] Indices and ETFs
+[57:08] Because sometimes the index
+[57:10] For example, if you saw the screen
+[57:12] Victor and they fixed it
+[57:14] He goes here to high volume section
+[57:16] And the index
+[57:18] Trades a lot
+[57:20] For example the CPX
+[57:22] Here I would have chosen all this
+[57:24] Look, if I put the index
+[57:28] You can see the difference
+[57:30] I'm playing with the ETFs
+[57:32] And the index here
+[57:34] And I'm seeing how the actions move
+[57:38] The actions and the ETFs
+[57:40] I like
+[57:42] I also like to see the market sentiment
+[57:44] I like to always
+[57:46] Always look at this
+[57:48] Because I don't know if you remember last week
+[57:50] That we had another famous taco trade
+[57:52] That last week
+[57:54] If I'm not mistaken it was on Tuesday or Wednesday
+[57:56] That Trump
+[57:58] He was in the Netherlands
+[58:00] And Trump said no, they're going to do the trade
+[58:02] On February 1
+[58:04] That day the market was red
+[58:06] It was almost 200% low
+[58:08] But Victor and I
+[58:10] We were talking
+[58:12] Because here in Market Snack we saw
+[58:14] That this was bullish
+[58:16] The market was red
+[58:18] And this was bullish
+[58:20] But it's weird
+[58:22] What's going on?
+[58:24] I think it was a half of the afternoon
+[58:26] Two in the afternoon in Puerto Rico
+[58:28] We understood why this was bullish
+[58:30] Trump went back
+[58:32] He said he did a trade with the European Union
+[58:34] Over the Netherlands
+[58:36] And he was going to put the European trade
+[58:38] On February 1
+[58:40] The market jumped from 680
+[58:42] He jumped from 688
+[58:44] And we understood why the people
+[58:46] Were putting so much cash in it
+[58:48] And it was so bullish
+[58:50] And we saw it in the flows
+[58:52] That these are very important tools
+[58:54] To see the session
+[58:56] And to see it last week
+[58:58] So I can see what's going on
+[59:00] Not just today
+[59:02] And this is a tool that every time
+[59:04] I enter the platform I like to see it
+[59:08] I also wanted to comment
+[59:10] That
+[59:12] That dashboard
+[59:14] Was created
+[59:16] The first intention
+[59:18] Obviously this will continue to improve
+[59:20] But it was created with the intention
+[59:22] That you could discover
+[59:24] New things
+[59:26] That you could discover companies
+[59:28] And strange movements
+[59:30] Not necessarily
+[59:32] It was made with the use of
+[59:34] That's what you like
+[59:36] But these are things you can explore
+[59:38] So you can find names
+[59:40] Where no one is talking
+[59:42] And that there are particular movements
+[59:44] Of course
+[59:47] Look
+[59:49] This action we have before
+[59:51] This is a natural gas and oil action
+[59:53] What's going on?
+[59:55] I see this
+[59:57] And now I'm looking for the flow fix
+[59:59] And it also comes out here
+[60:01] Excuse me, let me go here
+[60:03] It comes out here
+[60:05] You can see it
+[60:07] Excuse me
+[60:09] It comes out here in a million
+[60:13] You can see it, it's the first one
+[60:15] And you say
+[60:17] This
+[60:19] Of all the dashboard
+[60:21] It's made
+[60:23] And it's a victory for us to see
+[60:25] Other actions we usually don't see
+[60:27] And we see the money
+[60:29] That's taking action
+[60:31] This person, if I'm not mistaken
+[60:33] He entered with
+[60:35] 4 million dollars
+[60:37] 4 million dollars
+[60:39] And in the 90s
+[60:41] And this was for today
+[60:43] And here we can see the change
+[60:45] In the interest
+[60:47] Here we see the volume
+[60:49] Look
+[60:51] Verify the company sentiment
+[60:53] Now that
+[60:55] In the updates, look for the entire
+[60:57] Looking for the entire moment
+[60:59] R
+[61:06] I wanted to talk about this
+[61:08] Let's enter the flow fix
+[61:10] For those who have market snack
+[61:12] For those who have market snack
+[61:14] Before this
+[61:16] And those who know market snack
+[61:18] Today we made an update
+[61:20] We put this
+[61:22] Smaller
+[61:24] To make it easier to access
+[61:26] To make it easier to access
+[61:30] And we put the company sentiment
+[61:32] We can see the order book site
+[61:34] And the premium sentiment breakdown
+[61:36] This is a super good tool
+[61:38] Because we can see
+[61:40] All I like about the premium sentiment breakdown
+[61:42] I can see here
+[61:44] The calls executed
+[61:46] To the ask
+[61:48] From here on out
+[61:50] I see 10.8 million
+[61:52] That were calls
+[61:54] And puts
+[61:56] I can see all those who were in the ask
+[61:58] And all those who were in the bid
+[62:00] And look how small it was
+[62:02] The bid and the ask
+[62:04] What do I see with this
+[62:06] This company was in bullish
+[62:08] And I see that
+[62:10] The company was in the bid
+[62:12] In 34
+[62:14] Today it goes to 35
+[62:16] It went up 3%
+[62:18] And as it wants to continue like this
+[62:20] There is something strange happening
+[62:22] That you will not usually know
+[62:24] Because not everyone knows how it is
+[62:26] I have no idea
+[62:28] I have no idea of the bid and the ask
+[62:30] And that is the logo of this application
+[62:32] That helps you to discover new names
+[62:36] But if you look for AR
+[62:38] Today there was a trade of $300,000
+[62:40] You have to look at the different filters
+[62:42] I don't have filters
+[62:44] Let's go to that
+[62:46] But look at this here
+[62:48] Look at this
+[62:51] Look at this trade
+[62:53] $5 million in print
+[62:55] In the $120 contract price
+[62:57] $125
+[62:59] And look
+[63:01] Remember what I was explaining
+[63:03] Look at the bid and the ask
+[63:05] This person
+[63:07] What is the price of this person
+[63:09] This person bought $5 million
+[63:11] In $125
+[63:13] Everything was in the ask
+[63:15] He did not want to negotiate
+[63:17] What is the price of this person
+[63:19] $3 million below
+[63:21] This is an AR of Dimoni contract
+[63:23] If you understand my presentation
+[63:25] The mine of Victor
+[63:27] You understand that this contract has an intrinsic value
+[63:29] This is completely extrinsic
+[63:31] But
+[63:33] As I said, Victor, this person
+[63:35] Surely has luck and hits it
+[63:37] That luck to Victor
+[63:39] That luck
+[63:41] That information of someone
+[63:43] That they are not inviting
+[63:45] And we can see
+[63:47] $1 million below
+[63:49] Almost $1 million in print
+[63:51] $1 million
+[63:55] This is a price
+[63:57] I bought $38,000 and $45,000
+[63:59] This is the same person
+[64:01] Because we can see it at 10.54
+[64:03] At 10.54 in the morning
+[64:05] And at 10.54 in the morning
+[64:07] This person is very bullish
+[64:09] Because this person
+[64:11] He wants the contract to close above $38,000
+[64:13] And below $45,000
+[64:15] But as he wants
+[64:17] He wants $3 million above
+[64:19] Of this
+[64:21] And an extrinsic value
+[64:23] And if you go up to $40,000
+[64:26] $40,000 for that
+[64:28] $40,000
+[64:33] And here we can go to the filters
+[64:35] And you can see the trick that I was mentioning
+[64:37] If I go here
+[64:39] Here I am explaining
+[64:41] How to use Flow Fit
+[64:43] This is what I do
+[64:45] This AR I was already watching it
+[64:47] Because I had seen it on the dashboard
+[64:49] I come here and I put January 23
+[64:51] I give it 2 times
+[64:54] And here you can see
+[64:56] The contract that I was talking about
+[64:58] This person
+[65:00] By any chance
+[65:02] This is science or these cancels
+[65:04] Ignore this completely
+[65:08] These two ignore, only this one
+[65:10] That really entered
+[65:12] This person I buy at $85,000
+[65:14] I have said $20,000
+[65:16] Look at the spread
+[65:18] At $75,000 versus $85,000
+[65:20] And why this person spent
+[65:22] $3 million
+[65:24] When this action was at $34,000
+[65:26] You can see here
+[65:28] It was underline price
+[65:30] It was $3 of difference
+[65:32] This person was well convinced that this action was going to go up
+[65:34] Well convinced
+[65:36] Or was it luck
+[65:38] $3 million
+[65:40] Now the contract is at $120,000
+[65:42] You can do the math
+[65:44] How much is up there
+[65:46] Wow
+[65:48] A couple of percentages
+[65:50] Decenas of percentages up there
+[65:52] That's practically
+[65:56] That's called backtesting
+[65:58] How I get there
+[66:00] Well I see it here
+[66:02] Let's suppose I hadn't seen it on Friday
+[66:04] And you tell me, but how did you get there
+[66:06] Well I come here
+[66:08] This is my favorite part of the dashboard
+[66:10] Options by Open Interest Change
+[66:12] And look at that contract
+[66:14] I say, I lost this
+[66:16] What do I do
+[66:18] What do I do with that contract
+[66:20] I give it a copy
+[66:22] This is the copy button
+[66:24] This is the button that is on my watch list
+[66:26] Wire flow feed
+[66:28] I give it a copy
+[66:30] Open Interest is a Moai
+[66:32] So I have to put the date
+[66:34] The last of the previous day
+[66:36] Obviously here is January 23
+[66:38] Because today is Monday
+[66:40] 25, 24 is not a 3D
+[66:42] I'm going to play Filtale
+[66:44] And there I see what I'm looking for
+[66:46] As I do backtesting
+[66:48] Of the things that come out of the dashboard
+[66:50] As we connect the dashboard
+[66:52] With the flow feed
+[66:54] I wanted to say
+[66:56] In my
+[66:58] In my watch
+[67:00] I'm going to show you something
+[67:02] When
+[67:04] Something that has been added new
+[67:06] For example, if you look for a company
+[67:08] For example Meta
+[67:10] It will appear what is the feeling of the company
+[67:12] But it will also appear a counter
+[67:14] Up
+[67:16] Basically inside
+[67:18] Meta there are 42 new traits
+[67:20] In today's day
+[67:22] That are Clean Directional Play
+[67:24] So I put it here
+[67:26] And I can identify the last
+[67:28] That were today
+[67:30] That were Directional
+[67:32] They were 42
+[67:34] Directional
+[67:36] If you look inside Meta
+[67:38] There were 42 traits
+[67:40] Under one algorithm that we have
+[67:42] For example, if I look for Paypal
+[67:44] Paypal
+[67:46] It will also have 340
+[67:48] Look for
+[67:50] SLV
+[67:52] SLV
+[67:54] For example
+[67:56] SLV has more than 99
+[67:58] 56 in 0 DT
+[68:00] 99 in
+[68:02] In chip loto
+[68:04] And a 35
+[68:06] In usual flow spikes
+[68:08] Okay
+[68:10] You can see it
+[68:12] The same
+[68:14] In addition to seeing these flows
+[68:16] And the people who tell me
+[68:18] Victor I don't have the update
+[68:20] They refresh the page
+[68:22] It is important that they refresh
+[68:24] Or they design out
+[68:26] And they design again
+[68:28] And then it will appear
+[68:30] Okay
+[68:32] So they can refresh it
+[68:34] Or they can log out
+[68:36] And then they design again
+[68:38] And then it will appear the new update
+[68:40] Okay
+[68:42] By the way
+[68:44] Of course, everyone who wants to buy
+[68:46] The Market Snack application
+[68:48] Can go to MarketSnack.com
+[68:50] And you can write your membership
+[68:52] Inside Market Snack
+[68:54] So basically here we can see
+[68:56] Several things
+[68:58] We can see
+[69:00] That this is a fund
+[69:02] The application also tells us
+[69:04] The price it is now
+[69:06] 3 hours
+[69:08] So basically after hours it is 3 dollars
+[69:10] Down almost 3%
+[69:12] And we have the order book
+[69:14] And we have the premium sentiment breakdown
+[69:16] It means that 3 billion dollars
+[69:18] Today they are calls
+[69:20] And the safest thing you think about
+[69:22] Victor this is positive
+[69:24] Because more calls than puts
+[69:26] Okay
+[69:28] Yes, but
+[69:30] Inside all that
+[69:32] How much money was
+[69:34] In the purchase
+[69:36] And calls in sale
+[69:38] That means that the sentiment today
+[69:40] It ended up quite the same
+[69:42] 1.6 billion
+[69:44] Of calls were in the bid
+[69:46] It means that they were sold
+[69:48] And they bought 1.6 billion
+[69:50] Of dollars in the ask
+[69:52] It means that
+[69:54] There was 1.6 of purchases
+[69:56] 1.6 of sales
+[69:58] In the area of the calls
+[70:00] In put
+[70:02] 1.6 billion dollars in the ask
+[70:04] And 3.7 billion
+[70:06] In the bid
+[70:08] For example, but if I see a company like Amazon
+[70:10] I have
+[70:12] Of those 126
+[70:14] Billions
+[70:16] 61 million in the ask
+[70:18] 64 million in the bid
+[70:20] Okay
+[70:22] That will also tell you
+[70:24] That if it was sold a lot of calls
+[70:26] But also those calls that were sold
+[70:28] It was not necessarily super aggressive
+[70:30] The company like Google
+[70:32] For example, but in Google the same
+[70:34] 57 million versus
+[70:36] 46 million
+[70:38] And this will help you a lot
+[70:40] Let's see which company can also look for
+[70:42] For example, a JP Morgan
+[70:44] Here it was quite
+[70:46] The same sentiment
+[70:48] Here too, trust me
+[70:50] These sentiments are quite
+[70:52] You know which company
+[70:54] I can look for the Tesla Talbe
+[70:56] Not the Tesla
+[70:59] Let me look for a company
+[71:01] For you to be able to see
+[71:03] How this can also help you
+[71:05] For the Cuckoo
+[71:08] Cuckoo is quite similar
+[71:10] Nvidia
+[71:14] Pereterre
+[71:18] It was quite
+[71:20] Several companies
+[71:22] Were quite
+[71:24] AMD also look
+[71:26] AMD had more sales
+[71:28] In the calls
+[71:30] Than in the bid
+[71:32] AMD
+[71:34] had more sales
+[71:36] Of calls
+[71:38] But
+[71:40] If we look for a company like
+[71:42] MU
+[71:44] MU
+[71:50] 166 million
+[71:52] In the calls
+[71:54] 144 million
+[71:56] So you can see
+[71:58] The feeling of the company
+[72:00] For example
+[72:02] Here there were more puts than calls
+[72:04] Here I can see
+[72:06] 72 million
+[72:09] In puts
+[72:11] 40 million in the bid
+[72:13] So basically there are more
+[72:15] In aggressive Netflix
+[72:17] Down
+[72:19] Than
+[72:21] In calls
+[72:23] So let's say I can use a sentiment
+[72:25] That the company has
+[72:27] Today
+[72:29] If I want to close it
+[72:31] Or expand the sentiment
+[72:33] I can see the sentiment
+[72:35] Today
+[72:37] Here they are asking
+[72:43] What you have to look at
+[72:45] To avoid the contract
+[72:47] Usually
+[72:49] What I have brought
+[72:51] Delta 70
+[72:53] But you can bring
+[72:55] A contract with
+[72:57] I'm going to submit rates in Delta
+[72:59] So I can
+[73:01] Delta 10
+[73:03] Delta 20
+[73:05] So that's where
+[73:07] Mostly
+[73:09] I usually bring it
+[73:11] Kevin
+[73:13] Kevin
+[73:15] I want to show you
+[73:17] How you usually filter in this part
+[73:19] I, as I say
+[73:21] I have, for example
+[73:23] When you add your watch in the Market Snack
+[73:25] For example, I have
+[73:27] Various Curious Names
+[73:29] For example, I have GLD
+[73:31] I have Cores
+[73:33] I had several contracts here
+[73:35] I can see
+[73:37] You can see the premium shooting
+[73:39] I have this one
+[73:41] That is shooting
+[73:43] A lot of premiums the other days
+[73:45] From here, from 0 to 24,000
+[73:47] And they added 29 million
+[73:49] In premiums
+[73:51] So basically I
+[73:53] Verify, but if you see
+[73:55] The major performance that my contracts have
+[73:57] They are in demonies
+[73:59] All those who are green
+[74:01] Are out of the money
+[74:03] So usually when I see this
+[74:05] I can identify
+[74:07] The worst contracts
+[74:09] That leave worse performance
+[74:11] Are always out of the money
+[74:13] So I can see
+[74:15] That my contracts are in demonies
+[74:17] So for me to see 3 days out of the money
+[74:19] If they are not giving me a good system
+[74:21] For example, here we have
+[74:23] SLV
+[74:25] Incredible performance
+[74:27] In Lucian Scores
+[74:29] For example
+[74:31] We are analyzing Meta
+[74:33] Johnson & Johnson etc
+[74:35] But I can create my own list
+[74:37] And I can verify the performance
+[74:39] And I can also investigate
+[74:41] The contracts
+[74:43] Usually I have to save a lot of contracts
+[74:45] In my watchlist
+[74:47] So I can monitor
+[74:49] When I added
+[74:51] How much has been the performance of that day
+[74:53] The graphic
+[74:55] The open interest
+[74:57] The premium that the contract has
+[74:59] And the time sanseos
+[75:01] So basically that's what I always study
+[75:03] All the time
+[75:05] When I see that something is being repeated
+[75:07] Consequently in the application
+[75:09] So I added my watchlist
+[75:13] Kevin, do you want to share your screen?
+[75:15] No, share my screen
+[75:17] Not a second
+[75:22] And now the notebook is
+[75:24] Of today's day
+[75:26] It is going to accumulate until the end of the day
+[75:28] Eventually
+[75:30] So what the programming team is working on
+[75:32] Is that, for developers and engineers
+[75:34] Is that you can choose several dates
+[75:36] And you can see the order book
+[75:38] Of the section that you want to analyze
+[75:40] Yes, exactly
+[75:44] The order book
+[75:46] Is from a single day right now
+[75:48] And that's going to work
+[75:50] Ok, I'm going to show you
+[75:52] What I do
+[75:54] To identify the contracts
+[75:56] And what I do to know when I go out
+[75:58] When I enter
+[76:00] If I see that the open interest is the volume
+[76:02] But here the key
+[76:04] To know when I go out and when I enter
+[76:06] Is the volume and the open interest
+[76:08] But as I said right now
+[76:10] The options
+[76:12] Is a set of everything
+[76:14] You have to know
+[76:16] What was the size, what was the price of the contract
+[76:18] How much was the print, how much was the volume
+[76:20] Of the open interest
+[76:22] You have to know that everything has to be agreed
+[76:26] Ok, look
+[76:28] I'm going to show you
+[76:30] Day to day to see these contracts
+[76:32] Ok, that's how the page opens
+[76:34] I always like
+[76:36] To identify the print of
+[76:38] Major to Major
+[76:40] Then I liked the single legs
+[76:42] I come here
+[76:44] I leave the print at 100,000
+[76:46] I like a lot the last
+[76:48] Right now we have the session date
+[76:50] I'm not going to change this because I have today
+[76:52] The expiration date
+[76:54] I don't play with this yet, I play with that later
+[76:56] The conditions, very important
+[76:58] If I don't play with single
+[77:00] I turn off this
+[77:02] I leave all the single printed
+[77:04] I turn off this and
+[77:06] I don't know why I know this
+[77:08] I put ICO
+[77:12] I put these
+[77:17] And the Delta
+[77:19] I don't like very low Delta
+[77:21] Usually 0.30
+[77:23] To 0.80
+[77:25] I like to look at it
+[77:30] Those are the filters that I use
+[77:32] I'm going to put them now so you can see them
+[77:34] If you want you can take a picture
+[77:39] Then I'm looking with Prima
+[77:41] I can check it like that
+[77:43] But this is my filter
+[77:45] And here I play again
+[77:47] I play with Prima
+[77:53] Here I start to look
+[77:55] I start to look at the bid and the ask
+[77:57] And how much did they buy the contracts
+[78:01] I say wow, they put 11 million
+[78:03] Here at TCM
+[78:05] At 3.30
+[78:07] At 23
+[78:09] This person thinks that from here at 81 days
+[78:11] TCM is going to be below 3.30
+[78:13] Now it's $3
+[78:15] Now the money because it's a put
+[78:17] And I look at this
+[78:19] This is aggressive
+[78:21] I see that they are in the ask
+[78:23] I look that they are aggressive
+[78:25] I bought it at 20
+[78:27] I bought it aggressively
+[78:30] This spread is not very big
+[78:32] So
+[78:34] It doesn't look so clear
+[78:36] I'm looking for a spread that looks bigger
+[78:38] Because here what I did was $0.10
+[78:40] Honestly the difference is a lot
+[78:42] But I know that there is already growth
+[78:44] The money, they are going to see it a lot
+[78:46] The money and the gold
+[78:48] These two things right now
+[78:50] It's been since
+[78:52] Since when did you take this?
+[78:54] From October already
+[78:56] I'm going to tell you
+[78:58] What I'm going to tell you
+[79:00] Usually what we are seeing
+[79:02] Is that it repeats a name
+[79:04] You see it as a name that comes out multiple times
+[79:06] In the application
+[79:08] And it continues to come out
+[79:10] And it continues to come out
+[79:12] But what is happening with that name
+[79:14] That is appearing so much in the application
+[79:16] That is what draws us a lot
+[79:18] The attention, right?
+[79:20] There is something that Kevin said
+[79:22] That is very interesting with TCM
+[79:24] It is that TCM
+[79:26] Exceeds the volume
+[79:28] Exceeds the open interest
+[79:30] In that contract
+[79:32] And that is why it is added to the watchlist
+[79:34] One, they bought it 10 minutes before
+[79:36] The market closes
+[79:38] And I added it to my watchlist
+[79:40] One, why?
+[79:42] Because definitely
+[79:44] I want to see if it is added to the open interest
+[79:46] The other day
+[79:48] Because if it is added to the open interest
+[79:50] It means that it is $10 million new
+[79:52] Entering this company
+[79:54] That can cause a movement
+[79:56] It is $10 million
+[79:58] So I automatically add it to my watchlist
+[80:00] To monitor it
+[80:02] Yes, this is important
+[80:04] As you have seen, this is an end of the day trade
+[80:06] An end of the day trade
+[80:08] People have gone to the office
+[80:10] People are already waiting
+[80:12] For the market to close
+[80:14] People want to see
+[80:16] These trades
+[80:18] When you see them
+[80:20] At the end of the day
+[80:22] You know something or you are very lucky
+[80:24] Here we see the size
+[80:26] We see the volume
+[80:28] And the open interest is $1500
+[80:30] What does this mean to me?
+[80:32] We already know
+[80:34] That they are not closing positions
+[80:36] Why?
+[80:38] We have that because of the data
+[80:40] Because they cannot close 11,000 positions
+[80:42] Because there are no 11,000 positions open
+[80:44] Maybe we can pass
+[80:46] That this 11,000 contracts
+[80:48] Have been traded
+[80:50] And maybe it is not reflected tomorrow in the open interest
+[80:52] But
+[80:54] I don't think that has happened
+[80:56] This person in the last 10 minutes
+[80:58] And he did not see another big transaction
+[81:00] Before closing the market
+[81:02] So this is very likely
+[81:04] We are waiting for tomorrow
+[81:06] And this is very likely
+[81:08] To be added to the open interest
+[81:10] So this is a trade
+[81:12] For the watchlist
+[81:14] You can put it
+[81:16] I don't know if you saw it
+[81:18] I come here
+[81:20] I see the heart
+[81:22] And here I have different watch
+[81:24] And I'm going to put it in an extra flow
+[81:26] Or if you want, I'm going to show you how to do one
+[81:28] I'm going to put a semiconductor
+[81:30] An extra flow
+[81:38] And I put
+[81:40] Out the money
+[81:42] Trades
+[81:44] And there I believe my watchlist
+[81:46] And that automatically adds
+[81:48] Now I can go to my watchlist
+[81:50] I can go here
+[81:52] And I'm going to see it
+[81:54] I click
+[81:57] And we go to the famous screen
+[81:59] This is part of the new update
+[82:01] For those who have Market Snack
+[82:03] If you know about the application
+[82:05] If you know about the web page
+[82:07] They have logged in to your account
+[82:09] And enter again, because if you don't have it
+[82:11] So you can refresh
+[82:13] You're going to have this new
+[82:18] With the update
+[82:20] It's very important if you don't know the company
+[82:22] For example, AR
+[82:24] If you don't know what it was before
+[82:26] You're going to know what it was before
+[82:28] And you don't have to go out of the platform to look for it
+[82:30] I'm very interested in the Open Interest
+[82:32] And the Premium
+[82:34] I think the Open Interest
+[82:36] Was $1200
+[82:38] $1200
+[82:40] But nothing else
+[82:42] It's $1500
+[82:44] But today
+[82:46] There are 11,000 contracts
+[82:48] We don't know if we're going to win
+[82:50] It's $1500
+[82:52] But tomorrow this will probably change
+[82:54] Because we see that there were
+[82:56] 3,419
+[82:58] Percentage
+[83:00] There were 11,000
+[83:02] Of Volumen
+[83:04] Tomorrow you can enter 10,000
+[83:06] You can enter 11,438
+[83:08] But it's very likely that tomorrow
+[83:10] This Open Interest will increase
+[83:12] And that will have
+[83:14] Conviction of that person
+[83:16] That the contract is going to fall
+[83:18] The action is going to decrease
+[83:20] The contract is going to increase in price
+[83:22] Because it's a put
+[83:24] We're going to see tomorrow
+[83:26] The Premium
+[83:28] I don't know
+[83:30] It's not going to reflect on me
+[83:32] Here we see that the Delta is
+[83:34] $0.44
+[83:36] Why?
+[83:38] Because it's out of the money
+[83:40] Let's do what we're talking about
+[83:42] Out of the money, the Delta is
+[83:44] $0.50
+[83:46] It's very important that when it's a put
+[83:48] The Delta is going to be negative
+[83:51] This page of the contract
+[83:53] It's a page that's been a long time
+[83:55] Now it's time to see
+[83:57] That guy when he entered
+[84:02] I can see it
+[84:04] Look at it
+[84:06] It was $5,400
+[84:08] That is, that trade is going on
+[84:10] Yes, what happens is that
+[84:16] That trade
+[84:18] It was
+[84:20] What I see was a single trade
+[84:22] What happens is that there was
+[84:24] A lot of Volumen with that
+[84:26] Yes, there was a lot of Volumen
+[84:28] But here you can see
+[84:30] That guy literally made a sweep
+[84:32] In the car condition
+[84:34] Made a sweep of $11,000,000
+[84:36] That's great
+[84:38] They're good, Kevin
+[84:40] They're good
+[84:42] To give them the luck
+[84:44] They're good
+[84:46] They're good
+[84:50] He's putting the luck
+[84:52] What do you say?
+[84:56] That's what
+[84:58] He doesn't know anything
+[85:00] Maybe
+[85:02] Or maybe a magician
+[85:04] Maybe he knows what's going to happen
+[85:06] Maybe a magician
+[85:08] A lot of magic in the bag
+[85:10] A lot of magic
+[85:12] We see it daily
+[85:14] The world seems to be full of magic
+[85:16] Yes
+[85:18] What you're saying has been seen
+[85:20] Here we see that the money is being repeated
+[85:22] The money is already
+[85:24] What is happening with the metals
+[85:26] There is a lot of uncertainty in the economy
+[85:28] And the money and gold
+[85:30] Have increased a lot
+[85:32] The money, if I'm not mistaken
+[85:34] Is that it didn't come today
+[85:36] More than 50% above
+[85:38] What's going on for years
+[85:40] And today we're at 26
+[85:44] It's absurd
+[85:46] The ETF
+[85:48] The gold came at 5,100
+[85:50] Yesterday when it opened in the future
+[85:52] For me
+[85:54] The money is going to rally
+[85:56] Like it's going to break the 100
+[85:58] I don't know
+[86:00] Today you had a brief after the last
+[86:02] Yes, the money came at 117
+[86:04] And it went down to 108
+[86:06] It went down to 3,4,5
+[86:08] You're going to sing fast
+[86:10] It had to happen
+[86:12] Once you break it
+[86:14] Here I'm looking
+[86:16] In the flow fit
+[86:18] I'm looking at what is repeated
+[86:20] Here we can see the goal
+[86:22] The 700 calls
+[86:24] It's very important that I look at the strike price
+[86:26] And I automatically
+[86:28] Look at the stock price
+[86:30] To know how far we are
+[86:32] And so I don't know if it's
+[86:34] Out of the money or in the money
+[86:36] For example, this is in the money
+[86:38] But whatever
+[86:42] Look at how important it is
+[86:44] It was spent $8,700
+[86:46] For the contract
+[86:48] But it was basically bought
+[86:50] On top
+[86:52] Of the RASC
+[86:55] And look at that
+[86:57] That means
+[86:59] That the price is $50
+[87:01] That the price is not $10
+[87:03] It's $50
+[87:05] If you want to see it through the contract
+[87:07] And this person
+[87:09] Is saying that he is spending
+[87:11] $3.4 million
+[87:13] Approximately
+[87:15] That Facebook is putting
+[87:17] Up here in June
+[87:19] And those are the things we look at
+[87:21] The contracts that are repeated
+[87:23] This is an action that
+[87:25] Consistently
+[87:27] They have given this week
+[87:29] To see what I'm saying
+[87:31] This action is not going to be very repeated today
+[87:33] This is here
+[87:35] But if you look at it every day
+[87:37] You can see it is an action
+[87:39] Of copper, gold and silver
+[87:41] They are my heroes
+[87:43] I'm talking about it
+[87:45] But if I go here
+[87:49] And I put
+[87:51] Let's put the 7
+[87:55] That they have been giving
+[87:57] $1.5 million
+[87:59] I can even
+[88:01] Put more
+[88:03] To see that this is coming
+[88:05] Before
+[88:09] Excuse me
+[88:11] I put it here
+[88:13] I think it's going to come out
+[88:15] They are giving it consistently
+[88:17] They are giving it the $53
+[88:19] $61
+[88:21] That these people know
+[88:25] They already know
+[88:27] What they are teaching right now
+[88:29] The actions move with the money
+[88:31] In the bag, but also the ocean
+[88:33] They are a magnet
+[88:35] They say where are we going to move
+[88:37] This person is not a demon contract
+[88:39] But look, this person is still safe
+[88:41] They are the $55
+[88:43] That has an intrinsic value of $6
+[88:46] And these are things that you have to go
+[88:48] Adding the watchlist
+[88:50] Now I don't have this account
+[88:52] But I have another market snack that I have all in my watchlist
+[88:54] And I'm monitoring
+[88:56] This one
+[88:58] The same as with all the actions that are
+[89:00] In that small
+[89:02] I'm seeing the weird things
+[89:04] Here we are
+[89:06] Let's see
+[89:08] Here it has
+[89:10] It's very important, like with the filters
+[89:12] Here I put it again
+[89:14] Here I don't have
+[89:16] I'm already seeing the singles
+[89:18] From today
+[89:20] I can start backtesting
+[89:22] With what I was teaching
+[89:24] We are going to teach you
+[89:26] The famous trick
+[89:28] The last week of gold
+[89:30] So you can see what we saw
+[89:35] Let's look for it here
+[89:37] GLD
+[89:45] Yes, we have to put the GLD
+[89:49] We have to delete all the filters
+[89:51] If you want
+[89:53] We have to delete the filters
+[89:55] So we can find it faster
+[90:00] We are going to put the session date
+[90:02] I'm doing backtesting here
+[90:08] The $16,000
+[90:10] No, I didn't put the section that was
+[90:12] Disculting
+[90:14] No, you're putting the expiration date
+[90:16] No, I'm putting the expiration date
+[90:18] Now, now
+[90:22] Now we're going to see the other market snack
+[90:24] Yours
+[90:26] No, it's going to be there now
+[90:28] Here we have it, look
+[90:30] Look at this contract
+[90:32] Here I'm seeing it all
+[90:34] This one
+[90:36] You can see that
+[90:38] Here it was $4.45
+[90:40] Here I don't have any type of filter
+[90:42] That's why here you're going to see
+[90:45] These are multi-legs
+[90:47] This one or a single leg
+[90:49] If you want
+[90:51] I'm going to leave it like that so you can see it all
+[90:53] This is a single leg
+[90:55] But it was in mid, automatically discarded
+[90:57] I don't like it
+[90:59] These two were in the bid, they were calls
+[91:01] These people are saying
+[91:03] They understood
+[91:05] They understood
+[91:07] They are saying that the call
+[91:09] The goal is not going to happen
+[91:11] From $4.60 to $4.75
+[91:13] You know what happened?
+[91:15] But I'm going to talk to Kevin
+[91:17] Because he has the open interest of how much it was
+[91:19] If you look at it a little
+[91:21] I'm looking for
+[91:23] What has good open interest
+[91:25] The more you put it, the more volume
+[91:27] For example
+[91:29] Where are we going?
+[91:31] Look at this contract that caught my attention
+[91:33] Since I saw it
+[91:35] Because I said that the most rare thing
+[91:37] Is the contract
+[91:39] This person, at 11 in the morning
+[91:41] He buys the 4.70 calls
+[91:45] February 26, 2026
+[91:47] 11 days of expiration
+[91:49] He puts 112,000 contracts
+[91:51] $33 million
+[91:53] $2.96
+[91:55] The action is in $4.45
+[91:57] The ETF
+[91:59] You say
+[92:01] $25 out of the money
+[92:03] He invested $33 million
+[92:05] And only 11 days left
+[92:07] And for Colmo
+[92:09] The open interest is $145
+[92:11] And the volume is 112,000
+[92:13] Here we can see that this is $2.65
+[92:18] And $3.05 and they buy it in $2.96
+[92:20] It's true, they don't buy it in $3.05
+[92:22] Exactly
+[92:24] But, here we do not incline that
+[92:26] He bought it, the majority of the ask
+[92:28] Of course, because of this contract
+[92:30] I look at it
+[92:32] We're going to add it here
+[92:34] Where is the watchlist?
+[92:39] I put it
+[92:41] I put it
+[92:43] That day 102
+[92:45] It was the 21
+[92:47] Add the 102,000 contracts
+[92:49] The ring
+[92:51] $169,000 of open interest
+[92:53] Right?
+[92:55] The contract
+[92:57] Of $2.96
+[92:59] Of $2.96
+[93:05] We can see it here
+[93:07] It's here
+[93:09] We can see it here
+[93:11] He buys it here
+[93:14] The contract
+[93:16] The contract goes down
+[93:18] But this person
+[93:20] Who is asking me
+[93:22] How I know when it won't come out
+[93:24] This person
+[93:26] He bought the 102,000 contracts
+[93:28] It was under a lot of millions
+[93:30] 8, 10 million dollars
+[93:32] Because this was in $2.07
+[93:34] He bought it in $2.26
+[93:36] But what happens? I see that there was no volume
+[93:38] The person was not coming out
+[93:40] The contract starts to rise
+[93:42] The order starts to rise
+[93:44] The person still sees that
+[93:46] The volume does not go up or down
+[93:48] The volume is still...
+[93:50] They say they add more contracts
+[93:52] They say they add more contracts
+[93:54] This continues to rise in price
+[93:56] I am constantly monitoring the volume
+[93:58] This continues to rise
+[94:00] The volume does not change
+[94:02] If the volume does not change
+[94:04] The open interest remains the same
+[94:06] The contract is $660
+[94:10] Here the volume goes down a little
+[94:12] I can show you now
+[94:14] The volume goes down
+[94:16] The volume does not go down
+[94:18] The volume goes down a little
+[94:20] Because here it starts to rise
+[94:22] Here I see the volume coming in
+[94:24] Here it starts to rise a little
+[94:26] Like $650
+[94:28] But it was $125,000 for the month
+[94:30] And I said
+[94:32] This person
+[94:34] The contract was
+[94:36] $650,000
+[94:38] The person doubled
+[94:40] The gold was like $457,000
+[94:42] And this person seems to think
+[94:44] The gold is going to continue
+[94:46] What happened on the moon?
+[94:48] The GLED opened at $466,000
+[94:50] $467,000
+[94:52] The contract goes up to $10,000
+[94:54] The person
+[94:56] The $33,000,000
+[94:58] The $112,000,000
+[95:01] Do you believe it?
+[95:03] Was it luck or did you know what was going to happen?
+[95:05] And all this
+[95:07] We can see it through the platform
+[95:09] The volume went up in interest
+[95:11] Look at the open interest
+[95:13] How it went up in the year 2022, in the year 2023
+[95:15] And today
+[95:17] It's starting to go down
+[95:19] And this is good
+[95:21] Because if the person
+[95:23] See now, Victor
+[95:25] The calls are
+[95:27] Removing the beat
+[95:29] It means that the guy is selling
+[95:31] Profit, that's good
+[95:33] Your monitor also goes up in interest
+[95:35] It doesn't mean now
+[95:37] That doesn't mean that
+[95:39] It means that they are selling the gold
+[95:41] Because they are getting two Profits
+[95:43] It doesn't necessarily mean that the gold is going to fall
+[95:45] necessarily
+[95:47] That's why monitoring the option is always good
+[95:49] I always say that
+[95:51] To be able to enter a position
+[95:53] If the contract expires more than 90 days
+[95:55] You can wait up to 3 days
+[95:57] To monitor
+[95:59] If it expires 11 days or 20 days
+[96:01] You can wait 1 day
+[96:03] To monitor that it always goes up in interest
+[96:05] But once it goes up in interest
+[96:07] You see that the contract
+[96:09] Has a good movement, maybe you can start
+[96:11] Interact a little bit with that contract
+[96:13] With a smaller amount
+[96:17] Here they are asking how we know
+[96:19] That it was still inside
+[96:21] The open interest
+[96:23] Here, the easiest
+[96:25] To monitor that it is inside
+[96:27] Remember that
+[96:29] I really don't know who bought this
+[96:31] I know before I saw the flow
+[96:33] I saw the volume in the open interest
+[96:35] I saw the volume of that day
+[96:37] Of the 112,000 contracts
+[96:39] That entered in January 21
+[96:41] In January 22
+[96:43] I see that they are adding
+[96:45] And there are 170,000 open interest
+[96:47] Remember, in the open interest
+[96:49] It shows me a conviction
+[96:51] It shows me interest
+[96:53] I know that this person is still inside
+[96:55] I know that it entered in 226
+[96:57] And the 112,000 contracts were added
+[96:59] And in January 22 it is inside the person
+[97:01] Like I know that the person is still inside
+[97:03] If the volume begins to increase
+[97:05] I see 20,000 volumes here
+[97:07] Then it starts to look at the open interest
+[97:11] In the Friday we saw
+[97:13] 50,000 volumes
+[97:15] 60,000 volumes
+[97:17] And that means that this person
+[97:19] Exited 60,000 contracts
+[97:21] And here we see it
+[97:23] There are 118,000 open contracts
+[97:25] So I know that the person is leaving
+[97:27] Because Friday there was a volume of 60,000
+[97:29] And on Monday those 60,000 contracts
+[97:31] And I know that the person is leaving
+[97:33] But it still has 118,000 open contracts
+[97:35] What happens?
+[97:37] Maybe tomorrow we can add
+[97:39] 11,000 more contracts that are added to 218
+[97:41] With 11,000 less contracts
+[97:43] Or maybe with 5,000, with 3,000
+[97:45] We don't know because we don't know
+[97:47] How many contracts were really held
+[97:49] For tomorrow
+[97:51] Or how many contracts were closed
+[97:54] I don't know if it was clear
+[97:59] Do you have anything to add there, Victor?
+[98:01] No
+[98:03] Open interest is the most important thing
+[98:05] Basically open interest is like
+[98:09] Everything that has a lot of open interest
+[98:11] Everything that has open interest
+[98:13] Is like the best thing ever
+[98:15] And at least
+[98:17] The contract has 5, 10 million dollars
+[98:19] In premium
+[98:21] If you can say that Kevin
+[98:23] The open interest is also translated
+[98:25] To a premium
+[98:27] So if you have an open interest of 20,000
+[98:29] But the premium is less than 1 million
+[98:31] I don't see that much
+[98:33] I'm going to tell you my best traits
+[98:35] For example
+[98:37] Like
+[98:39] My best traits
+[98:41] If you see
+[98:43] Obviously there are others that have changed
+[98:45] Over time, 100 million, 84
+[98:47] 13 million, 3 million, 16 million
+[98:49] 8 million, 185 million
+[98:51] 47 million, 7 million
+[98:53] 14 million
+[98:55] Basically this is in open interest
+[98:57] But no contract
+[98:59] More than 1 million
+[99:01] Usually it has a lot of money
+[99:03] It has 1.6 billion dollars
+[99:05] This contract
+[99:07] So usually the majority
+[99:09] Have returns
+[99:11] Or contracts that have an open
+[99:13] Interest translated
+[99:15] To multiple millions of dollars
+[99:17] In
+[99:19] In money
+[99:21] For example
+[99:23] If I go here
+[99:25] It has 5 million dollars
+[99:27] We are going to look for a lower premium
+[99:31] I don't know, 158 million
+[99:33] I don't see that much
+[99:35] It also has
+[99:37] That if there are high money transactions
+[99:39] But
+[99:41] That they have a lot of money
+[99:43] Stuck, because in the end
+[99:45] The more money is stuck
+[99:47] The better
+[99:49] For
+[99:51] For the company
+[99:53] Even so
+[99:55] We are going to do
+[99:57] Various tutorials
+[99:59] From next week
+[100:01] By division in Market Snack
+[100:03] So don't worry
+[100:05] If many of you don't understand it
+[100:07] These tutorials are going to be in English
+[100:09] But we are going to be launching tutorials
+[100:11] Of each section
+[100:13] And what you have to look for
+[100:15] In an option
+[100:17] Whether it's the open interest
+[100:19] Translated to Notional Value
+[100:21] Translated to Good Delta
+[100:23] That you can see it
+[100:25] And you can understand the app
+[100:27] Distributed
+[100:29] So if we commit
+[100:31] To
+[100:33] Working on various tutorials
+[100:35] So you can
+[100:37] Understand
+[100:39] And improve your trading
+[100:41] Based on the experiences
+[100:43] We have had in the app
+[100:45] And as we can help you
+[100:47] So you can understand the app
+[100:49] And you can
+[100:51] Understand the app
+[100:53] Of course
+[100:55] Yes, yes
+[100:57] We are going to
+[100:59] Explain the app
+[101:01] I know this causes a lot of doubts
+[101:03] But we are going to focus on explaining
+[101:05] The program
+[101:07] And then
+[101:09] With Q&A we can answer
+[101:11] Two other questions
+[101:13] Of your doubts about the volume
+[101:15] But we are going to focus on
+[101:17] What is Market Snack
+[101:19] And then we will continue with the others
+[101:21] If you want
+[101:23] To do a full overview
+[101:25] And 10 minutes of Q&A
+[101:27] To try to understand the 8
+[101:30] Let's go
+[101:32] Let's go to the screen
+[101:40] I think you can see it
+[101:42] I think now
+[101:53] The screen is coming out
+[101:55] The screen is coming out
+[101:57] Now
+[101:59] Ok
+[102:02] Well
+[102:04] The class is going to be recorded
+[102:06] Don't worry
+[102:08] Now we are going to do a review
+[102:10] And
+[102:12] To understand the app
+[102:14] From a full point of view
+[102:16] From a full point of view
+[102:18] We are going to review
+[102:20] What is the application
+[102:22] And why it helps so much
+[102:24] Ok
+[102:26] This is the dashboard
+[102:28] In the dashboard we have the big delta trades
+[102:30] We have Market Sentiment
+[102:32] Which is something very important
+[102:34] That I'm looking at
+[102:36] Because this is 56% call
+[102:38] And 44% put
+[102:40] If this gives me 60% call
+[102:42] This already changes to bullish
+[102:44] And vice versa
+[102:46] If the put gives 60%
+[102:48] Red
+[102:50] The market is very rich
+[102:52] This
+[102:54] I'm going to explain
+[102:56] How I enter the application
+[102:58] I'm looking at this
+[103:00] If I see this is very rich
+[103:02] I start looking at the put
+[103:04] If I see this is bullish
+[103:06] I start looking at the calls
+[103:08] I'm looking at the top performance by open interest change
+[103:10] This is the important thing
+[103:12] Open interest
+[103:14] I look at how much open interest
+[103:16] Has been added
+[103:18] To each action that appears here
+[103:20] Because this means that
+[103:22] Open interest
+[103:24] It can be put or calls
+[103:26] I check
+[103:28] What is this action
+[103:30] For example, we have just heard
+[103:32] That RAR
+[103:34] Which is full of natural and oil
+[103:36] Open interest is mostly bullish
+[103:38] But
+[103:40] What is Wolfie Trip
+[103:42] Honestly, these two actions
+[103:44] We can investigate
+[103:46] But it can be very show or bullish
+[103:48] We do this now
+[103:50] This is my watchlist performance
+[103:52] I'm going to show you how to add
+[103:54] The flow feed on the watchlist
+[103:56] And the dashboard
+[103:58] Because I don't have to enter the flow feed
+[104:00] We have the top movers low cost contracts
+[104:02] Like Victor said
+[104:04] That we can see this
+[104:06] And this is constant
+[104:08] In many contracts
+[104:10] We can see that
+[104:12] This is the money
+[104:14] The most famous right now
+[104:16] The money is already months
+[104:18] Or long weeks
+[104:20] That this appears as top 1
+[104:22] Because people are giving it
+[104:24] Because obviously the market is closing
+[104:26] And the money goes up
+[104:28] Open the future on Sunday
+[104:30] And the money goes up a lot
+[104:32] Like gold
+[104:34] There is volume section
+[104:36] That explains that I pay the index and the ETF
+[104:38] To see the best actions
+[104:40] If I turn on the index, there is usually the XPX
+[104:42] That this here
+[104:44] If I turn on the index, there is nothing XPX
+[104:46] I usually turn it off
+[104:48] I turn it on if I want to see the XPX
+[104:50] Here are the large spreads
+[104:52] That these are already for the multi-legs
+[104:54] I was talking about that I prefer single-legs
+[104:56] The multi-legs are a little more complex
+[104:58] They help me find a feeling
+[105:00] Of the market
+[105:02] But we are going to focus on the single-legs
+[105:04] For this part of the day
+[105:06] The high premium DTE contracts
+[105:10] And we have
+[105:12] The top options
+[105:14] Open Interest Change
+[105:16] Which is more or less
+[105:18] What I was explaining here
+[105:24] We have it here
+[105:26] But here we can select the first
+[105:28] 100k, 500k, 500k 1 million
+[105:30] 1 million plus
+[105:32] Then we are going to Flow Fit
+[105:34] For those who have Market Snack
+[105:36] Or those who are entering the program
+[105:38] This was redesigned
+[105:40] And now I can put
+[105:42] Silver
+[105:46] And it will come out
+[105:48] It repeats 56 times
+[105:50] At the moment a 0 DTE spike
+[105:52] These are 0 DTE contracts
+[105:54] If I'm not mistaken
+[105:56] And we can see
+[105:58] That here we can organize it by the first
+[106:00] And that it has been another idea
+[106:02] 56 times marked by the application
+[106:04] We have the Clean Directional Play
+[106:06] Usually they are more contracts
+[106:09] With more Indemony contracts
+[106:11] Or Addimony
+[106:13] Which they have a lot of first
+[106:15] We have the Chibloto Betts
+[106:17] Which are contracts
+[106:19] If the word comes out as chip
+[106:21] It is that they are more contracts
+[106:23] Which have a little DTE
+[106:25] That's why they are cheaper
+[106:27] Because an Indemony contract
+[106:29] With a lot of DTE
+[106:31] The Teta is less and it is more expensive
+[106:33] We have the Unusual Flow Spike
+[106:35] From here it comes out 35 times
+[106:37] That here it is already marked
+[106:39] You can see it here in Notes
+[106:41] Unusual
+[106:43] Which is already marking
+[106:45] That the volume
+[106:47] Gains a lot of interest
+[106:49] And the first is high
+[106:51] This is basically what we add
+[106:53] What we add today
+[106:55] The new Update
+[106:57] For the one that does not come out
+[106:59] The Update
+[107:01] Log out of its
+[107:03] And enter again and the Update will come out
+[107:05] Everyone is supposed to have it
+[107:07] What else do we add in the Update today?
+[107:09] If I
+[107:11] Enter your watchlist
+[107:13] I will explain it quickly
+[107:15] Now I can see the statistics
+[107:19] Of the company
+[107:21] And the Update today
+[107:23] Now it comes out that TCM
+[107:25] A semiconductor from Taiwan
+[107:27] And it comes out the volume
+[107:29] Today, the Open, the 2 Days Range
+[107:31] It comes out that key information
+[107:33] What else do we add in the Update today?
+[107:37] This
+[107:39] I'm going to organize this again
+[107:41] In the Update today we add
+[107:46] The Company Sentiment
+[107:48] The one that we can see
+[107:53] The Ordered Bookside
+[107:55] The Premium Sentiment Breakdown
+[107:57] The Trading Hours
+[107:59] And the After Hours
+[108:01] You can see it here
+[108:03] What is the Ordered Bookside?
+[108:05] The Ordered Bookside is
+[108:07] The amount of print executed in the Bit
+[108:09] The amount of print executed in the Bit
+[108:11] And the amount of print executed in the ASC
+[108:13] This is important to see
+[108:15] To know
+[108:17] How aggressive were
+[108:19] In the Puts or the Calls
+[108:21] It means that it was
+[108:23] 243 Millions
+[108:25] In the ASC
+[108:27] What happens here? I can assume
+[108:29] That the majority of the print executed in the ASC
+[108:31] Was the Calls, because the biggest thing we see here
+[108:33] You can see it, it was 121 Millions
+[108:35] Executed in the ASC
+[108:37] This is the Premium Sentiment Breakdown
+[108:39] What I was saying right now
+[108:41] That in the future
+[108:43] You can see it at the beginning of the video
+[108:45] The video will be available for you to see again
+[108:47] And it is that
+[108:49] When a contract was executed in the ASC
+[108:51] That person is following that movement
+[108:53] If a call is executed in the ASC
+[108:55] He thinks it goes up
+[108:57] If a put is executed in the ASC
+[108:59] He thinks that that action goes down
+[109:01] What happens when it is a sale
+[109:03] That we can see that it is lighter
+[109:05] The same color but lighter
+[109:07] If it is a sale
+[109:09] It is executed in the
+[109:11] If it is a sale or a Bit in English
+[109:13] That means that the person
+[109:15] Thinks that that contract
+[109:17] That contract is selling
+[109:19] That if they executed in a Bit
+[109:21] What will happen in 250
+[109:23] And if they executed in a Bit
+[109:25] That person thinks that the 200
+[109:27] That action is not going to go down
+[109:29] 200 dollars
+[109:31] That is the execution
+[109:33] That is the Bit
+[109:35] The Flow Fit
+[109:37] What do we need to see here
+[109:39] I'm going to Flow
+[109:41] How I organize, by the cousin
+[109:43] That's where I like by the cousin
+[109:45] And here I can see
+[109:47] 190 Millions and 64 Millions
+[109:49] I can use the filter
+[109:51] I can use the Call of Duty
+[109:53] I can use the Strike Price
+[109:55] The cousin can use whatever I want
+[109:57] Usually I leave 100,000
+[109:59] Or if not, I put the 300,000
+[110:01] Up top
+[110:03] Here I can use the site
+[110:05] I like to always see the last
+[110:07] First, the session date range
+[110:09] If I don't touch this
+[110:11] It means that it will be the date range
+[110:13] The last one that is there
+[110:15] If I'm at the end of the week
+[110:17] I'm going to take the 23rd of January
+[110:19] Because it was the last date
+[110:21] But as we are in a day that has passed
+[110:23] The expiration date
+[110:25] I play with this, but
+[110:27] I want to see the Monthly
+[110:29] So I come to the Monthly
+[110:31] That is always the third Friday of every month
+[110:33] I want to see the contracts that they ask for
+[110:35] On February 20
+[110:37] You are going to see all the contracts that they ask for
+[110:39] On February 20
+[110:43] And now, I don't want to see this
+[110:45] Because I give you the X
+[110:47] I don't want to see the Multi-Lex
+[110:49] I want to see the Single-Lex
+[110:51] I come here, I choose
+[110:53] I can take these that are also Single-Lex
+[110:55] And I can take the Delta
+[111:01] As I am doing again
+[111:03] For the benefit of everyone who doesn't see it
+[111:05] I can see it live
+[111:07] I like to bring the 0.30.8
+[111:09] This can be as you want
+[111:11] This is how I do it
+[111:13] And as Victor also does it
+[111:15] Victor usually brings ideas
+[111:17] So that they have the point of view
+[111:19] So that they have the point of view Victor
+[111:21] Victor likes
+[111:23] Point 60 for the top
+[111:25] Those are the contracts that Victor brings
+[111:27] I am a little more open to the contracts
+[111:31] And I bring 0.3
+[111:33] That is the part of the filters
+[111:41] Here we see the Prima
+[111:43] When I have these filters put
+[111:45] We go back to the example of TCM
+[111:47] I see that it was executed on the 20 in the ASC
+[111:49] If the contract was 20
+[111:51] The condition was auto
+[111:53] 333
+[111:55] 330 was put is out of the money
+[111:57] I have 81 days to expire
+[111:59] The Greeks I can see them here
+[112:01] I have 43 of Delta in that contract
+[112:03] 43 of Delta
+[112:05] I am below 50
+[112:07] It means that an out of the money contract
+[112:09] As I just mentioned
+[112:11] I have the break even price
+[112:13] And I have the 4 Greeks
+[112:15] Delta, Delta, Gamma and Vega
+[112:17] I can see that for each one of these options
+[112:19] Of the action that you want to put
+[112:21] I can put any action here
+[112:23] Here I am not going to go out of the money
+[112:28] Because if I erase the filters
+[112:30] I'm just going to get something
+[112:32] Because obviously the filters are the same
+[112:38] With what I get here
+[112:40] I can see that everything buying the bit
+[112:42] I can use the action that I want
+[112:44] What can I do
+[112:46] Here, as I get from the flow feed
+[112:48] To the wash list
+[112:50] I can give it a save
+[112:53] I can add it in this
+[112:55] I can add the metals
+[112:57] I move it
+[112:59] And I go to the wash list
+[113:01] I go to the metals
+[113:03] And in metals
+[113:05] You can see that I had a contract here
+[113:07] Previously
+[113:09] If you want to see it
+[113:11] I added it in the 21st
+[113:13] So that you have an idea
+[113:15] I added it in the 31st
+[113:17] And I saw today how much it is
+[113:22] 25-80
+[113:24] But we are going to add it now
+[113:26] The part of this application
+[113:28] You are not going to go out
+[113:30] You are not going to go out in the actions
+[113:32] You are not going to go out in the money
+[113:34] In the gold or anything
+[113:36] Because these are not actions
+[113:38] Ok
+[113:40] What is all of this
+[113:42] This is the part of the contract details
+[113:44] In my wash list
+[113:46] Here I can see the price
+[113:48] The volume and the spread
+[113:50] Here I can see that the delta is 85
+[113:52] This is a contract that I would like
+[113:54] Because the delta is about 85%
+[113:56] That this contract
+[113:58] It gives you money
+[114:00] For each dollar that goes up
+[114:02] This TTF
+[114:04] This TTF right now is 97
+[114:06] If this goes up to 98-47
+[114:08] This contract will pay 85
+[114:10] Here I can look at the open interest
+[114:12] In January 21
+[114:14] 60,000
+[114:16] In January 22
+[114:18] It was added 3,000
+[114:20] Approximately 2,100
+[114:22] In January 23
+[114:24] It was subtracted
+[114:26] There were 60,836
+[114:28] And today there are 58,000
+[114:30] 3,000 contracts came out
+[114:32] And tomorrow it could be that 12,000 more
+[114:34] Or it could be that 12,000 more
+[114:36] We can see that this was 169%
+[114:38] It could be that this is subtracted
+[114:40] And this reaches 46,000
+[114:42] Or it could be that it is subtracted 70,000
+[114:44] Or it could be that it is subtracted half
+[114:46] 6,000
+[114:48] And this goes up to 52,000
+[114:50] In January 22
+[114:52] I can look at this
+[114:54] I can look at the price
+[114:56] Of the week
+[114:58] In January 22
+[115:00] I can look at all this every 10 minutes
+[115:02] I can look at the price
+[115:06] I can look at the open interest
+[115:08] Of the month or the week
+[115:14] I can look at the spring
+[115:16] Of the week
+[115:20] Diablo 64 million
+[115:22] Yes, the spring
+[115:24] Look at this spring
+[115:29] In December 29
+[115:31] Look at this
+[115:33] 1.8 million
+[115:35] Look at it here
+[115:37] 9 million
+[115:39] 27 million
+[115:41] Or it could be that the contract went up a lot
+[115:43] We can look at that now
+[115:45] Here it goes back
+[115:47] And it goes up to 61 million
+[115:49] It could be that it was subtracted
+[115:51] Or the price of the contract went up
+[115:53] Look how much it is today
+[115:55] Today it reached
+[115:57] 166 million
+[115:59] What happens
+[116:01] That was the peak, that was when the money
+[116:03] When the money was
+[116:05] I think it was 102, 103
+[116:07] Something like that
+[116:09] This TF
+[116:11] And now when it closed on 28
+[116:13] It went down to 121 million
+[116:15] It lost 40 million in the spring
+[116:17] That is that the contract
+[116:19] Under value, that is that this was higher
+[116:21] This was right now
+[116:23] But surely in 28
+[116:25] Look at how all this is related
+[116:27] The price, the price
+[116:29] The interest
+[116:31] We can look at the delta
+[116:34] All of this is reacting little by little
+[116:36] We can look at the time and sales
+[116:38] Here I can see
+[116:40] The contracts that go up
+[116:42] Here a person, the 3 and 34
+[116:44] Interchanged 550 contracts
+[116:48] 1.1 million
+[116:50] All of this is adding
+[116:52] To the volume
+[116:54] 1.1 million
+[116:58] These 4 things are mixed
+[117:02] Calm down, I'm going pretty fast
+[117:04] Because I'm giving you a rich application
+[117:06] With the doubt and questions we will answer in a moment
+[117:16] And here I can
+[117:18] To show you how to make the list again
+[117:20] I can create the list
+[117:22] I can create the list
+[117:24] What do I know
+[117:26] Nvidia
+[117:30] And I can add contracts where there is more than Nvidia
+[117:32] I can add contracts
+[117:34] That this is something I haven't taught
+[117:36] That this is a new list that I would open in my watchlist
+[117:38] I can look for Nvidia here
+[117:40] And this is a mini option chain that we have
+[117:46] I say, man, I want to see the monthly
+[117:48] Nvidia February 20
+[117:50] Man, Nvidia really
+[117:52] I like it for the 200 cores
+[117:54] I think it's going to reach 200 cores from here to February 20
+[117:56] You're going to get the 200p and 200 cores
+[118:01] The 200p is Indemone
+[118:03] And the 200p is Stardim
+[118:05] And I want to add it
+[118:07] To add it
+[118:09] So this is going to come out
+[118:11] The bias of my list
+[118:13] Right now I just have a call
+[118:15] I'm super bullish
+[118:17] It's going to come out the contract that is next to spiral
+[118:19] That is this
+[118:21] Because the only thing I have
+[118:26] Is to wait 25 days
+[118:28] And here we go back to the same page that I was saying
+[118:30] About 2 minutes ago
+[118:32] But that's how I added contracts
+[118:34] If I want to add it directly
+[118:36] We're going to open AMD
+[118:38] That's what you're mentioning about AMD
+[118:40] I want the same
+[118:42] But we're going to put the March 20
+[118:44] And I want to see the
+[118:46] 280 cores
+[118:48] I want to add it
+[118:52] See? The closest to spiral
+[118:55] Is still in Nvidia because Nvidia is in February 20
+[118:57] AMD is already with an additional month
+[118:59] It's in the months of March
+[119:01] I'm just going to go here
+[119:03] The list is still bullish because I added a call
+[119:05] And that's how I can do it
+[119:07] Contract by contract
+[119:09] If I don't want to add it on the flow
+[119:11] If I want to look for it on my account
+[119:13] Now I'm looking for TCM
+[119:17] I want to look for
+[119:19] February 20
+[119:21] I'm going to look for the 300
+[119:23] If I want to open April 17
+[119:25] The 330
+[119:30] The put
+[119:32] If I'm not mistaken
+[119:34] I understand what you're saying
+[119:38] If you can see
+[119:40] Look at the difference
+[119:42] The first 23 million
+[119:44] Excuse me
+[119:46] The first 23 million
+[119:48] The 2-day premium
+[119:50] The 3,500
+[119:52] The volume is 1100
+[119:54] But it may go up tomorrow
+[119:56] But you can see with my list
+[119:58] It's 33% put and 66% call
+[120:00] Because I have a put contract
+[120:02] And I have two calls
+[120:04] And this is changing
+[120:06] My list is so neutral
+[120:08] And that's how I
+[120:10] Integrate
+[120:12] My watchlist with my flow feed
+[120:14] Now I can come here
+[120:16] L, R, C, X
+[120:18] There is a company
+[120:20] That has to go with semi-conductors
+[120:22] Also
+[120:24] We're going to choose this
+[120:26] I have it here
+[120:28] See how it integrates the whole system
+[120:30] From the flow feed to the watchlist
+[120:32] And now
+[120:35] I have 4 companies here
+[120:37] And that's basically
+[120:43] The market snack system
+[120:45] And the integration of the flow feed
+[120:47] To the watchlist
+[120:49] Here they have it
+[120:51] Yes
+[120:53] Kevin, thanks for opening the Q&A part
+[120:55] For any questions you have
+[120:57] Yes, sir
+[121:02] Do you have any questions
+[121:04] Or questions you want to ask Kevin
+[121:06] Or
+[121:08] What do you want to do with the app
+[121:10] To be able to cover it
+[121:12] And we cover them now
+[121:14] With all of you
+[121:16] And then
+[121:18] With that we finish
+[121:20] The workshop of today
+[121:25] Kevin, here is the first question
+[121:27] Can you answer it, right?
+[121:31] Yes, because we have to see
+[121:33] If the volume is added to the watchlist
+[121:35] If the volume is transactions
+[121:37] That have already been executed
+[121:39] Because, ok
+[121:41] The volume is the transactions that were
+[121:43] If the volume
+[121:45] If the volume is 0
+[121:47] Or I have 10 too
+[121:49] If the volume
+[121:51] Was 5 or 5
+[121:53] And they sold 5
+[121:55] Well, the other day
+[121:57] Maybe 0
+[121:59] Because they sold 5 and they bought 5
+[122:01] But if they bought 10 that day
+[122:03] The volume
+[122:05] And those 10 were maintained
+[122:07] Well, the other day
+[122:09] My interest in 10 is going to be 20
+[122:11] And it's like I know
+[122:13] That it's going to go up
+[122:15] Because it's keeping that money
+[122:17] It's keeping that money from a trading day
+[122:19] For another one
+[122:21] That's why we look at the volume and the open interest
+[122:23] Now, well, if I have an open interest of 10
+[122:25] And I'm looking at 100,000
+[122:27] And then I see a volume
+[122:29] Of 50,000
+[122:31] I have to be careful
+[122:33] Because the insurance is coming out
+[122:35] Or maybe it's coming in, we don't know
+[122:37] We have to wait the next day
+[122:39] Because today they are asking us
+[122:41] Another day to know if they entered
+[122:43] If they added, if they lowered positions
+[122:45] Yes
+[122:49] And something that the person
+[122:51] Was asking too
+[122:53] Is
+[122:55] The
+[122:57] The sum of open interest
+[122:59] Is very important because it helps you
+[123:01] To identify
+[123:03] There are X amounts of money
+[123:05] Stuck in this position
+[123:07] So it gives you the conviction
+[123:09] That it's not a day trade
+[123:11] It's a swing trade
+[123:13] That position that they added
+[123:15] That means that for several days
+[123:17] The transaction
+[123:20] At some point we are going to have the Spanish page
+[123:22] Which will always be in English
+[123:24] But maybe later
+[123:26] It can be that the group of engineers
+[123:28] Work in Spanish
+[123:30] But the reality is
+[123:32] That there are many terms in English
+[123:34] Which is very difficult to translate
+[123:36] In Spanish, so many applications
+[123:38] Or brokerage
+[123:40] They have it all in English
+[123:42] All
+[123:44] They do everything
+[123:46] Into the tool
+[123:48] Into the mark, obviously mark
+[123:50] It's going to be an all-in-one platform
+[123:52] And we are working with that
+[123:54] That right now we know that we are
+[123:56] Right, the full mark team
+[123:58] Working with that
+[124:00] D and 8, 24 hours
+[124:02] To be able to achieve it
+[124:04] So from what you are seeing today
+[124:06] In the mark
+[124:08] To what the mark is going to be
+[124:10] In May
+[124:12] It's going to be completely different
+[124:14] Yes, of course
+[124:16] We are going to keep adding things
+[124:20] I don't know
+[124:22] Visibly, monthly
+[124:24] For example, here I am asking a question
+[124:26] That is going to be Gamma Exposure
+[124:28] Right now we don't have it
+[124:30] We don't discuss it today because we don't have it
+[124:32] But it's going to be soon
+[124:34] Like I said, Victor, it's January 26
+[124:36] The application is going to be very different
+[124:38] It's going to have more things
+[124:40] We are going to have
+[124:42] Graphics, we are going to have a lot more things
+[124:44] That we don't have right now
+[124:46] But right now it's like the application
+[124:48] The application is designed to
+[124:50] That people can interact
+[124:52] The institutional money, the cash money
+[124:54] And they can make money
+[124:56] Because Victor and I have used it
+[124:58] To do that
+[125:00] And many other people who work in Fusion
+[125:02] Or who work in the mark
+[125:04] Have been able to do it
+[125:06] Because the most important thing
+[125:08] That are the flows on the platform
+[125:10] That's correct
+[125:14] And at the end of the day
+[125:16] What you want is to look for this company
+[125:18] And look for these people
+[125:20] Something very important
+[125:22] Is the person who is making a lot of references
+[125:24] To the BitEASC
+[125:26] Within the same BitEASC
+[125:28] They have to understand that
+[125:30] They have to identify
+[125:32] Various opportunities
+[125:34] When we do the tutorials
+[125:36] You will understand it
+[125:38] But there is a lot of inconsistency
+[125:40] For the part of the institutions
+[125:42] When they show the BitEASC
+[125:44] You also have to
+[125:46] Adentrate yourself
+[125:48] And not because you see them from the first instance
+[125:50] You are going to make a very quick decision based on that
+[125:52] You have to enter the contract
+[125:54] And look for a little bit more information
+[125:56] About Open Interest
+[125:58] How it's being carried out
+[126:00] Because it's going to help you identify
+[126:02] We are working
+[126:04] And
+[126:06] Definitely give what we are going to have
+[126:08] Within the application
+[126:10] And the contract will continue to improve
+[126:12] Will continue to improve a lot of areas
+[126:14] So next week, next month
+[126:16] They are going to make new updates
+[126:18] Where we are going to be talking about
+[126:20] These opportunities
+[126:22] Finally, that now we are going to
+[126:24] The mobile application is also going to come out soon
+[126:28] Mostly within the updates
+[126:30] We are going to get between Q1 and Q2
+[126:32] Of this year
+[126:34] Basically in this trimester or the next trimester
+[126:36] That's why we say until May
+[126:38] So you have to be very aware
+[126:40] Obviously we are not the group of engineers
+[126:42] Or the product group
+[126:44] Basically
+[126:46] We have to work every day with the decisions we make
+[126:48] We work more than the macros
+[126:50] But definitely soon
+[126:52] There will be a lot of updates
+[126:54] So they are aware of the application
+[126:56] And also aware of the electronic mail
+[126:58] Up
+[127:00] So that you can be updated about the new updates
+[127:02] Thank you to everyone, right?
+[127:04] For being here
+[127:06] And also
+[127:08] Maybe
+[127:10] We don't want to compromise
+[127:12] Because we have a lot of work within the team
+[127:14] But if we can do a live tutorial
+[127:16] Every time
+[127:18] Definitely
+[127:20] We are going to do it
+[127:22] And as I told you
+[127:24] We want that
+[127:26] An excellent tool for all of you
+[127:28] And that you can grow financially
+[127:30] And make a lot of money to enter the options
+[127:32] And nothing
+[127:34] What I wanted to tell you is that
+[127:36] Thanks to everyone for trusting in the application
+[127:38] We are still launching new updates
+[127:40] There is a lot of growth
+[127:42] A lot of people are interested
+[127:44] In continuing to see this
+[127:46] Expanded application
+[127:48] And for many of the new updates
+[127:50] For the updates that are coming
+[127:52] And if we can do two or three workshops
+[127:54] A little more specialized in the application
+[127:56] We will be doing it
+[127:58] Thank you very much
+[128:02] And I don't know if you want to say a few words
+[128:04] Before we go
+[128:06] Thank you very much
+[128:08] For being on today's live
+[128:10] And giving us the opportunity to teach the application
+[128:12] We really want to do this
+[128:14] Because we know that
+[128:16] It is a
+[128:18] Not very easy to understand in a short time
+[128:20] And that you need an explanation
+[128:22] And that's why we wanted to
+[128:24] To be so enthusiastic
+[128:26] To do it and share with you this information
+[128:28] I wanted to let you know
+[128:30] That our active social network
+[128:32] Exx, what was previously on Twitter
+[128:34] There
+[128:36] Victor personally
+[128:38] I am also bringing a lot
+[128:40] That social network
+[128:42] That we are both there
+[128:44] You can ask us any questions there
+[128:46] So that they can see
+[128:48] Where the application goes
+[128:50] From the ballerinas
+[128:52] You can follow
+[128:54] The two pages
+[128:56] They are now actively running
+[128:58] And talking about the market
+[129:00] And what is happening
+[129:02] Where is it going
+[129:04] And we will continue
+[129:08] Any questions
+[129:10] You can do it there
+[129:12] We will try to do more
+[129:14] Live every time
+[129:16] To answer your questions
+[129:18] And thank you all
+[129:20] We love you all
+[129:22] And until next time
+[129:24] If you have any questions
+[129:26] You can contact us
+[129:28] And wait for the tutorials
+[129:30] In the same YouTube
+[129:32] For the next weeks
+[129:34] A hug and until next time

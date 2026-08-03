@@ -1,0 +1,704 @@
+Transcripción de: MarketSnack_Live_-_25K_Challenge.m4a
+Modelo: small  |  Idioma: en  |  Duración: 3716s
+------------------------------------------------------------
+
+[00:24] Well, can you hear me? Let me know in the comments if you can hear me
+[00:30] We'll start in two or three minutes. I'm gonna let more people join
+[00:59] For though, who's have who's have joined we're gonna start at 935. I'm waiting a couple more minutes for everyone to join
+[02:05] So
+[02:07] Sit back and relax
+[02:09] Well, I think we have
+[03:42] One more minute
+[03:44] But we're gonna start at 935 already five minutes into the opening of the market I dropped my phone
+[04:00] So, let's see for those who are new here
+[04:04] The isn't open life. So I suspect that's so new there's some new people
+[04:10] Welcome to market snack. We're gonna we're gonna start doing these 25k live trading account challenge
+[04:18] Every Wednesday, we're gonna do it weekly
+[04:20] We can trade we don't have to trade on the live
+[04:25] The life is just pure showing the platform and if we see something we can trade it
+[04:31] But we can also trade for example today's Wednesday
+[04:35] Tomorrow I can send on the discord something I saw and I can send the explanation of
+[04:40] Well, this thing is happening on the market
+[04:43] We are gonna I
+[04:46] Think it's a fair entry
+[04:48] I'm gonna explain why I'm gonna enter why I'm gonna exit I'm gonna explain everything on the discord
+[04:54] But on the live page on on the live day that is today from 9 30 a.m. Every Wednesday from now on
+[05:01] I'm gonna
+[05:03] view the opening with you guys and
+[05:08] hopefully
+[05:09] Get you all know guys to
+[05:12] Understand the public the platform and how I view things and how I interpret stuff and flows
+[05:19] And this is life. So this is completely different from those that I do
+[05:25] Also on the weekly basis, but those are off-market. So we don't have life flows coming in
+[05:31] This is gonna be like a 45 minutes to an hour
+[05:34] So I hope you enjoy
+[05:36] So right now we are six minutes into the open
+[05:46] I'm gonna start using my filters
+[05:52] Right now. This is the all-new filter system that markets Mac has we are right now on the flow feed
+[05:59] We're my filters. We know we can now save filters
+[06:03] But I'm gonna do it all over again. So you guys can see and understand what I'm doing on
+[06:08] Here on the click more I select condition
+[06:12] multi leg and
+[06:13] I
+[06:14] Disselect multi leg. I don't like viewing multi legs at the very beginning of the market opening. I
+[06:21] Also come to I click on single leg and then from here
+[06:25] I deselect these two the M E SL and F M F SL I click apply and
+[06:33] on other I
+[06:36] Just like a intermarket sweep order and from there I click apply also the premium
+[06:42] I like it to be descending
+[06:45] Right now it's an it's on ascending, but then I click here again, and it's descending premium and
+[06:50] The premium above a hundred thousand
+[06:53] so right now
+[06:56] This is what happening what is happening today
+[06:59] We can see the biggest rates because it's only sending the biggest trade on the top all the way to the load to the
+[07:07] small straight
+[07:09] We can see the unusual
+[07:11] Like this very unusual from a one million or above of nine hundred thousand to be exact
+[07:16] We have it highlighted in gold and we have the Delta
+[07:20] Also highlighted because it's above fifth delta and we have the implied volatility also highlighted on the neutral
+[07:26] Here we have is a single leg order
+[07:28] We have the bearish note because it's a put being bought at the ask or near the ask
+[07:32] And then we have the unusual because he has three or more
+[07:37] When I click the trade I can see the contract price right now
+[07:41] I can only show it on a daily basis five day
+[07:44] like on a linear graph
+[07:47] One month and all
+[07:50] Here we see the volume that enter at 930. We saw a hundred in size
+[07:57] So we can see it on the graph here. We have a profit and loss put put chart, but this this chart is
+[08:04] For the expiration so it's not for the trade. Don't confuse that this for the expiration. That's why we have break even
+[08:12] the max loss
+[08:14] We have the all the other Greeks. We have the data. We have the Vega and we have the gamma
+[08:19] We have the DTE here. We have the stock price the exchange is what's right on and the
+[08:25] Condition which you can also see it here. That's the execution the condition
+[08:30] So that's basically
+[08:33] What's very old all the things we have on the flow feed
+[08:38] Well on the on the on the floor bar here, that's that's a floor bar
+[08:44] Then we have the execution price. We have below bit price
+[08:49] We have at bit price. You can you can read it here most bars feel toward the bit side
+[08:54] We have bit price, which means it's closer to the bid and it's closer to the ask
+[08:58] But it's not in the mid
+[09:00] We have made which is the mid of one and one twenty one ten
+[09:05] And it's the same logic applied to the bid now to the ask
+[09:10] 115 is closer to the ask then it's to the bid
+[09:14] But it isn't exactly hit on the ask here. We have a at ask price one twenty one twenty. That's two bars
+[09:20] And we have three bars one twenty five to one twenty. I'm going around right now explaining
+[09:32] Explaining what exactly is for flow feed for those of you that are new
+[09:39] Right now
+[09:41] Let's see what's here. What's happening here. This is very interesting. We have three bars. And like I just said this above ask price
+[09:47] They paid right now. This talk is at 300 if we can search be
+[09:53] You can search be bees up one percent at the moment
+[10:00] And we can see the asset premium sentiment on the asset
+[10:04] You can see that it has 33.9 million on calls 91 percent
+[10:09] and on those calls
+[10:11] You can see 23.3 million calls are executed at the ask
+[10:17] That means that 10 million call calls are executed at the bid those may be exits or they're selling premium on the calls
+[10:24] which is
+[10:26] Likely at the moment because we can see the stronger side
+[10:30] On the calls that are being executed at the asset. This is maybe some
+[10:33] Some people are closing
+[10:37] On the strong upside that be has at the moment
+[10:42] We can see the puts are very low
+[10:45] Here is basically the same you can sum all these two which is 37
+[10:50] 0.7 million dollars and it will give you this math
+[10:54] This is just bid and ask either on puts or calls
+[10:59] Right now we can see be let's say this contract exactly we have 10 million dollars
+[11:05] 10 million dollars
+[11:08] On this contract being executed at the ask 370 call
+[11:13] 370 call
+[11:15] For september 18 79 days away
+[11:20] The implied volatility is very high. I don't really like that the open interest is kind of high
+[11:26] already
+[11:28] So because of that we can see that the volume isn't near the open interest
+[11:34] So although this is being executed above ask you have to be careful because there's open interest there
+[11:44] Let me adjust again by premium. I'm gonna add it. I'm gonna call this new
+[11:52] Let me add it real quick. I'm gonna call this trade uh
+[12:00] Market snack like I did not do it correctly
+[12:08] Now
+[12:10] I'm gonna add that trade
+[12:12] just to view it
+[12:14] Right now if I click we have the contract details
+[12:19] You can see the volume is 2000 the open interest is 17 000
+[12:24] If I go on the daily note we can see
+[12:28] Here you have seven graphs and in these seven graphs we have the contract activity open interest open premium
+[12:33] Which is the contract price times the open interest and that will give you a hundred and four million dollars
+[12:39] We have the live premium exposure. We can see this part that the the open interest that's seating that 17 000
+[12:48] is making
+[12:50] 3 million dollars right now
+[12:52] Well, it's making more because those 10 million dollars already entered
+[12:57] But you can see if basically what you have to know here is that the gold bar when it's when the gold bar is above the blue bar
+[13:04] Because right now we're on the market open. But if I go to only five days
+[13:09] I was on the one day you can scroll it down here
+[13:12] If the gold bar is above the blue bar that means that the price
+[13:16] Of the contract is higher than at the moment that when they entered the trade
+[13:21] Because we had a lot of premium before today entering
+[13:28] We can see that it has been growing slowly and steady
+[13:32] So right now we have 117
+[13:35] Million dollars in premium in live premium and 19 to 92 million dollars in premium. That's
+[13:41] 15 million uh, 25 million dollars difference
+[13:45] Then we have the premium traded
+[13:48] Which will be higher than the that the net premium on the five days because on the five days
+[13:52] We have seen traded even at the ask or at the bid we have seen traded 92.4 million dollars
+[14:00] And the net premium we have 13.7 million dollars because net premium means
+[14:05] Contracts being sold at the bid and contracts being bought at the ask
+[14:09] Because they use a call
+[14:11] Well, it just it is a net premium for the contract something that
+[14:15] Others don't have other companies that we have a net premium per contract
+[14:20] And this is very interesting because we can
+[14:23] Understand what is really happening on the asset and on that contract specifically
+[14:31] Because here we just saw the 10 million dollars entered and you can see the shoe spike
+[14:36] You can see 10 million dollars entered here
+[14:38] Remember you can see all graphs
+[14:42] You can see the 2087 in volume you can see here and then you can see the 11.8 million dollars premium in bucket there
+[14:50] I mean entered that's why it gave us a spike
+[14:53] And the option pressure index means that 97.6 percent of the options traded were single leg in the last five days
+[15:01] We go to the month that also 96.9 percent were single leg
+[15:07] Single legs
+[15:08] Are a higher conviction than multi legs because multi legs can mean
+[15:12] Very complex things sometimes that we really don't understand
+[15:16] Well, we can understand but sometimes there's a lot of multi legs going on
+[15:20] On a stock and they can be butterflies or could be calendar spreads diagonal spreads
+[15:27] All kind of spreads so it gets very confusing
+[15:29] So a single leg is easier to understand when you see execution
+[15:38] Any doubts at the moment?
+[15:40] I'm explaining the platform real quick before we get I'm waiting for more flows to come in
+[15:46] But that's what's been happening. Let's see. Let's go again
+[15:53] Remember I deleted the multi I filtered out the multi legs. I have every single leg except these two
+[16:01] And then another I have intermarket sweep order is iso I
+[16:06] I click apply
+[16:07] I have the descending and I have the premium higher 100,000
+[16:14] And I can save it as a filter. I can save it if I like it here
+[16:18] Is I have already have I already have it. I can save it as a snacker
+[16:23] I have two snackers now, but I can delete one and that's my filter. So if I click reset filter
+[16:30] It will give me the live option flow
+[16:33] That's going in above 100,000 if I give it will be
+[16:39] Way quicker
+[16:42] But if I want my filters now, I can just click snacker and I will give you that's the name I gave it
+[16:48] You can give it whatever name you want
+[16:52] At the moment look, this is another interesting way on 947 am 943 am 100 call for september 18
+[17:01] This person bought a buff as $42 1.9 million dollars if I click here
+[17:07] 2.1 million dollars in two trades
+[17:10] But remember open interest is higher than the volume and then the size obviously size
+[17:17] Volume can be higher than the size and open interest can be higher than the volume on a daily basis
+[17:24] So
+[17:25] Let's see what's intro intel is doing right now
+[17:31] Interest at 135.23
+[17:36] So that contract may have
+[17:41] Let's see
+[17:49] Yeah, the open interest is
+[17:51] It's very high on this contract
+[17:55] Let's go look for something
+[17:57] That doesn't have the open interest as high right now
+[18:04] It's easier to identify based on the unusual
+[18:09] I have a stock that I have been watching
+[18:12] How much is it doing today?
+[18:14] 407
+[18:16] 0.14. So if I go here
+[18:19] Also, how does the search work? I can type
+[18:23] LRXCX
+[18:25] And I have a contract that I saw the other day. I can just remember 360 put august
+[18:33] So this is ways, right? I also can do it like the original way like the tink or swim way
+[18:38] We can do it like this 08 21
+[18:41] Put 360 and will give me the same result
+[18:45] But if you if you don't want to type all that you can just type
+[18:49] And I will give you the same thing. I can do it also call
+[18:54] And it doesn't matter you can put three call first. It just it reads the same
+[19:03] See
+[19:06] Let's see this contract
+[19:09] The open interest is still in
+[19:17] The open premium has gone down
+[19:20] You can see, okay
+[19:21] Here's an example life premium exposure right now is below the blue line
+[19:25] Because they bought
+[19:27] 20 million dollars
+[19:29] 20 million dollars at 34 35 33 37 30 38 they bought it
+[19:36] Spred it across june 25 940 946 942 953
+[19:43] They bought it higher and higher and higher the puts the put the contract price for that put
+[19:48] Right now the contract is sitting at 21
+[19:51] dollars
+[19:52] Here you can see the volume spike on june 25 you can see
+[19:55] 566 contracts being bought at the ass if I click here it will get
+[20:01] Get me to the times and sales
+[20:04] So here in the times and sales I can see above ask being traded
+[20:09] Right now they're very in the red. They're 14 dollars in the red
+[20:14] That's what like almost 50 red. Well, I think it's a little bit more
+[20:22] But they're holding in these contracts
+[20:31] Right now on the daily
+[20:33] She isn't doing very well the previous close was 40
+[20:37] 433.33 and right now it's at 406 90
+[20:42] And there's they are not still moving
+[20:52] My bad. I was showing you the contract price for
+[21:00] They're not that ready anymore because of this drop
+[21:04] I saw it here on the spread the spread is almost in 10 percent. I don't really like that
+[21:10] But you can see right now it's at 28.83
+[21:14] Was at 21 yesterday. So you got a seven dollar spike from yesterday because it dropped 26 dollars
+[21:26] Uh, I can use others other conditions on others
+[21:31] But uh, that's my way of doing it
+[21:34] I also can I sometimes can put tea awful
+[21:38] I can put the ones with the tea
+[21:42] But that's just my initial review on the market when I stop doing
+[21:49] You know what? Let's give it a try
+[21:51] Let's put the all the other conditions for at the moment
+[21:55] Let's see if something else has dropped
+[22:05] 292 July 31 that's 30 days away
+[22:12] Well, look at the execution. It's a eight cents
+[22:16] spread
+[22:20] 16 million dollars on the bid but isn't technically on the bid bid
+[22:25] It's closer to the bid
+[22:28] But it's almost a mid execution
+[22:35] But this is the kind of contracts that are very interesting because you can see the volume is way higher than the opening threshold. This is
+[22:42] an opening contract, but we don't know if
+[22:44] Sell to open or buy to open because the execution is right in the middle
+[22:49] so
+[22:50] We'll have to wait for these kind of contracts
+[22:52] I like contracts that have higher volume than the open interest and they're either to the bid or they're either to the ask
+[23:00] They're skewed to one. This isn't isn't very skewed. So this is very neutral
+[23:05] uh, right now I put
+[23:10] The other as you requested so we can see what else
+[23:17] You can see if you don't understand what an other means you can go here
+[23:25] I will explain
+[23:28] Others are very
+[23:31] They're more likely than a single leg and a multi leg
+[23:33] So you can also leave them on and it will categorize them like here on other
+[23:38] And so you can just walk by walk walk by pass them scroll pass them
+[23:57] Hmm very interesting
+[24:06] man TSM
+[24:08] has some really
+[24:12] Bullish shady stuff going on. I'm gonna show you real quick
+[24:16] If I want to view session dates, I can just go here and you're gonna understand why
+[24:22] We have the 400 calls hit on june 29 and genome on hit on june 30. I'm gonna view these contracts
+[24:30] We saw 62 million dollars
+[24:34] This was added completely to the open interest june 29
+[24:39] $8,000 straight and it was added completely to the open interest now
+[24:44] We can see if this was added to that open interest and I can guess so because we see 21 000
+[24:55] So how much the net premium in the last two days has been in the last five days
+[25:00] Has been 125 million dollars. You can see the life premium exposure the gold bar being above the blue bar
+[25:08] You understand that right?
+[25:11] The prob the the thing is
+[25:15] The thing is that we have been also
+[25:18] being seen the put sellers
+[25:20] This is a hundred percent a put seller
+[25:27] You can see this person look at look at the open interest yesterday
+[25:31] 1408 today the open interest is 7751
+[25:37] This person is selling premium for the 420 puts
+[25:41] You can see below bid
+[25:54] so
+[25:55] I think tsm for the long term right now
+[26:00] Just based on these flows
+[26:07] And then now we just saw this one
+[26:11] Being sold to open
+[26:13] Very interesting
+[26:15] I didn't add this i'm gonna add it today to this one
+[26:22] Let me remove the session
+[26:34] Here we go
+[26:36] Big one coming in
+[26:38] Big one coming in
+[26:42] We just saw this live
+[26:45] Here we go auto condition
+[26:50] right now
+[26:51] QQQ is at 729. We just saw a 795 call entering for
+[26:57] March 19
+[26:59] 69 million dollars
+[27:07] Let's see if the volume is higher than the
+[27:10] open interest
+[27:12] The total volume today is 17,000. We saw this trade the I think we saw this trade a couple weeks back
+[27:20] new contract
+[27:24] The volume is at 26
+[27:31] I like the execution
+[27:33] But we will have to wait tomorrow
+[27:35] But this is a huge trade coming in on the ask aside
+[27:40] We can see on the monthly the net premium is 109 million dollars
+[27:45] They're definitely adding
+[27:51] We saw this trade
+[27:53] Let me see
+[27:55] All time
+[27:59] May 26
+[28:04] So here we go time and sales
+[28:07] Uh, let's head to may 26
+[28:16] May 26 and see what happened on may 26
+[28:23] Well may 26 it got added and if i'm not mistaken
+[28:31] No may 26. Yeah, I got it got traded on may 26
+[28:40] Yeah, may 26. We saw all these flow at the basically the same price that's being traded today
+[28:47] Very interesting flow to keep an eye out for tomorrow if it adds
+[28:51] If it adds it's a very high conviction trade to have for the long term
+[28:55] I know it's a $4,000 trade, but if it adds it's a lot of money coming in
+[29:02] Right now the volume is below the open interest
+[29:05] Oh, it's rising
+[29:09] 170 million we just saw at 69 million dollars
+[29:14] A couple seconds back
+[29:17] From 69 million dollars to 117 million
+[29:29] Now we're seeing execution
+[29:32] Being below
+[29:39] We're gonna add it
+[29:41] We're gonna wait a couple minutes for that to see how it settles in
+[29:47] The organ is out again for premium
+[29:53] interesting
+[29:54] 24 million dollars on the 805 calls
+[30:06] Has this move?
+[30:08] 67 cents
+[30:10] Not interesting enough
+[30:24] Yeah, these are two dollars
+[30:31] That's gonna pop up the alert. Oh, I just added it
+[30:35] And see it all over the place the qqq one
+[30:42] Is the qq one all over the place
+[30:48] There's the 15 minute graph for Robinhood
+[30:50] 3.81%
+[30:53] Spies at server and 45 this trading mute is not part of market smack. I mean just
+[30:57] Even a quick I am on the state of the market
+[31:02] Then organize here by change
+[31:14] I'm
+[31:15] Really interested
+[31:17] How much how much is Marvel at
+[31:22] 288.89
+[31:34] Yeah, right now Nvidia doesn't have anything
+[31:38] Interesting at the moment
+[31:41] Let's go review the watch list. So you guys can
+[31:47] Here's the overview
+[31:49] For those who don't know who haven't seen the watch list overall move best list worst list
+[31:53] This is all
+[31:54] This is the overall move of all my list
+[31:57] This is my best list at the moment my worst list premium sellers
+[32:00] This is gonna be the worst list because they're selling premium. So it's gonna be negative from the contract
+[32:06] My top five days performing contracts. I have the tesla one
+[32:09] Worst five days
+[32:13] And the community ones
+[32:15] Uh, you can see contracts moving across market snack and community and where your where your stand
+[32:22] Right now I have I have added this contract intel. I'm not the one that's holding this one to 7 000
+[32:28] I'm holding it like a 2 000 right now
+[32:31] Uh, but we can see a couple assets
+[32:33] That have been performing quite well nice on one of you of of your watch list someone has this intel contract
+[32:41] Has a 7 000 overall move on their watch list
+[32:44] The most watched contracts today, uh on market right now. We have netflix msft arm iron intel nvidia
+[32:56] Uh, let's go review the list assets
+[33:01] These we have all the assets
+[33:05] Iron we have four contracts iron iron we have marble we have msft
+[33:11] We have micron
+[33:15] We have nvidia. So here you can organize by alphabetically order
+[33:20] The contracts or the assets and all their contracts that they hold
+[33:24] intel
+[33:27] by expiry
+[33:32] So basically
+[33:36] That's the watch list on a quick note
+[33:39] We're still waiting 10 o 4 a.m
+[33:44] Let's see. What does the market gives us?
+[33:51] 6.5 million dollars 7 60 call
+[33:54] You know what I like this
+[33:57] Right now they're in the red
+[34:00] How much is qqq
+[34:07] 7 60 call
+[34:11] October 26
+[34:18] The thing is and again the volume isn't higher than the open interest
+[34:28] But there has been a lot of momentum right now on the qqq
+[34:32] On the whole qqq area
+[34:37] The worst performing stock on the magnificence seven today
+[34:41] has been nvidia
+[34:43] Which is 2.4 2.4 percent down
+[34:47] If nvidia moves back
+[34:50] We can see a rise on the qqq
+[34:58] What do I think about ms dr? Well ms dr isn't gonna revive until bitcoin revise
+[35:05] Bitcoin
+[35:07] The coin is at 59 it went all the way to 58 yesterday below 58 did
+[35:13] We have this we have to see a huge move before before longing or heavily on ms dr. So it's a very
+[35:21] volatile stock thanks to about to his volatile underlying movement of bitcoin
+[35:27] So it really depends on that movement
+[35:31] so
+[35:34] It's a bitcoin trading company basically
+[35:37] So you have to be very careful with trading that that's just that's just that's just like trading a big queen etf in my opinion
+[35:44] You move with bitcoin
+[35:50] I think
+[35:52] We can
+[35:56] That qqq contract that we just saw the 7 60
+[36:40] Let's see
+[36:47] Let's see
+[36:53] What do you take out of those two from single leg because mfl t and m m m e s l
+[37:00] They're single legs being traded by with a
+[37:05] Another legs
+[37:06] There are multi legs being traded on a single leg basis
+[37:10] But they're basically trading one single leg and trading another single leg
+[37:14] Sometimes it works as a single leg, but majority of the time doesn't work like that
+[37:19] so you have to be kind of mindful that those are
+[37:24] multi legs instead of
+[37:28] They're closer to being a multi leg than closer to being a single leg
+[37:38] Let me
+[37:49] We're trading the october 16
+[37:52] 7 60 call
+[37:56] They bought it
+[37:57] in
+[38:02] a 27.84
+[38:04] So they're basically a little bit
+[38:12] You can see the bid price 20 27.87 28.09
+[38:20] They're expecting kind of a move
+[38:25] That's a 30 dollar move. That's a 30 dollar out of the morning move
+[38:42] But it's moving kind of slow right now for an out-of-the-money look at the
+[38:47] No tough 0.43 isn't really low
+[38:52] But it's just because it's so out of the money
+[38:57] Like it's better to trade something like that like this. Yeah, it costs you almost
+[39:02] Yeah, it costs you almost
+[39:03] 1300 more
+[39:06] But it's safer and look at the and the at the delta point 10 more point 11 more
+[39:19] Let me i'm gonna show you guys
+[39:22] I'm gonna show you guys and mark is not real quick
+[39:27] You heard of
+[39:29] And the s I have heard of it. What kind what what flow do you have on it? Does it happen really good flows today?
+[39:38] Yeah, but this is the problem. This is a penny stock basically and it's in below 10 dollars
+[39:43] It's very risky for your account because the spreads are larger
+[39:47] I'm gonna search
+[39:49] an nvidia
+[39:52] An nvidia contract. I'm really looking at
+[39:55] The past couple weeks
+[39:57] On is this september 190 calls?
+[40:04] Right now we have a we're at 19 dollars
+[40:09] And I think this can be our first trade of the account
+[40:13] Why why do I think this i'm gonna explain real quick my analysis and i'm gonna write it on
+[40:21] This is for september 18 26 reasons right now in the money because media is at 195.97 and
+[40:32] We have the open
+[40:34] Let's
+[40:35] See where do we start? Let me click all time
+[40:40] Here may 27
+[40:44] on may 27
+[40:51] on may 27 we saw
+[40:55] This ml ct
+[40:57] Yeah
+[41:00] We saw this ml ct. This is the first
+[41:03] trade that happened on nvidia. This is a 202 million dollars. And you're gonna say, oh, yeah, that's a multi leg
+[41:09] yeah
+[41:10] We can say that's a multi leg
+[41:14] But not like I said earlier on not all multi legs are the same
+[41:21] And why do I say this?
+[41:25] Because multi legs sometimes can be rovers instead of just being multi legs
+[41:32] I mean delete this so you guys can see
+[41:35] I think I have something else on going on in a second
+[41:59] This is a 200 million
+[42:01] Dollar trade that was being traded on this
+[42:06] And I can look at the time. Let me see if I find it right now. I don't know why I'm not seeing it
+[42:13] I don't want to not see in a rear right now at the moment
+[42:26] Because I can look at the time
+[42:36] okay
+[42:37] I'm gonna show it either way
+[42:40] Why i'm bullish on these kind of trades
+[42:52] You can see if we go one month bath one book one month back
+[42:56] We also saw
+[42:57] June 1 9,541 million dollars being traded on a single leg that 10,000 dollars added the other day
+[43:07] Right and then on the other day, you can see it was 80,000. It was it got added into 90,000
+[43:13] now we saw
+[43:15] Another 9,000 added which with 41 million dollars and that was 44
+[43:22] And the other was at 43
+[43:28] NVIDIA at that moment
+[43:31] NVIDIA at that moment was sitting at
+[43:34] 222 dollars you can see it all the way here
+[43:38] 220 24 and 222 dollars
+[43:42] And you know what they're still holding in these trades
+[43:46] They're still holding in these trades. You can see 80 then jump to 90 90 then jump to 99,000
+[43:55] And we have 105 105 and has been going in all the way
+[44:01] Look at the executions
+[44:04] The I think the on the june 2 was just one bar. Well, no, it was also two bars
+[44:08] Look at the execution. We have 80 million dollars defending that september 18
+[44:15] We have still 79 days
+[44:18] It is already in the money and the contract is at 1930
+[44:23] That's the spread but you can buy it a little bit cheaper
+[44:26] So you're they're basically have an average if you combine those two if you combine those two
+[44:34] With the may 26 one may 27
+[44:38] You combine those two with this one 34 34.86
+[44:43] dollars
+[44:45] They can have an average of what of 36 37 something like that
+[44:49] And you're buying it on a discount 19.30
+[44:54] And the thing is that oh, yeah, it's already on a huge discount. They're gonna lose money. Well, they have
+[45:00] almost 400 million dollars
+[45:03] On upfront money that they paid and it's already way below that
+[45:08] But you're buying a in the money contract. You're not buying a 400
+[45:13] 250 call for a medium that's that is
+[45:17] Almost unlikely to happen to september. It can happen
+[45:20] But this is you're already
+[45:23] $6 safe safe
+[45:26] On the asset price
+[45:28] And that's what I'm trying to explain
+[45:32] So we can start
+[45:38] Not documented so you guys can see it
+[45:43] You guys can I hope you guys are seeing
+[45:47] The accounts you can see 17 dollars. But that that's something I just moved. We have a 25
+[45:53] Thousand dollar account live robin hood. You can see it here
+[45:59] And we're gonna start trading using market snack
+[46:04] Our first trade is gonna be nvidia. Did you say this is not a day trade?
+[46:09] This is not a day trade
+[46:17] This is basically 2000. We come by three contracts
+[46:23] Remember managed risk. They say 25 thousand dollar account. You're gonna put everything you have just because you have very high conviction
+[46:32] Let me see if I can feel it there
+[46:45] right now, well you
+[46:47] Say 19 we have right now. You can see the spread
+[46:52] I just bought it in
+[46:56] If I go here
+[47:01] I have the three buys
+[47:06] Right now the spread is from 1895 to 1915. So the current price nine the mark is 19.05
+[47:14] $15 up at the moment. That's just
+[47:17] That isn't really much because we invested
+[47:20] 5,700
+[47:22] You can see I hear you just subtract this
+[47:26] Again, you can see it. We're just trading. We're just straight started trading live
+[47:34] There's a swing trade that we just entered here
+[47:42] I'm gonna go back to markets to show you guys why again
+[47:51] Yeah, these bills will be recorded or learn though
+[47:56] Uh, which order codes with a multi-leg on market snack do you recommend for diagonal spreads?
+[48:04] I
+[48:08] I think they're very all very likely to have diagonal spreads
+[48:13] Like the you cannot identify a what kind of spread
+[48:19] Was
+[48:21] Like you you cannot say oh this a m m m l f f t. So this is gonna be a diagonal spread
+[48:27] There's no way on doing that the only way on doing that is the kind of contracts if you have a
+[48:32] Uh, for example a vertical spreads matches the contracts that you bought and you sold
+[48:38] And uh, it varies your bearish or bullish a diagonal butterfly doesn't have to match the contract
+[48:45] So you have to look for stuff like that
+[48:53] So we just got in our fence on our first swing trade
+[48:59] I don't exactly know what's happening with these
+[49:04] I'm gonna should go check for however because I'm gonna have to do
+[49:08] A weekly check up on what we're doing
+[49:25] I'm sorry
+[49:27] Uh, let's see what else
+[49:29] Right now have I don't have any filter on so now now you're gonna see
+[49:33] Some odd numbers appearing on all the multi-legs started being traded
+[49:39] I think I saw a warmer the one
+[49:42] What is this about?
+[49:52] For example, here we have an m l f t
+[49:59] And these this looks like a vertical spread. Why 954 a.m. It matches
+[50:05] For identifying multi-legs for the first thing you have to do
+[50:08] The first thing you have to do is match the hour
+[50:11] Then if the size matches that's a vertical spread
+[50:15] Here we see they're buying the 110 puts and selling the 100 puts
+[50:20] So this is a vertical spread that's being going on if decide if the hour matches and this doesn't match the size
+[50:27] Is another kind of spread I mean can be a kind of spread diagonal spread butterfly
+[50:37] Yeah, I saw the e w m but I don't like the
+[50:40] the execution fusion
+[50:43] I don't like the execution
+[50:49] It's very neutral the execution very in the middle like this cannot be in the middle
+[50:53] Because it's an eight dollar difference. So if it wasn't nine dollar difference, it will be the mid price
+[50:59] But there's no mid price unless it's like 45 uh 44.5. It will be a mid
+[51:10] I think we're
+[51:14] Yeah, we're up a couple dollars on the immediate contract already
+[51:18] Let me share my screen so you guys can get
+[51:25] 60 up 1% up and media is a 196.22
+[51:31] You can see already the pages are 19.10 19.30
+[51:44] so
+[51:46] We have some
+[51:47] We had some really good flows going in today. They're very long term. We haven't seen
+[51:54] And I hope we see one next Wednesday
+[51:59] A very day-trady looking
+[52:02] Big flow the others
+[52:10] 700 put for September 6 17 27. This is just a very big big very long term data
+[52:17] This is a leap kind of option
+[52:20] I don't like the execution either. It's closer to the ask if you will see the spread
+[52:25] But 11 million dollars for that's such a long term isn't that very concerning really
+[52:35] Let's see. Uh, let's see the a05 a05 still at 20
+[52:40] 28.8 million dollars
+[52:44] We're also seeing the a15
+[52:56] This is still at 117 million dollars
+[53:00] Sounds weird saying stills at
+[53:03] That's a lot of money coming in
+[53:05] We're going out. We will have to wait until tomorrow to see
+[53:14] so
+[53:16] The day has been very
+[53:21] Very long-term traded. Yeah, we saw an other
+[53:33] Some of them are canceled
+[53:43] Very long-term traded contracts
+[53:45] Going in today
+[53:48] so
+[53:50] Long-term positioning today
+[54:00] Very deep in the money also
+[54:07] Man these b contracts are very interesting, but
+[54:11] The open interest is way higher than
+[54:16] Way higher than than the open interest
+[54:20] The volume is way higher than the open interest
+[54:23] No, the open interest is way higher than the volume. Sorry. I was just thinking I'm talking
+[54:29] So that this thing that this thing about those b contracts and be already be already run yesterday
+[54:45] He's definitely adding you know what on the b
+[54:49] Or on the qqq. What did you think?
+[54:53] Yeah, we can make a hundred percent sure in both
+[54:56] Tomorrow, that's the thing
+[54:59] Based on the ask based based on this being on the ask
+[55:03] On the b contracts more specifically
+[55:07] I can think he's adding because we had some good very good news on the yesterday
+[55:13] And we can really think he's adding just based on the ask
+[55:23] But that's that's that's the thing about contract with high open interest
+[55:33] Any more doubts anything you guys want to see?
+[55:42] I think my market's going up a little bit
+[55:44] We're a hundred dollars up in our position already
+[55:48] a hundred dollars up
+[55:50] Well, ninety dollars up right now
+[55:53] Like period before that we go
+[55:58] Ninety dollars up already. Let's go here so you guys can see it. You refresh the page
+[56:14] Eighty three dollars is dropped a couple cents
+[56:19] I'm gonna manage the swing today. Well, you can see right now
+[56:23] It's moving point 30
+[56:28] so
+[56:29] We're already
+[56:32] 1.5 up remember you measure you measure account based on percentage you don't measure it based on money
+[56:41] Maybe you can be a couple
+[56:43] You can be more money up
+[56:46] But the percentage is lower or higher
+[56:49] Always remember I was always measure accounts based on percentage. It's not the same
+[56:54] And listen to me closely. It's not the same
+[56:58] Saying I made a million dollars
+[57:02] And somebody asked me oh, how much money you put into it. Well, I put one billion
+[57:06] If I put one billion and made one million dollars
+[57:10] I'm a really bad trader
+[57:12] That's one percent
+[57:15] Or that's not new one. That's point one percent
+[57:20] So really measure your gains on your account
+[57:24] Based on percentage
+[57:25] It's not the same making one million dollars with one million dollars and making one million dollars with one billion dollars
+[57:32] Or if you want more realistic numbers, it's not the same making one thousand dollars
+[57:38] With two thousand dollars that making one thousand dollars with twenty thousand dollars. It's not the same thing
+[57:45] So don't put so much pressure on yourself just manage risk accordingly
+[57:51] And let the percentages run
+[57:55] What's my target on nvidia?
+[57:58] Well, we hit 200 yesterday. So I think
+[58:02] Well, I'm I think um
+[58:05] The 200 is a pretty good target to start
+[58:08] reorganizing
+[58:10] If it drops a couple dollars more, I'm gonna add one or two more
+[58:14] What I'm gonna keep you updated on the discord
+[58:17] So how does this channel is gonna work before I go?
+[58:21] Well, we're gonna this channel is gonna be live on youtube and for and it's gonna be available for everyone of the first month
+[58:29] From july to august
+[58:31] and then we're gonna move it closed to
+[58:35] Subscribers and those those market nasus subscribers are gonna are gonna have the perk
+[58:41] This there's market nasus subscribers and they're gonna have the perk
+[58:45] Of seeing and keeping up with this challenge on the closed side of the discord
+[58:50] So you have one month
+[58:53] to view this challenge and to see
+[58:57] How market snack works and if you like it you can join market snack
+[59:00] And then you have the additional perk of having me having me here wednesdays
+[59:05] On morning and night because at night I do weekly recaps on what has been happening
+[59:11] Happening on the week on the day
+[59:13] basically on macro
+[59:15] and micro on options trading
+[59:18] But that's it
+[59:21] So I'm gonna update discord. I'm gonna make a channel now
+[59:24] So you guys can see what what happened what we traded what we saw what's going on
+[59:30] And as you may have seen today has been a very
+[59:36] Very long-term trading day for options flow hasn't been really quiet. It has been uh very
+[59:44] Somewhere what very active
+[59:46] But not on the side we're expecting
+[59:53] So any more doubts anything you want to share before?
+[59:58] Uh in the description I have the description of this life. I have the discord
+[60:03] Invite you can join via the discord invite and once you join the discord you have a market snack account
+[60:11] already
+[60:12] Or if you
+[60:14] Want to subscribe?
+[60:16] You can just type your account. I'm gonna see if I can share it
+[60:30] See you can just type your account here
+[60:33] Unverify account if you have a market snack you click verify my subscription you join via the the
+[60:40] The description the live stream and then you can unverify account verify my subscription if you have a market snack account
+[60:46] It will give you this bot and you just click here
+[60:50] And then you will have access to the full signal or neutral flow straight discussion members lounge
+[60:55] And here I will make this channel live the 25k life challenge
+[61:00] from there
+[61:02] I will keep you updated on what we're doing
+[61:05] So I hope you guys have enjoyed
+[61:12] Hope you guys to see you on the next one. You have any doubts just type them on the
+[61:17] discord or DM me on discord
+[61:20] I preferred them. I prefer your questions to be typed on the discord
+[61:24] So anyone has the same question they can just get an answer for the general chat
+[61:31] All the all all classes will be recorded
+[61:35] So see you on the next one. I hope you just you enjoy it
+[61:40] Next time we're gonna have a special guest
+[61:44] I'll give you
+[61:46] The thought of to get of guessing to who it is
+[61:49] So bye have a nice day

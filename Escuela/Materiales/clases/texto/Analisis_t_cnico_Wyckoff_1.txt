@@ -1,0 +1,226 @@
+Anlisis Tcnico
+Wyckoff
+Karley B. Hernndez Sayago
+Contenido
+1. Qu es Wyckoff y para qu 
+sirve?
+2. Los 3 pilares: 
+Oferta/Demanda, 
+Causa/Efecto, 
+Esfuerzo/Resultado
+3. El Composite Man (quin 
+mueve el mercado)
+4. Estructura del ciclo Wyckoff 
+(Acumulacin  Markup  
+Distribucin  Markdown)
+5. Trading Range (TR): cmo 
+reconocerlo
+6. Fases del TR (AE) en 
+simple
+7. Eventos clave en 
+Acumulacin (PS, SC, AR, 
+ST)
+8. Spring y Test (trampas 
+alcistas/bajistas)
+9. Eventos clave en 
+Distribucin (PSY, BC, AR, 
+ST, UT/UTAD)
+10. Signos de fuerza y 
+debilidad (SOS/SOW)
+11. Volumen y spread (lectura 
+VSA en Wyckoff)
+12. Creek y Ice (lnea de 
+resistencia/soporte del TR)
+13. Entradas Wyckoff para 
+principiantes (3 gatillos)
+14. Stops, targets y gestin del 
+riesgo (plan Wyckoff)
+15. Errores tpicos (lo que ms 
+confunde)
+16. Resumen
+17. Preguntas clave
+18. Conclusiones
+1. Qu es Wyckoff y para qu sirve?
+ Mtodo para leer intencin detrs del precio/volumen.
+ Busca identificar:
+ Acumulacin (compras fuertes antes de subir)
+ Distribucin (ventas fuertes antes de caer)
+ Enfoque: operar el ciclo, no adivinar velas sueltas.
+ Ejemplo: el precio no cae pese a malas noticias y hay
+volumen en cadas  posible absorcin (mano fuerte
+comprando).
+ Pregunta clave: Estoy viendo un mercado en ciclo
+(acumular/distribuir) o solo ruido?
+2. Los 3 pilares de Wyckoff
+1. Oferta vs Demanda: si demanda > oferta  sube; si oferta > demanda 
+baja.
+2. Causa vs Efecto: el tiempo en rango (causa) anticipa el tamao del
+movimiento (efecto).
+3. Esfuerzo vs Resultado: volumen = esfuerzo; avance real = resultado (si
+hay esfuerzo sin resultado, algo pasa).
+Ejemplo rpido: gran volumen (esfuerzo) pero el precio no avanza
+posible absorcin o distribucin.
+Pregunta clave: El esfuerzo (volumen) est logrando resultado
+(avance)?
+ Wyckoff propone pensar que alguien coordina: acumula barato, sube,
+distribuye caro, baja.
+ No es conspiracin: es una forma de leer liquidez y ventajas
+institucionales.
+ T no compites con l: te alineas con su huella.
+Ejemplo: barrida de mnimos + rebote fuerte: cazaron stops y
+entr demanda.
+Pregunta clave: Estoy siguiendo la huella o siendo liquidez para
+otros?
+3. Composite Man (la idea del operador 
+grande)
+ Acumulacin: rango + absorcin de oferta  preparacin para subir
+ Markup: tendencia alcista (sube con estructura)
+ Distribucin: rango arriba + salida de posiciones  preparacin para
+caer
+ Markdown: tendencia bajista (cae con estructura)
+Ejemplo: mercado lateral largo tras cada fuerte  candidato a
+acumulacin.
+Pregunta clave: En qu fase del ciclo estoy ahora mismo?
+4. Ciclo Wyckoff (mapa general)
+
+ Precio atrapado entre soporte y resistencia.
+ Seales tpicas:
+ Varios toques a techo y suelo
+ Movimientos que fallan al romper
+ Volumen cambia de forma caracterstica (picos en extremos)
+ Ejemplo: rango 95110 por semanas: el TR es el campo de
+batalla.
+ Pregunta clave: Mi grfico es tendencia o TR?
+5. Trading Range (TR): cmo reconocerlo
+6. Fases AE del TR (versin simple)
+ Fase A: frena la tendencia previa (clmax + rebote)
+ Fase B: construccin de causa (trabajo dentro del rango)
+ Fase C: trampa (spring UTAD Upthrust After Distribuition) para probar
+liquidez
+ Fase D: aparece dominancia. Quin predomina compradores o
+vendedores? SOS Sign of Strength, SOW Sign of Weakness.
+ Fase E: salida del rango (comienza tendencia)
+Pregunta clave: Estoy intentando entrar en B (ruido) o en D/E
+(ventaja)?
+
+7. Eventos clave en Acumulacin (gua 
+rpida)
+ PS (Preliminary Support): aparece demanda inicial frenando cada
+ SC (Selling Climax): venta fuerte final + volumen alto
+ AR (Automatic Rally): rebote automtico tras clmax
+ ST (Secondary Test): retesteo del rea del SC (a veces con menos
+volumen)
+Ejemplo: cada fuerte  vela amplia con mucho volumen 
+rebote  vuelve a mnimos y ya no cae igual.
+Pregunta clave: Los retesteos muestran menos presin
+vendedora?
+
+8. Spring y Test (la trampa en 
+acumulacin)
+ Spring: rompe el soporte del rango por abajo y vuelve rpido dentro.
+ Objetivo: capturar liquidez (stops) y probar si queda oferta.
+ Test: confirmacin posterior (el precio vuelve a zona y aguanta).
+Ejemplo: soporte 100  baja a 98 (engancha stops)  cierra 101
+ luego vuelve a 100 y rebota.
+Pregunta clave: Fue ruptura real o spring (falsa ruptura con
+recuperacin)?
+
+9. Eventos clave en Distribucin
+ PSY (Preliminary Supply): aparece oferta inicial frenando subida
+ BC (Buying Climax): compra final eufrica + volumen alto
+ AR: retroceso automtico
+ ST: retesteo de la zona alta
+ UT / UTAD: rompe resistencia y vuelve dentro (trampa arriba)
+Ejemplo: rompe mximos y al da siguiente cae fuerte dentro del
+rango = posible UTAD.
+Pregunta clave: La ruptura arriba fue aceptacin o rechazo?
+
+10. SOS y SOW (seales de control)
+ SOS (Sign of Strength): empuje fuerte al alza, rompe resistencias del TR con
+intencin
+ SOW (Sign of Weakness): cada con intencin, rompe soportes del TR
+ Regla prctica: en D, el mercado muestra la mano.
+Ejemplo: en acumulacin, un SOS rompe el techo del rango con
+buen avance; luego retrocesos son oportunidades.
+Pregunta clave: Ya apareci seal clara de dominio (fuerza o
+debilidad)?
+11. Volumen y Spread (Esfuerzo vs 
+Resultado)
+ Spread = rango de la vela (altobajo).
+ Lecturas rpidas:
+ Volumen alto + poco avance = absorcin/distribucin posible
+ Volumen alto + avance amplio = intencin real
+ Volumen bajo en retroceso durante tendencia alcista = pullback
+sano
+Ejemplo: precio intenta subir con volumen alto, pero cierra cerca
+de mnimos de vela = rechazo (oferta presente).
+Pregunta clave: El volumen est apoyando el movimiento o
+contradicindolo?
+12. Creek y Ice (lmites operativos del TR)
+ En acumulacin:
+ Creek = lnea/rea de resistencia del rango (techo).
+ Romper el creek y mantener = seal alcista (salida).
+ En distribucin:
+ Ice = lnea/rea de soporte del rango (piso).
+ Romper el ice y mantener = seal bajista (salida).
+Ejemplo: mltiples rechazos en 110 = creek; cuando rompe y
+retestea, cambia el juego.
+Pregunta clave: El precio acept fuera del rango o solo lo
+toc?
+12. Creek y Ice (lmites operativos del TR)
+
+13. Entradas Wyckoff para principiantes (3 
+gatillos)
+ 1. Spring + Test (en acumulacin)
+ Entrada: tras recuperar el rango y confirmar test
+ 2. Break & Retest del Creek
+ Entrada: en el retest exitoso del techo roto
+ 3. SOS + LPS (ltimo punto de soporte)
+ Entrada: primer pullback dbil tras seal de fuerza
+Ejemplo: salida del rango  vuelve al nivel roto con volumen
+menor rebota = entrada con mejor R/R.
+Pregunta clave: Estoy entrando con confirmacin (D) o
+apostando en B?
+14. Stops, targets y gestin del riesgo 
+(estilo Wyckoff)
+ Stop donde se invalida la lectura:
+ Spring: bajo el mnimo del spring (con buffer)
+ Retest: bajo el nivel retesteado/ltimo mnimo relevante
+ Targets:
+ primer objetivo = siguiente zona de oferta/resistencia
+ segundo objetivo = proyeccin (causa  efecto) si aplica
+ Riesgo fijo: define % por trade y tamao segn SL.
+Ejemplo: si tu entrada est cerca del soporte retesteado, el SL es
+pequeo  mejor R/R.
+Pregunta clave: Mi trade tiene invalidez clara y espacio para  1,5R?
+15. Errores tpicos
+ Confundir todo rango con acumulacin (a veces es distribucin).
+ Entrar en medio del TR (fase B) sin ventaja.
+ Llamar spring a una ruptura que no recupera rpido (eso puede ser
+breakdown real).
+ Ignorar el contexto: tendencia previa + ubicacin en el ciclo.
+ No esperar confirmacin (cierre/retorno/aceptacin).
+Pregunta clave: Estoy operando un evento Wyckoff real o estoy
+ponindole nombre al azar?
+16. Resumen
+ Wyckoff ensea a leer el mercado como un proceso:
+ TR (causa)  salida (efecto), usando volumen/spread para validar
+intencin.
+ Las piezas clave: ciclo, TR, fases AE, spring/UTAD, SOS/SOW,
+creek/ice.
+
+17. Preguntas claves
+ En qu parte del ciclo estoy (acumular/markup /distribuir/markdown)?
+ El rango es acumulacin o distribucin? Qu lo demuestra?
+ Hubo spring o UTAD con recuperacin/rechazo claro?
+ Ya apareci SOS/SOW y se sostuvo?
+ Dnde est mi invalidacin (SL) y mi plan si falla?
+18. Conclusiones
+ Tu ventaja no est en predecir: est en esperar la fase correcta (D/E) y
+gestionar riesgo.
+ Wyckoff funciona mejor con disciplina: menos trades, ms selectivos.
+ Confirmacin > impulso: cierres y retests reducen falsos positivos.
+Nos vemos en
+una prxima clase!
+Recuerda unirte a nuestra Telegram: Latino Wall Street
+Sguenos en redes sociales

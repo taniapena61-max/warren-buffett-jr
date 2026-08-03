@@ -1,0 +1,208 @@
+Iron Butterfly
+Karley B. Hernndez Sayago
+Contenido
+1. Qu es un Iron Butterfly y 
+para qu sirve?
+2. Idea base: vender en el 
+centro con riesgo definido
+3. Construccin paso a paso 
+(patas)
+4. Variables clave: strikes, 
+ancho de alas, crdito, DTE
+5. Payoff: max profit, max loss, 
+break-evens (BE)
+5. Greeks principales (Theta, 
+Vega, Gamma, Delta 
+6. Cuando conviene (rango / 
+IV alta)
+7. Cuando NO conviene 
+(eventos / tendencia fuerte)
+8. Seleccin de strikes (ATM y 
+alas)
+9. DTE recomendado y por 
+qu
+10. Gestin 1: take profit (TP) y 
+reglas simples
+14. Gestin 2: stop loss (SL) y 
+zona de amenaza
+15. Ajustes bsicos (roll de alas / 
+convertir a cndor)
+16. Riesgos reales: asignacin, 
+pin risk, gaps, liquidez
+17. Checklist completo (antes de 
+entrar)
+12. Resumen
+13. Preguntas clave
+14. Conclusiones
+1. Qu es un Iron Butterfly?
+ Estrategia de crdito con riesgo definido.
+ Objetivo: que el precio termine cerca del strike central de venta al
+vencimiento.
+ Se beneficia de: paso del tiempo (Theta) y contraccin de volatilidad (IV)
+(en general).
+ Se usa cuando esperas mercado lateral (o rango).
+Ejemplo mental: Cobro una prima por proyectar a que el precio
+se queda cerca delcentro.
+Pregunta clave: Estoy esperando rango (s) o movimiento grande
+(no)?
+2. Idea base: vender el centro con proteccin
+ Vendes un centro (tipo straddle) pero compras alas para limitar la
+prdida.
+ Es como un short straddle con airbags (alas).
+Ejemplo: sin alas sera riesgo enorme; con alas defines prdida
+mxima.
+Pregunta clave: Tengo riesgo definido desde el inicio?
+ Para un Iron Fly tpico:
+1. Vender Call
+2. Vender Put
+3. Comprar Call OTM (ala superior)
+4. Comprar Put OTM (ala inferior)
+ Las alas suelen estar a la misma distancia (simtrico), pero puede ser
+asimtrico si quieres sesgo.
+Ejemplo: Subyacente 100
+ Vendo 100C y 100P
+ Compro 105C y 95P
+Pregunta clave: Mi estructura est balanceada o con sesgo?
+3. Construccin paso a paso (patas)
+ Strike central: define el punto ideal de vencimiento.
+ Ancho de alas: define riesgo mximo (ms ancho = ms margen, ms
+riesgo nominal).
+ Crdito recibido: determina max profit y break-evens.
+ DTE: cambia el comportamiento (Theta/Gamma).
+Ejemplo: alas de 5 puntos vs 10 puntos cambian la tolerancia al
+movimiento.
+Pregunta clave: Mis alas dan suficiente aire para el
+movimiento normal?
+4. Variables clave
+ Max Profit: el crdito recibido.
+ Max Loss: (ancho del ala)  (crdito).
+ Break-evens (BE):
+o BE arriba = strike central + crdito
+o BE abajo = strike central  crdito
+Ejemplo: Centro 100, alas 95/105, crdito 2.00
+ Max Profit = 2.00
+ Max Loss = 5  2 = 3.00
+ BE = 98 y 102
+Pregunta clave: Los BE quedan dentro del rango que espero?
+5. Payoff (lo que ganas/pierdes)
+6. Las Griegas
+ Theta (+): quieres que el tiempo pase.
+ Vega (-): te favorece que baje la IV (en general).
+ Gamma (-): cerca del vencimiento, el riesgo aumenta mucho si se mueve
+el precio.
+ Delta (~0): al inicio puede estar cerca de neutral; cambia si el precio se
+desplaza.
+Ejemplo: si el precio se acerca a un ala, tu Delta se inclina y el
+trade se pone direccional.
+Pregunta clave: Estoy entrando con DTE que me dispara el
+gamma en contra?
+7. Cundo conviene
+ Mercado lateral / en rango.
+ IV relativamente alta (mejor prima) y posibilidad de contraccin.
+ Sin eventos cercanos que puedan provocar gaps.
+ Buenas condiciones de liquidez (spreads estrechos).
+Ejemplo: despus de un impulso fuerte, el precio entra en
+consolidacin.
+Pregunta clave: Mi escenario base es no pasa mucho?
+8. Cundo NO conviene
+ Antes de earnings o eventos macro (riesgo de gap).
+ En tendencia fuerte sin seales de pausa.
+ Cuando el spread es amplio (costos altos).
+ Cuando no puedes gestionar (no estars atento).
+Ejemplo: operar una mariposa el da anterior a resultados = prima
+alta pero riesgo de apertura fuera de alas.
+Pregunta clave: Hay un catalizador que pueda romper mis alas?
+9. Seleccin del strike central
+ Para principiantes: centro lo ms ATM posible (precio actual).
+ Si tienes sesgo (ligero): puedes mover el centro hacia donde crees
+que quedar el precio, pero aumenta complejidad.
+ Mejor decisin: centro donde el mercado gravita (zona de equilibrio).
+Ejemplo: si el precio est 100 y el rango esperado es 98102,
+centro 100 tiene sentido.
+Pregunta clave: Mi strike central est alineado con el precio
+justo del rango?
+10. Seleccin de alas (ancho y lgica)
+ Alas ms cerca: ms crdito, menos margen (ms fcil tocar alas).
+ Alas ms lejos: menos crdito, ms margen (ms estable).
+ Regla simple: alas fuera del ruido normal.
+Ejemplo: si el activo se mueve 2% al da, alas a 1% es demasiado
+cerca.
+Pregunta clave: Mis alas estn ms all del movimiento tpico?
+11. DTE recomendado (regla prctica)
+ 2045 DTE suele ser ms manejable para vender prima (equilibrio
+Theta/Gamma).
+ 07 DTE: Theta rpido pero Gamma peligroso (mueve mucho el P&L).
+ Para principiantes: evita 0DTE hasta dominar gestin.
+Ejemplo: con 30 DTE puedes ajustar con ms tiempo; con 2 DTE
+casi no hay margen.
+Pregunta clave: Estoy eligiendo DTE por premio o por control
+del riesgo?
+12. Gestin 1: Take Profit (TP)
+ Objetivo tpico: cerrar con 5070% del crdito ganado.
+ Razn: el ltimo tramo de ganancia suele tener peor relacin
+riesgo/beneficio.
+ Si el precio est centrado y el valor cae rpido, toma lo que el mercado
+da.
+Ejemplo: crdito 2.00 cerrar en 1.00 (50%) o 0.60 (70%).
+Pregunta clave: Tengo un TP definido o espero max profit
+(riesgoso)?
+13. Gestin 2: Stop Loss (SL) y zonas
+ Define una zona de amenaza: cuando el precio se acerca a un BE o al
+ala corta.
+ Stops tpicos (elige 1 regla):
+ cerrar si pierdes 1x1.5x el crdito recibido
+ cerrar si el precio rompe BE y no vuelve
+ cerrar si Delta se vuelve demasiado direccional
+ ZONAS
+ ZONA VERDE: precio cerca del centro (TRADE cmodo)
+ ZONA AMARILLA: cerca de BE (vigilar)
+ ZONA ROJA: cerca del ala/strike de proteccin (decisin rpida)
+Pregunta clave: Qu har EXACTO si el precio toca mi BE?
+14. Ajustes bsicos
+Opciones simples:
+ Cerrar temprano (el mejor ajuste para novatos).
+ Rodar (roll) el centro si el mercado se desplaz a un nuevo equilibrio (ms
+avanzado).
+ Convertir a Iron Condor moviendo un lado si quieres ampliar rango (segn el
+caso).
+Ejemplo: si el precio se pega arriba, puedes defender moviendo el
+lado amenazado (pero con reglas claras).
+Pregunta clave: Ajusto para mejorar o solo para no aceptar
+prdida?
+15. Riesgos reales
+ Asignacin temprana: sobre todo en opciones ITM cercanas a
+vencimiento.
+ Pin risk: cerrar/expirar cerca del strike puede asignar de forma
+inesperada.
+ Gaps: apertura fuera de alas = prdida rpida.
+ Liquidez/spread: entrar y salir cuesta ms de lo que parece.
+Ejemplo: expirar justo en 100 parece ideal, pero si hay pin/assign
+puede complicar.
+Pregunta clave: Mi plan contempla asignacin y el cierre antes del
+vencimiento?
+16. Checklist
+ Mercado en rango y sin evento cercano?
+ Centro ATM alineado con equilibrio?
+ Alas fuera del movimiento tpico?
+ Crdito suficiente vs riesgo mximo?
+ TP (5070%) definido? SL definido?
+ Plan si toca BE? Plan si hay gap?
+ Liquidez buena (spreads decentes)?
+17. Resumen
+ Iron Butterfly = vender el centro con alas para limitar prdida.
+ Ganas con tiempo y estabilidad; pierdes con movimiento fuerte
+(especialmente cerca del vencimiento).
+18. Preguntas claves
+ Mi escenario base es lateral real?
+ Dnde estn mis BE y qu hago si el precio los toca?
+ Estoy cobrando suficiente prima para el riesgo?
+ Mi DTE me da control o me expone a gamma?
+ Tengo plan de cierre antes del vencimiento?
+19. Conclusiones
+ La clave no es el setup, es la gestin: TP temprano + reglas de salida.
+ Evita eventos y evita 0DTE al inicio: gamma te castiga.
+ Menos operaciones, ms selectivas.
+Nos vemos en
+una prxima clase!
+Recuerda unirte a nuestra Telegram: Latino Wall Street
+Sguenos en redes sociales

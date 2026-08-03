@@ -1,0 +1,135 @@
+Medias Mbiles Simples 
+(SMA)
+Karley B. Hernndez Sayago
+ 1. Qu es un indicador y para qu sirve?
+ 2. Precio manda: indicador = herramienta
+ 3. Indicadores mviles: qu hacen y qu NO hacen
+ 4. Parmetros tpicos (20 / 50 / 100 / 200) y lectura por timeframe
+ 4.1 SMA 20  ritmo corto / intrada
+ 4.2 SMA 50  tendencia media
+ 4.3 SMA 100  intermedia-larga
+ 4.4 SMA 200  tendencia macro
+ 5. 3 lecturas clave con medias: sesgo, pullback, invalidacin
+ 6. Cruces de medias: cundo sirven y por qu llegan tarde
+ 7. Soporte / Resistencia dinmica con medias
+ 8. Errores comunes usando medias
+ Resumen, preguntas clave y conclusiones
+Contenido
+1. Qu es un indicador y para qu sirve?
+ Un indicador es una transformacin matemtica del precio/volumen
+para resumir informacin.
+ Sirve para: contexto, confirmacin y gestin (no para adivinar).
+ Hay indicadores de: tendencia, momentum, volatilidad, volumen.
+Ejemplo: una media mvil simple suaviza el precio para ver
+direccin y filtrar el ruido del corto plazo.
+2. Precio manda: indicador  seal mgica
+ La base del trading sigue siendo: estructura + zona + gatillo + riesgo.
+ Indicadores ayudan, pero no reemplazan al precio.
+ Si un indicador contradice estructura y niveles, prioriza estructura.
+Ejemplo: una SMA inclinada hacia abajo no significa vender
+automtico; el precio puede consolidar y rebotar antes.
+ Mvil = calcula valores con una ventana de datos (ltimos N
+periodos).
+ Ventaja: filtra ruido y muestra el ritmo.
+ Desventaja: siempre llega tarde (lag).
+ No predice: describe.
+Ejemplo: un cruce de medias suele aparecer despus del
+movimiento grande.
+3. Indicadores mviles: qu hacen y qu 
+NO hacen
+ 20: ritmo corto (swing corto / intrada).
+ 50: tendencia media.
+ 100: tendencia intermedia-larga (puente).
+ 200: tendencia macro (sesgo general).
+ Regla: el periodo solo tiene sentido segn timeframe.
+Ejemplo: una SMA20 en H1 no significa lo mismo que una SMA20
+en D1.
+4. Parmetros tpicos (20/50/100/200)
+ Uso: capturar el ritmo ms reciente del precio.
+ Ideal para swing corto e intrada (M15, H1, H4).
+ Muy sensible: se gira rpido  ms seales, ms ruido.
+ En tendencias claras acta como soporte/resistencia dinmica.
+ Cruce con SMA50: cambio de ritmo en corto plazo.
+Ejemplo: en H1 alcista, pullback a SMA20 + vela engulfing = zona
+tpica de re-entrada con stop bajo el ltimo HL.
+4.1 SMA 20: ritmo corto / intrada
+ Uso: definir la tendencia intermedia del activo.
+ Filtro de sesgo: precio sobre SMA50  alcista; debajo  bajista.
+ Menos sensible que SMA20  menos ruido, mejor para mantener un
+trade.
+ Referencia institucional de pullback en D1/H4.
+ Cruce 20/50: cambio de ritmo de corto a medio plazo.
+Ejemplo: en D1 alcista, si el precio respeta 23 veces la SMA50,
+valida tendencia y la zona se vuelve un pullback de mayor
+calidad.
+4.2 SMA 50: tendencia media
+ Uso: confirmar tendencia intermedia-larga.
+ Filtro adicional entre SMA50 (medio plazo) y SMA200 (macro).
+ Muy seguida en cripto y acciones (referencia popular del mercado).
+ Ayuda a distinguir pullback profundo de cambio de tendencia.
+ til en D1 y H4 para confirmar continuacin.
+Ejemplo: si el precio rompe SMA50 a la baja pero respeta
+SMA100, suele ser pullback profundo, no cambio de tendencia.
+4.3 SMA 100: tendencia intermedia-larga
+ Uso: la referencia ms usada para sesgo de largo plazo.
+ Sobre SMA200  modo alcista de fondo; debajo  bajista de fondo.
+ Cruce 50/200 (Golden/Death Cross): cambio de rgimen macro (tarde
+pero claro).
+ Define el contexto general antes de operar en TFs menores.
+ Muy seguida por instituciones y algoritmos  suele reaccionar.
+Ejemplo: en D1 con precio sobre SMA200 y pullback a SMA50 =
+zona tpica de compra a favor de la tendencia macro.
+4.4 SMA 200: tendencia macro
+5. 3 lecturas clave con medias
+1. Sesgo: precio arriba + media apuntando arriba  sesgo alcista.
+2. Pullback: retroceso hacia SMA20/SMA50 en tendencia  zona de
+inters (no entrada automtica).
+3. Invalidacin: si rompe y se mantiene bajo la media + rompe estructura,
+cuidado.
+Ejemplo: si el precio rebota 23 veces en la SMA20, esa SMA
+acta como soporte dinmico.
+6. Cruces de medias: cundo sirven y por 
+qu llegan tarde
+ Cruces tpicos: SMA 50 vs 200 (macro), 20 vs 50 (ms rpido).
+ Pro: til para ver cambio de rgimen (tarde, pero claro).
+ Contra: en rangos genera muchos falsos.
+Ejemplo: en mercado lateral, 20/50 cruza arriba/abajo muchas
+veces  te muele con entradas sin direccin.
+7. Soporte/Resistencia dinmica con 
+medias
+ No es una lnea mgica: trtala como zona alrededor de la media.
+ Mejor uso: buscar compras en tendencia alcista cuando el precio vuelve
+a la media y aparece confirmacin.
+Ejemplo (gatillo): precio toca SMA20 + vela engulfing alcista 
+entrada con stop bajo el ltimo HL.
+8. Errores comunes usando medias (anti-
+edge)
+ Entrar solo porque toc la SMA (sin estructura/confirmacin).
+ Poner 6 medias (confunde ms de lo que ayuda).
+ Cambiar periodos hasta que se vea bien (curve fitting).
+ Usar cruces en rango (te destruye a comisiones).
+Ejemplo: si la media est plana y el precio la cruza como
+serrucho, no hay tendencia: hay rango.
+ Las SMA son herramienta de contexto, no seal mgica.
+ SMA 20 = ritmo corto; SMA 50 = tendencia media; SMA 100 = puente; SMA 200 =
+macro.
+ Mejor uso: definir sesgo y operar pullbacks a favor de tendencia.
+ En rangos generan ruido (cruces y toques falsos).
+ La estructura de precio sigue mandando: zona + confirmacin + riesgo.
+Resumen
+ La SMA que uso encaja con el timeframe que estoy operando?
+ Estoy usando la SMA como contexto o como seal mgica?
+ El mercado est en tendencia (SMA til) o en rango (SMA ruidosa)?
+ Mi trade est a favor de la SMA 200 (sesgo macro)?
+ Mi stop est donde se invalida la idea, no donde duele menos?
+Preguntas clave
+ Cuatro SMA bien usadas (20 / 50 / 100 / 200) son suficientes para tener contexto claro.
+ Si la SMA te hace entrar tarde, ajusta el proceso: estructura primero.
+ Menos, es ms: una sola herramienta bien aplicada supera diez indicadores mal
+aplicados.
+ El objetivo no es tener razn: es ejecutar un plan repetible con riesgo controlado.
+Conclusiones
+Nos vemos en
+una prxima clase!
+Recuerda unirte a nuestra Telegram: Latino Wall Street
+Sguenos en redes sociales

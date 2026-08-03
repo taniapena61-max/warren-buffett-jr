@@ -1,0 +1,399 @@
+Clases Membresa Fusin: 
+Verticales Vendidos.
+En este documento revisaremos:
+ Asignacin en Opciones.
+ Bull Put Spread.
+ Bear Call Spread.
+Asignacin en Opciones
+Contenido
+ 1.Que es un vertical vendido?
+2.Bull Put/Put Credit Spread
+3.Bear Call Spread/Call Credit 
+Spread
+4. Ejemplo
+5. Bull Put/Put Credit Spread, 
+Payoff
+6.Bear Call Spread/Call Credit 
+Spread, Payoff.
+7. Que es la asignacin?
+8.Cuando es ms probable 
+la asignacin?
+9..Asignaciones: Ejemplo
+10. Como reducir el riesgo 
+de asignacin?
+11.Volatilidad Implcita (IV) 
+y Verticales
+12.Probabilidad y Delta.
+13.Seleccin de Spread
+14.Qu buscamos?
+15.Valor extrnseco vs 
+tiempo.
+16.Conclusiones
+
+1.Qu es un vertical vendido?
+ Venta de una opcin y compra de proteccin
+ Cobro de prima desde el inicio
+ Riesgo mximo definido
+ Venta de probabilidad, no de direccin
+
+2. Put Credit Spread/ Bull Put 
+Spread
+ Venta de Put por encima del spot.
+ Compra de Put ms debajo de la venta.
+ Ganas si el precio se mantiene arriba.
+ Pierdes si cae por debajo del spread.
+
+ Venta de Call por debajo del spot.
+ Compra de Call ms arriba de la venta.
+ Ganas si el precio se mantiene abajo.
+ Pierdes si rompe el nivel.
+3.Call Credit Spread/ Bear Call 
+Spread
+4.Ejemplo  Bull Put Spread & Bear Call 
+Spread.
+Bull Put Spread: ZONA VERDE: Precio Sobre  el strike vendidoZONA ROJA: Precio Bajo el spreadLneas horizontales: strikesPayoff al vencimiento.
+Bear Call Spread:ZONA VERDE: Precio Abajo el strike vendidoZONA ROJA: Precio Arriba a el spreadLneas horizontales: strikesPayoff al vencimiento.
+ZONA ROJA: Precio bajo 
+el spread
+ZONA VERDE: Precio sobre el 
+strike vendido
+5.Put Credit Spread/ Bull Put Spread 
+Payoff
+ZONA VERDE: Precio abajo 
+el strike vendido
+ZONA ROJA: Precio 
+arriba  del spread
+6.Call Credit Spread/ Bear Call Spread 
+Payoff
+ Ejercicio normal de una opcin de venta.
+ Sucede cuando la opcin de venta est ITM.
+ Parte del contrato.
+ No es un error.
+7.Qu es la asignacin?
+ Opcin de venta ITM
+ Poco valor extrnseco
+ Cerca del vencimiento
+ Dividendos en Calls (Los Puts no pagan dividendos).
+8.Cuando es ms probable la 
+asignacin?
+Asignacin en Puts  Ejemplo:
+ Precio cae bajo el strike vendido. Compras 100 acciones al strike vendido. Evento esperado cuando la venta est ITM.Asignacin en Calls  Ejemplo:
+ Precio sube sobre el strike vendido Obligacin de vender acciones Cuidado con ex-dividend date 
+9.Asignaciones  Ejemplo
+ Cerrar la posicin antes del vencimiento.
+ Controlar el valor extrnseco: Cuanto ms ITM est la opcin, ms de su 
+valor es intrnseco y menos queda como extrnseco. En ese punto, tu 
+posicin vendida pierde el beneficio del extrnseco y el riesgo aumenta. 
+(Utilizar plantilla de Excel compartida en clase)
+ Tener un plan previo y ejecutarlo: Define desde la ejecucion de tu contrato 
+la gestion del mismo.
+ Si vendes para recolectar prima, supervisa el movimiento del subyacente.
+La venta de opciones exige monitorear el activo: momentum, niveles clave 
+y velocidad del movimiento. 
+10.Cmo reducir el riesgo de 
+asignacin?
+ La IV mide la expectativa de movimiento
+ IV alta = primas ms costosas.
+ IV baja = primas ms econmicas.
+ Vender verticales favorece IV media-alta. 
+11.Volatilidad Implcita (IV) y 
+Verticales.
+Delta = probabilidad de estar ITM
+Al estar ITM el Delta ser mas alto que -0,20 
+por ello es muy importante mantener revisin
+constante sobre el activo subyacente. A menor delta aumenta la 
+probabilidad de expirar OTM
+Mayor distancia = menor probabilidad.
+ 12.Probabilidad y Delta.
+ Elige un activo lquido.
+ Revisa la IV de las semanas siguientes.
+ Selecciona el strike con atencin. 
+ Revisa muy bien el delta.
+ Selecciona bien la prima que vas a recibir entre mayor prima menor 
+riesgo. Define el riesgo mximo.
+13.Seleccin de Spread
+Estrategia con 4  6 semanas  Alta prima  Riesgo controlado
+14.Qu buscamos?
+ Vendemos 
+verticales ITM.
+ Vencimiento: 46 
+semanas.
+ Buscamos prima 
+alta.
+ La asignacin es 
+una probabilidad, 
+no un evento 
+inmediato.
+ A ms tiempo, 
+ms valor 
+extrnseco
+ Ejercer 
+temprano 
+destruye ese 
+valor
+ Asignacin 
+temprana es 
+poco probable 
+con 3045 DTE
+15.Valor extrnseco vs tiempo.
+ ITM no significa asignacin inmediata
+ El tiempo es proteccin
+ El extrnseco manda
+La asignacin se gestiona, no se teme.
+Si entendemos lo que hacemos perdemos el miedo y gestionamos 
+adecuadamente.
+16.Conclusiones
+ No solo por estar ITM
+ El tiempo y el valor extrnseco mandan
+          Revisemos:
+ Tiempo restante
+ Valor extrnseco
+ Dividendos (en Calls)
+ Utilicemos herramientas de clculo (como el Excel)
+Pregunta clave: Cundo es ms 
+probable una asignacin temprana?
+Clases de Membresa Fusin:
+Bull Put Spread/ Call Credit Spread
+Karley Hernndez Sayago
+Membresia Fusin
+1.Introduccin Bull 
+Put/Bull Credit Spread 
+2.Qu es un Bull Put?
+3.Componentes y 
+Estructura
+4. Ejemplo
+5. Ventajas y Riesgos
+6.Que significa ITM?
+7. Bull Put ITM
+Contenido
+
+1.Introduccin a Bull Put/ Put Credit Spread
+Las estrategias con opciones permiten tomar una posicin sobre la direccin del mercado con riesgo 
+definido, es decir, con una prdida mxima limitada y conocida desde el inicio. Dentro de las estructuras 
+alcistas ms utilizadas destaca el bull put spread, tambin llamado put credit spread. Esta estrategia 
+consiste en vender una opcin put con un precio de ejercicio ms alto y, simultneamente, comprar otra 
+put con un strike ms bajo, ambas con el mismo vencimiento. Al abrir la operacin, el inversor recibe un 
+crdito neto y, a cambio, asume un riesgo controlado.
+Para comprender correctamente el bull put spread, es fundamental dominar el concepto de valor 
+intrnseco, especialmente en las opciones in-the-money (ITM). Una opcin ITM posee valor intrnseco 
+porque tendra sentido econmico ejercerla de inmediato. En una call, una opcin est ITM cuando el 
+precio del subyacente se encuentra por encima del strike; en una put, est ITM cuando el subyacente 
+cotiza por debajo del strike.
+Estas diferencias entre opciones in-the-money (ITM), at-the-money (ATM) y out-of-the-money (OTM) 
+influyen directamente en la prima, la probabilidad de xito y el perfil de riesgo de cada operacin. Por eso, 
+son criterios clave al momento de disear y gestionar un bull put spread con precisin.
+
+2.Qu es un Bull Put Spread?
+El bull put spread es un tipo de vertical spread construido con dos opciones put sobre el mismo 
+subyacente, con el mismo vencimiento y distintos precios de ejercicio. Su versin ms habitual se 
+estructura as:
+ Venta de una put con strike ms alto (generalmente at-the-money o ligeramente 
+out-of-the-money).
+ Compra de una put con strike ms bajo (normalmente ms alejada del precio actual, es decir, 
+further out-of-the-money).
+Ambas operaciones se ejecutan en una nica orden, lo que permite establecer desde el inicio un 
+crdito neto.
+La put vendida genera un ingreso (la prima cobrada) mayor que el coste de la put comprada, por lo 
+que el resultado es un crdito neto, que representa el beneficio mximo potencial de la estrategia. Se 
+denomina bull (alcista) porque se beneficia de un mercado estable o con subidas moderadas: si el 
+precio del activo subyacente se mantiene por encima del strike de la put vendida hasta el 
+vencimiento, ambas opciones expiran sin valor y el inversor conserva ntegramente la prima recibida.
+3.Componentes y Estructura
+Al estructurar un bull put spread se deben tener en cuenta los siguientes aspectos:
+ Crdito neto inicial: el diferencial entre la prima recibida por la put vendida y la prima 
+pagada por la put comprada. Este crdito es la ganancia mxima de la estrategia.
+ Prdida mxima: est limitada a la diferencia entre los precios de ejercicio (ancho del 
+spread) menos el crdito recibido. Por ejemplo, si se vende una put de 100 $ y se compra 
+una put de 98 $ con un crdito neto de 0,80 $ por accin, la prdida mxima por accin es 2 
+$  0,80 $ = 1,20 $.
+ Punto de equilibrio: se calcula restando el crdito neto al precio de ejercicio de la put 
+vendida. En el ejemplo anterior, con un strike de 100 $ y un crdito de 0,80 $, el punto de 
+equilibrio es 99,20 $.
+ Perfil temporal y volatilidad: al ser un vendedor neto de opciones, la posicin se beneficia 
+del paso del tiempo (theta) y de la cada de la volatilidad implcita. El bull put spread funciona 
+mejor cuando se espera que la volatilidad disminuya y el mercado se mantenga estable o 
+suba ligeramente.
+4.Ejemplo
+Operacin Strike Prima (por accin)
+Vender put 100 1,00 $
+Comprar put 98 0,20 $
+Crdito neto 
+(prima recibida)  0,80 $
+Supongamos que una accin cotiza a 100$ y 
+el trader prev que se mantendr en torno a 
+ese nivel durante el prximo mes. Para aplicar 
+un bull put spread se pueden realizar las 
+siguientes operaciones:
+Con este spread, el inversor recibe 0,80$  por accin (80$  por contrato de 100 acciones). Este importe 
+es su ganancia mxima y se alcanza si la accin se mantiene por encima de 100$ al vencimiento.
+En el peor caso, si el precio cae por debajo de 98$ ambas opciones expiran ITM y el inversor soporta la 
+prdida mxima:   100-98 = 2 puntos x 100$ = 200$  80$ = 120 $ por contrato. Si la accin termina en 
+99$, se encuentra en el punto de equilibrio y ni gana ni pierde.
+5.Ventajas y riesgos del Bull Put Spread
+Ventajas
+ Ingreso inicial y riesgo definido: El trader recibe un crdito neto al iniciar la operacin. Esta suma representa la 
+ganancia mxima, que se conoce de antemano.
+ Prdidas limitadas: La compra de la put ms barata acta como seguro y limita la prdida mxima.
+ Alta probabilidad de xito en mercados laterales: Se puede obtener beneficio incluso con movimientos moderados o 
+un mercado estable, siempre que el precio permanezca por encima del strike de la put vendida.
+ Aprovecha la cada de volatilidad y el paso del tiempo: La estrategia se beneficia cuando la volatilidad implcita baja 
+o el tiempo avanza, lo que reduce el valor de las opciones vendidas.
+Desventajas y riesgos
+ Ganancia limitada: El beneficio mximo no puede superar el crdito recibido. No importa cunto suba el activo; el 
+trader no obtiene ganancias adicionales ms all de la prima.
+ Prdida potencial si el mercado cae bruscamente: Si el precio cae por debajo del strike de la put comprada, ambas 
+puts estarn ITM y la prdida ser la mxima permitida.
+ Riesgo de asignacin anticipada: En las opciones americanas, la put vendida puede ser ejercitada en cualquier 
+momento. Los operadores pueden enfrentarse a asignaciones anticipadas que sern mitigadas con la proteccion.
+ Requiere experiencia: Las estrategias de spreads conllevan complejidad.
+6.Qu significa IntheMoney (ITM)?
+El trmino IntheMoney describe una opcin que tiene valor intrnseco y sera rentable si se ejerciera de 
+inmediato. Este concepto depende de la relacin entre el precio del activo subyacente y el precio de 
+ejercicio de la opcin. 
+Una opcin ITM posee valor intrnseco y que las opciones ITM suelen tener primas ms altas que las 
+opciones atthemoney (ATM) u outofthemoney (OTM). Una opcin OTM no tiene valor intrnseco (su 
+precio de ejercicio no es favorable) y una opcin ATM tiene un precio de ejercicio muy cercano al precio 
+del subyacente.
+
+7. Bullput spread ITM 
+Un bullput spread ITM (o deep inthemoney bull put spread) es una variante del bullput clsico en la que ambos 
+precios de ejercicio se sitan por encima del precio actual del activo, es decir, las dos opciones de venta estn en el 
+dinero. Este ajuste cambia de forma notable la relacin riesgo/beneficio de la estrategia.
+Un bullput normal suele vender una put atthemoney y comprar otra put ms barata fueradeldinero, de modo que se 
+obtiene un crdito y se limita la prdida mxima. En el caso del bullput ITM, se venden puts muy ITM y se compran puts 
+menos ITM (con un strike algo menor), ambos con el mismo vencimiento. Al hacerlo:
+ Se recibe un crdito grande y el riesgo mximo es pequeo. Al estar ambas opciones en el dinero, la put comprada 
+tiene un valor intrnseco importante y tiende a ganar valor casi dlar por dlar si el precio baja. Esto compensa las 
+prdidas de la put vendida y reduce el riesgo de la posicin.
+ Se necesita una subida del subyacente para alcanzar el beneficio mximo. Como las opciones estn ITM, el precio 
+de la accin debe subir bastante para situarse por encima del strike ms alto (la put vendida). Solo entonces 
+ambas opciones expiran sin valor y se conservar el crdito recibido.
+ La relacin beneficio/riesgo puede ser muy favorable. Al elegir strikes muy ITM, la prdida potencial es tan 
+pequea que la ratio recompensariesgo puede alcanzar niveles elevados un ratio de 8:2. 
+ Esta estrategia es avanzada y requiere experiencia. El inversor debe vigilar el riesgo de asignacin temprana de 
+las puts vendidas (al estar ITM, tienen ms probabilidad de ser ejercitadas) y contar con margen suficiente para 
+gestionar esa posible compra de acciones.
+Clases de Membresa Fusin
+Bear Call Spread
+Karley Hernndez Sayago
+Membresia Fusin
+1.Introduccin a los 
+Spreads/Verticales
+2. Estructura Bsica
+3.Cundo utilizar un 
+Bear Call Spread?
+4. Pasos para implementar 
+un Bear Call Spread
+5. Clculo de beneficios, 
+prdidas y punto de 
+equilibrio
+6. Ejercicio con AMAZON, 
+Bear Call ITM
+7. Ejercicio con AMAZON, Bear 
+Call ITM
+Contenido
+8. Cuando tomamos profit?
+1.Introduccin a los Spreads/Verticales
+Un spread vertical es una estrategia con opciones que combina un nmero igual de contratos largos y cortos del 
+mismo tipo (todas calls o todas puts) sobre un mismo activo, con la misma fecha de vencimiento, pero con precios 
+de ejercicio distintos. Su finalidad es expresar una visin direccional del mercado con riesgo definido, ya que la 
+prdida mxima queda limitada desde el inicio.
+Existen dos grandes categoras de spreads verticales:
+ Spreads de crdito (credit spreads): generan un ingreso al abrir la posicin.
+ Spreads de dbito (debit spreads): requieren un pago inicial para entrar en la operacin.
+Un spread vertical de crdito se construye vendiendo la opcin con mayor prima y comprando otra con menor 
+prima, lo que produce un crdito neto al inicio. Esta estructura permite limitar el riesgo, que queda acotado a la 
+diferencia entre strikes menos la prima neta recibida.
+Entre las principales ventajas de los spreads verticales destacan la claridad del riesgo y la recompensa, la 
+posibilidad de reducir el coste en comparacin con operar una opcin aislada, y la opcin de generar ingresos de 
+forma ms estructurada. Adems, al combinar una posicin long con otra short, parte del impacto de la volatilidad 
+y de la erosin temporal (theta) tiende a compensarse, dando como resultado un perfil ms equilibrado y estable 
+que el de una posicin desnuda.
+2.Estructura bsica
+ Venta de call (strike ms bajo): se vende una opcin call a un precio de ejercicio 
+determinado; este contrato obliga al vendedor a entregar el activo subyacente si el 
+comprador decide ejercer la opcin. Esta operacin genera un crdito inicial.
+ Compra de call (strike ms alto): simultneamente se compra una call con un precio 
+de ejercicio ms alto. Esta call comprada sirve para proteger contra una subida 
+significativa del precio del activo, ya que limita el riesgo potencial de prdidas 
+ilimitadas. Y la compra de call la financiamos con la prima recibida.
+ Misma fecha de vencimiento: ambas opciones tienen la misma fecha de vencimiento. 
+3.Cundo utilizar un Bear Call Spread?
+La estrategia se utiliza cuando se anticipa que el activo subyacente se mantendr 
+estable o disminuir ligeramente durante la vida de las opciones o del contrato.
+El bear call spread ITM se implementa para beneficiarse de una cada o un descenso 
+muy pronunciado.
+La estrategia puede ser atractiva en entornos de alta volatilidad, ya que las primas de 
+las opciones son ms altas. No obstante, el efecto de la volatilidad sobre la call 
+vendida y la call comprada tiende a compensarse, por lo que el beneficio procede 
+principalmente de que el precio permanezca por debajo del strike inferior. 
+4.Pasos para implementar un Bear Call Spread
+1. Seleccionar el activo subyacente: elegir una accin, ndice o ETF con una perspectiva 
+bajista.
+2. Elegir los precios de ejercicio (strikes): vender una call con un strike ms bajo y 
+comprar una call con un strike ms alto. Ambos contratos deben tener la misma fecha 
+de vencimiento. 
+3. Determinar el nmero de contratos: calcular cuntos contratos de opciones se desean 
+negociar en funcin del tamao de la posicin y del nivel de riesgo. Mayor prima menos 
+riesgo.
+4. Calcular el riesgo mximo: el riesgo mximo es la diferencia entre los strikes menos el 
+crdito neto recibido. Es importante conocer este valor antes de abrir la posicin.
+5. Gestin de la posicin: monitorizar la evolucin del precio del subyacente y estar 
+preparado para ajustar o cerrarla estrategia ya sea porque se dio el trade o el precio ha 
+roto la estructura
+5.Clculo de beneficios, prdidas y punto de equilibrio
+Ganancia mxima (beneficio 
+mximo)
+Igual al crdito neto recibido al abrir la posicin. La mejor situacin es que el precio 
+del subyacente se mantenga por debajo del strike de la call vendida de modo que 
+ambas opciones expiren sin valor y el operador se quede con la prima neta. Otros 
+operadores, especialmente con spreads in the money (ITM), pueden optar por 
+objetivos ms modestos (por ejemplo, un 1520% de revalorizacin) porque estas 
+posiciones suelen acumular un crdito mayor, y cerrar antes reduce la exposicin y 
+los requisitos de margen. No existe un porcentaje correcto universal; la eleccin de 
+un objetivo de beneficio depende del perfil de riesgo de cada inversor, del tamao 
+del spread y del comportamiento del subyacente. Sea cual sea el mtodo elegido, lo 
+importante es tener un plan de salida claro y respetarlo para proteger capital.
+Prdida mxima (riesgo mximo) La prdida mxima se calcula restando el crdito neto recibido a la diferencia entre 
+los precios de ejercicio de las dos opciones. En otras palabras: Prdida mxima = 
+Amplitud de los strikescrdito neto. El peor escenario se da cuando el subyacente 
+cotiza por encima del strike de la call comprada.
+Punto de equilibrio Strike de la call vendida + crdito neto recibido. Si el precio del subyacente se sita 
+en ese valor al vencimiento, el valor intrnseco de la call vendida ser igual al crdito 
+recibido
+6.Ejercicio con AMAZON, Bear Call ITM
+Para montar un bearcallspread in the money (ITM) con strikes 215/225 sobre Amazon, es importante 
+recordar la estructura de un deep ITM bear call spread: se vende una call muy profunda en el dinero (strike 
+bajo) y se compra otra call tambin ITM pero con un strike ms alto, ambas con el mismo vencimiento. Esta 
+combinacin genera un crdito inicial elevado y limita la prdida mxima, pero exige una cada considerable 
+del subyacente para ser rentable
+Prima neta: Se ingresa un crdito de unos 8,10USD por accin (810USD por contrato), porque la call 
+vendida a 215USD tiene un valor intrnseco mayor que la call comprada a 225USD.
+Margen estimado: 1.000USD. Esto equivale a la diferencia entre strikes (10USD x100 acciones) menos el 
+crdito recibido; es el capital que el brker bloquea para cubrir la prdida mxima.
+Prdida mxima: ~190USD, que coincide con la frmula diferencia de strikes  crdito
+Ganancia mxima: 810USD, es decir, el crdito total, que se obtiene si AMZN cotiza por debajo de 
+215USD al vencimiento.
+Punto de equilibrio: 223,10USD (215USD + 8,10USD). Por debajo de ese nivel, el spread empieza a 
+generar beneficios, pero para lograr la ganancia total AMZN tendra que caer por debajo de 215USD
+7.Ejercicio con AMAZON, Bear Call ITM
+
+8.Cuando tomamos profit?
+Cortar una posicin cuando acumula un porcentaje del beneficio mximo es una prctica habitual para 
+reducir riesgo y liberar margen. No existe un porcentaje mgico; algunos operadores de spreads de 
+crdito profundos ITM prefieren tomar beneficios cuando la posicin ha ganado un 2030%, precisamente 
+porque su crdito inicial es muy alto y la probabilidad de xito disminuye a medida que se acerca la 
+expiracin. Otros prefieren esperar a obtener un 50% del beneficio potencial antes de cerrar la posicin, 
+como muestran algunas estrategias automatizadas que se basan en monitorizar si el spread ha alcanzado 
+la mitad de su prima para enviar la orden de cierre.
+En ltima instancia, el punto de salida depende de tu tolerancia al riesgo, del comportamiento del 
+subyacente y de factores como la volatilidad. Lo importante es tener un plan predefinido y respetarlo.
+lo ms importante es que tu estrategia sea rentable de forma 
+consistente y que se adapte a tu perfil de riesgo y a tus objetivos. 
+Las cifras de beneficio potencial son un punto de referencia til, 
+pero cada operacin debera evaluarse en el contexto de tu plan 
+global de trading y el capital disponible.
+Nos vemos en
+una prxima clase!
+Recuerda unirte a nuestra Telegram: Latino Wall Street
+Sguenos en redes sociales

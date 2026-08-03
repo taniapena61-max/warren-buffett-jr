@@ -1,0 +1,1927 @@
+Transcripción de: MarketSnack 25K Challenge Pt5 - GEX Option Chain Intro.m4a
+Modelo: small  |  Idioma: en  |  Duración: 5518s
+------------------------------------------------------------
+
+[00:18] Well, listen to me, I'm going to speak Spanish here today, I hope that makes you happy, how are you?
+[01:21] I'm giving it, I'm going to give it a minute or two minutes more to people so that it joins, let's go here
+[01:40] What a market, what a market, let's go here, let's extend this, the second
+[02:07] It's the 3.5 already, the market is ...
+[02:23] Ok, for those who don't know, Mark Snack had an update, well, first of all, welcome everyone, welcome to the live of the 3.5, one of the two lives of this week that we are going to do on this YouTube
+[02:36] We want to teach Victor and me, Victor comes in brief, but what he comes in, I'm going to explain a little the platform because we don't want to lose the market
+[02:45] The market was a live training, the market is doing quite a drastic move, we have FOMC, I don't know if I already finished talking because it starts at 2.5, it's 3.6 pm this time
+[02:58] At 4.5 microsoft, we have a fairly active market, quite active
+[03:05] But, what Victor comes in, we are going to explain what we have new on the platform, this is our platform
+[03:12] We have the new search, here I can put the spx, and the spx we have the option chain
+[03:20] With the option chain, here we have the first trigger during the day, we have the asset order book site, you already have it in your flow feed, the asset premium sentiment
+[03:30] And we have the price pressure, here you can see the put wall, you can see the call walls, you can see the magneto
+[03:36] And you can see the price of the action, and we can see the expected drift, the expected drift where it is expected to move
+[03:43] Usually the expected drift goes in the direction that the magneto is
+[03:47] We have the money mix, we can see that most of the money has been given to the cousin, in the money, in the expiration of today
+[03:54] As you can see, if I move the expirations, I give it a click, this is going to change
+[04:02] As you can see, I don't know if you have noticed this
+[04:05] We have the open interest change, for a specific inspection
+[04:10] We see it again, it's going to change
+[04:18] And we have the order structure, for July 31, two days from here, the 37% of the order has been single leg
+[04:27] And the 63% of the order has been multi leg, in this expiration, you can do this with all the expiration
+[04:34] So we have the new option change, which in my opinion, well, it's not my opinion, let's talk about reality
+[04:41] What you like to hear, this is the most complete option change in the market right now
+[04:46] That any broker, any platform, we give you an option change that you only have to think about
+[04:55] But you can already look for where the money is, how the money is interacting
+[05:00] In the option change, you don't have to analyze very deeply
+[05:05] You can come here, you see the strike, you see this 7400, you can see that 65% of the contracts were a single leg trade
+[05:12] The 35% multi leg
+[05:15] Here on the left we give it this, and here you can see that the SPX is moving
+[05:21] We can see how the 44% has been traded, the 42% in the Bid 13%
+[05:26] And we have the notional, what happens? I can click here and it will take me to the contract detail
+[05:32] It is loading here, it will take me to the contract detail of what I click
+[05:37] Give me a second, let me, because I know that, give me a second, let me put the full screen here
+[05:44] So you don't have to change the image every time
+[05:51] You can click any strike price to take you to the contract detail
+[05:56] But, and the circle, the circle is a trade, the biggest trade so far
+[06:01] Well, here it was the 2.41 PM, $216,000, $216,000 for a 0 DTE
+[06:07] That's a huge trade, excuse me, you can see the price of the action 412
+[06:12] We are falling sharply right now, after the mega rebound we made at 448
+[06:18] I can see the amount of strikes, 6, 8, 10, 12, 16, 20, all the strikes
+[06:25] Let's see if I have all the strikes, we have to give it a lot of scrolling
+[06:28] And apart from that, if we are going to leave it in 2 strikes, we can see the put-wals
+[06:33] The magnets and the hangers to the right, you don't have to scroll here
+[06:37] I can do this for the weeklies, I'm going to see it, here I change the weeklies
+[06:41] For the monthly, for the monthly, August, September, November, December
+[06:47] And for the waterlies, September 30th, December 31st, March 31st
+[06:51] This is quadruple wishing day, and June 30th, 2027
+[06:55] I can change how I see it, the option chain, I can give it flip sides
+[07:00] I can see the hangers here, I put them to the left, there are people who like to do that
+[07:04] That's for preference, and I can distribute it from bigger to smaller
+[07:09] Usually the option chain comes from this way, from smaller to bigger
+[07:14] But you can change it here
+[07:16] This is the new option chain, let's go fast, because this is a life-training
+[07:20] I don't want to talk too much about the movement, but this can be done with the different companies
+[07:27] And the different indices, you can do it with Nvidia, you can do it with Tesla
+[07:35] I don't know what to do
+[07:37] I'm in it, excuse me
+[07:40] The Tesla, I can look for the Tesla, I can look for the different companies
+[07:48] What happens?
+[07:50] Let's go to the minimum
+[07:52] Let's go to what you like, the GeX, the Gamma exposure
+[07:55] What do we have in the Gamma exposure?
+[07:57] We have the underlying and Gamma, we have the asset price
+[08:01] The asset price, we have the call wall, the boot wall, the magnet, the gamma flip and the netgex
+[08:07] Right now, if we go to the Gamma exposure, we can see that we are negative 3.5 billion
+[08:12] This is moving, if you can see, this is like a graph, it's moving
+[08:17] Little by little here
+[08:19] And you can see that the gray line, the gray line is the magnet
+[08:23] The cut line
+[08:25] The call wall
+[08:27] The red cut line is the boot wall
+[08:31] The red line is the negative gex
+[08:33] The orange line is the gamma flip
+[08:37] Let's take a look at the legend
+[08:40] Let's take a look at the legend
+[08:42] Right now, I don't know why I'm looking at the asset price
+[08:45] But the asset price, you can see that the asset price, if you look closely
+[08:48] I can still see it in another action, I don't know why right now it's here
+[08:52] But we can see it, if we go to video for example
+[08:56] Or Microsoft
+[08:58] If right now we are introducing that
+[09:03] But for example, you can see it here
+[09:05] Like the asset price, the asset price is moving with the magnet
+[09:10] And it has respected the call wall a lot
+[09:15] At no time has it happened
+[09:17] You don't want to say that it will never break
+[09:20] Because the call wall and the put wall are moving little by little
+[09:22] But look at how this works
+[09:25] Look at the asset price, how the magnet is stuck
+[09:29] How it doesn't break
+[09:31] How the call wall is moving
+[09:33] How the call wall becomes the magnet
+[09:36] It's down here
+[09:39] Ok
+[09:41] Now, the SPX
+[09:43] Let's go for SPX
+[09:45] Let's go here, trading session
+[09:49] We have July 29th, July 30th, July 31st, August 3rd, August 4th
+[09:54] The next 6 days
+[09:55] Now we are in July 29th
+[09:57] July 29th, gamma larry
+[09:59] We have the netgex, we have the national value
+[10:02] The one day premium, which is 2.9 billion
+[10:05] The open interest is 402,000
+[10:07] This is the open interest that is open during today's day
+[10:10] And the volume in this contract
+[10:13] We can put the 20
+[10:15] Many people like to see the 20 because it is quite big
+[10:17] We can put the 40
+[10:19] We can put the 50
+[10:21] The 100, the 200
+[10:23] Now I personally use the 40
+[10:26] But with the 40 I can have a clear view
+[10:29] Where the most of the strikes are going
+[10:33] What happens?
+[10:35] There is something very innovative here
+[10:37] That is the institutional flow-tape
+[10:39] That institutional flow-tape is very interesting
+[10:43] If you click it, it will tell you what it is about
+[10:47] You can see it here, you can pause the video
+[10:49] You can go to your platform and read it
+[10:51] If you haven't read it, I don't know if you've noticed
+[10:53] But you click it
+[10:54] Many parts of our platform have the I
+[11:02] And the I is an information
+[11:04] And many other things to explain
+[11:06] Right now, we are going to summarize
+[11:09] There we are in Resumelife, sorry
+[11:11] And we are going to see what has happened
+[11:13] You can see what is happening in a minute
+[11:15] There was 690,000 dollars
+[11:17] There was 690,000 dollars in the 7,350
+[11:20] That is also a demon
+[11:22] You can see that it was in Multileq
+[11:24] You can see how much the spot was
+[11:26] They basically bought the 7,350
+[11:28] When they were in 7,427
+[11:30] Those people are losing money
+[11:32] They bought 90 contracts
+[11:34] In Multileq
+[11:36] You can see that they sold the 7,450 to the 3 and 4
+[11:42] They sold the 7,350 to the 2 and 59
+[11:46] They sold the 7,575 to the 3 and 1
+[11:53] Look at the time on the right
+[11:56] Look at the amount
+[11:58] Look at the strike here
+[11:59] And look at the sale
+[12:01] And look at the condition
+[12:03] I can give it here and it goes to the C Chain
+[12:05] So I can see exactly where they are selling that contract
+[12:09] You can see how the platform interconnects one to another
+[12:12] I'm here in the Gex
+[12:15] And inside the Gex you can send me the option Chain
+[12:17] And it automatically sends me
+[12:19] So you can see that transaction that happened
+[12:22] Those points that are here
+[12:24] They are also points that are here
+[12:26] And you can click on each and every one of those points
+[12:37] Ok, so let's see what's going on
+[12:40] Let's talk about something interesting
+[12:42] Right now we had a big movement
+[12:45] In this account I don't have...
+[12:48] I don't have trading view on this account
+[12:52] Let's see if I can...
+[12:54] I can look at it here
+[12:58] I can look at it here
+[12:59] Let's look at it like this
+[13:00] Basically, so that you don't know
+[13:02] The SPX, the SPY
+[13:05] The SPY is quite low today
+[13:07] The SPY came to a point
+[13:10] Let me enter a counter detail of this
+[13:15] Let me enter here so that you can see
+[13:17] What's going on
+[13:24] Let's go here
+[13:25] Let's go to the day
+[13:27] The SPY came at 12.10
+[13:30] It came at 7.30
+[13:32] Now at 2.50 it came at 7.40
+[13:34] That's 10 points of difference
+[13:37] In 2 hours
+[13:38] And now we go down to 7.38
+[13:41] And now we're at 7.39.50
+[13:44] This is a graph, if I...
+[13:47] If I go down
+[13:48] This is extreme volatility
+[13:51] But why? We have FMC
+[13:53] We have FMC, which Enwarche was talking about
+[13:55] And now we have Meta and Microsoft
+[13:57] The earnings
+[13:58] The market doesn't know what to do
+[14:00] With its life
+[14:01] Because the market doesn't know
+[14:02] How to do the earnings of Microsoft
+[14:05] It doesn't know what to do with Enwarche
+[14:07] That was an instant reaction
+[14:09] But
+[14:10] Now we see the Flipped Gamma
+[14:12] What does the Flipped Gamma mean?
+[14:14] The Flipped Gamma is...
+[14:16] Now you can see that we're at 7.408
+[14:18] This is 7.408
+[14:20] We see that the Flipped Gamma is at 7.419
+[14:22] We're at the bottom
+[14:23] We have a negative Gamma
+[14:25] You can see it here
+[14:26] Look at the netgex
+[14:27] It's negative
+[14:29] When it's negative
+[14:31] It doesn't necessarily mean
+[14:33] That we're going down
+[14:34] But it means that there's more volatility
+[14:36] Than the market makers
+[14:37] If they have to balance
+[14:39] More volatility
+[14:40] Either up or down
+[14:42] I want you to learn this
+[14:43] Don't get confused
+[14:44] Where you have a negative netgex
+[14:46] Being below the Flipped Gamma
+[14:48] It means we're going to die
+[14:50] It means there's more volatility
+[14:52] A positive netgex
+[14:53] It means
+[14:54] That there's less volatility
+[14:56] And usually we're going in a more
+[14:58] Alsist direction
+[14:59] But in the negative netgex
+[15:01] It means that we're going to have more volatility
+[15:02] And in the market we're going to know
+[15:04] Where to go
+[15:05] It's still deciding
+[15:06] Right now, look
+[15:08] The market just left 6 points
+[15:10] In our face
+[15:12] 6 points
+[15:13] It's trying to get there
+[15:18] You can see the PUTWAL 7400
+[15:20] Let's see if it bounces in that PUTWAL
+[15:22] Or if it breaks
+[15:23] Because we have the CalWAL
+[15:25] 7.440
+[15:26] We have the PUTWAL
+[15:27] Than the magnet
+[15:28] Look at the magnet
+[15:29] Magnets are the 7400
+[15:30] If it goes here
+[15:31] Magnet and the PUTWAL
+[15:32] The magnet
+[15:33] The balance
+[15:34] Of the open interest and the first
+[15:36] Where the balance between the open interest and the first
+[15:38] And the PUTWAL
+[15:39] If you want to see it
+[15:40] Imagine a graph
+[15:41] A PUTWAL is like a support
+[15:43] If you have an Alsist mentality
+[15:45] The PUTWAL is a support
+[15:47] And the CalWAL is a resistance
+[15:49] What happens in a graph
+[15:50] When you break a support
+[15:52] Well
+[15:53] When you break a support
+[15:54] If it gets big
+[15:55] Usually you go down
+[15:57] When you break a resistance
+[15:59] You go up
+[16:00] Right now the resistance
+[16:02] The resistance is 7.450
+[16:04] We reached 7.448
+[16:06] We could break it
+[16:07] And look where we are now
+[16:09] You tell me
+[16:10] But the resistance is now 7.440
+[16:12] The CalWAL is here
+[16:13] It's true
+[16:14] But remember that this is a netgex of the 0DT
+[16:17] The 0DT is moving
+[16:18] According to how the money moves
+[16:21] What's left are
+[16:23] 40 minutes
+[16:24] This is already quite decided
+[16:26] Here that this is the PUTWAL 7400
+[16:28] Let's see if we have a movement
+[16:30] I want to see if this breaks a little more with force
+[16:32] Because we are here right now
+[16:34] We are still in the PUTWAL
+[16:36] Now we are in 0.39862
+[16:38] I see that the PUTWAL has not moved
+[16:40] We are still 2 billion solid here
+[16:42] You could see that this was 1.1 billion dollars
+[16:45] And it is no longer 1.1 billion dollars
+[16:48] It is no longer there
+[16:50] Now we see how the PUTWAL moved at 0.395
+[16:52] But this is still having 2 billion dollars
+[16:55] And it is still the magnet
+[16:57] Very pending this type of movement
+[16:59] This is still the magnet
+[17:01] And this is still 2 billion negative here
+[17:04] But look at how the PUTWAL is moving
+[17:07] It was at 0.25, now it's at 0.90
+[17:09] Let's see
+[17:11] It broke the 7400
+[17:13] And now it's down to 6 dollars of cash
+[17:15] Now it's down
+[17:17] Is that like a skew?
+[17:23] Yes, you can say that
+[17:25] Now we are closer
+[17:27] Because we are in the negative
+[17:29] We are closer to the left
+[17:34] Well
+[17:36] Look what's happening
+[17:38] Look at how this is
+[17:40] Look at how serious the class is
+[17:44] Look, here we are
+[17:46] We are here
+[17:48] I am right now
+[17:50] Trying to
+[17:52] Correct my computer
+[17:54] I was recording a few things
+[17:56] I was recording
+[17:58] I'm waiting for
+[18:00] Wait, I can do the Spanish
+[18:02] I'm waiting until
+[18:04] Someone brings my computer up
+[18:06] Because I was recording some things
+[18:08] And we are going to have a live training
+[18:10] Very cool, so we are going to make a lot of money
+[18:12] Look at how this has just changed
+[18:14] It was at 7400
+[18:16] Now it's at 7400
+[18:18] Now it's at 7300
+[18:20] The magnet is down to 20 dollars
+[18:22] See how the support
+[18:24] Imagine if we go back
+[18:26] Imagine a graph
+[18:28] See how the support broke
+[18:30] The support was at 7400
+[18:32] Now that support
+[18:34] Is back
+[18:36] Resistance
+[18:38] See, look at the graph
+[18:40] Now that support is resistance
+[18:42] We were at 7400 almost now
+[18:46] I think it's enough
+[18:48] Explanation for you for now
+[18:50] Let's see what we can choose
+[18:52] From here I arrive Victor
+[18:56] Now we are at 7384
+[18:58] 7384
+[19:02] 7386
+[19:04] Sorry
+[19:09] We are going to do it here
+[19:20] We are going to see this
+[19:29] We are going to do it here, this is the account
+[19:31] We are excited
+[19:37] This is the account, we are going to have to see it
+[19:41] But you are live on youtube, what?
+[19:43] I'm live on youtube
+[19:45] The problem is that
+[19:47] We are not going to be able to enter now
+[19:49] We have to invite you to the stream
+[19:51] Or you can sit here
+[19:53] Looking for a chair
+[19:55] We are looking for a chair or we are going to change it
+[19:57] We are going to stay here
+[19:59] You are watching
+[20:02] Look
+[20:04] Let's see, let's see
+[20:06] I would like to
+[20:08] As I always use this
+[20:10] The DEX is
+[20:12] Waiting for movement under the area
+[20:14] I would wait for it to enter under the 380
+[20:16] Ok
+[20:18] Look at the POOG 1
+[20:20] The 7388
+[20:22] The what?
+[20:24] The 7388
+[20:26] What you are explaining for now
+[20:28] It was in the 7400
+[20:30] It broke and now it became
+[20:32] It became a resistance, now a call-well
+[20:34] Because it broke
+[20:36] Yes, yes, yes
+[20:38] But I don't think it's going to happen
+[20:42] The TAPE LIFE is going to happen
+[20:44] The 7358 is entering in the money
+[20:46] 7430
+[20:48] 452,000
+[20:50] That's freaky
+[20:52] The 452,000
+[20:54] The 7430
+[20:56] What?
+[20:58] We are 50,000
+[21:00] I say that we have to wait for the POOG 380
+[21:02] And then
+[21:04] To go up
+[21:06] But right now what I'm seeing
+[21:08] But those 380 have 5,000,000
+[21:10] We are negative, how much?
+[21:12] We are negative 9.4 million
+[21:14] We are negative, we can still flip it
+[21:16] Look, there we broke for the 389
+[21:20] For the 380
+[21:22] If it reaches 375
+[21:24] 3
+[21:26] 370, 360
+[21:28] We can see a spin there
+[21:32] 370, we are now
+[21:34] 370, look how the POOG is changing
+[21:36] But this is still having
+[21:38] 4 billion dollars
+[21:40] The point is to leave that area
+[21:42] That's the area, the POOG is in 375
+[21:44] I say
+[21:46] 375, 370
+[21:48] More or less
+[21:50] Always look at this here
+[21:52] They are selling the 370
+[21:54] 10.2 billion
+[21:56] I would say
+[21:58] I would say that we should be
+[22:00] When it reaches 375
+[22:02] Buy the bowser
+[22:04] Because we are negative
+[22:06] We have to wait for a bounce
+[22:08] I would treat it as a bounce
+[22:10] I would treat it as a bounce
+[22:12] But they are more negative
+[22:14] We are going to give it another go
+[22:16] Let me look for my computer
+[22:18] I'm not going to give it to you
+[22:22] They are selling the 7,360
+[22:24] 7,360
+[22:26] We are waiting here
+[22:28] For the 375
+[22:30] To arrive
+[22:32] Now
+[22:34] I'm going to read them now
+[22:36] Let's see
+[22:42] Let's see
+[22:44] What questions do you have
+[22:46] What does the wire refer to where is the more premium
+[22:49] Different between the magnets
+[22:51] The magnets where there is more
+[22:53] Premium and open interest
+[22:55] That is balanced
+[22:57] If you see that the magnet is in 7400
+[22:59] They have 13 prints
+[23:03] The xpx movement today
+[23:05] Look at this 7,371
+[23:07] Look at the drop
+[23:09] The one that is very negative
+[23:11] 8 billions
+[23:13] Look at this
+[23:15] 7,367
+[23:17] Let's see
+[23:34] Let's see if it calms down a little more
+[23:36] Look at the drop that we have here
+[23:40] You are not going to sit here
+[23:44] Listen
+[23:51] The rate of the point is 28
+[23:53] It moved to 350
+[23:55] We are in 3,737
+[23:57] 3
+[23:59] We are negative the range
+[24:01] 3,721
+[24:03] Let's see where this
+[24:05] We were in 10
+[24:07] We are in 8
+[24:09] We like it a little
+[24:14] Any other questions
+[24:17] Where are you now?
+[24:19] We are in tense moment because we are
+[24:21] A lot of volatility
+[24:23] The same for the geck
+[24:25] I know that every 30 seconds
+[24:27] The movement
+[24:29] And keep watching
+[24:33] I don't think we are going to 7400
+[24:35] For the moment because there is
+[24:37] The cold wall and also
+[24:39] The gamma flip
+[24:58] On your chart
+[25:00] So basically if you are training
+[25:02] If you are seeing the XPX
+[25:04] Gecks, you should trade the same thing
+[25:06] In ES
+[25:08] If you are doing in NASDAQ
+[25:10] Or NQ
+[25:12] You should do then MDX
+[25:14] So basically it is the parity
+[25:16] Of those two things
+[25:18] But what is the theory of trading
+[25:20] With the geck
+[25:22] What do we want to do?
+[25:24] So basically
+[25:26] The geck is moving
+[25:28] XPX is
+[25:30] Cash selling
+[25:32] Settlement
+[25:34] Instrument
+[25:36] And based on that
+[25:38] The gamma dealers
+[25:40] Or the market makers need to hedge
+[25:42] Or
+[25:44] Basically it is like a blackjack game
+[25:46] Right? You can see if the house is
+[25:48] Negative how much they have to pay in
+[25:50] How much money they are making
+[25:52] And which are the places that they have
+[25:54] To go to break even
+[25:56] On their books
+[25:58] So basically if you see here
+[26:00] Right now on the XPX
+[26:02] We have been seen that
+[26:04] Is dropping
+[26:06] We are seeing that
+[26:08] The XPX is dropping
+[26:10] It is falling
+[26:12] But the NQX was in 10 billion
+[26:14] And it goes to 7.2
+[26:16] It means that
+[26:18] They are netting it
+[26:20] The closer they are to zero
+[26:22] Then it is the most important point
+[26:24] Among other things
+[26:26] Of 10 billion
+[26:28] It goes down
+[26:30] But we are at 7
+[26:32] That is what we are looking for
+[26:34] What is the gamma flip
+[26:36] The gamma flip is when we are negative
+[26:38] Now you can see that the gamma flip is 399
+[26:40] 7,399
+[26:42] Right now we are at 3.7
+[26:44] We are doing both languages
+[26:46] English and Spanish
+[26:48] When the price
+[26:50] Of that PX
+[26:52] That is what we are looking for
+[26:54] It is below the gamma flip
+[26:56] 328
+[26:58] And the X will be negative
+[27:00] When the X is negative it is more volatility
+[27:02] It doesn't mean that we are down
+[27:04] A negative X is not what we are doing
+[27:06] In the market
+[27:08] A negative X is more volatility
+[27:10] When the price is above the gamma flip
+[27:12] When this price is above the gamma flip
+[27:14] It means that we have a positive X
+[27:16] And there is more stability
+[27:18] There is not so much volatility
+[27:20] Now there is volatility
+[27:22] Now there is volatility because we are at a negative
+[27:24] 8 billion dollars
+[27:26] Me in this case
+[27:28] So basically what I do
+[27:30] I will wait for the bounce
+[27:32] Since we are in a negative gamma
+[27:34] I would wait for a bounce
+[27:36] I would wait for the market bounce
+[27:38] I would wait until the market bounce
+[27:40] And then toward that same
+[27:42] Trade
+[27:44] I would wait until the contract bounce
+[27:46] Because it is going to fall
+[27:48] Or vice versa
+[27:50] Right now we are bouncing a little
+[27:52] Look at that
+[27:54] We are bouncing from the
+[27:56] From the put wall
+[27:58] So basically
+[28:00] I think we can approach
+[28:02] 380
+[28:04] 380
+[28:06] And 385
+[28:08] And after that
+[28:10] We can then
+[28:12] We have the two languages
+[28:20] We have to talk about the two languages
+[28:22] Can you explain
+[28:24] So basically
+[28:26] What it does a lot
+[28:28] It just like
+[28:30] So now GECS went
+[28:32] Very high
+[28:34] To 12
+[28:36] We were at 8 and we are still in the same place
+[28:38] Look how it jumped
+[28:40] It is jumping and moving a lot
+[28:42] So basically there is a total GECS
+[28:44] That is basically
+[28:46] It will tell you
+[28:48] If we are positive or negative
+[28:50] If we are negative
+[28:52] It means that we are going to have more volatility
+[28:54] And we are going to drop to
+[28:56] Lower levels
+[28:58] If we are positive then it is going to act
+[29:00] As a magnet towards the price
+[29:02] Or the highest price
+[29:04] Then you have
+[29:06] The ladder that it will tell you
+[29:08] Which are the biggest point in the chart
+[29:12] And also you can be
+[29:14] In a strike price that is very high
+[29:16] Negative
+[29:18] But you can also have a negative total
+[29:20] People
+[29:23] Have been using a lot of
+[29:25] Tools for
+[29:27] GECS, DEX and VANA
+[29:29] I should tell you
+[29:31] That those things are very important
+[29:33] Only for days like today
+[29:35] Look at this
+[29:37] I told you that we have to short the 380
+[29:41] Fuck
+[29:57] So we are going to wait now
+[29:59] We are going to say Prince by the way
+[30:01] 7,345
+[30:03] 7,340
+[30:05] Aggressive buys
+[30:07] So basically
+[30:09] We have to
+[30:11] 1.4 million
+[30:15] But they are in the money
+[30:17] Carlos, look where it is
+[30:19] The bounce
+[30:21] When we are negative
+[30:23] GECS
+[30:25] We are talking about the two languages
+[30:27] Because they are asking
+[30:29] Why they are speaking in English
+[30:31] Particularly the entire audience
+[30:33] We don't know that
+[30:35] We don't know if the entire audience
+[30:37] Is Spanish
+[30:39] We are just doing both
+[30:41] I don't know
+[30:43] We are here trying to explain
+[30:45] Every single person
+[30:47] How to use the application
+[30:49] I think everyone is fair
+[30:51] To have a piece of it
+[30:53] I don't know why people are reckless
+[30:55] By the way
+[30:57] You have to use both
+[30:59] No, no
+[31:01] We are explaining an application
+[31:03] You don't have to be the same
+[31:05] To get rid of a person
+[31:07] Not Italian
+[31:09] We are going in the 50s
+[31:16] I told you in the 380
+[31:18] That we have to short the bounce
+[31:21] Fuck
+[31:23] Look at the new boot wall
+[31:25] Look at the new boot wall
+[31:27] 7,340
+[31:29] I don't know
+[31:31] I don't know
+[31:42] 15 billion
+[31:44] That's a lot
+[31:46] That's a lot
+[31:48] I don't know what you are talking about
+[31:50] Why?
+[31:58] I don't know
+[32:05] If this gets to negative
+[32:07] 20 billion, 30 billion
+[32:09] We should wait for a bounce
+[32:11] Or we can buy a bounce if it reaches 30 billion
+[32:19] Yeah, the institutional flow
+[32:21] Tape is like a time on sales
+[32:23] For options but with an algorithm
+[32:25] That we have
+[32:27] Basically the algorithm
+[32:29] Selects the flow
+[32:31] That appears
+[32:33] So you won't see a thousand dollar flow
+[32:35] You will see 400,000
+[32:37] Whatever thousand plus
+[32:39] You won't see small sizes
+[32:41] The algorithm selects
+[32:43] Papi, the 380
+[32:45] 350
+[32:47] From 380 to 350
+[32:49] I told you we have to short the
+[32:51] What if bounce
+[32:53] 15 billion
+[32:55] We are seeing the same
+[33:02] Expiration
+[33:04] Everything is for today
+[33:06] If I change
+[33:08] To see different things
+[33:10] If we change
+[33:12] You can see the institutional flow
+[33:14] Tape for the same day expiration
+[33:16] So it's the same day expiration
+[33:18] If you go to 1DT
+[33:20] Let's do something
+[33:22] Put
+[33:24] 27
+[33:26] And
+[33:34] 7,340
+[33:36] We are negative
+[33:38] 13 billion dollars
+[33:43] Negative 1% of the space
+[33:45] Short tomorrow
+[33:47] Short tomorrow
+[33:49] Only one
+[33:51] For tomorrow
+[33:53] 3,5,7
+[33:55] Put
+[33:58] Small batch
+[34:00] We are going to do a long
+[34:02] I don't know
+[34:11] Today
+[34:13] We are going to do a bounce
+[34:17] For the same day
+[34:19] We are going to do a long
+[34:21] 3,6,2
+[34:23] 3,54
+[34:25] We are going to do a long
+[34:27] Why are you so stupid?
+[34:29] You are going to do a long
+[34:31] I'm going to use my phone
+[34:49] What is 1
+[34:54] I'm going to do a long
+[34:56] Fuck
+[34:58] You are so for now
+[35:00] You are so for now
+[35:02] Fuck you, shit
+[35:04] I told you to short
+[35:06] 60
+[35:12] 7,3,4
+[35:21] 6
+[35:36] You are selling the 450 now
+[36:22] Kevin
+[36:26] 7,340
+[36:28] 7,340
+[36:33] Oh my fucking god
+[36:35] I told you
+[36:37] Shit
+[36:44] Fuck, 26 billions
+[36:46] We are negative
+[36:48] 31
+[36:50] 20 minutes
+[36:52] Ok
+[36:54] I'm going to take the bounce
+[36:56] I'm going to take the bounce
+[36:58] I'm going to take the bounce
+[37:02] One second
+[37:04] Victor is going to buy the phone
+[37:06] This account is faster
+[37:08] Calm down
+[37:10] Those things happen
+[37:12] Don't be scared
+[37:14] Look at the ball under 7,35
+[37:22] Let's break it
+[37:24] See how this is moving
+[37:26] See how it is moving
+[37:28] X is too negative
+[37:34] It should bounce
+[37:36] In any minute now
+[37:46] It should make a bounce
+[37:48] Let's go up
+[37:50] It should take a bounce
+[37:55] At least for
+[37:57] Because we have a big gamma negative
+[37:59] They have to rebalance
+[38:04] 7,340
+[38:17] Let's break the bounce
+[38:19] Look at this
+[38:21] If they give it back
+[38:23] 2 minutes, 3 minutes
+[38:25] This was negative 31
+[38:27] 31
+[38:29] 31
+[38:31] This broke at
+[38:33] 337
+[38:35] It was the 2,335
+[38:44] And it came back
+[38:46] You can see it
+[38:48] It bought 4 in 37,10
+[38:50] It came out here in 4,40,10
+[38:55] Negative 16,000,000
+[38:57] At some point
+[38:59] Negative 31,000
+[39:01] Negative 16,000
+[39:03] We should be at
+[39:05] 360
+[39:07] This is the point
+[39:09] We're not going to close in this zone
+[39:11] Believe me
+[39:24] Oh shit, it's bringing the 7,4 to the 50
+[39:26] That's right
+[39:28] It's bringing the puts
+[39:30] That's why
+[39:32] The bounce can be
+[39:34] 7,400
+[39:36] 360
+[39:38] We're at
+[39:40] 7,339
+[39:42] We're here
+[39:48] It bought 7,340
+[39:52] You can't see it
+[39:54] But it came out
+[39:56] It was a quick
+[39:58] It's something quick
+[40:02] They should balance the market
+[40:04] Soon
+[40:08] It's going to be a negative level
+[40:13] It's going to depend
+[40:15] We're thinking
+[40:17] Negative 19,1,000,000
+[40:19] Negative 19,1,000,000
+[40:21] It's moving
+[40:23] It moved
+[40:25] It just moved
+[40:27] That was a huge jump
+[40:29] That was a huge jump
+[40:31] Don't worry, hold your horses
+[40:33] Wait, wait
+[40:35] There are plans
+[40:37] Holy
+[40:39] It's a toy class
+[40:41] It was here
+[40:55] It's moving
+[40:57] Let's go
+[41:01] 340
+[41:03] We're waiting
+[41:05] Last 10 minutes
+[41:10] People just know
+[41:12] This is a very nice trick
+[41:14] This is a good trick
+[41:18] One market maker can only
+[41:20] Participate at
+[41:22] 350pm until 4pm
+[41:24] So every market maker
+[41:26] Have to close
+[41:28] Or they have to hatch
+[41:30] And they have until 350
+[41:32] After that
+[41:34] There's only one market maker
+[41:36] In the whole stock market
+[41:38] That can only rebalance it
+[41:40] And they enter at 350
+[41:42] We're going to wait until 350
+[41:44] Because they're going to bounce it
+[41:46] Because the geeks
+[41:48] Right now is
+[41:50] Very deep
+[41:52] It's in 19 billions
+[41:54] But they're not going to do it
+[41:56] Now they're going to do it
+[41:58] Beginning at 350
+[42:00] 5 minutes left
+[42:28] We can do Spanish
+[42:30] English
+[42:32] English and Spanish
+[42:34] It might get too deep
+[42:42] It might get too deep
+[42:44] It might get too deep
+[42:46] Yes
+[43:04] I think we're going to end at 340
+[43:14] Or 350
+[43:16] That's my guess
+[43:18] But I would love to
+[43:20] We need to get below
+[43:22] 325
+[43:57] 360
+[43:59] That's good
+[44:01] Look at the 380
+[44:03] We're going to start selling it
+[44:05] You hear
+[44:15] We need a dropper
+[44:39] That's the price action I want to see
+[44:41] Yes
+[44:43] We're going to buy the 340
+[44:45] Let's go
+[44:47] Hold your horses
+[44:49] Hold your horses
+[44:51] We're going to buy
+[44:53] For tomorrow's creation
+[45:01] 740
+[45:03] For tomorrow
+[45:05] But I'm going to buy
+[45:07] Zero DT soon
+[45:09] We're buying
+[45:11] 740
+[45:13] 730
+[45:15] Zero DT is very expensive
+[45:17] Zero DT is expensive
+[45:19] Papicondo
+[45:23] I'm going to buy 4 or 5
+[45:25] I'm going to buy 7,340
+[45:27] Zero DT
+[45:29] Explain the tape
+[45:31] What we are seeing on jump
+[45:33] Right now
+[45:35] Those who are on the discord
+[45:37] I'm going to explain this
+[45:39] Why are we going to buy 7,340
+[45:41] Look at this
+[45:43] 7,380
+[45:45] 7,385
+[45:47] 7,360
+[45:49] They're selling the puts
+[45:51] Remember if you're selling the puts
+[45:53] It probably doesn't end
+[45:55] On top or below this
+[45:57] Or you want more, you have to rebalance
+[45:59] We're buying the 7,340
+[46:01] We're buying 7,330
+[46:03] 7,332
+[46:05] 7,340
+[46:07] I'm going to say
+[46:09] Kevin
+[46:11] Let's see
+[46:13] Where do we get this
+[46:15] They're selling the puts
+[46:17] When you sell the puts
+[46:19] Adgressive
+[46:21] Usually it's bullish
+[46:25] On the 7,340
+[46:32] We're at 7,342
+[46:34] 7,342
+[46:36] The price is negative 22,000
+[46:38] They're selling the puts
+[46:40] No, it's 800
+[46:42] But we're going to sell the puts
+[46:44] Ok, now in 5 seconds
+[46:48] The market is going to enter
+[46:50] 7,340
+[46:52] We're at 7,342
+[46:54] Look at the price
+[46:56] The price was lower
+[46:58] 7,335
+[47:00] Boom, that's what we want
+[47:02] That's what we want
+[47:16] 7,336
+[47:18] See, we're going to drop
+[47:25] We're going to drop
+[47:34] We're going to bounce
+[47:36] Small gamut
+[47:38] We have to buy in the right time
+[47:40] 7,300
+[47:42] Because we're going to drop again
+[47:44] 7,340
+[47:46] But automatically when we drop the 7,340
+[47:48] The power comes here
+[47:50] Hey
+[47:52] What's up?
+[47:54] Sorry, I'm not here
+[47:56] What the fuck is going on here?
+[48:00] They're buying 7,320
+[48:02] 7,320
+[48:12] Yeah, we're going to see a bounce
+[48:14] They're trying to send it to 350
+[48:16] So not now
+[48:18] We have to wait
+[48:21] It's too expensive
+[48:23] Right now
+[48:25] It's too expensive
+[48:27] Yeah, for sure
+[48:29] You're going to get wrecked
+[48:31] It's too expensive
+[48:33] Normally we have 2 positions
+[48:46] 3,400
+[48:48] They're going for
+[48:53] 3 pesos
+[48:55] That's what we want to see
+[48:57] We want to see that
+[48:59] We're going to wait
+[49:02] It's too expensive
+[49:04] It's too expensive
+[49:06] Too expensive
+[49:08] Too expensive
+[49:10] Nice
+[49:17] Yeah, right now
+[49:19] We're scouting
+[49:21] We're trading
+[49:23] We're trading
+[49:25] We can't hold the contracts for a long time
+[49:27] This is going to bounce
+[49:29] Look at how these contracts are going
+[49:31] These contracts
+[49:33] Now it's at about 50
+[49:35] Yeah
+[49:37] 7,326
+[49:39] Calm down
+[49:55] You want to see the magic
+[49:57] Give me 5 minutes
+[49:59] I'm going to give you a magic
+[50:01] Now it's 30
+[50:07] We haven't had anything big yet
+[50:09] Hey, what's that?
+[50:11] Look at the bubble
+[50:13] It's going up
+[50:15] It's 7,325
+[50:17] We have the support
+[50:26] Today the contract is on fire
+[50:28] Let's see how much it is
+[50:38] Negative 15 billion
+[50:40] We haven't had a lot of big transactions
+[50:42] 333
+[51:07] Look at how these contracts move
+[51:30] We have 6 minutes left
+[51:32] 6 minutes, 5 minutes with 15 seconds left
+[51:34] We're going to see
+[51:39] We're going to see that it's going to bounce
+[51:41] Negative 15 billion
+[51:43] 332
+[51:54] Verón class
+[51:56] Yup, yup
+[51:58] We're in
+[52:02] Look at this
+[52:04] 321
+[52:16] 324
+[52:24] The contract is on fire
+[52:26] The contract is on fire
+[52:28] 7,475
+[52:30] 322
+[53:37] 3,3,20,25
+[53:39] 4 minutes
+[53:43] We're waiting for now
+[54:05] 3 minutes
+[54:08] We're going to flip
+[54:25] 330
+[54:27] How much is it?
+[54:29] 21 billion
+[54:31] The contract is on fire
+[54:36] 1.4%
+[54:38] Today
+[54:44] FAKE class
+[54:46] 7,448
+[54:48] 7.4
+[55:15] Look at the magnet
+[55:19] The bounce
+[55:21] The bounce is on fire
+[55:28] 320
+[55:39] We're going to flip
+[55:52] We're going to flip
+[55:54] We're going to flip
+[55:56] 315
+[55:58] 314
+[56:06] 385
+[56:15] 623
+[56:17] We're going to flip
+[56:24] We're going to flip
+[56:26] 20 seconds left
+[56:28] We're going to try to close it
+[56:30] We're going to see what they do
+[56:34] We're going to see what they do
+[56:40] That's right, because it's 106
+[56:42] 23 billion
+[56:52] They closed it
+[56:54] 310
+[57:00] They closed it
+[57:02] It's almost the magnet
+[57:04] 316.39
+[57:06] They finally closed it
+[57:08] Look at this, 5.2 billion
+[57:10] 4.7 billion
+[57:12] Under the magnet
+[57:14] Using the ETF
+[57:24] Institutional Flow Tape
+[57:47] You can trade 15 minutes after
+[57:49] Unless you have 0DT
+[57:51] If they're 0DT
+[57:53] If they're 0DT
+[57:55] They already closed that price
+[58:09] Well
+[58:11] We're going to see
+[58:19] We're going to see
+[58:21] We're going to see the trade
+[58:23] We're going to see the trade
+[58:25] We're going to see the trade
+[58:27] We have 2 positions
+[58:29] If I'm not mistaken
+[58:33] We have 5 for tomorrow
+[58:35] No, but that's what you said
+[58:37] I don't know
+[58:39] Ok
+[58:42] We're going to see
+[58:44] We're going to see a recap
+[58:46] Of what happened today
+[58:48] Again
+[58:50] We're going to see the overview
+[58:54] Of Option Chain
+[58:56] The first trade was 3.3 billion
+[58:58] We're going to do
+[59:00] Order Book
+[59:02] It's a premium sentiment
+[59:04] We have the price pressure
+[59:06] As you can see
+[59:08] It was 7,325
+[59:10] They closed it at 7,316
+[59:12] Just below
+[59:14] From 7,320
+[59:16] The expected drift
+[59:18] They closed the magnet
+[59:20] Than the boot wall
+[59:22] In fact
+[59:26] We have the morning
+[59:28] The morning was 99%
+[59:30] We have the open interest change
+[59:32] From today
+[59:34] We can see 402,000
+[59:36] Today
+[59:38] It was 3.3 billion
+[59:40] 66% for a single leg
+[59:43] Second
+[59:45] We have the calls, the puts
+[59:47] In the option chain
+[59:49] 6, 8, 10,
+[59:51] 12
+[59:55] I can do the weekly
+[59:57] The weekly here
+[60:01] The monthly here, August
+[60:03] September, October, November
+[60:05] The quarterly
+[60:07] Because SPX, I can see the September 30, September 31
+[60:09] Those are the schedule for the wishing day
+[60:11] I can change the chain as you can see
+[60:13] I can put the puts on the left, the right side
+[60:15] I can flip strikes
+[60:17] Flip strikes
+[60:19] 7,320, 7,315
+[60:21] As I can put the ones from major to minor
+[60:23] Or
+[60:25] I can put it
+[60:27] From minor to major
+[60:29] Let's go back
+[60:31] What do I want to show with this
+[60:33] Here we have the today
+[60:35] Here we have the option chain
+[60:37] We have the transactions that we form
+[60:39] Let's go to the morning because I already expired
+[60:41] I already expired your day
+[60:45] We have
+[60:49] If the view with the geckos doesn't appear on my dashboard
+[60:51] It has to appear
+[60:53] If it doesn't appear on my dashboard
+[60:55] Or on my DM
+[60:57] Because it's supposed to appear here
+[60:59] Why don't we have the geckos?
+[61:01] Let's see how the geckos will appear
+[61:03] You search SPX here
+[61:05] And it will appear
+[61:07] The option chain and the exposure
+[61:09] You have to have the ticker hop
+[61:11] You have to refresh the page
+[61:13] You have to refresh the page
+[61:15] If you don't have the option chain
+[61:17] You have to refresh
+[61:19] And the option chain is supposed to appear here
+[61:21] If that page that you're going to leave
+[61:25] The option chain and the exposure
+[61:32] How much do you watch with mh, what are you saying
+[61:37] If mh, today
+[61:39] July 31, 520
+[61:45] I have a review
+[61:57] 520
+[62:05] If it is to not know
+[62:07] To her, they had sold
+[62:09] The idea that it wasn't
+[62:16] I'll check that later
+[62:18] Okay, we have the option chain
+[62:20] With the option chain, I can decide
+[62:22] The strays I teach
+[62:24] It's very interesting and very different to all the other topics,
+[62:27] be it interesting courses, interesting brokers,
+[62:29] or any other people with data, or usual ways.
+[62:32] We have more information than they do.
+[62:34] We have more information in the sense that I can come here
+[62:37] to an Nvidia, I can go to an Nvidia,
+[62:39] and with the Nvidia I can see the contracts,
+[62:42] for example, OIST and OST,
+[62:44] I can see where they were traded,
+[62:46] how much was the ASK, how much was the BIT,
+[62:48] how much was the BIT,
+[62:49] what was the biggest transaction that was $36,000, for example, here.
+[62:52] How much was the single leg?
+[62:54] Do you understand? I have ASK, MIT, BIT,
+[62:57] how much was the single leg?
+[62:59] And I'm going to do the same with the puts and the calls.
+[63:04] I'm going to say the put wall here,
+[63:06] the magnet here, the call wall here,
+[63:08] call wall, magnet, put wall,
+[63:11] I can also see it interactively in the option chain.
+[63:13] Well, I want to have it pretty stuck
+[63:15] because this is a 3D series, but if we go to a monthly,
+[63:17] we can see in August 21 that they are going to do different,
+[63:19] 180, 200, 220.
+[63:22] You can see that the put wall are red like this,
+[63:25] and the call wall, if I put 20,
+[63:28] I'm going to see it,
+[63:30] I'm not going to see it here, I'm going to see it here,
+[63:32] 200, 220, I'm going to see that it's green,
+[63:35] and the magnet is going to come out in the middle of the screen,
+[63:37] in the middle of the strike,
+[63:39] strike 200 magnet, single leg 81%,
+[63:42] multi leg 14%.
+[63:44] And that basically, you can see the option chain
+[63:49] of any, of any that you want to see,
+[63:51] you can see the MSFT,
+[63:54] you can see the Amazon,
+[63:56] and you can check the different,
+[63:58] where is the money.
+[64:00] Many people ask me,
+[64:01] ah, how does it work?
+[64:02] What is a notional?
+[64:03] What is a notional?
+[64:04] Why do we have a notional
+[64:06] instead of a premium value,
+[64:07] in open interest?
+[64:08] Why?
+[64:09] The notional is the amount of money
+[64:11] together, we get the math,
+[64:13] together, it's the amount of money
+[64:15] together with the gamma.
+[64:16] So basically, if you multiply
+[64:18] the open interest,
+[64:20] 663%, because it's
+[64:22] 100 contracts for each open interest
+[64:24] that is open,
+[64:25] I mean 100 shares,
+[64:27] 100 shares for the 663 contracts
+[64:29] multiplied by the strike.
+[64:32] So I'm going to give you a number
+[64:33] that is the same as this one,
+[64:34] or is very close to this one.
+[64:36] This number that is very close,
+[64:38] the difference can be
+[64:39] one algorithm that we use,
+[64:41] which is also for me,
+[64:42] the gamma that it has.
+[64:43] But I'm going to give you a very close number
+[64:45] of this one,
+[64:46] if I don't give you the same number,
+[64:47] we'll come back,
+[64:48] 663% for the amount of shares
+[64:50] in each contract,
+[64:51] which is 100% for the 225%.
+[64:54] We have the put wall,
+[64:55] we have the call wall.
+[64:56] Here too,
+[64:57] can you see it?
+[64:58] Look how it looks.
+[65:00] And look how the magnet
+[65:01] looks gray.
+[65:02] Look how it looks gray
+[65:03] with the put wall.
+[65:04] Here in this case,
+[65:05] the put wall is the magnet.
+[65:06] In Amazon,
+[65:07] for the zero,
+[65:09] I stopped today.
+[65:10] We have August 21,
+[65:13] we are going to,
+[65:14] usually,
+[65:15] a tip that I can give,
+[65:16] usually I look,
+[65:17] I look monthly
+[65:18] to see the different types
+[65:19] of put wall,
+[65:20] I don't really like the weekly ones,
+[65:21] when I'm trading shares.
+[65:23] In that case,
+[65:24] the indices are completely different.
+[65:26] You can see it here.
+[65:27] It looks like a magnet,
+[65:29] a magnet that goes
+[65:30] on a put wall,
+[65:31] on a call wall.
+[65:35] Let's see,
+[65:36] how is it going to go?
+[65:37] It already has to report
+[65:38] to Microsoft too.
+[65:39] Let's go to Microsoft.
+[65:41] $13 up in earnings.
+[65:43] $13 up in earnings.
+[65:45] Meta, how is it going to go?
+[65:48] $32 down in earnings.
+[65:51] They are great.
+[65:53] Food.
+[65:55] Food reported.
+[66:02] I don't know if it's reported.
+[66:04] I think so.
+[66:10] Yes, Microsoft came out well.
+[66:11] Microsoft came out well.
+[66:12] Microsoft is 5% up.
+[66:14] 3% up, excuse me.
+[66:16] Meta is red.
+[66:22] Meta is well red.
+[66:27] 5% down.
+[66:30] 5% down.
+[66:33] Then we have the Gama exposure,
+[66:34] which can also be used
+[66:35] for shares.
+[66:37] It can be used
+[66:38] for shares,
+[66:39] shares like the index.
+[66:41] Here,
+[66:42] this message is going to come out.
+[66:43] It came out right now.
+[66:44] Show interest.
+[66:45] I'm sorry.
+[66:47] Here it's going to come out.
+[66:48] Look,
+[66:49] it looks very different from the SPX
+[66:51] because the SPX moves much more.
+[66:53] I can look at it for 5 days.
+[66:54] I can look at it for a month.
+[66:55] And I can remove the Gama flip.
+[66:57] If I don't want to see the Gama flip.
+[66:59] We have 2 days, 5 days in this case.
+[67:01] The exposure is closer.
+[67:03] Here you can see it.
+[67:07] $586.
+[67:08] We have $552 in our after hours.
+[67:10] $34 in negative.
+[67:12] What a bad earnings.
+[67:14] We made bad earnings.
+[67:16] They are trying to recover the $3.
+[67:27] But the Gama exposure,
+[67:28] what I wanted you to know
+[67:29] is that you can use it
+[67:30] for any type of action.
+[67:31] But it will work better
+[67:34] for the indexes.
+[67:37] You can look here.
+[67:39] NADX in this case.
+[67:40] You can look at NADX.
+[67:42] You can look at the Gama exposure.
+[67:44] NADX is the negative 2% today.
+[67:48] You can look at NADX.
+[67:50] You can look at the NADX.
+[67:54] You can look at any type of action.
+[67:59] We are going to explain again
+[68:01] what the Gama flip is for the last time.
+[68:03] Let's explain how it works.
+[68:05] When we have a negative index,
+[68:07] we have more volatility.
+[68:09] When we have a negative index,
+[68:11] we have more volatility.
+[68:13] We are also below the Gama flip.
+[68:15] In this case,
+[68:17] we are going to look for an action
+[68:19] so that we can see it.
+[68:21] Let's see how it works.
+[68:23] Let's see.
+[68:25] I don't know why the Gama flip is on.
+[68:27] Now the market is open.
+[68:29] The Gama flip is not going to work.
+[68:31] Let's see if it works.
+[68:33] Ok.
+[68:35] We have the Gama flip in 414.
+[68:37] You can see it.
+[68:39] 7,414.
+[68:41] This morning,
+[68:43] the Gama flip will always be moving.
+[68:45] But while we are negative,
+[68:47] we are below the Gama flip,
+[68:49] we are going to be negative on the index.
+[68:51] Negative on the index means
+[68:53] that there is more volatility
+[68:55] and that usually
+[68:57] each bounce is going to be sold.
+[68:59] But
+[69:01] if the bounce is not sold,
+[69:03] the negative index increases the volatility.
+[69:05] What happens
+[69:07] when we are above the Gama flip?
+[69:09] Can you see the same change?
+[69:11] When we are above the Gama flip,
+[69:13] the index will be positive.
+[69:15] If the bounce is not stable,
+[69:17] there is less volatility.
+[69:20] I can change the amount of strikes.
+[69:22] Many people like to use it with 20.
+[69:24] Other people like to use it with 40,
+[69:26] like me.
+[69:28] And I can use it with 50, 100,
+[69:30] up to 200.
+[69:32] But honestly,
+[69:34] the 200
+[69:36] is half freaky,
+[69:38] as our friend Victor says.
+[69:40] And we have institutional floating.
+[69:42] That is with our algorithm.
+[69:44] We are going to use the information
+[69:46] and give them a don.
+[69:48] There you can filter by the strike.
+[69:50] You can filter by the strike.
+[69:52] I can put the 7000
+[69:54] we are going to put something 7300
+[69:56] and I can only see the contracts
+[69:58] of 7300.
+[70:00] All these contracts
+[70:02] are contracts that expire
+[70:04] this day.
+[70:06] These are the contracts that expire
+[70:08] on the day I select.
+[70:10] Here you can see that they are going to change.
+[70:12] July 31.
+[70:14] July 31, you are going to see the contracts
+[70:16] that are also 7300.
+[70:18] If I remove this,
+[70:20] if I remove this,
+[70:22] they are the contracts
+[70:24] that expire.
+[70:26] They are all the contracts that expire on July 31.
+[70:28] Two, that are two DTE.
+[70:30] One second.
+[70:42] You can see that for July 2
+[70:44] we had many transactions
+[70:46] and millions of dollars.
+[70:48] And many were CEL, CEL,
+[70:50] BOI, BOI, and you can
+[70:52] monitor them until the expiration date
+[70:54] that you leave.
+[70:56] You can see by the strike.
+[70:58] I want to see the 7400
+[71:00] if someone enters the 7400.
+[71:02] You can come here to the 7400
+[71:04] to the 7400
+[71:06] and see how many were aggressive buy
+[71:08] and how many were aggressive sell.
+[71:10] If you are very low and you want to give them, you can give them Resum Live.
+[71:12] You can see here.
+[71:16] How does this work?
+[71:18] What happens? I can also give them C Chain.
+[71:20] It automatically opens the C Chain screen
+[71:22] and it will give the contract that I gave it.
+[71:24] I think they sold the 7400
+[71:26] puts for two DTE
+[71:28] and I was able to see what happened there.
+[71:30] They bought them.
+[71:32] They were 4.5 million in the first three days
+[71:34] at 2C30.
+[71:36] 80% Asp, 15% Beep.
+[71:38] This was the tape of this Friday.
+[71:40] If I'm not mistaken.
+[71:42] This Friday
+[71:44] Wednesday
+[71:46] 29.30
+[71:48] No, I can't do this Friday.
+[71:50] I'll do it all.
+[72:03] Yes, that's for Monday, excuse me.
+[72:05] July 31.
+[72:07] Ok, so I can give them
+[72:09] C Chain, C Chain
+[72:11] and they will send me the Chain.
+[72:13] That basically the same
+[72:15] that if I give them the 7400
+[72:17] puts here.
+[72:19] This represents this.
+[72:21] Those points are transactions
+[72:23] that represent this.
+[72:25] All these transactions
+[72:27] create that range here.
+[72:31] This is institutional flow tape.
+[72:33] It's a very important tool.
+[72:35] I don't think
+[72:37] no one has a tool like that
+[72:39] along with the GEX
+[72:41] that analyzes exclusively
+[72:43] the contracts that they make that day.
+[72:45] That selectionist.
+[72:47] And that's basically the new tool
+[72:49] of the GEX.
+[72:51] I hope they can take advantage
+[72:53] of that.
+[72:55] Remember the GEX.
+[72:57] This is a tool that needs to be patient
+[72:59] with it.
+[73:01] It's a tool that is quite accurate.
+[73:03] It's a tool that can be used
+[73:05] at any time of the day
+[73:07] but it's a tool that is changing
+[73:09] and mostly in the indexes like the SPX
+[73:11] and the NADX are changing
+[73:13] through the news
+[73:15] and the market makers are balancing.
+[73:17] But today, for example, it was a day
+[73:19] where Kevin Warch, Trump
+[73:21] and Microsoft presented and there was a lot of volatility.
+[73:23] In the market
+[73:25] there was a lot of volatility
+[73:27] and it was negative 1.52%.
+[73:29] This is a very powerful tool
+[73:35] and it's a tool
+[73:37] that requires practice
+[73:39] and patience
+[73:41] because you can't be
+[73:43] trading every 5 minutes
+[73:45] trading, trading, trading.
+[73:47] It's a tool that you have to wait
+[73:49] to break your call-walls
+[73:51] and it covers this
+[74:00] from down here.
+[74:02] I'll end the story here.
+[74:05] I have to go down here.
+[74:10] Right now, the tool
+[74:12] that doesn't have a beta phase
+[74:14] is 5 days left
+[74:16] because we took it out on Monday.
+[74:18] So it's going to be free.
+[74:20] What happened? This tool is going to be
+[74:22] and in this part I'm going to do it in English.
+[74:24] Yeah, filter up off ask is going to come soon.
+[74:26] So we have this
+[74:28] pretty aggressive sprint
+[74:30] with the option change with the GEX
+[74:32] and other important details of the filters
+[74:34] and other things.
+[74:36] This tool
+[74:38] for those who have the plan
+[74:40] of 89
+[74:42] they're going to have to deal with the plan of 89
+[74:44] but
+[74:46] they're going to have to deal with a delay
+[74:48] of 15 minutes
+[74:50] of 15 minutes in the GEX
+[74:52] after the 7 days
+[74:54] and they're not going to be free.
+[74:56] After the 7 days
+[74:58] the market is going to cost
+[75:00] $9.
+[75:02] Because we both want
+[75:04] the CBO and NASDAQ
+[75:06] to charge us for this data
+[75:08] because if you notice
+[75:10] we didn't have SPX or NRX
+[75:12] we didn't have that index data
+[75:14] and this index data
+[75:16] literally costs us per user
+[75:18] we don't have to buy a package
+[75:20] of a certain amount fixed monthly
+[75:22] for each user
+[75:24] each of you
+[75:26] to provide this data
+[75:28] I mean, now the market is going to cost
+[75:30] $99
+[75:32] if you want the GEX
+[75:34] certainly if you have a subscription
+[75:36] you're going to get $89
+[75:38] but you're going to have 15 minutes of delay
+[75:40] in the GEX
+[75:42] if you don't want that delay
+[75:44] you're going to have to pay $10 extra
+[75:46] to have the GEX active
+[75:48] in the indexes
+[75:50] the GEX in action is going to be normal
+[75:52] but if you want the GEX
+[75:54] in the indexes
+[75:56] and in the NASDAQ
+[76:02] currently if you give it here
+[76:04] stay on life indices
+[76:06] on GEX data you can do it right now
+[76:08] but honestly you still have 5 days left
+[76:10] the walls in the chain
+[76:19] the walls in the chain and the walls in the GEX
+[76:21] are basically the same
+[76:23] a poor wall
+[76:25] if you decide to have a salesman
+[76:27] a poor wall is going to be a support
+[76:29] a poor wall is going to be a resistance
+[76:31] what happens
+[76:33] when a support breaks
+[76:35] when it gets flipped
+[76:37] when it gets flipped
+[76:39] let's explain what I mean by that
+[76:41] let's look here
+[76:43] let's look at a monthly
+[76:45] let's look at a monthly
+[76:50] let's look at a monthly
+[76:52] ok here we have a poor wall
+[76:54] a poor wall we're in August 21
+[76:56] what happens with a poor wall
+[76:58] a poor wall is a support
+[77:00] if I'm thinking that the market is going up
+[77:02] if the market is going up
+[77:04] this is our support
+[77:06] but if that support breaks
+[77:08] this poor wall is going to go down
+[77:10] and it becomes the resistance of the SIST
+[77:12] the cable is going to go down here
+[77:14] probably or it's going to go down to a number close
+[77:16] now the cable is going to be 7,480
+[77:18] for August
+[77:20] that cable is going to be a resistance
+[77:22] the resistance is that when we
+[77:24] go to that price it's going to be more difficult to break it
+[77:26] because there is a resistance of money
+[77:28] if you look at it on the market in another way
+[77:30] or looking at it in a low way
+[77:32] the poor wall is going to be a resistance
+[77:34] what is the support
+[77:36] so it depends on how you look at it
+[77:38] if you look at the SIST
+[77:40] this is the support and this is the resistance
+[77:42] if you look at it in a low way
+[77:44] this is the support and this is the resistance
+[77:48] the discord server
+[77:50] if I'm not mistaken
+[77:52] is right now in the
+[77:54] in the description of this youtube video
+[77:56] if you go to the description of this youtube video
+[77:58] it's going to be able to
+[78:00] it's going to be able to
+[78:10] the discord
+[78:12] the
+[78:14] in the new plan
+[78:16] we are going to come back to the new plan
+[78:18] if I'm not mistaken
+[78:20] it's going to start in a few weeks
+[78:22] and in the new plan
+[78:24] we are going to be able to pick them up
+[78:26] in the new plan with the geeks
+[78:33] I don't understand anything
+[78:35] should I take the stock trading courses from scratch
+[78:37] yeah
+[78:39] if you don't understand what we are talking about
+[78:41] if you don't understand like stock trading
+[78:43] if you don't understand
+[78:45] there are a lot of advanced options
+[78:47] the geeks
+[78:49] if you don't understand the most advanced options
+[78:51] there is a range of things
+[78:53] so I recommend you to take the classes
+[78:55] take the classes how the market works
+[78:57] how an option works
+[78:59] which is a call, which is a put
+[79:01] and once you take those classes
+[79:03] you can understand this
+[79:05] because right now we are playing
+[79:07] we are jumping too much the boat
+[79:09] if you don't understand
+[79:11] stop trading or option trading
+[79:13] geeks
+[79:17] the one from the annual plan
+[79:19] that's also
+[79:21] we understand that there are a lot of people
+[79:23] in the annual plan
+[79:25] we are also going to have the annual plan
+[79:27] it's going to be 990
+[79:29] I have to ask the question
+[79:31] tomorrow
+[79:33] I will send it via discord
+[79:35] I will send it via discord
+[79:37] I will send it via discord
+[79:39] I will send it via discord
+[79:41] I will send it via discord
+[79:43] the notion of the number
+[79:48] the notion of the number is
+[79:50] open interest 129
+[79:52] open interest for 100 actions
+[79:54] because each contract is 100 actions
+[79:56] all
+[79:58] the strike is 7,345
+[80:00] it goes from almost the same number
+[80:02] if you don't have the same number here
+[80:04] there is a difference that can vary
+[80:06] from the algorithm that we use
+[80:08] which tries to match it completely
+[80:10] now everyone
+[80:20] who has the subscription of the market
+[80:22] everyone that has the subscription
+[80:24] has the geeks
+[80:26] you still have 5 days left
+[80:28] I will answer tomorrow
+[80:30] there will be messages sent
+[80:32] don't worry
+[80:34] before the 5 days left
+[80:36] before the 5 days
+[80:38] you will get an email
+[80:40] and you will get a notification when you enter the market
+[80:42] that they are going to be able to do it
+[80:44] to be able to have the geeks
+[80:46] or not to have it
+[80:54] are we considering offering
+[80:56] an API option at some point
+[80:58] we are still working on a roadmap
+[81:00] on that
+[81:02] to be honest
+[81:04] it's not going to be anytime soon
+[81:06] it's not going to be this year
+[81:08] if we do that
+[81:10] but there we are
+[81:12] in our roadmap
+[81:14] we have not decided 100%
+[81:16] if we are going to have an API
+[81:18] but we will let you know
+[81:20] if we have an API
+[81:22] any other questions
+[81:24] what they wanted
+[81:26] everyone who has the annual plan
+[81:28] everyone who has the annual plan
+[81:30] will get a message
+[81:32] on the market smack platform
+[81:34] we are going to receive a message via email
+[81:36] or via market smack and they will tell you
+[81:38] what to do
+[81:45] there is a mobile version coming
+[81:47] the mobile version
+[81:49] will arrive in the next few months
+[81:51] very likely before November
+[81:55] right now
+[81:59] the geeks are going to be monthly
+[82:01] the market smack
+[82:03] is going to have a platform
+[82:05] that is going to be a whole price
+[82:07] we are going to do a
+[82:09] right now we are going to pay $89
+[82:11] but we are going to do $99 for everything
+[82:13] but the mobile platform
+[82:15] will probably arrive in November
+[82:17] we are working on that
+[82:19] we are first improving the product
+[82:21] adding the option chain
+[82:23] the geeks, the pickers, all these things
+[82:25] to be able to get the mobile platform
+[82:27] because you have to understand
+[82:29] something very easy
+[82:31] then get the products
+[82:33] after doing the mobile platform
+[82:35] it takes more time
+[82:37] it is better to get the whole product
+[82:39] to create the whole product
+[82:41] and do the mobile platform of singing
+[82:46] Eduardo
+[82:48] write in the discord
+[82:50] and I add you manually
+[82:52] I add you manually
+[82:54] I don't have
+[82:56] no problem
+[82:58] everyone who has entered the discord
+[83:00] I add you manually
+[83:02] when you write in D
+[83:04] you can write in the same discord
+[83:08] some other question
+[83:26] everything is clear
+[83:28] any more questions
+[83:33] is the geeks the same for all pickers
+[83:35] yeah, the geeks works exactly the same
+[83:39] for everything
+[83:41] in some pickers
+[83:43] the geeks
+[83:45] some pickers move more
+[83:47] the indies move more
+[83:49] the ndx and the volatil geeks
+[83:51] but the geeks works the same
+[83:53] for everyone
+[83:56] the ls can't be seen
+[83:58] but basically the ls, lspx
+[84:00] the ls can move ahead
+[84:02] because it is a future
+[84:04] the price is higher
+[84:06] but basically
+[84:08] if you can build the lspx
+[84:10] you can build the future
+[84:21] because the price is the future
+[84:23] if you don't understand anything
+[84:25] from this top market
+[84:27] you should buy all courses
+[84:29] a good base
+[84:31] on what is the stock market
+[84:33] and how stocks work
+[84:35] you could buy
+[84:37] tape reading
+[84:39] you could buy cash flow
+[84:41] stuff like that
+[84:43] but if you don't have any idea
+[84:45] you have to buy all the courses
+[84:47] from the core, from the base
+[84:53] and the discord server says
+[84:55] let's see what I have
+[85:09] I'll send the link in the chat
+[85:13] you have to give it to me
+[85:26] the points that appear on the strike
+[85:28] do you mean on the option chain
+[85:30] or in the
+[85:32] do you mean in the gamax poacher
+[85:34] this is what it means
+[85:42] let me just click something here
+[85:48] these mean unusual traits
+[85:50] these mean unusual traits
+[85:55] so traits are unusual
+[85:57] what they mean
+[85:59] send the link of the discord server
+[86:01] to enter there
+[86:03] you can download the app
+[86:05] enter
+[86:07] validate your subscription
+[86:09] you can vary it
+[86:11] if it doesn't let you validate
+[86:13] just message me in the discord
+[86:15] I will automatically add you
+[86:17] but that is for people who have
+[86:19] subscription to marketsnack
+[86:21] if you don't have subscription to marketsnack
+[86:23] you don't have access to all the channels
+[86:27] this update is already available
+[86:29] the update I guess
+[86:31] make sure you have this search bar
+[86:33] make sure you have this search bar
+[86:35] if you have this search bar
+[86:37] if you have this search bar
+[86:39] you can write ndx
+[86:41] for example
+[86:43] ndx
+[86:45] and it will come out of the option chain in the gamax poacher
+[86:47] another way to access the option chain
+[86:49] by the way
+[86:51] you can write spx here
+[86:53] write spx here
+[86:55] and you can access the option chain here
+[86:57] I don't know if you noticed
+[87:12] the access here
+[87:14] the gex
+[87:19] how does the gex work
+[87:21] from Monday
+[87:23] we gave all users 7 free days
+[87:25] of the gex
+[87:27] for those who have the active platform
+[87:29] right now that they pay the $89
+[87:31] they pay the $89
+[87:33] they will have the option
+[87:35] that when you win the 7 days
+[87:37] to give the upgrade to $99
+[87:39] and have the gex on the day
+[87:41] with the indexes
+[87:43] on the day I mean the moment of life
+[87:45] what happens
+[87:47] if you decide to stay on the $89
+[87:49] for the users who have
+[87:51] the active subscription today
+[87:53] if you decide to stay with the $89
+[87:55] to pay the $10 additional
+[87:57] you will have access to the gex
+[87:59] of all the actions
+[88:01] but the index
+[88:03] will be the delay 15 minutes
+[88:05] I did not understand that part
+[88:15] for those who pay the subscription
+[88:17] an email will arrive
+[88:19] explaining all this
+[88:21] in the next few days
+[88:23] before the next 5 days
+[88:25] in the next 5 days
+[88:27] an email will arrive
+[88:29] or a notification
+[88:31] inside MarketSnack
+[88:33] telling you
+[88:50] to follow the steps
+[88:52] if you have to do
+[88:54] if you want to ask me
+[88:56] an usual trade
+[88:58] prementrated
+[89:02] I can click here
+[89:04] this one expired
+[89:06] here is the biggest
+[89:08] but $620,000
+[89:10] so if you click here
+[89:12] if you click any of this
+[89:14] this one the largest trade is going to be
+[89:16] let me see
+[89:18] $500,000
+[89:20] but this one happened today
+[89:22] didn't happen today
+[89:26] but for example for this one
+[89:28] we can see that the largest one
+[89:30] the $620.3K
+[89:32] happened today
+[89:34] $620,300
+[89:39] this does not have to do with the exact condition
+[89:41] but it has to do with the largest trade
+[89:43] which is more unusual
+[89:56] since when does the free trial
+[89:58] the free trial started
+[90:00] on Monday
+[90:04] you have 5 days left
+[90:06] but you can see it here
+[90:08] 5 days left
+[90:14] we are going to do a tutorial
+[90:16] now that we are going to do a live
+[90:18] so you can know how to use it
+[90:25] what's missing is a vote with Victor's voice
+[90:27] Victor gets emotional sometimes
+[90:29] I don't worry about it
+[90:31] ok
+[90:44] if you have any questions
+[90:46] any other things
+[90:48] that I don't have now
+[90:50] you can ask me on the list
+[90:52] I will send the link there
+[90:54] I will send it again
+[90:56] so I can't access it
+[91:00] I will send it again
+[91:07] exactly
+[91:09] the AI agent
+[91:11] I can tell you
+[91:13] I can write that question
+[91:19] that's already a problem
+[91:21] I don't really know
+[91:24] how to answer that question
+[91:26] I will ask him
+[91:28] I will let you know on the discord
+[91:30] if you are on the discord
+[91:40] ok see you later
+[91:42] it's like
+[91:44] see you later
+[91:46] I hope you liked the live
+[91:50] this is going to be recorded here on youtube
+[91:52] you can access it whenever you want
+[91:54] see you later

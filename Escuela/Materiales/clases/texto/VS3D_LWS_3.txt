@@ -1,0 +1,232 @@
+C L A S E  E J E C U T I V A
+Dealer Flow & Greeks
+Cmo los market makers mueven el mercado
+y cmo aprovechar esa mecnica como trader
+F L U J O
+Lectura institucional
+G R E E K S
+Lenguaje del riesgo
+E D G E
+Accin del trader
+02
+P A R T E  0 1
+El problema del flujo: qu ves vs. qu importa
+El tape es historia, no seal
+L A  R E A C C I  N  I N S T I N T I V A  E S  U N  E R R O R
+Cuando ves una transaccin grande en Cheddar Flow o 
+Unusual Whales, la reaccin instintiva es interpretarla como 
+seal direccional. Es uno de los errores ms extendidos del 
+trading de opciones.
+En el momento en que el trade aparece en el tape, el market 
+maker ya ejecut su hedge de delta. Ests mirando una 
+fotografa del pasado. El impacto de precio ya ocurri.
+L A  P R E G U N T A  C O R R E C T A
+Los portales de flow son esencialmente generadores de 
+clickbait. Toman datos de time & sales. Lo nico que revelan, si 
+el dato es correcto, es qu trades ocurrieron. Nada sobre el 
+impacto futuro en el mercado.
+No preguntes qu se trade?. Pregunta: qu posicin 
+neta qued en el libro del market maker y qu hedging flow va a 
+generar?.
+Lo que ves ya pas. Lo que importa es lo que el MM tiene que hacer ahora.
+03
+P A R T E  0 2
+Los flujos crean posiciones, las posiciones crean hedging flow
+Cuando un cliente tradea una opcin, el market maker absorbe el otro lado y queda obligado a gestionar el riesgo resultante. Los trades 
+individuales se anulan a veces entre s, pero en la prctica la mayora del flujo crea imbalances netos que el MM debe cargar y cubrir.
+E L  C I C L O  D E L  F L U J O  E N  O P C I O N E S
+FASE QUIN ACTA QU OCURRE SEAL PARA EL TRADER
+1. Trade inicial Cliente Compra o vende opcin por razn propia No accionable, ya ocurri
+2. Absorcin Market Maker Absorbe el otro lado, recibe posicin de riesgo No visible en tiempo real
+3. Delta hedge Market Maker Vende o compra futuros ES para neutralizar delta Flow de futuros predecible
+4. Gamma hedge continuo Market Maker Rebalance de delta con cada movimiento de precio Crea soporte/resistencia dinmica
+5. Expiracin Market Maker Cierra hedge cuando la opcin expira o se ejerce Presin de cierre predecible en 0DTE
+VS3D utiliza datos del CBOE en intervalos de 10 minutos que identifican explcitamente al participante y su posicin.
+04
+P A R T E  0 3
+El problema del aggressor tagging
+D D O I
+Directional Delta Open Interest    el mtodo estndar que falla
+L A  L  G I C A  Q U E  U S A  O P R A
+OPRA intenta inferir si el cliente fue comprador o vendedor con 
+una regla simple.
+ Trade al BID    cliente vendedor
+ Trade al ASK    cliente comprador
+P O R  Q U   F A L L A  E N  L A  P R  C T I C A
+Los market makers mantienen spreads extraordinariamente 
+ajustados y sus precios se mueven constantemente segn su 
+percepcin del mercado.
+Una trade por el bid no significa que el cliente vendi. Puede 
+reflejar simplemente que el MM ajust su precio hacia abajo en 
+ese instante exacto.
+05
+P A R T E  0 4
+El Market Maker: su negocio, su modelo, su mecnica
+M I T
+O Los market makers tienen agenda direccional, atacan el flujo del cliente, manipulan el precio.
+Esto proviene de una incomprensin del modelo de negocio.
+L O  Q U E  S   Q U I E R E N
+Su negocio es la intermediacin y el arbitraje de volatilidad.
+ Absorber opciones con edge en el bid-ask spread.
+ Capturar diferencial entre vol implcita y su modelo de vol 
+realizada.
+L O  Q U E  N O  Q U I E R E N
+Posicin direccional acumulada.
+ No quieren estar netos largos ni netos cortos en delta.
+ Por eso cada flujo del cliente activa una respuesta mecnica 
+de hedging en futuros ES.
+06
+P A R T E  0 5
+La cascada de hedging: el orden de prioridades
+El MM no gestiona todos los Greeks al mismo tiempo. Existe una jerarqua determinada por liquidez, urgencia e impacto en P&L.
+01
+D E L T A
+Neutralizado inmediatamente en futuros ES Mini. El Greek ms sensible al precio y la fuente de riesgo ms urgente. La liquidez del mercado de futuros lo 
+permite en tiempo real.
+02
+G A M M A  /  T H E T A
+El MM quiere gamma balanceada: no estar excesivamente largo ni corto en gamma concentrada en un strike o vencimiento. El balance entre gamma y theta 
+define la esperanza matemtica de su posicin.
+03
+VEGA
+Se gestiona por plazo de vencimiento. No basta con ser vega neutro en trminos absolutos; el MM debe serlo en cada bucket de la estructura temporal de 
+volatilidades.
+04
+S K E W
+La distribucin de la posicin en strikes condiciona el skew. Si el MM est corto puts OTM, cobra ms por venderlas. Ese sobreprecio es el skew y refleja su 
+posicin real.
+07
+P A R T E  0 6
+Tabla de hedging flow por tipo de trade
+La direccin del hedge en futuros es mecnica y predecible. Lo que vara es la magnitud (determinada por el delta de la opcin) y el timing (modelos 
+internos del MM y liquidez disponible).
+ACCIN DEL CLIENTE POSICIN DEL MARKET MAKER HEDGE INMEDIATO EN FUTUROS
+Cliente COMPRA call
+Cliente VENDE call
+Cliente COMPRA put
+Cliente VENDE put
+VS3D utiliza datos del CBOE en intervalos de 10 minutos que identifican al participante y su posicin.
+MM queda CORTO en call MM COMPRA futuros ES
+MM queda LARGO en call MM VENDE futuros ES
+MM queda CORTO en put MM VENDE futuros ES
+MM queda LARGO en put MM COMPRA futuros ES
+08
+P A R T E  0 7
+Greeks: el lenguaje del riesgo del dealer
+GREEK SMBOLO QU MIDE IMPACTO EN EL MM PRIORIDAD
+Delta  Sensibilidad al precio del subyacente (0 a 1) Neutralizado en futuros ES. Primer y ms urgente hedge. 1  Inmediato
+Gamma  Velocidad de cambio del delta respecto al precio Gamma alta = ms futuros a tradear por punto. Crea shadow order 
+book. 2  Continuo
+Theta  Decaimiento del valor de la opcin con el tiempo 3  Intrada
+Vega V Sensibilidad a la volatilidad implcita El MM quiere vega balanceada por plazo. Desbalance encarece 
+absorciones. 4  Libro
+Charm Ch Cmo cambia el delta con el paso del tiempo Genera hedging intrada aunque el precio no se mueva. Crtico en 
+0DTE. 5  Refinamiento
+Vanna Va Cmo cambia el delta con la vol implcita Flows cuando la vol se mueve. Amplifica movimientos con vol 
+elevada. 6  Avanzado
+Skew Sk
+Refleja la posicin concentrada del MM. Si est corto puts OTM, el 
+skew sube. 7  Reflexivo
+VS3D  Datos CBOE en intervalos de 10 min que identifican al participante y su posicin.
+El MM corto de opciones cobra theta; en 0DTE el decaimiento se
+acelera fuertemente en las ltimas horas.
+Asimetra de la volatilidad implcita entre puts y calls
+09
+P A R T E  0 8
+Gamma: el Greek que define la estructura del mercado
+Gamma cuantifica cuntos contratos de futuros tiene que tradear el MM por cada punto de movimiento. En zonas con gamma larga concentrada 
+existe un shadow order book implcito: si sube, el MM vende futuros; si baja, compra. No es manipulacin: es ajuste mecnico.
+E N T O R N O S  D E  G A M M A    I M P L I C A C I O N E S  P R  C T I C A S
+ENTORNO CARACTERSTICA COMPORTAMIENTO DEL MERCADO ESTRATEGIA SUGERIDA
+Gamma alta larga MM tiene mucho delta latente en ambas 
+direcciones
+Movimientos lentos y amortiguados. Mercado 
+pegado a strikes con alta OI.
+Vender opciones OTM, premium collection. 
+Evitar comprar breakouts.
+Gamma baja / transicin Poco delta latente del MM, poca friccin Movimientos rpidos, pueden ser discontinuos. 
+Vaco de gamma.
+Cautela con posiciones grandes. Vol realizada 
+puede exceder implcita.
+MM corto gamma, amplifica los 
+movimientos
+Cascadas de volatilidad. Cada movimiento 
+fuerza ms hedging direccional. Proteccin cara pero necesaria. Gap risk real.Gamma negativa
+10
+P A R T E  0 9
+Gamma como liquidez implcita
+V O L U M E N  F A N T A S M A  E N  E L  O R D E R  B O O K
+El MM no pone arbitrariamente rdenes de futuros en el mercado. Tiene futuros que necesitar tradear si el precio llega a ciertos niveles 
+determinados por el delta de las opciones en su libro.
+Esto crea un volumen fantasma en el bid/ask de futuros que es invisible en el tape pero que condiciona profundamente la velocidad y el coste 
+de los movimientos de precio.
+E J E M P L O  P R  C T I C O
+Mercado en 6.750  Sabes que hay 15.000 contratos de gamma positiva en los 6.600s.
+Ese nivel va a ofrecer soporte masivo.
+Accin: vender una BWB en esa zona o vender puts OTM en los 6.580.
+11
+V S 3 D    L E C T U R A  E N  V I V O
+SPX Options Dashboard  Elementos
+B A R R A  R O J A izquierda
+Posicin neta corta: puts compradas o calls vendidas. Apuesta a la baja o cobertura.
+B A R R A  V E R D E derecha
+Posicin neta larga: calls compradas o puts vendidas. Apuesta alcista o venta de vol. Acta como 
+soporte implcito.
+L  N E A  M O R A D A 7205 / 7142
+Breakevens del straddle ($31,30). Fuera del rango ganan los compradores de vol; dentro, los 
+vendedores.
+L  N E A  B L A N C A 7173,93
+Precio actual del SPX. Centro de gravedad de toda la lectura.
+P U N T O S  E N  B A R R A S sobre cada barra
+Posiciones individuales (vencimientos o tipos). Varios puntos = posicin distribuida.
+12
+V S 3 D    L E C T U R A  E N  V I V O
+SPX Dashboard  Strikes clave
+STRIKE ROL POR QU IMPORTA
+7200 M U R O  D E  R E S I S T E N C I A Barra roja ms grande. Concentracin masiva de posiciones cortas. Si el precio sube hasta aqu, los MM deben 
+vender ms para cubrir delta: presin bajista automtica.
+7205,23 B R E A K E V E N  S U P E R I O R Si SPX cierra aqu o ms arriba al vencimiento, los compradores del straddle ganan. Los vendedores de vol 
+empiezan a perder. Suele coincidir con aceleracin del movimiento si se rompe.
+7175-7180 S O P O R T E  A C T I V O Barras verdes largas. Los MM estn largos aqu. Si el precio cae hacia 7175 tienen incentivo para comprar para 
+cubrir delta. Eso crea rebote natural.
+7145 S O P O R T E  S E C U N D A R I O Coincide casi con el breakeven inferior. Doble motivo para frenar. Soporte de posiciones ms zona donde 
+vendedores de vol actan defensivamente.
+7142,63 B R E A K E V E N  I N F E R I O R Si SPX cae hasta aqu, los vendedores de volatilidad empiezan a sangrar. Zona donde el nerviosismo de los 
+MM se convierte en accin de cobertura visible.
+13
+E S C E N A R I O S  D E  P R E C I O
+Si el precio llega a...
+El volumen confirma o niega cada nivel. Sin volumen = falso movimiento. Con volumen = MM obligados a actuar.
+7 2 0 0    E L  M U R O  D E  R E S I S T E N C I A
+Si llega con volumen bajo
+Probablemente rebota. Los MM vendedores en 7200 no tienen contrapartida 
+suficiente. La resistencia se mantiene.
+Si rompe 7200 con volumen real
+Los MM cubren cortos comprando: el movimiento se autoalimenta. El muro 
+se convierte en rampa. El siguiente nivel sin defensa est ms arriba.
+7145 - 7 1 4 2    Z O N A  D E  P E L I G R O  R E A L
+Si aguanta en 7145
+Doble soporte: posiciones verdes ms breakeven del straddle. Vendedores 
+de vol actan. Posible V-reversal si el volumen bajista se agota aqu.
+Si rompe 7142 (breakeven)
+Los MM que vendieron vol empiezan a perder dinero real. Cubren en la 
+direccin de la cada (short gamma). Movimiento se acelera. Capitulacin 
+posible.
+14
+S  N T E S I S
+Qu hacen los Market Makers
+SITUACIN POSICIN MM QU HACEN EFECTO EN PRECIO
+Precio sube hacia 7200 (zona roja) Venden futuros para mantenerse neutros en delta BAJA  Presin bajista, techo
+Precio baja hacia 7175 (zona verde) Long gamma Compran futuros para mantenerse neutros SUBE  Presin alcista, soporte
+Zona verde se rompe con volumen Flip a short Ahora venden a medida que bajan, soporte se invierte BAJA  Aceleracin bajista
+Precio quieto entre zonas Venta de vol No hacen nada, dejan que theta decay destruya el valor LATERAL  Theta decay
+Precio rompe breakeven (7205 / 7142) Gamma negativo Cubren en la direccin del movimiento, amplifican AMPLIFICA  El movimiento 
+acelera
+Gamma positivo (zonas verdes) = amortiguadores  estabilizan el precio.
+Gamma negativo (zonas rojas, breakevens) = gasolina  amplifican el movimiento.
+El dashboard muestra qu rgimen domina en cada precio.
+Long gamma
+Nos vemos en
+una prxima clase!
+Sguenos en redes sociales
+Recuerda unirte a nuestra Telegram: Latino Wall Street

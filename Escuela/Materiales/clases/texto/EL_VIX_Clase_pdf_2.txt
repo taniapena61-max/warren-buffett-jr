@@ -1,0 +1,196 @@
+EL
+VIX
+Clase Fusin  Latino Wall Street
+
+Casi todo el mundo cree que el VIX mide el miedo. Mide algo ms 
+concreto y ms til: cunto cuesta hoy asegurar al S&P 500. Y ese 
+precio depende menos de lo que vaya a pasar que de cunta gente 
+quiere el mismo seguro a la vez. 
+El VIX no es un pronstico es una factura.
+DEFINICION
+Que mide realmente
+01 / LA IDEA
+El VIX es la anchura de la campana, con precio
+El primer error es pensar que el VIX es la volatilidad implcita de una opcin. 
+No lo es. Es el precio de una cesta entera de opciones del SPX.
+Se construye sumando los precios de todos los puts y calls OTM del SPX a 30 
+das, cada uno ponderado por 1/K. Los strikes bajos pesan ms que los altos: 
+la cesta captura la distribucin entera, no un punto
+El VIX es la desviacin estndar de la campana del SPX a 30 das, anualizada. 
+Es la anchura de tu campana, condensada en un solo nmero.
+01 / LA IDEA
+El VIX es la anchura de la campana, con precio
+VIX    precio justo de un swap de varianza a 30 das  
+=   opciones OTM  (1/K)
+Cada strike aporta su parte; la ponderacin 1/K es lo que hace que la cesta 
+capture la distribucin entera, no un punto. Es la misma lgica con la que 
+obtenemos la campana de los precios: el VIX integra toda esa curva.
+Como los puts OTM estn caros por el skew (la cola izquierda del miedo), el 
+VIX est inado por ese skew. Una parte de su nivel en un da tranquilo no es 
+"movimiento esperado": es el precio de la cola izquierda.
+01 / LA IDEA
+Que vemos en la grca?
+El VIX que ves en pantalla es su raz cuadrada, anualizada. 
+Por eso la frmula lleva ese cuadrado: varianza = volatilidad. 
+Si el VIX marca 20, la varianza implcita es 400, y el 20 es solo la raz que se 
+muestra como ndice. Por qu molestarse con la varianza en vez de ir 
+directo a la vol? Porque la varianza s se puede sumar y ponderar de forma 
+limpia entre strikes; la volatilidad es una raiz cuadrada y no se suma. 
+Toda la estructura del VIX vive en el mundo de la varianza: es lo que el precio 
+de las opciones, hoy, implica colectivamente que va a ser la varianza 
+acumulada hasta el vencimiento, extrada de un continuo de strikes OTM.
+02 / LA PRIMA DE VARIANZA
+El VIX casi siempre miente
+El VIX (la vol que el mercado cobra) supera a la volatilidad que el SPX realiza despus, en 
+torno a 3-4 puntos. Esa brecha tiene nombre: prima de riesgo de varianza
+1. Todos compran el mismo seguro: El mundo est largo de acciones y quiere proteccin 
+a la baja. Esa demanda estructural encarece la vol. El que la vende cobra una prima por 
+aguantar el riesgo.
+2. Cerebro paga de ms por lo impredecible: Sobrevaloramos lo catastrco. Pagamos de 
+ms por la proteccin tipo lotera. Parte del VIX es miedo humano, no estadstica.
+3. Por eso vender vol paga: Cobrar esa prima es rentable de media.
+La rentable de media: signica muchos meses pequeos en verde y, de vez en 
+cuando, un da que devuelve varios. La prima existe precisamente porque 
+alguien tiene que aguantar ese da.
+02 / LA PRIMA DE VARIANZA
+El VIX casi siempre miente
+Cuando vendemos prima del SPX no apostamos a la direccin. Ests 
+cobrando la prima de varianza: vendiendo un seguro que va caro. El VIX 
+es el precio de ese seguro. T eres la aseguradora.
+LA CAMPANA DEL VIX
+LA distribucin del propio VIX
+Altura sobre un precio = probabilidad de acabar ah.
+
+LOS DELTAS EN LA CAMPANA
+El delta de una opcin  la probabilidad de que acabe dentro del dinero (ITM).
+Cada delta = el rea de la cola ms all del strike. El de delta 16 vive en el borde del movimiento tpico (220); 
+cuanto ms lejos en la cola, menos delta.
+03 / EL SECRETO
+La estructura temporal: contango, backwardation y el rol
+ En contango (lo normal, 80% del tiempo) la curva sube: los meses lejanos 
+valen ms. Eso erosiona a quien est largo de vol y paga a quien est 
+corto: es tu viento a favor cuando vendes prima. 
+ En backwardation la curva se invierte el VIX actual  se dispara por 
+encima de los lejanos: es la rma del estrs, y el momento en que el 
+corto de vol revienta y la convexidad larga por n paga.
+
+03 / EL SECRETO
+CONTAGO
+
+03 / EL SECRETO
+BACKWARDATION
+
+04 / REFLEXIVIDAD
+El VIX no observa la cada. La empuja
+El VIX sube cuando el SPX baja correlacin de en torno a 0,8, pero no es 
+simtrico: sube ms rpido en las cadas de lo que baja en las subidas. Es 
+el mismo efecto apalancamiento de la campana, visto desde la vol. Las 
+bolsas suben por la escalera y el VIX baja por la escalera; las bolsas caen 
+por el ascensor y el VIX sube por el ascensor.
+Muchos fondos ajustan su exposicin al revs de la vol (los vol-control y 
+la paridad de riesgo): cuando la vol sube, venden acciones para reducir 
+riesgo. Pero esa venta hace caer ms el SPX, lo que sube ms el VIX, lo 
+que les obliga a vender ms. Un bucle que se alimenta solo. En febrero 
+de 2018 y en marzo de 2020 ese mecanismo convirti un susto en una 
+avalancha.
+04 / REFLEXIVIDAD
+El VIX no observa la cada. La empuja
+
+05 / LO QUE EL VIX NO DICE
+Un VIX bajo no es calma. Es que nadie se est cubriendo
+El VIX te dice cunto cuesta el seguro ahora, y eso depende sobre todo de cunta gente 
+lo est comprando. Un VIX en 12 no signica "viene calma": signica que nadie est 
+cubrindose. Y la complacencia es precisamente el terreno donde nacen los desplomes. 
+La otra cara, que tambin es edge: el VIX es el activo grande ms reversor a la media 
+que existe. Los picos no duran pueden un 30 vuelve hacia 18 mucho ms rpido que 
+casi cualquier otra cosa. El que no lo entiende, compra proteccin en pleno pnico, en 
+el peor precio. El que lo entiende, vende miedo cuando todos lo quieren y lo recompra 
+cuando nadie lo mira.
+El VIX no te dice qu va a pasar. Te dice cunto est pagando el resto 
+por tener miedo y nuestro trabajo es decidir si ese miedo est caro o 
+barato.
+
+06 / COMO SE USA
+Cuatro lecturas
+ El Nivel: <15 / 15-20 / 20-30 / 30+
+ Complaciente / normal / elevado / estrs. 
+ La reversin: picos > 30-40
+ No dura. Fade el extremo: vende miedo cuando todos lo compran. El peor 
+momento para comprar proteccin es cuando ya explot.
+ La curva: contango / backwardation
+ Contango = viento a favor del vendedor de prima (el tiempo erosiona la vol). 
+Backwardation = peligro: el rgimen cambi, recoge velas o ponte largo de 
+convexidad.
+ VIX vs realizada: la prima de varianza
+ Si el VIX va muy por encima de lo que el SPX se mueve de verdad, el seguro 
+est caro.
+Food for thought
+El VIX ja la anchura de tu campana. 
+Antes de elegir strikes por delta o colocar tus 
+alas, mira el VIX: te dice cunto se espera que 
+se mueva el SPX, y por tanto dnde caen de 
+verdad tus 25, 16 y 10. 
+La campana, las alas y el VIX son tres vistas 
+del mismo objeto.
+07 / LO QUE EL VIX NO DICE
+De "el mercado tiene miedo" a "el mercado est repreciando 
+varianza"
+Direccin no es movimiento. El VIX no mide si el mercado sube o baja: 
+mide cunto se espera que se mueva. Un VIX alto no obliga a caer; dice 
+que el mercado paga ms por movimiento venga de proteccin, de un 
+evento, de demanda de convexidad al alza o de estrs. 
+
+07 / Preguntas Claves
+De "el mercado tiene miedo" a "el mercado est repreciando 
+varianza"
+1. El VIX sube porque el SPX cae, o sube antes de que caiga?
+2. Reciben bid solo las puts OTM, o tambin las calls? 
+3. La subida viene de proteccin real o de falta de liquidez?
+4. Se est expandiendo el straddle a la vez? (conrma que es 
+varianza, no ruido)
+5. La vol conrma el movimiento del precio o diverge de l?
+6. La curva sigue en contango o se est invirtiendo hacia 
+backwardation?
+
+07 / Preguntas Claves
+SPX  y VIX 
+"Raro" para el novato, seal para nosotros.
+El spot sube pero el mercado sigue pagando por opciones. Suele ser 
+demanda de convexidad al alza, cobertura, un evento pendiente o 
+desconanza en el propio movimiento. La subida no est "conrmada" por la 
+vol.
+SPX  y VIX  fuerte
+La cada viene acompaada de expansin de varianza: el mercado paga ms 
+por proteccin. Si adems los MM quedan cortos puts y tienen que cubrir 
+delta vendiendo futuros, la propia cobertura aade presin al spot.
+
+08 / DOS TRAMPAS QUE CUESTAN DINERO
+ERROR  "VIX ALTO = VENDER 
+OPCIONES
+No necesariamente. Un VIX alto dice que 
+las opciones estn caras en relativo, pero 
+pueden ponerse mucho ms caras si el 
+mercado entra en estrs. Caro no es lo 
+mismo que "techo
+ERROR  "VIX BAJO = SIN 
+RIESGO
+Tampoco. Un VIX bajo suele ser 
+complacencia, y la complacencia es el 
+terreno donde un shock genera la 
+expansin ms rpida. Lo barato puede 
+ser la calma antes del ascensor.
+09 / CIERRE
+El precio del paraguas, es la tarifa de una aseguradora
+El VIX no predice la tormenta. Te dice cunto cuesta el paraguas hoy y ese 
+precio sube cuando todos corren a comprarlo y baja cuando el cielo lleva 
+semanas despejado y nadie se acuerda de la lluvia. 
+Nuestro negocio, como vendedores de prima, es venderlo caro y comprar 
+barato, sabiendo que un da de cada muchos llueve de verdad y tienes que 
+estar cubierta para ese da.
+Lee el nivel, lee la curva, lee la distancia con la realizada. Con eso sabes 
+cunto vale el miedo, hacia dnde va y si te conviene cobrarlo. El resto es 
+disciplina.
+
+EL VIX
+DEL SPX
+Membresa Fusin  Latino Wall Street

@@ -1,0 +1,52 @@
+Fuente: VolSignals (YouTube) — "Introduction To Dealer Hedging Dynamics (TGIF)"
+Ponentes: Dan (ex-lead trader S&P en Belvedere) y Matt (ex-market maker/banco).
+Transcripción pegada por Tania (feature "Mostrar transcripción" de YouTube), 2026-07-27.
+------------------------------------------------------------
+
+[Resumen fiel de la charla — ver la nota de estudio para el detalle y la extracción.]
+
+IDEAS CENTRALES (verbatim/parafraseado del video):
+
+- El mercado NO se mueve al azar. Flujo -> posiciones -> hedging -> movimiento.
+  "Flows create positions." El cliente que tradea una opción no lo hace para
+  hedgear dinámicamente; la posición neta (tras netear todo) la carga el MM y ESO
+  influye el mercado a futuro.
+
+- "Lo que se tradeó" (Cheddar Flow, Unusual Whales) es clickbait: cuando lo ves en
+  la cinta, su impacto YA pasó. Lo que importa es el HEDGING FLOW (la cobertura
+  continua de la posición).
+
+- Mecánica del hedge (delta-neutral): MM largo call -> vende futuros (minis);
+  MM largo put -> compra futuros; corto call -> compra; corto put -> vende. El
+  delta es el primer orden (ya hecho cuando ves el trade). Luego viene la
+  "cascada de riesgo": gamma, charm, vanna, vega, term structure, skew.
+
+- Crítica al "naive gamma model" (SpotGamma/Squeeze Metrics): asume MM corto puts /
+  largo calls. Válido hace décadas, HOY erróneo (sobre todo con 0DTE). "Garbage in,
+  garbage out." El aggressor tagging (bid/ask = comprado/vendido, DDOI) tampoco
+  sirve. VS3D en cambio construye la posición con DATA REAL de la CBOE (verificada,
+  cada 10 min) y sabe QUIÉN tiene cada posición (por participante), no adivina.
+
+- Es PROBABILÍSTICO, no determinista. VS3D da: (1) DRIFT (tendencia del día),
+  (2) VELOCIDAD del movimiento (gamma). No dice exactamente dónde acaba.
+
+- 0DTE decae a las 4 PM ("shot clock"): el hedge contra esa posición se volvería
+  exposición desnuda, así que el MM la mantiene atada al mark-to-market -> eso crea
+  el DRIFT de fin de día. Tooltip "hedge product to trade" = cuántos futuros hay
+  que tradear en los próximos 5 min; crece al acercarse el vencimiento.
+
+- GAMMA = VELOCIDAD. Zona de gamma pesada -> el mercado se mueve LENTO (el MM
+  absorbe, provee liquidez, contiene). No es que el MM "venda agresivo y cause
+  reversals" — es pasivo, como un "shadow/implied order book" (volumen fantasma que
+  contiene el rango). Call Wall = de repente más gamma -> el mercado debería
+  frenar ahí (ajusta tu target). Zona de gamma BAJA/fina -> vacío, el precio se
+  mueve libre y NO necesita frenar, sigue.
+
+- La gamma negativa "entrenchada" es RARA (poco % del tiempo). Lo que la gente
+  suele leer como negativa es solo un DIFERENCIAL (ej. normalmente +10B notional,
+  hoy solo ~4B).
+
+- Implicación de trade: si hay mucha gamma/soporte abajo, NO compres puts caros
+  esperando otro gran rompimiento; ahí puede haber buen trade VENDIENDO puts
+  (mientras el resto entra en pánico, tú sabes que hay gamma que sostiene). Al
+  cruzar a gamma fina, no esperes que pare salvo giro fuerte.

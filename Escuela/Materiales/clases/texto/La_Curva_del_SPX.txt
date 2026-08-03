@@ -1,0 +1,159 @@
+LA CURVA
+DEL SPX
+Clase Fusin  Latino Wall Street Referencia  SPX 7365
+
+LA CLASE DE HOY
+8 ideas, en palabras llanas
+01 La idea la curva es la tarifa de una 
+aseguradora
+02 De dnde viene la campana que el mercado 
+rompi
+03 El secreto: cada precio es una probabilidad
+04 Prueba : tu campana, con tus nmeros
+05 Por qu se inclina: tres motivos
+06 El dealer  quien hace cumplir la curva
+07 Natenberg: las cuatro volatilidades
+08 Cmo se opera: cada estrategia, una zona
+Referencia  SPX 7365  rango tpico 220 (71457585)  la curva se queda dentro 2 de 3 veces.
+01 / LA IDEA
+La curva es la tarifa de una aseguradora para el SPX
+No predice un nmero. Reparte probabilidades entre todos los desenlaces como cuando dicen 
+70% de lluvia en vez de va a llover.
+ 
+Dibujas esas probabilidades y sale una campana. Tres cosas para leer:
+  El pico dnde el mercado cree ms probable que acabe el SPX.
+  Lo ancha cunto espera que se mueva.
+  Hacia dnde se inclina hacia dnde tiene miedo.
+ 
+Regla de oro: la altura de la curva sobre un precio = la probabilidad de acabar ah.
+LA CAMPANA
+Tres cosas para leerla: pico, anchura, inclinacin.
+Altura sobre un precio = probabilidad de acabar ah.
+02 / DE DNDE VIENE
+Una campana perfecta que el mercado rompi
+Durante casi un siglo el modelo dijo: el precio se mueve como lanzar una moneda campana 
+simtrica.
+Esa idea sigue dentro de la frmula que usa medio mundo (Black-Scholes). El problema: supone 
+que el mercado es educado, y no lo es.
+ 
+19 de octubre de 1987: las bolsas cayeron ms de un 20% en un da.
+Para una campana perfecta eso era casi imposible un evento que no debera ocurrir ni una vez 
+en la edad del universo. Ocurri.
+ 
+Desde ese da las opciones nunca volvieron a cotizar una campana simtrica: cobran 
+mucho ms caro el lado de las cadas. 
+EL SKEW
+Campana de libro (simtrica) vs SPX real (torcida hacia abajo).
+La cola izquierda ms gorda = el seguro caro  el miedo cobrado.
+03 / EL SECRETO
+El precio de una apuesta es una probabilidad
+No tienes que adivinar la campana. Est escondida, dentro de los precios de las opciones.
+ 
+Imagina una mariposa que solo gana si el SPX acaba en 7400. Lo que cuesta esa apuesta es 
+la probabilidad que el mercado termine alli.
+Si una mariposa cuesta 15 cntimos por cada dlar que podra pagar, el mercado le est dando 
+15% de probabilidad de expirar cerca de ese strike y esa es la probabilidad que cobra, no 
+necesariamente la que ocurre.
+ 
+Haz lo mismo en cada precio, junta todas las apuestas y obtienes la campana entera.
+La cadena de opciones no es una lista de productos es un mapa de probabilidades.
+04 / LABORATORIO  TU CAMPANA
+Tus datos reales los Call Wall Put Wall Level Gamma Flip recolocan la curva.
+Spot  Mov.   Call Wall  Put Wall  Gamma Flip    interactivo en la web
+05 / POR QU SE INCLINA
+Tres motivos por los que la curva cae hacia la izquierda
+1 Las bolsas bajan por el ascensor
+Suben despacio por la escalera; caen de golpe por el ascensor. Las cadas grandes son de verdad ms 
+probables que las subidas grandes del mismo tamao. Parte de la inclinacin es honesta.
+2 Todos compran el mismo paraguas
+Los fondos estn casi siempre comprados en acciones y todos quieren el mismo seguro a la baja. Esa 
+demanda enorme encarece los puts. Buena parte de la cola izquierda gorda no es un pronstico es un 
+seguro caro.
+3 El cerebro humano exagera el miedo
+Sobrevaloramos lo raro y catastrfico: pagamos de ms por proteccin tipo lotera. Una parte de la 
+inclinacin no es economa es miedo representado en los precios.
+LA REGLA EN PALABRAS LLANAS
+lo que el mercado cobra
+= lo que de verdad pasa    cunto duele    cunto miedo tenemos
+Vender un Bull Put Spread no es apostar a que el mercado suba.
+Es apostar a que el miedo de esa zona est cobrado de ms.
+06 / EL DEALER
+Quin hace que la curva se cumpla
+Call Wall el techo
+El precio con ms apuestas alcistas. Cuando el SPX sube hacia ah, los dealers venden para cubrirse y frenan la 
+subida. Resistencia. Si lo rompe con fuerza, esa presin desaparece y el precio se acelera.
+Put Wall el suelo
+El precio con ms apuestas bajistas. Cuando el SPX cae hacia ah, los dealers compran y lo sostienen. Soporte. 
+Romperlo es peligroso: desaparece el suelo justo cuando entras en la zona nerviosa.
+Gamma Flip la lnea de calma
+La frontera entre dos mundos. Por encima, el dealer est tranquilo y aplana todo. Por debajo, est nervioso y 
+amplifica. Cruzarla cambia el carcter del da por completo.
+POR ENCIMA  vs  POR DEBAJO
+El Gamma Flip cambia el carcter del mercado.
+Por encima de la lnea
+MERCADO TRANQUILO
+El dealer compra en las cadas y vende en las 
+subidas: amortigua.
+ 
+El precio se queda pegado al pico de la campana. El 
+rango es estrecho. La curva se cumple sola.
+Por debajo de la lnea
+MERCADO NERVIOSO
+El dealer vende en las cadas y compra en las 
+subidas: amplifica.
+ 
+Cada bajada empuja ms ventas. Es el ascensor 
+hacia abajo, donde la cola izquierda se hace realidad 
+de golpe.
+07 / NATENBERG
+Las cuatro volatilidades y de dnde sale tu dinero
+01  El pasado
+Cunto se movi ya el SPX? Un hecho. Buen ancla, 
+mal pronstico.
+02  El futuro
+Cunto se mover de verdad hasta el vencimiento? El 
+nico nmero que importa y que nadie puede conocer.
+03  Tu apuesta
+Cunto crees t que se mover? Tu tesis: tu propia 
+campana.
+04  Lo que cobra el mercado
+Cunto est pagando el mercado por ese movimiento? 
+Ya est metido en el precio.
+Tu ganancia = lo que cobra el mercado (04)  lo que de verdad pasa (02). La direccin casi no 
+importa.
+07 / NATENBERG
+Cmo usar la curva
+Ejemplo: El mercado ya te marca el rango normal: hoy 41 puntos ( 
+straddle 0DTE), entre 7346 y 7428. El SPX se queda ah dentro unas 2 
+de cada 3 veces.
+La inclinacin es una huella. Te dice quin est comprando seguro. En las 
+acciones siempre cae a la izquierda, porque todos protegen sus carteras a la 
+baja. En el petrleo se inclina al revs, porque ah el miedo es a que el precio 
+suba. Leer la inclinacin es leer de qu tiene miedo el mercado.
+08 / CMO SE OPERA
+Cada estrategia apunta a una zona de la curva
+Bull Put Spread    abajo / izquierda
+Vendes el seguro de la cola izquierda. Ganas si el SPX no cae 
+tanto como el miedo sugera. Cobras la prima del miedo.
+Iron Butterfly    el pico
+Apuestas a que se mueve menos de lo que el mercado cobra y 
+muere cerca del centro. Mejor en mercado tranquilo (sobre la 
+lnea de calma).
+Iron Condor    el cuerpo
+Cobras por decir que ni el techo ni el suelo llegan: el precio se 
+queda en el medio.
+Bear Call Broken-wing    la inclinacin
+Aprovecha la propia inclinacin: cobras de ms por la cola 
+izquierda cuando crees que el miedo est exagerado.
+No operas el precio. Operas la diferencia entre tu campana y la del mercado.
+CIERRE
+LA CURVA RESPIRA
+CADA DA
+El tiempo la aplana, una noticia engorda una punta, el flujo de los dealers mueve el pico.
+La campana de la apertura ya no es la del cierre.
+ 
+No intentes adivinar dnde acabar el SPX. Encuentra dnde el miedo est mal 
+cobrado.
+LA CURVA
+DEL SPX
+Membresa Fusin  Latino Wall Street

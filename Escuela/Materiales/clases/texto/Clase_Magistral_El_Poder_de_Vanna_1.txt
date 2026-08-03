@@ -1,0 +1,335 @@
+C L A S E  M A G I S T R A L   G R I E G A S  D E  S E G U N D O  O R D E N
+EL PODER
+DE VANNA
+Gamma dice que el precio mueve el delta. Charm, que el tiempo lo mueve. Vanna dice 
+algo ms sutil y ms peligroso: la volatilidad mueve el delta. Es la griega que explica los 
+rallies que suben sin que nadie compre.
+NIVEL AVANZADO  VOL Y SPOT Prerrequisitos: Gamma, Charm, la campana y el VIX
+L A T I N O  W A L L  S T R E E T
+L A T I N O  W A L L  S T R E E T
+L A  I D E A  C E N T R A L
+El rally que nadie entiende
+ El mercado sube y nadie sabe por qu: volumen flojo, sin noticias, sin 
+compradores visibles.
+ Casi siempre hay una explicacin aburrida y mecnica: el VIX baj, el delta del 
+Market Maker cambi solo, y alguien tuvo que comprar futuros sin querer 
+comprarlos.
+ Eso es Vanna. No es un indicador: es una obligacin de cobertura.
+La pregunta correcta no es por qu sube, sino quin tiene que comprar.
+L A T I N O  W A L L  S T R E E T
+M A P A  D E  L A  C L A S E
+Lo que vers hoy
+01 Las tres puertas: Gamma, Charm y Vanna, las tres formas de que tu delta cambie solo.
+02 La forma: Vanna es una onda, no una rampa (la figura 9-6 de Natenberg).
+03 El motor: el vanna rally paso a paso, con el nmero real en dlares.
+04 El lado oscuro: el mismo motor girando al revs, y la resaca del OpEx.
+05 Conexiones y casos reales: la campana, el VIX, el skew y cuatro episodios del mercado.
+06 Mtricas y operativa: qu mirar en pantalla y qu haces con esto maana.
+L A T I N O  W A L L  S T R E E T
+0 1   L A S  T R E S  P U E R T A S
+Tres formas de que tu delta cambie solo
+El delta de una posicin no es fijo. Se mueve solo por tres motivos, y cada motivo tiene nombre de 
+griega. Vanna es el tercero, y el menos entendido.
+P U E R T A  1
+El precio
+Gamma = /S
+El SPX se mueve y tu delta 
+cambia. La griega que ya 
+dominas: el motor de las 
+coberturas intrada.
+P U E R T A  2
+El tiempo
+Charm = /t
+Pasa el tiempo y tu delta 
+cambia. El goteo de coberturas 
+hacia el cierre y los viernes de 
+vencimiento.
+P U E R T A  3
+La volatilidad
+Vanna = /
+Cambia la volatilidad y tu delta 
+cambia. Sin que el precio se 
+mueva ni un punto, sin que 
+pase el tiempo.
+L A T I N O  W A L L  S T R E E T
+0 1   L A S  T R E S  P U E R T A S
+Vanna: la definicin doble
+Vanna  =  / =  Vega/S
+ Lectura izquierda: cunto se mueve tu delta cuando cambia la volatilidad.
+ Lectura derecha: cunto se mueve tu vega cuando cambia el precio.
+ Las dos lecturas son ciertas y complementarias: Vanna es el puente entre el mundo 
+del precio y el mundo de la volatilidad.
+ Por eso es la griega que los conecta, y por la que un movimiento de vol se convierte en un 
+movimiento de precio.
+L A T I N O  W A L L  S T R E E T
+0 1   L A S  T R E S  P U E R T A S
+La intuicin, sin frmulas
+ Piensa en un put OTM lejano. Con la vol baja, ese put es casi imposible de alcanzar: 
+su delta es minsculo, digamos 0.05 negativo.
+ Sube la vol y de pronto ese mismo strike parece alcanzable: su delta se hincha a 0.15 
+negativo.
+ El precio no se movi. El strike no cambi. Cambi la anchura de la campana, y 
+con ella la probabilidad de llegar ah, que es el delta.
+Delta del put: de 0.05 a 0.15 solo porque la campana se ensanch. Eso es Vanna 
+trabajando.
+L A T I N O  W A L L  S T R E E T
+0 1   L A S  T R E S  P U E R T A S
+La simetra de Natenberg
+VANNA ESCUCHA A LA VOLATILIDAD
+Responde a los cambios de volatilidad, pero no 
+de forma significativa al paso del tiempo.
+CHARM ESCUCHA AL TIEMPO
+Responde al tiempo a vencimiento, pero no de 
+forma significativa a la volatilidad.
+ Cada griega escucha a su propia variable. No se solapan: son dos instrumentos distintos midiendo 
+dos cosas distintas. Por eso conviene mirarlas por separado.
+ Y un detalle de direccin: Vanna se mueve al revs que la volatilidad. Cuando la vol sube, la curva 
+de Vanna se aplana; cuando la vol baja, sus picos se disparan.
+ Traduccin incmoda: es en los mercados tranquilos, de vol baja, cuando Vanna es ms 
+potente. La calma no desactiva el motor: lo afina.
+L A T I N O  W A L L  S T R E E T
+0 2   L A  F O R M A
+Vanna es una onda, no una rampa
+ Cero cerca del dinero: 
+donde Gamma es 
+mximo, Vanna vale cero. 
+Son complementarias, no 
+rivales.
+ Pico en la zona OTM, 
+alrededor del 25 delta en 
+la figura de Natenberg: la 
+misma marca con la que 
+la mesa mide el skew.
+ No crece sin fin hacia las 
+alas: tiene un mximo y 
+luego se desploma hacia 
+cero.
+Reconstruccin de la figura 9-6 de Natenberg. Grfico ilustrativo con fines educativos.
+L A T I N O  W A L L  S T R E E T
+0 2   L A  F O R M A
+La nota al pie que casi nadie lee
+vanna = 0    d = 0     call = N(T)  >  0.50
+ En un pie de pgina, Natenberg avisa: el cero de Vanna no est exactamente en el 50 delta, sino 
+ligeramente desplazado. La culpa es de la asimetra de la distribucin lognormal.
+ Con T = 0.10, el cero cae en el 53.98 delta.
+ Ese desplazamiento minsculo es la misma lognormal que tuerce tu campana, asomando la 
+cabeza. Incluso en su diagrama idealizado, Natenberg se molesta en decirte dnde miente el 
+modelo.
+ Un put muy dentro del dinero (90 delta) tiene Vanna de signo contrario al de un put de 25 delta.
+L A T I N O  W A L L  S T R E E T
+0 2   L A  F O R M A
+Por qu importa: el inventario del MM
+ Los Market Makers estn cortos de puts OTM: el seguro estructural que compran los 
+fondos.
+ Esos puts viven justo en la zona del pico de Vanna, alrededor del 25 delta.
+ La exposicin a Vanna del MM no es un detalle: es la consecuencia directa de su 
+inventario, concentrada exactamente donde Vanna pega ms fuerte.
+ Cuando la vol se mueve, el delta de esa montaa de puts se mueve con ella, y el MM 
+tiene que cubrirse en el mercado de futuros. S o s.
+L A T I N O  W A L L  S T R E E T
+0 3   E L  M O T O R
+El rally que sube sin compradores
+1 El MM est corto puts OTM.  Los fondos compran proteccin, el MM se la vende. Corto de puts en la zona de 
+Vanna mximo.
+2 La volatilidad baja.  Un da tranquilo, un evento que pasa sin drama, el VIX se desinfla. El SPX no ha hecho nada 
+todava.
+3 El delta de esos puts se encoge.  La campana se estrecha y esos strikes quedan ms lejos en probabilidad. El 
+delta neto del MM se vuelve ms corto de lo que quera.
+4 El MM compra futuros.  No opina, no especula: tiene que comprar SPX para volver a neutral. Compra sin querer 
+comprar.
+5 El SPX sube y la vol baja ms.  La compra empuja el ndice, el ndice tranquilo hace bajar ms el VIX, y vuelta al 
+paso 2. El bucle se alimenta solo.
+L A T I N O  W A L L  S T R E E T
+0 3   E L  M O T O R
+Hagamos el nmero
+Caso realista: SPX en 7400, vencimiento a 30 das, el MM corto 200,000 puts en el strike 6900. El VIX cae de 
+20 a 17 sin que el SPX se mueva ni un punto.
+Delta de cada put con VIX 20 0.106
+Delta de cada put con VIX 17 0.072
+Cambio de delta por put (Vanna en accin) +0.034
+Por 200,000 puts, por 100 (multiplicador) 674,000 deltas
+El MM debe COMPRAR  $5.0 B   ~13,500 ES
+Cinco mil millones de dlares de compra sin que una sola persona haya decidido que el mercado le gusta. Solo 
+baj el VIX tres puntos.
+L A T I N O  W A L L  S T R E E T
+0 3   E L  M O T O R
+Lee el signo con cuidado
+ El MM est corto puts, as que su delta era positivo, y lo tena cubierto vendiendo futuros.
+ Al caer la vol, el delta de esos puts se encoge: ahora le sobra cobertura corta.
+ Para volver a neutral, recompra futuros. Comprar no es su opinin: es deshacer un 
+exceso de cobertura.
+ La escala: eso son 3 puntos de VIX y un solo strike. El libro real tiene decenas de strikes 
+cargados de Vanna, todos movindose a la vez.
+ Por eso un vol crush de la Fed puede generar miles de millones de compra mecnica en 
+una tarde.
+L A T I N O  W A L L  S T R E E T
+0 3   E L  M O T O R
+La textura del vanna rally
+ Sube despacio, sin 
+volumen, sin noticias, y 
+aguanta.
+ Nadie compra por 
+conviccin: se compra 
+por obligacin.
+ El caso de libro: pasa el 
+dato macro o la Fed, la vol 
+del evento se desinfla de 
+golpe (el vol crush) y el 
+mercado sube sin que 
+nadie sepa la razn. La 
+razn es Vanna.
+Grfico ilustrativo con fines educativos.
+L A T I N O  W A L L  S T R E E T
+0 4   E L  L A D O  O S C U R O
+El mismo motor, girando al revs
+VOL BAJA  VIENTO DE COLA
+El delta de los puts cortos se encoge, el MM 
+compra futuros, el SPX sube y la vol baja ms. 
+Deriva alcista lenta y persistente: el terreno del 
+vendedor de prima.
+VOL SUBE  EL ACELERADOR
+El delta se hincha, el MM est ms corto de lo que 
+crea, vende futuros, el SPX cae y la vol sube ms. 
+La espiral: aqu Vanna y el Gamma negativo 
+empujan juntas hacia abajo.
+ La asimetra cruel: en la subida Vanna empuja con suavidad; en la bajada empuja a la vez que el Gamma 
+negativo y los fondos vol-control. Tres fuerzas en el mismo sentido: por eso las bolsas caen por el 
+ascensor.
+ El matiz de calendario: los grandes vencimientos (OpEx, sobre todo trimestrales) borran de golpe parte de la 
+montaa de puts. El viento de cola desaparece de un da para otro: de ah la debilidad de la semana posterior.
+L A T I N O  W A L L  S T R E E T
+0 4   E L  L A D O  O S C U R O
+La espiral, en imagen
+ Meses de calma, y el dao 
+llega en das: la asimetra 
+de Vanna en una sola 
+imagen.
+ Cada punto de VIX que 
+sube hincha el delta de 
+los puts y obliga al MM a 
+vender ms futuros.
+ Vanna, el Gamma 
+negativo y los fondos vol-
+control empujan en el 
+mismo sentido: por eso la 
+cada no encuentra freno 
+hasta que la vol se 
+estabiliza.
+Grfico ilustrativo con fines educativos.
+L A T I N O  W A L L  S T R E E T
+0 5   C O N E X I O N E S
+Vanna es la campana movindose
+Con la campana
+El delta es el rea de la cola. Cuando la vol sube, la campana se ensancha y esa rea crece: por 
+eso el delta del put se hincha. Vanna es la sensibilidad del rea de la cola a la anchura de la 
+campana.
+Con el VIX
+El VIX es esa anchura, con precio. Cuando cae 2 puntos, la campana del SPX se estrecha, todas 
+las colas adelgazan y todos los deltas del libro del MM se recolocan a la vez. El VIX no solo mide: 
+dispara Vanna en toda la cadena.
+Con el skew
+Si la campana fuera simtrica, los efectos de puts y calls se cancelaran. Pero el SPX tiene skew: 
+hay muchos ms puts OTM que calls OTM. Esa asimetra deja un Vanna neto grande y 
+direccional. Sin skew no habra vanna rally.
+Vender el miedo tuerce la campana. Cuando el miedo se relaja, esa campana torcida se endereza 
+empujando al mercado hacia arriba. Vanna es el nombre de ese empujn.
+L A T I N O  W A L L  S T R E E T
+0 6   C A S O S  R E A L E S
+Cuatro veces que Vanna movi el mercado (1 de 
+2)
+PATRN RECURRENTE  CADA FOMC Y CADA CPI
+El vol crush post-evento
+La vspera del dato, el mercado paga prima por el riesgo 
+del evento. En cuanto se publica, esa prima desaparece: 
+el VIX cae varios puntos en minutos, toda la cadena de 
+puts pierde delta a la vez, el MM recompra futuros y el 
+SPX sube despus de la noticia, muchas veces en 
+direccin contraria al titular.
+ VIX tpico: 2 a 4 puntos abajo en el da
+ Ventana: primeros 30 a 90 minutos
+ Seal previa: vol del evento inflada
+NOV 2023 A MAR 2024  EL RALLY QUE NADIE CREA
+La deriva con volumen flojo
+El VIX baj de forma sostenida desde los 20 hacia los 13 
+durante meses. Cada punto de VIX que caa obligaba a 
+ms recompra mecnica. Subidas lentas, sin volumen, sin 
+conviccin, imparables. Los bajistas decan que no haba 
+compradores. Tenan razn: haba coberturas 
+deshacindose.
+ VIX: de 20 a 13 en meses
+ Textura: sube despacio, no corrige
+ Clave: VIX cae con SPX plano o alcista
+L A T I N O  W A L L  S T R E E T
+0 6   C A S O S  R E A L E S
+Cuatro veces que Vanna movi el mercado (2 de 
+2)
+5 DE FEBRERO DE 2018  VOLMAGEDDON
+El motor girando al revs
+El VIX se dispar de 17 a 37 en una sesin, el mayor salto 
+porcentual de su historia. El delta de todos los puts se 
+hinch a la vez, el MM tuvo que vender futuros justo 
+mientras el Gamma negativo empujaba en el mismo 
+sentido y los productos cortos de vol se autoliquidaban. 
+Tres fuerzas mecnicas alineadas hacia abajo.
+ VIX: de 17 a 37 en un da
+ ETPs cortos de vol: aniquilados
+ Aviso previo: VIX en percentil bajsimo
+MENSUAL Y SOBRE TODO TRIMESTRAL
+La resaca del OpEx
+Al vencer, una parte enorme de la montaa de puts 
+desaparece del libro. Con ella se va el Vanna que sostena 
+al mercado: el viento de cola se apaga de un da para 
+otro. De ah la debilidad estadstica de la semana 
+posterior a los grandes vencimientos. No es supersticin: 
+el motor se qued sin combustible.
+ Cundo: tercer viernes; trimestral es mayor
+ Efecto: se descarga el Vanna del libro
+ Accin: reduce tamao la semana siguiente
+Las cifras de VIX son rdenes de magnitud documentados, no lecturas exactas: salas para reconocer el patrn.
+L A T I N O  W A L L  S T R E E T
+0 7   M  T R I C A S
+Qu mirar en pantalla
+ VIX con SPX plano 1 punto o ms La huella ms limpia de Vanna. VIX cayendo con el SPX quieto: motor alcista cargando. 
+Subiendo con el SPX quieto: aviso de venta mecnica.
+Correlacin SPX y VIX tpica  0.8 Cuando se rompe y los dos suben a la vez, el mercado paga por proteccin pese al alza: 
+desconfianza o evento pendiente.
+Skew / Risk Reversal 25 RR 4 a 6 normal El tamao del Vanna neto depende del skew. RR muy alto: mucha municin de puts, ms 
+empuje cuando la vol se relaje.
+Percentil del VIX bajo 20 / sobre 80 Percentil bajo: queda poco Vanna alcista por exprimir. Percentil alto: el combustible para 
+un vanna rally est cargado.
+VVIX (vol de la vol) sobre 110, tensin Mide cunto puede moverse el VIX. Alto: los deltas del libro se movern mucho, Vanna a 
+pleno rendimiento en el sentido que sea.
+Curva del VIX contango o invertida Contango: rgimen de vol a la baja, Vanna a favor del alza. Invertida: rgimen de estrs, 
+Vanna empujando hacia abajo.
+Calendario de OpEx 3er viernes / trimestral Marca cundo la exposicin a Vanna se descarga de golpe. La semana siguiente cambia el 
+rgimen sin avisar.
+Si solo pudieras seguir una: el VIX movindose mientras el SPX no hace nada. En ese silencio del precio es donde Vanna est 
+trabajando y an no se ve.
+L A T I N O  W A L L  S T R E E T
+0 8   O P E R A T I V A
+Qu haces con esto maana
+Post-evento (Fed, CPI) VIX 2 a 4 pts abajo
+El desplome de la vol del evento empuja al MM a comprar. Deriva alcista en los 
+primeros 30 a 90 min. El mejor terreno del Bull Put Spread: vendes el suelo con el 
+viento a favor.
+VIX cayendo, SPX plano VIX 1, SPX 0.1% La subida an no ha llegado, pero el motor est encendido. Sesgo alcista aunque el 
+precio no lo muestre todava. La seal ms limpia que existe.
+VIX subiendo, SPX plano VIX +1, SPX 0.1% Aviso serio: el mercado paga por proteccin y el MM tendr que vender. No vendas 
+puts a la ligera aqu, aunque el precio parezca tranquilo.
+Semana post-OpEx 3er viernes + 1 semana Expir la montaa de puts: el viento de cola desaparece. Histricamente, semana 
+dbil. Reduce tamao en ventas de prima.
+Complacencia VIX percentil bajo 20 Si el VIX ya est en el suelo, apenas queda Vanna alcista por exprimir, y s mucho 
+espacio para que la vol suba en tu contra.
+La regla mental: mira siempre el VIX y el SPX juntos, no por separado. Vanna vive en la relacin entre los dos.
+L A T I N O  W A L L  S T R E E T
+C I E R R E
+La mano invisible es una mesa de cobertura
+ Buena parte del movimiento diario no lo produce nadie que tenga una opinin: lo 
+produce un MM que debe reequilibrar un libro cuando la volatilidad cambia.
+ Comprar sin querer comprar. Vender sin querer vender.
+ Cuando entiendes eso, dejas de preguntar por qu sube y empiezas a preguntar 
+quin tiene que comprar.
+ Gamma, Charm y Vanna son solo las tres puertas por las que esa obligacin entra al 
+mercado.
+Fuentes: Natenberg, Option Volatility and Pricing, cap. 9 (fig. 9-6)  Kolanovic (JPM), flujos sistemticos  Soros, reflexividad  SqueezeMetrics, vanna y 
+charm en el hedging del MM

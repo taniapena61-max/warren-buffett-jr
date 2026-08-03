@@ -1,0 +1,910 @@
+Transcripción de: MarketSnack_Live_-_25K_Challenge_Pt._4.m4a
+Modelo: small  |  Idioma: en  |  Duración: 4708s
+------------------------------------------------------------
+
+[00:20] Hey, can you hear me?
+[00:22] I'm in a humming and a little bit of trouble with the internet. I didn't want to connect
+[00:34] And you guys can you see can you hear me? Well, yeah, let's see
+[00:52] Yeah, please let me know. I'm not where
+[00:56] I'm in a little bit of trouble with the internet
+[01:00] So
+[01:01] Let's see. Let's move this here
+[01:07] We are two minutes behind
+[01:09] Before the market opens
+[01:13] Let me move that here. Okay
+[01:36] Let's see what the market is doing for today
+[01:43] 748 746
+[01:45] Let's display. Let's see. What else queues?
+[01:56] 703 we are five dollars below market. Let's check in video
+[02:02] Two dollars and video is holding very strong right now
+[02:07] We have Sky Henix, which is 5% down and I think Intel is the same thing
+[02:15] Yeah, Intel is 3% down for those who don't know
+[02:19] Sky Henix was rumored to buy a Intel plan today and they just came out and said that isn't true
+[02:28] So that was Sky Henix and intro drop
+[02:34] Market just opened
+[02:39] We were at 746 not 747. Yeah, my internet is kind of slow right now
+[02:54] Orders are coming true like this Sky Henix 200 call
+[03:12] Let's see if we catch some fast movers today
+[03:51] Yes, this operation is very long time
+[03:57] They're getting out. Okay. We're viewing this live. So I'm gonna explain life. What's happening?
+[04:03] We see this huge premium comedy on the ME on these MU calls
+[04:08] But
+[04:09] These aren't technically selling premium. Why if you see David this beat you will say oh, they're selling premium
+[04:16] No, look at the open interest look at the volume right now the volume
+[04:21] It's way below the open interest
+[04:24] Obviously the size is gonna be below the volume
+[04:27] Well, it's way below open interest. So these are calls are getting close. This is a sell to close trade
+[04:35] Remember volume is below open interest if volume goes goes above open interest
+[04:41] Then he say opening trade is a sell to open because we're on the big site
+[04:46] If it's on the ask side, it's a bot to open for this
+[04:51] Exactly known because if we have the same thing volume below open interest
+[04:56] But because it's in the ask side we can assume for now
+[05:01] It's a bot to open
+[05:04] But this 40.5 million dollars
+[05:11] Getting out
+[05:13] Look at the chart for a million dollars because they're getting out. But look at the at this net premium chart. Look at this
+[05:30] They treated they treated 33.5 and 43.8 million dollars on May 27, but it was a
+[05:39] Spread it was a spread, but it was a negative spread
+[05:43] That's why we're already on a negative net premium
+[05:45] But now we're even a more negative net premium worth negative 76 million dollars
+[05:51] Since an all-time this contract has opened. We're all time
+[05:55] We go to one month the net premium change because we're seeing the net premium for the past month
+[06:05] right now
+[06:08] 3.4 million dollars for the past five days for today were a 40.5 million negative
+[06:15] I believe they're closing these contracts
+[06:19] I believe they're closing these contracts volume below open interest
+[06:23] so
+[06:24] Nothing to do with that at the moment
+[06:26] Nothing to do with that at the moment
+[06:29] That the highest flow we just got
+[06:33] Getting still
+[06:36] This is interesting the e we call it not much money behind it
+[06:40] Remember market just opened so we have to be we have to wait a couple minutes
+[06:48] Let's heat her soon
+[06:50] Let's see what's happening
+[07:07] Numbers on all places
+[07:19] What's moving right now?
+[07:24] Yeah, like it's my market shred. Remember, we have huge area today. We have google tesla
+[07:32] We have a couple of big ones
+[07:34] We have texas instrument, which is a semiconductor for those who don't know
+[07:40] We have now
+[07:43] You know markets, right? It's not that big right, but it's right
+[07:51] It close this
+[07:54] Right now our biggest call
+[07:56] We can see they're entering this one
+[08:01] This is a little bit of the money and look at the implied volatility though
+[08:05] They paid
+[08:06] What do you say 23 thousand dollar contract, but we already seen 11.8 million
+[08:12] However, volume is still below open interest. You can see the highest
+[08:18] So I did what I did I organized by volume. Can you check yesterday's? Yeah, let me check that
+[08:31] And you
+[08:33] Was for august 21 right and receive that contract
+[08:39] Yeah contract got added
+[08:46] It was the weird one the one with the 200 million dollar premium
+[08:51] Because we saw it 103 ask and 106 be so we only have negative 2 to 5 you can see it here at the map
+[09:00] but we got
+[09:01] 200 209 premium
+[09:05] 209 million dollars premium traded
+[09:09] The open interest jumped from 43 to 7.8 k
+[09:18] For me, it's just a weird trade because I cannot read exactly what they're doing
+[09:26] Because it's just
+[09:28] Two in the middle if you get what I'm saying is 103
+[09:33] minus 106
+[09:35] Like it's it's a very mid-price trade. It's a very neutral
+[09:39] trade and you can see it here
+[09:42] I don't exactly know what they did
+[09:45] Very very hardly
+[09:50] There's a lot of freedom behind it though
+[09:55] Do I think they're selling premium on that?
+[09:59] I would exactly know to be honest
+[10:02] They they can be
+[10:05] They say 0.74 delta
+[10:08] I don't think they're doing the same thing. We we saw in the beginning of the year
+[10:13] I don't know if you guys remember in that they they started premium
+[10:22] What do you think of intel would it be bullish?
+[10:26] Intel has air news tomorrow
+[10:29] Right now I haven't seen yesterday. It's not like a they're selling some calls for the 110 calls for
+[10:37] Someone shared it with me
+[10:40] So we're gonna we've kind of a weird spread because intel hasn't had any flow
+[10:47] To buck it up in the last days to be honest
+[10:51] Can go
+[10:53] since last week
+[10:55] Since last week
+[10:57] And there hasn't been any flow to back up intel
+[11:04] Like we saw this one. Let me see if this one's still in
+[11:07] But this one is already at 2.59
+[11:12] And they paid uh, they they paid how much show me a second. I don't see my screen
+[11:21] Maybe on my screen, right? Yeah
+[11:27] They started buying this contract at 5.90 contrast at 252
+[11:32] But it's a very out of the money contract
+[11:36] For two days because this is where you like 24 look at the delta 0.29
+[11:41] It's 12 dollars out of the money because intel is at 103.60
+[11:46] I was a little bit lower in pre-market. So isn't that bad
+[11:50] But this contract
+[11:52] Got in the other day
+[11:54] And then we saw the 110
+[11:59] 110 for the same window
+[12:04] Let me see if I see it from here. Oh, I will search it. Don't worry
+[12:10] those are
+[12:12] The only trades I have been seeing from for intel on a short basis
+[12:17] We still have the 97.5 calls for september 18 that they're out there down
+[12:24] A lot of money like 140 million dollars. They invested like 243 million dollars
+[12:32] But this one is the same thing. We have the open interest while it went down 12 percent today
+[12:38] This one is closer
+[12:40] To being that at the money or in the money
+[12:44] People are still out of the money seven dollars, but it's closer to getting
+[12:49] But still he paid like 685 per contract and we're at 405
+[12:55] There's still 50 percent down these contracts
+[12:59] And the delta isn't that high. It is a two-day expiration
+[13:04] Look at the implied volatility implied volatility is it 194 percent
+[13:10] These contracts are still alive because of the implied volatility because they expect intel a lot
+[13:18] That's that's the definition of implied volatility
+[13:21] They're expecting the catalyst tomorrow entails earnings after market to move the stock a lot
+[13:32] Let's see. Let's see. We see anything
+[13:35] worth a while to trade
+[13:39] I'm seeing a lot of rocket lab action on the january
+[13:44] I don't like it
+[13:46] I don't like it
+[13:49] Good morning. How are you?
+[13:55] I'm also seeing a lot of action on the mu 950 call
+[14:00] I don't like it either
+[14:04] I want to see huge ask
+[14:10] Yeah market is going that way
+[14:15] We're still 747.27
+[14:20] Still expecting
+[14:23] We're still expecting
+[14:27] Markets why xpx is at what?
+[14:31] 499
+[14:43] That's an eight dollar move
+[14:47] Yeah, but look at the implied volatility. It is so high
+[14:53] They pay 1900 and it's 1800
+[15:01] Market stock at the moment nothing's moving with it
+[15:20] I'm actually impressed by the media
+[15:23] The media has been a good stock to hold for the past several weeks
+[15:27] I
+[15:29] Mean hold not made gains because the media hasn't moved
+[15:33] Too much to be honest
+[15:35] The huge move was from 193.99194 to
+[15:39] 2012
+[15:42] But since then it hasn't moved. It has moved to 202 to 209 202 208
+[15:49] So media isn't giving a headache to anyone
+[15:53] Well a headache if you're
+[15:56] Time if you don't have time on your side. Well, it's a headache
+[16:00] But in me has
+[16:01] Stand stand it still for this whole time as the market has been dropping or going up
+[16:12] Yes, I can
+[16:30] Let's go here
+[16:32] I want to share to you guys
+[16:38] I want to share to you guys or me
+[16:41] I'm sure this I'm sure this
+[16:47] And I share you the window and I share you my other market snack
+[16:57] I'm gonna show you
+[17:02] The new
+[17:03] I'll put it on white so you guys can see
+[17:18] Okay, we just have a full screen
+[17:32] Yeah at the moment
+[17:36] Nothing big
+[17:47] Wow
+[17:49] Intel's back at 105
+[17:55] Intel's back at 105. Can you believe that?
+[18:00] It went all the way to 101. Oh, yeah, we have it here
+[18:15] We move this one to this one
+[18:19] So you guys can see it
+[18:28] Right now the account is at 29 853
+[18:33] We still have one contract on Intel
+[18:37] Right now it's positive because this has gone down because I have been selling we had
+[18:43] We at one point we had four contracts. I've been selling we can see
+[18:49] The year I sold two at 20. I sold one at 21.5
+[18:55] This happened yesterday. You can see today. It's july 22. This happened till july 21
+[19:02] July 20
+[19:04] 18 hours ago also july 21
+[19:09] Intel has been going back at some point today
+[19:13] It was kind of red
+[19:16] Oh, why this amazing
+[19:18] Robin Hood's having problems with D graph
+[19:25] You know what let's actually look at that
+[19:28] That hasn't moved because the market's still stuck
+[19:52] Yeah, they're pretty down
+[19:55] We can still I want you guys to look at this
+[20:00] The contract is way way way way down
+[20:03] But you can see the net premium is still 51.8 million dollars. Why?
+[20:08] Because they have an accident those contracts
+[20:11] You can see the life premium exposure
+[20:13] being so low
+[20:17] In the all-time you can see
+[20:19] Look when they traded 28.4 million dollars this rise the blue line
+[20:24] Then they traded they traded more
+[20:27] They traded I think 20 million dollars a year and the blue line went up
+[20:33] But you can see life premium exposure is 27 million dollars
+[20:37] These first these institutions are very down on their trades
+[20:45] You can search here. They treated this on May
+[20:52] Yeah, they treated 12 million dollars any million dollars on May 1. They treated a couple million dollars
+[21:00] They paid four dollars four dollars four six to five
+[21:05] And the contract is at two dollars
+[21:08] The implied volatility is kind of low so you aren't overpaying for the contract or it's not kind of slow 12 percent
+[21:14] during overpaying for the contract
+[21:16] They're still in you can see the opening dress 90,000
+[21:20] 90,000
+[21:23] What the market has been standing still for the last couple weeks. We are in a two percent range
+[21:30] We haven't moved
+[21:33] You can see here. We went all the way
+[21:38] in 26 to 7 28
+[21:41] on June
+[21:42] 10 we went to 10 to
+[21:45] 7 25 but we have been standing still since you life since you life first
+[21:51] We only have moved two dollars in 21 days. I want you to
+[21:57] To internalize this
+[21:59] Since you life first we only have moved two dollars
+[22:04] We started the month at 7 45 and then we're at 7 47
+[22:08] We went all the way to 754 two times
+[22:11] 755 if you want to round it up
+[22:14] On July 15 and July 10
+[22:17] But we haven't even bothered to go to the all-time high that we went on June 1st June 2. I think it was yeah June 2
+[22:25] We haven't bothered to go all the that way
+[22:29] But what happened with this contract?
+[22:31] this contract the tech
+[22:34] Has been killing the contract
+[22:39] That's just the real reason this contract has went down that has went down because they bought this contract when the spy was
+[22:45] Like at 720 or something like that
+[22:49] But the contract has went down
+[22:54] They bought it like yeah, like
+[22:56] They bought it on May 1st. We had 7 20
+[23:01] 7 20
+[23:04] But the we are out July end of July. We're almost
+[23:08] Not almost. We still have 70 days what they bought it when we had 100 plus days
+[23:13] So the teta has been killing this contract. They're still in they're still in
+[23:20] We also have the other one which is spy
+[23:25] 8 25 call september 30
+[23:30] September 30, which we still have 71 thousand in open interest is almost the same as almost the same
+[23:39] May 11
+[23:41] But what happened on july 16 on july 16?
+[23:45] Look at the net premium. This one has exceeded some part of a net premium 23 million dollars
+[23:50] And then on july 16
+[23:54] Yeah, if you hear that part indeed
+[23:58] The son is like a water cycle or something
+[24:03] On july 16. We saw that they're they exceeded
+[24:10] 4 point
+[24:12] We didn't actually I think they added
+[24:15] Yeah, it's weird. It's a weird read because we go here
+[24:18] That's why we have different wraps
+[24:21] We have different wraps open premium open interest right then
+[24:25] The we saw they traded a 2000 I went all the way
+[24:30] To 71,000 they dropped 11,000. So this was they traded. They didn't exit it. They didn't exit
+[24:39] They only exit 14,000 contracts
+[24:43] You see why the all having all this graph is useful
+[24:46] Because here we see the volume here. We see the open interest
+[24:49] You will think oh, they will exit all these trade awards. No, we still have the open interest there
+[24:56] But this one 45 cents
+[24:59] 0.03 delta
+[25:02] This one is gonna go
+[25:05] To what they paid on your origin
+[25:07] You can go here session date
+[25:11] May 11
+[25:14] They paid 17 million dollars 3.95
+[25:18] I don't think we're gonna
+[25:21] The delta was 0.13 the delta now is 0.03
+[25:27] So that's kind of a reach the other ones still have some value in it
+[25:32] It's only 25 uh strike difference
+[25:34] But if this one has two dollars and that one has 65 cents something like that
+[25:41] Okay, what else let me see if we see something to catch here
+[25:47] Did I made myself explaining on that that I explain myself? I'm sorry
+[26:06] Yes, it's gonna be a very slow day
+[26:10] Very slow day
+[26:12] They're buying the 207 calls
+[26:16] NVIDIA that's a lot of volume for a media
+[26:31] 4 million dollars
+[26:45] They're they're waiting for a media to break those 207.5. They did is a 208
+[26:53] Is a 208
+[26:57] QQQ is back at again at 707
+[27:04] NVIDIA is at 208
+[27:08] And QQQ is back at 207.0.7 intro is at
+[27:13] 105
+[27:16] spy
+[27:28] Here we have the option chain
+[27:31] You want this next week?
+[27:33] I say again
+[27:38] No one has this update still I'm showing it to you guys so you can see it
+[27:43] and
+[27:44] Have some knowledge that it will come out next week next week
+[27:47] We're gonna have the new option chain
+[27:49] This is how it would look like the price pressure
+[27:53] Which we have the put wall the expected drift and the call wall with the magnet here
+[27:59] It would change via the expiration
+[28:10] Can I use the option chain to day trade?
+[28:14] Yeah
+[28:17] For example, a zero DTE you have the put wall on the call wall
+[28:20] You can go here. You can see where are the pain points right now?
+[28:24] We saw that this one is the biggest one
+[28:26] We saw the total premium being 8.4 million dollars
+[28:30] 37 percent being on the bid 45 percent being on the ask
+[28:34] We're seeing that the pressure is the 207.50s
+[28:38] and we see the put one
+[28:40] Being the 205 and the call wall being 210
+[28:46] Can you see it here?
+[28:49] You see how it would change because it jumped from two
+[28:53] It just jumped now
+[28:56] You can go see it here
+[29:00] Nvidia
+[29:08] trading video options
+[29:10] They're trading
+[29:14] You can see the volume look at the volume
+[29:34] If you want a double check you can go on july 24 and you will see that they're also trading
+[29:40] They're also trading
+[29:42] For a two-day expiration because it's today's wednesday. We remember about expeditions mondays wednesdays and fridays and some stocks
+[29:50] And they're trading the same thing. They're trading the 207.50 and then for friday. They're trading also
+[29:58] The two tens
+[30:10] So right now for today
+[30:13] I
+[30:14] Say again the put wall is 205. The call wall is 210 and for friday. It's 200 and 210
+[30:22] So they're expecting
+[30:26] Uh or system or our god didn't say they were expected drift to the two tens. We're closer to that
+[30:33] That doesn't say we'll go to that a hundred percent
+[30:36] But that's the expected drift and upside to that
+[30:41] expiration to that strike price
+[30:43] We're seeing yeah, we're seeing now. This is going way down
+[30:49] It's at 111
+[30:51] It's jumping a lot actually
+[30:56] Was that that's how you can use the option chain today trading you can go to the zero dte
+[31:02] Or you gotta go to their closer expiration and you can see where's the buying where's the buying pressure going on
+[31:08] And then you can set mentally because we also have it here
+[31:12] That the magnet and the call wall is going to be a 210
+[31:15] That the put wall basically your support is going to be at 200
+[31:19] Your your resistance is going to be at 210. That's for the two day
+[31:23] And for this one is 210 and 205. So this one's closer
+[31:28] But the magnet is staying at 207.50
+[31:32] So you have to be careful with that
+[31:35] You can we can do it for another we can search intel
+[31:41] You can search intel and it would be
+[31:43] They're trading for today the 105
+[31:46] You can see they're trading one 105 for a 106.19
+[31:51] They're saying the call wall for today is 110
+[31:56] And the put wall is 99 right now. I didn't see it
+[32:00] But if we go to 16 expirations, you will see the put wall you can see
+[32:06] The magnet the magnet is the
+[32:09] Strike price with the most balance
+[32:12] So we have 2.2 k
+[32:15] And we have that's not the one
+[32:17] 4.8 k versus 1.2 k
+[32:21] This is the most balance
+[32:27] So that's gonna move we have the july 24
+[32:30] They're also trading in 105s. They're also trading 105s
+[32:34] But here is very interesting because they're also trading in 110s
+[32:38] You can see
+[32:39] For july 24 because we have a huge catalyst in the middle. The call wall is going to be 120 and we have the
+[32:46] Put wall is going to be 95
+[32:48] The magnet is at 120
+[32:52] Because that's the expected volatility we have an intel intel right now as an expected a very high
+[32:57] Expected volatility. I don't like to trade on that imply volatility my bad. I don't like to trade on that
+[33:06] because
+[33:09] You can get stuck with your contracts if it doesn't move your way
+[33:13] contracts can
+[33:15] lose value
+[33:16] really quickly
+[33:19] yeah
+[33:21] Well price pressure isn't it this is like a supportive resistance price pressure is more of a momentum like price pressure we have the
+[33:30] The supportive resistance like the put one the call wall the put one is basically like a
+[33:35] Remember it can happen inverse or vice versa
+[33:38] If you're buying to the upside the call wall is going to be a resistance and the put one is going to be a support
+[33:45] But if you're buying to the downside so basically you're buying the put is going to be inverse
+[33:49] The put wall is going to be a resistance and the call one is going to be a support
+[33:57] Let's go for 120
+[34:06] Can you check for AMD? Yeah
+[34:09] No problem
+[34:10] AMD
+[34:12] For this week july 24
+[34:17] We have 450 580
+[34:21] We're at 549 right now
+[34:26] Right now they're heavily buying
+[34:29] Well, not heavily buying but 4 4.2 million dollars or a 547 stock
+[34:34] And they're buying the 550 for july for july 24
+[34:40] For today they're also buying the 550 but we have today's 555
+[34:45] And 537.50
+[34:53] That's what's happening today. We can also build new spy
+[34:58] That's also
+[35:00] Another and here you can see a sneak peek of the gamma exposure
+[35:04] We can go you can go to moment because I know it will get you all excited
+[35:10] We see how the market's behaving a little bit. Yes, I can
+[35:16] Yeah market 750
+[35:19] How much is this?
+[35:24] I don't know. I'm monitoring looking right now. Don't worry
+[35:27] Uh, gex is on the making right now. We don't have gex for every stock at the moment
+[35:38] We have for the ETFs and the indices at the moment. So I don't think Microsoft is one
+[35:48] Oh, yeah, well, we already
+[35:50] We can see the gex for Microsoft
+[35:56] Yeah, well, we only have these trading sessions
+[36:01] Which we basically have the same thing
+[36:03] This is the our gex call while 400 put while 390 and then we have a 397 magnet
+[36:11] So we have a negative gex today
+[36:14] So basically every rally will be sold off until we'll flip on the gamma flip the gamma flip is at 394
+[36:21] We're at 392
+[36:22] Well, but this move because it's a gex it will move
+[36:27] So until we get a tree uh 393.84 this will be negative
+[36:33] on a negative gex
+[36:35] Rally stands to be sold
+[36:38] But let's let's go to spy. I want to I want you or xpx
+[36:43] It's an easier gex to
+[36:45] Not to interpret but to view because there's a lot of more money
+[36:50] Here we have the
+[36:51] Or famous gex
+[36:53] We're still working on some stuff. So this is not gonna be the final version
+[36:59] Uh, this still isn't
+[37:02] This is gonna move a little bit
+[37:06] But right now
+[37:07] Look, it's the same scenario with the
+[37:10] Option stream we have the put wall
+[37:13] 7,450 we have the magnet at 7,500 and then we have the call wall at 750
+[37:22] You can see the net gex is 8.5 billion dollars
+[37:27] With the 8.5 billion dollars
+[37:30] We have a positive gex
+[37:32] So we're expecting it to move a little bit more
+[37:35] But remember we still have the magnet if we have the magnet still
+[37:39] It can go down a little bit to here to try to find this place
+[37:44] But remember if we go down that that route it will gamma flip to a negative gex
+[37:53] You can move here if you want to view view it as a larger
+[37:57] You can move it to 50 100
+[38:00] I don't think that's very necessary if you're day trading
+[38:03] I like it to keep it at 40 because I like it to view the
+[38:07] The put walls and everything
+[38:10] Now the gamma flip will move all the way to 7,424
+[38:17] That's gonna keep moving because we're already on the zero DTE gex
+[38:23] Markets at 749.27
+[38:28] This looks
+[38:29] Extremely good. This one we have the call one 2.1 billion dollars
+[38:35] This is
+[38:37] This is trying to seduce this was this thing to go to go higher
+[38:42] But look at this just look at this we have
+[38:47] The red bars we have this is million of dollars or hundred and thirty seven million dollars and the largest one is
+[38:53] 599 million dollars
+[38:56] Compared to this one to have nine hundred million dollars nine hundred million dollars one point nine million dollars
+[39:03] So it's attracted more to the off-site again
+[39:06] We can view the net gex being nine point four billion dollars
+[39:10] We can also do this with spy
+[39:15] We've got exposure here
+[39:22] You can also view it here
+[39:26] You can also search
+[39:28] the cues
+[39:37] You can see they're negative today
+[39:41] the cues
+[39:43] We see if I if I have envidia gex today
+[39:51] envidia right now is positive. That's why it has a call one
+[39:56] Has a call one on there
+[39:58] You how's the magnet calculated? We can go here and we'll explain it to you
+[40:04] The magnet wall distract with the most balanced open interest on both calls and puts
+[40:10] Price tends to gravitate toward the level and get held there in expiration
+[40:16] You can that's basically the magnet one. It's the most balanced
+[40:20] In open interest on both calls and puts it will automatically be the magnet
+[40:32] Let me take a sneak peek to see if we have any movement at all
+[40:38] If you have any movement
+[40:40] We have the 700 calls today. They got hit pretty heavily
+[40:49] Yeah, but I think they're getting out
+[40:53] Yeah, they're getting out. Well, weird flow
+[40:58] Wow, this is still getting hit
+[41:01] 26.5 million dollars already. We saw that only 11 billion dollars
+[41:06] That's still getting hit
+[41:13] And the new thing it's still getting hit the 950 calls
+[41:22] I think gamma it's going backwards here
+[41:29] Part of my internet. I have to reload
+[41:32] This isn't going live. Don't worry
+[41:39] But you can see how these things move
+[41:42] We saw earlier. It was the call one and now this is the call one because it's a serial day expiration
+[41:47] It's gonna move
+[41:49] Or now we have to put one the same as the magnet
+[41:58] Yeah, mark market's going red and look at it medium. It's a 206
+[42:03] And this falling without these contracts if we were to bought these contracts earlier because those are zero DTE
+[42:09] I was looking at them at 120 right now. They're 63 dollars
+[42:14] Uh, yeah, 63 cents if you want to feel that okay
+[42:33] As I said earlier the magnet attracts
+[42:37] this
+[42:38] So I said earlier we were at five, uh, 518 and it went down a little bit
+[42:45] The magnet's gonna attract always
+[42:48] Well, not always, but it's gonna attract
+[42:50] So we dropped a little bit of points. We dropped seven eight points
+[42:55] right now we may
+[42:57] But we still have to call it one 1.4 billion or 1.3 billion dollars on the gex
+[43:02] So this is a constant analysis you have to do
+[43:05] You have to be very careful because gex
+[43:09] Moves always so don't stand still on your analysis. You have to monitor it really quickly
+[43:14] The use for day trading the use not for swing trading
+[43:21] Is the price dropped the magnet means that will be trapped. Well, it will be it means it will be balanced
+[43:30] It will be balance
+[43:33] If it drops they put one it means the price will drop because that's the support
+[43:39] What is the Spanish exam?
+[43:42] No, Piki Pani. No Piki Pani
+[43:50] We have an English exam right now
+[44:00] remember the magnet if it goes to the magnet it will go to the
+[44:06] Be attracted to the highest
+[44:09] To the highest or the closest one they call one of the put one if he has the highest amount
+[44:15] Right now the highest amount
+[44:17] Is the 1.5 billion dollars?
+[44:23] So we saw I go to 509 now it's at 511
+[44:38] think we're
+[44:40] Worked still there
+[44:43] iron
+[44:51] We have iron 55 call for january
+[44:57] There's I think they're still in on these contracts. Yeah, look at the impival activities to 117 percent
+[45:04] uh, this went in
+[45:06] They went in on april 17
+[45:11] April 17
+[45:19] 9 million dollars at 13
+[45:22] 10 per contract right now the contract is at 10
+[45:26] um, but then we have
+[45:28] Then we have the iron 110 call
+[45:33] for january
+[45:35] I think there's a lot of you guys in these contracts
+[45:39] But these contracts they did something weird the other day. They basically sold part of these contracts
+[45:45] They sold part of this contract. You can see the open interest was at 77k
+[45:51] and then it dropped here because they sold
+[45:56] They sold like 30k and they bought some they sold some puts they did on a multi like in a weird way
+[46:03] They sold this and then they waited there. They went on some puts
+[46:08] On some selling puts
+[46:11] You can look at this iron we will go to session date iron july 10
+[46:18] Where is it?
+[46:25] You can see they exchange
+[46:30] 50 000 contracts and then they bought puts or they multi like
+[46:36] Which is pretty weird what they're doing
+[46:41] But this contract got some huge lift after that
+[46:48] So they basically went from
+[46:52] Being bullish on these stock
+[46:55] To being bearish on this stock
+[47:02] You can see a six percent single leg
+[47:06] But that's basically they roll over from the
+[47:09] 110 to the 30 puts for the same experiment for the same expiration
+[47:14] That's not a really good look on iron to be honest
+[47:19] I raised right now 43. It was 37 last week. So it went to six dollars price hike
+[47:34] You see what else
+[47:36] Today this 10 14 a
+[47:39] Well
+[47:48] This is interesting
+[47:52] 14.4 million dollars. What does amazon have amazon?
+[47:58] earnings
+[47:59] This is just got in
+[48:02] July 30 eight days from now next wednesday
+[48:11] amazon october 16 write that down
+[48:16] Let me add it to that
+[48:18] 14.4 million dollars just got in
+[48:22] We had 245 amazon right now is right on the day
+[48:28] And someone just traded 14.4 million dollars for october 260
+[48:35] Is one bar to uh 12.65 12 40 95 is just one cent below
+[48:43] It's an out-of-the-money contract. You can trade, you know, whatever you want
+[48:46] You can trade an in-the-money contract at the money contract
+[48:51] We can actually trade something like that
+[49:07] Let me just explain again because people sometimes
+[49:10] You see I have this buying power this buying power
+[49:14] That's because that's margin. I have been having reality this margin power for option trading. We'll see right now
+[49:24] You can see 55. Then if I go trade amazon options, I have only 27
+[49:29] Because I only have one contract open on intel
+[49:32] They're basically trading for october 16. They're trading the 260 call
+[49:38] the 260 call
+[49:44] with that
+[49:45] I can trade I can trade
+[49:48] If they're doing that
+[49:50] Right now at 245
+[49:52] I can go deeper in the money
+[49:56] Deeper in the money a higher delta
+[50:02] You can go to november to be more safe
+[50:09] We got 67 delta. We got 68 63 delta
+[50:14] We can buy here for example
+[50:17] We can buy here the 230s
+[50:28] We can go on october it's 86 days
+[50:37] Yeah, I'm gonna buy one for now
+[50:40] You're gonna see how we'll go on the day
+[50:45] Well, the thing is look at the spread on these contracts
+[50:50] It's pretty isn't that good
+[50:56] It was if it feels yeah, I got a field
+[51:00] Let me take a screenshot of this
+[51:08] I just feel one contract of amazon. I bought the 230 for october
+[51:14] I bought at 27.50
+[51:18] Why?
+[51:20] I'm really interested in this kind of flow and I really if you have been following we have the amazon september 18
+[51:28] 220 call
+[51:31] The 220 call
+[51:33] Which they're still in
+[51:37] And they're making money already. Look at the improvement exposure. They went back
+[51:42] They bought 20 million dollars on june 29 20 million dollars. The contract is at 32.56
+[51:52] So i'm buying with one more month
+[51:54] 10 years more
+[51:57] The implied volatility is at 41% on that contract
+[52:08] They're basically making a little bit of money, but they're still in
+[52:13] That's the whole point. They're still in on these contracts and then we just saw this one
+[52:22] Amazon got a dip today
+[52:24] Let's say again
+[52:26] You can see it's 2.23 cents below
+[52:33] So right now we're holding one intel contract, which I don't like to hold true earnings to be honest
+[52:39] But we're holding one
+[52:42] And then we have one amazon contracts both for october
+[52:49] How do we know if the contracts are being bought or sold?
+[52:52] For which one for the amazon one?
+[52:59] Okay, we have a really quick explanation here
+[53:02] We see they're they buying the 260 calls
+[53:06] Look at the size the volume and the open interest the open interest is 4 000
+[53:10] So there's no way they're closing this contract
+[53:17] There's no way they're closing this uh this
+[53:20] There's no way they say closing action. Why because the open interest is 4 000
+[53:27] Look at the size the size is almost the volume
+[53:30] And look at the execution the execution is basically at the ask price. It's $1 below the ask price
+[53:37] So it's not the bid price
+[53:39] So they're basically we can we can safely assume for now
+[53:43] That these contracts are being bought to open
+[53:47] Being bought to open
+[53:49] I bought the 230 strike for october 16
+[53:53] I like doing safer bets. I like doing delta 0.68 delta
+[54:02] Remember this is not financial advice. It's for education and entertainment purposes. I'm trying to grow the account
+[54:13] You don't have to trade exactly what I'm trading
+[54:17] You can trade their trade. You can wait until tomorrow
+[54:25] You can trade. I don't know
+[54:28] Whatever your account
+[54:31] Let's you trade
+[54:33] But this is the terminus direction and the 220 calls. So we basically for amazon
+[54:37] We have the 220 for september 18 and the 260 for october 16
+[54:48] Okay, let's go back to the xpx. Let's see what's happening
+[54:52] Xpx is a
+[54:56] no-signal phone
+[55:09] Let me see how it's moving
+[55:18] You saw earlier. We were at 9.5 payment dollars being positive
+[55:25] Well right now we're at only 631 million dollars. Why the market's dropping?
+[55:33] neutrally markets are dropping. We saw nvd up
+[55:37] There's no stock pushing this pie at the moment
+[55:40] Only google is only on the magnificent seven google is up
+[55:46] And neflex is up one dollar. Wow. Okay, this is getting interesting now. That guy says below
+[55:58] Is negative and it's
+[56:01] Almost below the magnet
+[56:09] Any news?
+[56:21] Are they trading indices today?
+[57:10] Can you explain this? Can you explain why?
+[57:13] the
+[57:15] How they contract this bottle is sold
+[57:34] Yeah, 23% they got some news yesterday. I'm starting to remember what they did
+[57:42] Oh, yeah, the margin rebound
+[57:46] Yeah, because they got a
+[57:51] Skyhane is gonna do today
+[57:56] They disclosed something earlier
+[57:58] Yeah
+[58:01] Let's see
+[58:21] Yeah, but I don't think there's really good flows or some smx
+[58:26] SMCI
+[58:28] super micro
+[58:30] Well, I remember that stock one was trading crazily
+[58:33] Two years ago. It was a hundred nine hundred one thousand was going crazy fast
+[58:39] Well, that's a pretty nice rate from 10 to 270
+[58:54] You're still waiting around to see what xp is gonna do
+[58:58] I don't know what's like keeps going back and forward
+[59:14] It's negative
+[59:18] What trade did I enter?
+[59:21] I enter amazon
+[59:24] amazon
+[59:26] 230 coin
+[59:28] Right now we're negative at the moment. I enter one contract because we just saw the
+[59:35] This one we just saw this one at 10 15 almost 10 12 minutes back that
+[59:42] $14 million being bought october 16 260 call so where we enter in the money here for october 230 call
+[59:54] The realm
+[60:25] Yeah, they basically
+[60:27] Exited those contracts
+[60:30] You see now
+[60:36] They went down from the 205 to the 60 60 calls
+[60:44] But they put more money in for the higher delta
+[60:49] at the ask
+[60:51] So this is why it's in an order
+[61:02] So this is basically a
+[61:05] vertical spread
+[61:08] Now don't worry
+[61:12] Amazon 230 coin
+[61:14] They open in vertical spread 260 call 295 call $14 million and they sold the 295 calls
+[61:21] So this is a very aggressive vertical spread because it's an isn't an out of the money vertical spread 260 295 calls
+[61:29] How do I know look at the time look at the time
+[61:33] And look at the sizes
+[61:37] Look at the open interest. There's no way they're getting out and there's no way they're getting out here neither
+[61:43] How do I know they bought to answer one of you guys questions earlier?
+[61:50] They bought this contract because
+[61:52] Look at the are basically buying it at the ask look at the size is almost the same as the volume
+[61:59] $14.4 million
+[62:02] And they sold to open this contract because look at the size and look at the opening twist basically is a
+[62:09] So to open also
+[62:11] So if this is mostly multi like because look at the time frame and look at the size
+[62:15] These are bullish vertical spread
+[62:19] They're buying the 260 calls and they're saying the 295
+[62:27] Yeah, and they're selling this one the two 10s
+[62:38] But this is how I know look at always look at the open interest and volume and size
+[62:44] And you're gonna know
+[62:46] For example, if I go look at the time
+[62:51] I go look at the time on the emu
+[62:54] These ones
+[62:58] Look at the volume. It's way below the open interest
+[63:02] Way below one. This is the higher
+[63:05] The highest volume has been today. We use 1,661. I'm sorry
+[63:12] They're getting out
+[63:15] They're selling at the bit. They're selling at the bit
+[63:18] At the volume below the open interest
+[63:20] So we can assume these ones are getting out. Remember, we can assume for today for tomorrow. We will correctly know
+[63:27] If this dropped to 800 for example
+[63:30] or
+[63:32] 179
+[63:35] Why did I buy these two 30 strike because I like to buy higher deltas and I like to be in the money
+[63:41] I don't always trade
+[63:43] This trade the same contract as it done
+[63:49] And we also have the amazon
+[63:51] September 18 to 20 call and the delta is almost 70. So I like to be
+[64:02] With a safe
+[64:05] October 230 delta
+[64:08] The with a point 68 delta
+[64:12] My range to trade
+[64:14] uh
+[64:15] From 60 to 75
+[64:19] Anything above that is I think is too costly
+[64:23] I don't I don't usually trade point 40
+[64:27] You sometimes see me trade point 50 deltas, but it's not always
+[64:32] I like to say for deltas
+[64:44] See this is an opening trade. They're doing here
+[64:49] But on what
+[64:55] This the same thing they're doing on amazon
+[64:59] the same thing
+[65:05] They're buying
+[65:08] TLCT also
+[65:11] They get the same thing
+[65:13] They they bought 11 000 contracts on amazon. They sold 11 000 contracts and they sold 5 000 contracts
+[65:22] 365 415 295
+[65:31] So this is the same thing
+[65:35] Analyze more i'm gonna do that here
+[65:42] This is the same thing they're doing on the amazon trade
+[65:46] I want you to guys take a sneak peek on that the same thing
+[65:50] They're doing on this one
+[65:52] 14 minutes later
+[65:55] 11 11 5000
+[66:04] I want to trade
+[66:07] Wow, this one all the way back. How much how what is be doing?
+[66:15] 228 wow, I was like, I think it's went all the way back. I didn't
+[66:23] I didn't think it's one again. It's what's gonna do that to be honest
+[66:28] That's what we are those trades do
+[66:36] 200 calls
+[66:38] September 18
+[66:41] What is this one doing?
+[66:46] Yeah
+[66:48] They paid
+[66:50] 16.20 I think it's at 23
+[66:56] But it went all the way today to
+[67:02] What has been staying the same?
+[67:07] Yes, the implied lot. This is extremely high
+[67:13] Extremely, extremely high
+[67:17] We're gonna have the same thing
+[67:21] August 21 call
+[67:24] 125
+[67:27] Now the same contract here or not the same contract
+[67:31] They paid 42
+[67:34] 0.18
+[67:37] And they're at 54 today
+[67:40] Well, they're not at 54. We would have no fear that
+[67:44] The contract is sad like 50 to 1 or something
+[67:54] Yeah, the sector is
+[67:59] It's down today, but we haven't you
+[68:04] We use all with
+[68:06] 0.57 on the day and we have SMDK
+[68:09] Yeah, we have been verifying the sector today
+[68:11] SMDK
+[68:14] Wow, those those contracts really went to the upside, but they cost too much
+[68:20] Look at this. We saw since the opening on the market
+[68:24] We saw 9 33 a.m
+[68:27] This they started trading 23,580
+[68:32] And right now it's at 26,000
+[68:34] So if you traded one of these contracts are already on the upside three thousand dollars
+[68:40] Because the the stock was at
+[68:42] 1,526 we saw it. We saw it was a huge flow 11 million dollars since the open right now. It's at 41 million dollars
+[68:52] And it's already what's that like 15 percent to the upside
+[68:58] So this person if we viewed the net premium and the life
+[69:03] This person today
+[69:06] Well, it's gonna be mixed because there are a lot of trade
+[69:12] We're not gonna see it exactly today
+[69:16] This isn't it isn't open interest exactly, but
+[69:23] They paid
+[69:25] They paid
+[69:28] Since the beginning 23,000 is at 26. Oh, it's 27
+[69:33] Almost 27. Look at that
+[69:36] The stock is ceiling at one thousand six hundred eighty dollar move and it's positive on the day
+[69:44] So the whole sector is going back
+[69:47] It went as two percent down
+[69:49] We also have uh, wdc
+[69:54] We have seagate
+[69:56] I think it's yeah, it's in the sea. No, it's not sea
+[70:00] I don't remember what seagate is the
+[70:03] ticker
+[70:09] xdx xdx
+[70:17] Yeah, the whole sector rebounded
+[70:31] Yeah, I think that's
+[70:36] spy stain very still I wanted to show you a trade with the gags, but
+[70:41] Spice
+[70:42] xpx stain is so still
+[70:45] I don't like it
+[70:48] I think it will have to do to be another day
+[70:51] because
+[70:52] it will
+[70:54] Spice and moving a lot
+[70:57] So I won't be showing you a trade on that
+[71:00] So just sit around here and wait
+[71:10] Because look at that now. We're negative on the gags
+[71:16] We're negative on the gags
+[71:21] We have the call what I'm seven hundred and five
+[71:23] Seven thousand five hundred and twenty five and now we have to put one seven thousand four hundred and fifty
+[71:32] But we're moving in at all
+[71:35] For the last couple minutes, we're going to the downside
+[71:39] We're negative on the day now point sixteen percent
+[71:48] But because we have a negative gets now
+[71:52] Everything to the upside will be pressured to be
+[71:56] If we have moved to the upside, we're gonna be pressured to sell now
+[72:00] Because of the gags
+[72:07] Yeah, I went down to the magnet
+[72:11] That's what I told you earlier
+[72:13] Because earlier, uh, we saw all the green green green to the 550 540s
+[72:20] But I said it will it will chase the magnet
+[72:23] And we're right now below the magnet
+[72:30] Yeah
+[72:33] I bought amazon to call
+[72:36] 230 october 16
+[72:39] I bought it at 27.50
+[72:42] I say again
+[72:45] Please not find answer advice or anything. I bought that contract. You can see it here
+[72:51] Amazon 230
+[72:55] October 16 about
+[72:57] 27.50
+[73:01] The account is sitting at we're losing 70 something on that
+[73:09] I'm a little bit sad. We haven't reached 30 000 yet
+[73:12] We have taken it kind of slow this
+[73:15] Last week and this week. It's not the same as the other ones
+[73:20] It's not the same as the first one that the first one we made four thousand two hundred dollars
+[73:25] But we have to protect the account on earning wings just started where if
+[73:30] If there's not something clear protect your accounts
+[73:33] The longer we protect the account on the capital stay
+[73:38] The longer the account will
+[73:41] The longer will be on the market. It's not about making money. It's about protecting it at the on the long run
+[73:47] so just
+[73:48] always
+[73:49] Think like that
+[73:58] Yeah, look, I know it's pressuring on the downside
+[74:01] And now we have
+[74:04] Yeah, it's really negative now
+[74:11] But you you saw how it flip
+[74:13] It's how I flip from being 9.5 billion up to being negative 2.6 billion down
+[74:20] And then we have to put one here
+[74:23] But first we have the
+[74:25] 75
+[74:32] You can see how it moves just like
+[74:51] interesting
+[74:52] Let's see how the spy's doing and then we'll we end the livestream here
+[74:57] I'm not gonna trade it
+[74:59] No, I think next week. Let me know in the comments to see
+[75:03] Next week. I'm gonna do this live
+[75:06] on the afternoon
+[75:08] To actually use the gags with you guys and to see if victor joins
+[75:12] I would use the gags to have a live trading with the gags
+[75:17] Because on the morning gags is not exactly very
+[75:24] Like that from three to four two to three about that idea. Yeah contra I remember what they entered
+[75:56] 7 million dollars
+[75:59] 25 to 16 dollars
+[76:02] Yes, talk is at 187
+[76:12] I like the expiration. I don't like the delta
+[76:16] The deltas was way higher when they entered obviously without 47
+[76:21] Right now it's 10 dollars 10 delta minus 10 the 10 deltas
+[76:28] You can trade crowd you can trade that that direction is trading but
+[76:33] That contract 240, maybe you can trade their average from 16 to 20 something like that
+[76:41] But crowdstrike
+[76:45] The same is the software sector hasn't been doing really well this year. We can see an empanada being uh,
+[76:50] what I call Microsoft
+[76:54] Yeah before I go let me
+[76:57] So that's my tip on that you can trade another contract in that direction
+[77:01] Or you can trade their average don't expect to go above their average
+[77:06] Let me see because I saw yesterday
+[77:10] A contract being opened new 120 calls
+[77:14] For July 3rd did that go in?
+[77:18] That go in yeah that go in he treated it
+[77:24] at
+[77:25] 955
+[77:27] And that contract right now is at
+[77:30] 945
+[77:35] Very interesting contract because I like the delta, but I don't like the timing at all
+[77:43] The 120 calls do like 31st 269 days expiration 71 delta
+[77:49] Is in the money
+[77:52] But the expiration is i'm gonna help
+[77:59] well
+[78:01] We're done for today any more questions you you can leave them on the discord
+[78:05] I traded one contract today. I'm gonna
+[78:08] Share it in the discord what I why I slightly traded
+[78:12] And why did I trade it?
+[78:14] And uh, I'll let you guys know if anything else
+[78:17] See you guys on the next time

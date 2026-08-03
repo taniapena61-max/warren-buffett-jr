@@ -1,0 +1,2014 @@
+Transcripción de: MarketSnack_Live_Tutorial.m4a
+Modelo: small  |  Idioma: en  |  Duración: 6425s
+------------------------------------------------------------
+
+[01:06] Good evening to all the people who are watching, super happy to be here with you today.
+[01:12] Today we are going to give you a super tutorial on how to use the marketing platform,
+[01:17] we are going to show you a little bit of the market.
+[01:19] And as you all know, within the marketing, what we are doing, we are still innovating,
+[01:26] we are still launching new ideas, we are still launching new products.
+[01:29] Many people have asked us, when do you use jokes?
+[01:32] When do you use jokes? When do you have the actions?
+[01:34] When do you use graphics? When do you use all of that?
+[01:37] We definitely hope to have a lot of tools available for you.
+[01:43] But you know that someone is missing, this person who is missing a lot,
+[01:50] he is very intelligent, but he is the person who works in the product area,
+[01:57] research, improvement, getting good contracts, getting good companies.
+[02:04] And many of you who are in the Discord know him, but we are going to ask someone for a virtual applause, please.
+[02:19] A virtual applause, I have an echo, I have an echo, let's see what it is.
+[02:26] I have an echo, I have an echo, I have an echo, let's see what it is.
+[02:35] Hello, how are you?
+[02:37] How are you?
+[02:39] I'm fine, hello.
+[02:41] It's good to see you, I'm here again with Victor to present the platform, our great project.
+[02:48] Kevin, tell me, tell me a little bit about your life, that you are not here,
+[02:53] but I think you are in the United States, right?
+[02:56] Yes, I've been back for three hours, I'm in Los Angeles, California.
+[03:02] So I'm a little far away from you today.
+[03:05] Let's go, I don't know, because you are almost gringo now.
+[03:11] They are nothing, people.
+[03:13] Now yes, ok.
+[03:15] Who is this for?
+[03:17] For people who want to make the future, the people who want to make actions,
+[03:21] the people who want to make options, all kinds of people.
+[03:24] So that's what we are going to be teaching you today.
+[03:26] Super good, the class we have.
+[03:28] We are going to be teaching you a little bit more about how Market Snack works
+[03:31] and we are also going to be giving you a little preview of the next few weeks
+[03:38] in the application and that we are going to be doing, right, today.
+[03:44] And also how we run this, right?
+[03:47] I more or less explain to you what is new, what we are seeing,
+[03:51] but also Kevin, obviously, can help us too,
+[03:55] where we are going to be explaining a little more what is coming,
+[03:59] what we are doing and how it works, right?
+[04:03] The new updates within the Market Snack application, ok?
+[04:09] Kevin, do you hear me well, right?
+[04:11] Yes, I can hear you well.
+[04:14] Before Kevin started talking about Market Snack,
+[04:18] tell me, have you seen After a World in the Market?
+[04:21] There were a lot of companies that reported how you participated in something,
+[04:27] did you see something particularly?
+[04:29] Yes, can you tell us a little bit?
+[04:31] Well, yes, we can share the screen, we can start there.
+[04:34] But before that, man, I'm a person who I love to see
+[04:39] how the institutions sell in Prima.
+[04:42] And about 40, 30, 40 minutes before being in the market
+[04:46] we saw how an institution sold 15.5 million dollars in Prima
+[04:51] at the 35 PUT of QQQ.
+[04:54] That is an indicator that is not very direct,
+[04:58] it is not very directional because it is not a company in C,
+[05:01] but an ETF, but they reported four of the Manifests in Seven,
+[05:06] which were from the technology of the four, well, three.
+[05:09] And Amazon already...
+[05:11] And Amazon falls there in part because of all its CAPEX with it
+[05:15] and with all the data that they are doing.
+[05:18] But when someone sells Prima like that,
+[05:21] with 15.5 million dollars, that is already a conviction.
+[05:24] You know that the earnings are not necessarily going to be very negative.
+[05:28] We see that...
+[05:30] What did you see, what were you selling?
+[05:32] QQQQQQQQQQQQQQQQ.
+[05:35] At the moment, they were below in After Hour,
+[05:37] but now they are, right?
+[05:39] If they are a little higher, right?
+[05:41] And obviously, that for sure will continue to go up.
+[05:44] That is a good indication that they lie there...
+[05:47] Yes, they lie up there in After Hour.
+[05:49] They lie up there in After Hour.
+[05:52] From being below at the moment, right?
+[05:54] Because they were at a time like red.
+[05:57] They are now almost...
+[05:59] They move to a point above, in 662.
+[06:01] They sold in what Prima you said, Kevin, sorry.
+[06:04] CASCUE...
+[06:06] That money is 155 million.
+[06:08] From the 635.
+[06:10] What? The 635's?
+[06:12] Yeah, the 635's there.
+[06:13] Me and them, yeah, they blow up quite a few reports there.
+[06:16] I don't know if you followed micro market earnings
+[06:19] and from Google.
+[06:21] Google at least reported great results.
+[06:24] Even, it was up to 4%
+[06:27] and also, another company that was pretty interesting
+[06:31] the action of microsoft also that made it a little bit at the end
+[06:37] we saw a little bit of the capex
+[06:39] we saw the capex and microsoft surprised us with azure
+[06:43] we didn't expect azure to leave money, this last trimester and he left money
+[06:48] and he surprised us and amazon threw a balloon down but I already recovered it
+[06:53] they are 273 I don't know if you have seen it, it's 4%
+[06:55] wow amazon
+[06:57] look, they are 1.5 up to the cube right now
+[07:03] it's true, wow
+[07:05] oh wow, 10 points up amazon, that's for 300
+[07:08] easy
+[07:10] I like it
+[07:12] well, let's do something
+[07:13] Kevin, do you want to do an analysis of what you saw first or do you want to show us the new features of the marketsnack application?
+[07:22] I think we can do an analysis first so that they can see
+[07:26] because they are already hot so that they can see what happened
+[07:29] and we can analyze
+[07:31] and then we can see the new features of the marketsnack
+[07:35] see, let's do something, share the screen and tell them what you were seeing from the triple q
+[07:41] of course, very
+[07:43] wow
+[07:49] amazon saw it
+[07:54] incredible
+[07:59] let's start as always
+[08:01] let's
+[08:03] explain what I saw today
+[08:05] let's reset the filters
+[08:07] this is our flowfit
+[08:09] very beautiful
+[08:11] here we go to the filters
+[08:13] I'm going to show you what filters I use in my daily life to be able to highlight the flowfits
+[08:19] I come here to the condition area
+[08:23] all conditions
+[08:25] in single legs
+[08:27] and all msl and mfsl
+[08:29] this is for you to have ideas
+[08:32] this is what I do
+[08:34] every which has a different plan
+[08:36] like I use in the marketsnack
+[08:38] but this is what I use every day to be able to analyze it
+[08:42] once I have those filters put
+[08:44] I can apply filters
+[08:46] if I don't have 11
+[08:48] I don't have any number 11 on the ball
+[08:50] and here I organize this
+[08:52] from the oldest to the youngest
+[08:54] let's see that the plate is down
+[08:56] and I'm going to take the largest
+[08:58] the smallest
+[09:00] and here we see the first
+[09:02] the trail that we were talking about
+[09:04] this was
+[09:06] the 1113
+[09:08] but
+[09:10] let's see
+[09:12] what are you going to do now
+[09:14] if you think about it, the market was in the load of the day
+[09:16] the market was in the load of the day
+[09:18] the cost was $6.58 there
+[09:21] and the wine here
+[09:23] and they sold it
+[09:25] in 320 for the contract
+[09:27] which is 3.20
+[09:29] remember that
+[09:31] and it's really aggressive
+[09:33] it's really aggressive
+[09:35] because if you see there
+[09:37] and you expire, it's 9 days that he was left
+[09:39] to spiral
+[09:41] if you can see that this is a weekly
+[09:43] remember that
+[09:45] the msl and mfsl
+[09:47] this person sold us a weekly
+[09:49] 9 days, this is the next week
+[09:51] he sold under
+[09:53] under the bid
+[09:55] that's why he can't take the 3 bars
+[09:57] you can see the bid, the bid, the bid
+[09:59] aggressive selling
+[10:01] and he sold 48,500 contracts
+[10:03] and that was the vast majority of the volume
+[10:05] of the day today
+[10:07] the delta is .20
+[10:09] and for the one
+[10:11] who is in the world of options
+[10:13] and has seen the courses of infusion
+[10:15] and knows how the
+[10:17] sales of Prima and the hedge
+[10:19] usually a person who sells Prima
+[10:21] is looking for under .20
+[10:23] and a person who is doing hedge is looking for .20
+[10:25] here we can see that this is the case
+[10:27] of a Prima sale
+[10:29] this person tomorrow
+[10:31] will start to generate the money
+[10:33] when the contract is under 3.20
+[10:35] to start collecting the money
+[10:37] and something interesting that people don't know
+[10:39] the correlation that there are many times
+[10:41] between actions, options
+[10:43] and future if you had
+[10:45] the longyaw LNQ
+[10:47] easy
+[10:49] if you know that they are selling the triple Q
+[10:51] the triple Q is the index or the ETF
+[10:53] of the market
+[10:55] if you are selling it then you can
+[10:57] longyaw LNQ effectively
+[10:59] if you were to longyaw LNQ
+[11:01] from that moment
+[11:03] from that moment
+[11:05] because right now if we look here
+[11:07] if we look here
+[11:09] and you will see that it is in 6.63
+[11:11] if you had it
+[11:13] when you can see
+[11:15] here it is when this person enters
+[11:17] in 6.58, they are 5 points
+[11:19] 4 points
+[11:21] I mean 6 points, excuse me
+[11:23] they are 6 points of difference
+[11:25] they are a good long in the future
+[11:27] that has little relation
+[11:29] great, it is a 10,000 pesos long
+[11:31] minimum
+[11:33] if you put a couple of contracts in the regular LNQ
+[11:35] I like it
+[11:37] since Kevin taught us the analysis that he did
+[11:39] Kevin if you can explain the filters
+[11:41] Kevin has some very good filters
+[11:43] for you to know
+[11:45] Kevin for those who do not know
+[11:47] he has very good trades
+[11:49] he has trades from BE
+[11:51] that we are going to talk about right now
+[11:53] from Intel
+[11:55] you have
+[11:57] on your watchlist the Intel trades
+[11:59] and tell us a little bit about how
+[12:01] you got those transactions
+[12:03] from Intel
+[12:05] look at that, you have a watchlist
+[12:07] look at the watchlist of Kevin
+[12:09] look at the watchlist that has about 700 green contracts
+[12:13] ok
+[12:15] we are going to explain
+[12:17] a very famous trade in the community
+[12:19] of Discord
+[12:21] this is a trade that
+[12:23] we are seeing from March 16
+[12:25] what is happening
+[12:27] in March 16 we can see
+[12:29] because we do not know
+[12:31] we are in the contract title
+[12:33] because we do not know how to get here
+[12:35] hide my tricks
+[12:37] we got to the contract
+[12:39] and we are
+[12:41] we are going to the watchlist
+[12:43] and this takes me to the contract title
+[12:45] in the contract title we have the time and sales
+[12:47] which basically is like a mini flow fit
+[12:49] of that contract
+[12:51] and it tells you the last thing that has been sold
+[12:53] and the last thing that has been bought
+[12:55] the transactions
+[12:57] and we can see that day in the flow fit
+[12:59] March 16 at 24pm
+[13:01] we can see like a person with
+[13:03] 56.5 million dollars
+[13:05] in a 30
+[13:07] what happens?
+[13:09] there is something weird there
+[13:11] the round number 50.000 contracts
+[13:13] and the round number of 56.5 million
+[13:15] ok
+[13:17] we already have the first step
+[13:19] we put it in our watchlist
+[13:21] March 19
+[13:24] the same person we can assume
+[13:26] remember we do not know exactly who
+[13:28] because it is public information
+[13:30] but we can assume that it is the same person
+[13:32] for the condition
+[13:34] the same person three days later
+[13:36] March 16
+[13:38] March 19
+[13:40] three days later he does average down
+[13:42] the person takes 10.000 contracts
+[13:44] and puts 9.2
+[13:46] million dollars
+[13:48] and in March 25
+[13:50] he does the same 10.000 more contracts
+[13:52] this point he has 70.000 contracts
+[13:54] and he takes 10 million
+[13:56] 10.2 million
+[13:58] and this total sum to 76 million dollars
+[14:00] what happens?
+[14:02] Intel at this point was at 47.000
+[14:04] 47.000
+[14:06] 47.000
+[14:08] the range was 43.000 to 47.000
+[14:10] Intel
+[14:12] he goes up
+[14:14] to 65.000
+[14:16] to 66.000
+[14:18] this person sold each contract
+[14:20] at 21.000
+[14:22] 46.000
+[14:24] but what happens? he sold them
+[14:26] but look at the condition
+[14:28] this is single leg and he sold them
+[14:30] look at the amount of the contract today
+[14:32] 3.600%
+[14:34] and if you want to see
+[14:36] how the Open Interest works
+[14:38] let's see what happened here
+[14:40] look at this chart
+[14:42] March 16
+[14:44] the Open Interest is 32.000 and a volume of 50.000
+[14:46] and it is difficult to read it
+[14:48] because in the new contract detail
+[14:50] that we are going to tell you
+[14:52] it is much easier to read it
+[14:54] exactly and here
+[14:56] you are seeing the last contract
+[14:58] look at the new one
+[15:00] but to understand what happened
+[15:02] this person sold 40.000 to 50.000
+[15:04] the other day he sold 78.000
+[15:06] March 19 he sold 10.000
+[15:08] they sold 88.000
+[15:10] then he sold 10.000
+[15:12] they sold 98.000
+[15:14] and here you can see how they sold 70.000
+[15:16] that you can see here
+[15:18] in April 9
+[15:22] and the Open Interest is low
+[15:24] what happens? this person
+[15:26] does not come out
+[15:28] look at this
+[15:30] you have all the diablo codes
+[15:32] let's see
+[15:34] the Multileg
+[15:36] the 70.000 contracts
+[15:38] he only
+[15:40] comes in with 60.000 contracts
+[15:42] only
+[15:44] and they are 71.000.000
+[15:46] 71.000.000
+[15:48] he comes in in 1.025
+[15:50] and you say he is going to continue
+[15:52] let's see it here again
+[15:54] look at this 60.000
+[15:56] he adds 65.000
+[15:58] he goes out
+[16:00] open 21.000
+[16:02] open 23.000
+[16:04] open 24.000
+[16:06] you can see it here
+[16:08] you can start to follow
+[16:10] 10.000
+[16:12] this example is great
+[16:14] how much does this person earn
+[16:16] with that trade?
+[16:18] right now he is still involved
+[16:20] let's go there now
+[16:22] this person is now
+[16:24] $752.000.000
+[16:26] with an investment of
+[16:28] $76.000.000
+[16:30] if you had invested
+[16:32] you would get a $700.000
+[16:34] $1000.000
+[16:36] $7000.000
+[16:38] that would have dragged with all this
+[16:40] this second contract is already 222%
+[16:42] that contract is at $42.000
+[16:44] if you had invested $1300
+[16:46] you would be at $42.000
+[16:48] but if you had invested
+[16:50] $780.000
+[16:53] $780.000
+[16:55] $780.000
+[16:57] $5455.000
+[16:59] great
+[17:01] great, how long have you been
+[17:03] it's been 5 days
+[17:07] it's been a month
+[17:09] more or less
+[17:11] it's been a month
+[17:13] really in 13 months
+[17:15] 13 months
+[17:17] great
+[17:21] now
+[17:23] it's a trade contract
+[17:25] that you can see how much it's worth
+[17:27] I don't know if you saw it
+[17:29] that was from Intel at $47.000
+[17:31] on March 16th
+[17:33] $95.000
+[17:35] wow
+[17:37] it would have entered with shares
+[17:39] it would have been duplicated with shares
+[17:41] it would have been duplicated with your investment
+[17:43] that's true
+[17:45] and all that
+[17:47] a couple of weeks before the movement
+[17:49] and people could see it and test it
+[17:51] in the same discord
+[17:53] it would have been duplicated
+[17:55] now people
+[17:57] on May 11th
+[17:59] I repeat it's not available now
+[18:01] but I want to give you the first preview
+[18:03] of what our
+[18:05] contract detail number 2 is going to be
+[18:07] if you see Kevin
+[18:09] I was showing you
+[18:11] what is the old contract detail
+[18:13] of us
+[18:15] I'm going to try to enter here
+[18:17] I'm going to try to enter
+[18:19] here
+[18:21] so that people can see more or less
+[18:28] so that people can see
+[18:30] the big difference
+[18:32] that they are going to have
+[18:34] once on May 11th
+[18:36] they can see
+[18:38] I'm sure that the profits of the people
+[18:40] are going to increase
+[18:42] substantially
+[18:44] because
+[18:46] of
+[18:48] the great advance
+[18:50] I'm going to do the work team
+[18:52] in that new contract detail page
+[18:54] where they are going to be able to
+[18:56] see a lot of things that are going on in the market
+[18:58] so without further ado
+[19:00] without further ado
+[19:02] I'm going to be showing you quickly
+[19:04] for you to see
+[19:06] I'm going to show you the difference
+[19:08] for you to see
+[19:10] I'm going to show you a little
+[19:12] the difference
+[19:14] for you to see
+[19:20] here
+[19:26] now
+[19:30] ok
+[19:33] so
+[19:35] let me see here
+[19:37] so that you have an idea
+[19:39] that I just saw in the comments
+[19:41] last year
+[19:43] the US government
+[19:45] invested in Intel when it was at $20
+[19:47] I think it goes pretty well
+[19:49] in its investment
+[19:51] what?
+[19:53] a tremendous investment that the government has
+[19:55] invested in
+[19:57] last year
+[19:59] and what do you think of that
+[20:05] what do you think of the government
+[20:07] of the way it participates
+[20:09] and thinks that
+[20:11] that is
+[20:13] that is not just
+[20:15] that is not just
+[20:17] ok
+[20:19] that also speaks a lot
+[20:21] about China
+[20:23] what happens is that
+[20:25] Intel was
+[20:27] falling behind in technology
+[20:29] and they started investing
+[20:31] and who is better the investor than the government
+[20:33] I wanted to participate
+[20:35] in the semiconductor market
+[20:37] with a local company
+[20:39] ok
+[20:41] officially
+[20:43] I'm going to show you
+[20:45] our contract detail 2.0
+[20:47] basically our team
+[20:49] has been working
+[20:51] in the restructuring
+[20:53] of what is
+[20:55] the contract detail page
+[20:57] we are going to the wash
+[20:59] I entered the account that was not
+[21:01] look good
+[21:03] give me a second
+[21:05] give me a second
+[21:09] let me enter
+[21:11] here
+[21:18] so they can see door by door
+[21:20] I think it is a good idea
+[21:22] so they can see side by side
+[21:24] they can see
+[21:27] what we have done
+[21:29] in the snack market
+[21:31] ok
+[21:33] they are seeing
+[21:35] right hand
+[21:37] let me collapse this
+[21:39] left hand
+[21:41] left hand
+[21:43] you are seeing what the old snack market
+[21:45] that is what Kevin was teaching
+[21:47] the snack market is in this way
+[21:49] where you can see
+[21:51] the volume
+[21:53] look how you can see the volume
+[21:55] you can see the open interest
+[21:57] if you go down your life
+[21:59] ok
+[22:01] Kevin if you can pass me the contract number
+[22:03] please
+[22:05] the Intel
+[22:07] please
+[22:11] I need other bonuses
+[22:15] so they can see it
+[22:17] and there are many more things
+[22:19] for the contract detail
+[22:21] but I'm sure
+[22:23] they are going to be able to grow
+[22:25] incredibly financially
+[22:27] there are many more things that I would love to tell you
+[22:29] but for you to see it
+[22:31] if you want to write it
+[22:33] in the same youtube chat
+[22:35] ok
+[22:37] I'm going to write it
+[22:39] ok
+[22:41] so let's look for this contract
+[22:43] in the snack market
+[22:45] in the old snack market
+[22:47] let me
+[22:49] wait
+[22:51] they are missing 26
+[22:53] 26
+[22:55] 0
+[22:57] ok
+[22:59] ok
+[23:02] so this is how the contract detail is
+[23:04] basically
+[23:06] what Kevin was teaching
+[23:08] you could see
+[23:10] that this person entered
+[23:12] but it was very difficult
+[23:14] to determine how much money
+[23:16] that person had invested
+[23:18] what was happening
+[23:20] if it was a single leg
+[23:22] it was very difficult
+[23:24] and look how we have raised
+[23:26] the new snack market
+[23:28] let's go here
+[23:30] look how we have raised it
+[23:32] by the way
+[23:34] when you are in the flow fit
+[23:36] you are in the flow fit
+[23:38] now you can come here
+[23:40] and you can open and expand
+[23:42] and you can monitor
+[23:44] how much is above this transaction
+[23:46] particularly if someone invested 29,000
+[23:48] it gave me millions
+[23:50] if it goes up to 100
+[23:52] how much money would be above this
+[23:54] 82,000 dollars above
+[23:56] and now yes
+[23:58] and you can click and see
+[24:00] the new contract detail page
+[24:02] so look at what we have done
+[24:04] let's go from this information
+[24:06] that you are seeing right now
+[24:08] ok
+[24:10] I'm going to expand
+[24:12] a little bit more
+[24:14] ok
+[24:18] so what we have been doing
+[24:20] here in the application
+[24:22] let's go here
+[24:24] let me refresh this
+[24:26] let's see
+[24:28] I'm teaching you a demo
+[24:30] let's see
+[24:32] I'm opening Safari
+[24:34] I'm trying to adapt
+[24:37] let me enter here so you can see
+[24:39] because I'm not opening Safari
+[24:41] well
+[24:43] we are going to be launching this
+[24:45] the 11th
+[24:47] we are going to be launching
+[24:49] the 11th
+[24:51] May
+[24:53] and now yes
+[24:55] ok
+[25:01] this is the new home page
+[25:03] of the contract detail
+[25:05] of Marcus Knight
+[25:07] so what you are seeing right now
+[25:09] is the evolution that we have had
+[25:11] from what you are seeing
+[25:13] before
+[25:15] what we are going to have
+[25:17] obviously we are going to add
+[25:19] several things, number one
+[25:21] what we did was in the top part
+[25:23] now you are going to be able to see
+[25:25] where your contract is
+[25:27] the date you added it to your watchlist
+[25:29] the last price that you brought that contract
+[25:31] how much it has changed during the past 5 days
+[25:33] and also
+[25:35] the performance that you have added
+[25:37] here you are going to have
+[25:39] the amount of days left for that contract
+[25:41] you are going to be able to see
+[25:43] the difference between the spread
+[25:45] this can mean
+[25:47] if you are buying a very big spread
+[25:49] very wide, very small
+[25:51] the volume of the day
+[25:53] the open interest
+[25:55] the amount of money that you have that contract
+[25:57] and the delta
+[25:59] but we added this part
+[26:01] where now you are going to be able to see
+[26:03] the company
+[26:05] you are going to have the company's information
+[26:07] and you are also going to have
+[26:09] here below the earnings
+[26:11] of the company and you are going to be able to see
+[26:13] in the graph what are the new earnings
+[26:15] but if you see
+[26:17] you are going to see something called the feeling
+[26:19] this feeling is going to be divided
+[26:21] into two things that are property algorithms
+[26:23] of Marcus Knight
+[26:25] the market, how it is being found
+[26:27] because the market is quite neutral
+[26:29] how it is behaving
+[26:31] the action of Intel
+[26:33] and how it is behaving this contract
+[26:35] this contract means that at a given moment
+[26:37] there was a bullish but now there is a bearish
+[26:39] Victor, but as you know
+[26:41] if I open
+[26:43] the feeling, right?
+[26:45] I can also see how the contract
+[26:47] the market has behaved
+[26:49] and the company for several periods
+[26:51] 30 days, 5 days
+[26:53] and 1 day
+[26:55] so basically I can come here
+[26:57] and I can also say, ok
+[26:59] now Intel has
+[27:01] 2.4 million dollars in
+[27:03] course versus
+[27:05] 644 million
+[27:07] dollars in puts
+[27:09] the market in 5 days
+[27:11] has had 187 million of course
+[27:13] versus 142 million of puts
+[27:15] and also the company
+[27:17] you can see how the behavior
+[27:19] of all the transactions has been
+[27:21] now if you are seeing this
+[27:23] now the new contract
+[27:25] Intel, if you see the bar
+[27:27] they will indicate if it was a
+[27:29] purchase or a sale, ok?
+[27:31] so basically now I'm going to be able to
+[27:33] see, look, this one that
+[27:35] saw Kevin the other day
+[27:37] I already know that
+[27:39] automatically it was a purchase
+[27:41] and here
+[27:43] it was a sale
+[27:45] and I can see it quickly by the colors
+[27:47] so I don't have to be seeing
+[27:49] the old graph
+[27:51] that was the blue that maybe
+[27:53] I couldn't see it
+[27:55] ok? so basically that's the first
+[27:57] you will be able to see
+[27:59] the purchases and sales
+[28:01] in real time, if you see
+[28:03] every time I
+[28:05] go through the company's graph
+[28:07] my 4 new
+[28:09] graphics that exist inside
+[28:11] the contract Intel
+[28:13] are my temperament or the health
+[28:15] of the contracts, we did this
+[28:17] right? so that you can see
+[28:19] how all this works
+[28:21] so basically Kevin had said that
+[28:23] someone had invested a lot of money
+[28:25] so look, I can use something that is the
+[28:27] net premium, the net premium what it is
+[28:29] doing is choosing all the transactions
+[28:31] that are in the ask versus
+[28:33] the bid and it is
+[28:35] adding and subtracting constantly
+[28:37] so I can see which is the
+[28:39] tendency of the contract
+[28:41] if you see here when we have
+[28:43] this large volume
+[28:45] of moments of 954,000
+[28:47] the net premium passed
+[28:49] up to 72 million
+[28:51] meaning that there was a purchase
+[28:53] and automatically
+[28:55] I can see
+[28:57] if this contract has more
+[28:59] positive or negative money
+[29:01] and then I can also see
+[29:03] when someone left the contract
+[29:05] because then the net premium
+[29:07] passed from positive to negative
+[29:09] but what is the good of all this
+[29:11] that I can see which are the types of transactions
+[29:13] that were happening
+[29:15] here I can see which is the pressure
+[29:17] if it was a multi-leg
+[29:19] or if it was a single leg
+[29:21] if it was a single leg I get blue
+[29:23] if it is a multi-leg I get red
+[29:25] that means that they are two legs
+[29:27] now
+[29:29] what you are seeing
+[29:31] basically is
+[29:33] the net
+[29:35] the purchase and the subtracted sale
+[29:37] so if you have a positive net premium
+[29:39] the contract is supposed to start moving
+[29:41] down
+[29:43] basically to lose the value
+[29:45] or to gain the value
+[29:47] it will all depend more or less on what is happening
+[29:49] at that moment
+[29:51] so basically you will be able to lose in the future
+[29:53] if something goes up or down
+[29:55] or how much pressure you can have
+[29:57] according to what the net premium is
+[29:59] now
+[30:01] what you are seeing the premium trade
+[30:03] means all the transactions that that company
+[30:05] carries for that amount of time
+[30:07] accumulated
+[30:09] this does not take if it was a purchase
+[30:11] if it was a sale
+[30:13] this takes in consideration how much has been
+[30:15] traded in this contract
+[30:17] so basically for this contract
+[30:19] 230 million dollars have passed
+[30:21] that when we come to see
+[30:23] right now although we have a negative net premium
+[30:25] accumulated
+[30:27] from 230 million
+[30:29] and now
+[30:31] one of my favorite parts
+[30:33] the life premium exposure
+[30:35] here I can see
+[30:37] two lines
+[30:39] the blue line
+[30:41] means
+[30:43] the money that has been exchanged
+[30:45] that is how much has been traded
+[30:47] that contract
+[30:49] how much has been bought the amount of money
+[30:51] that has been exchanged in that contract
+[30:53] and the yellow line is
+[30:55] how much money accumulated
+[30:57] carries the contract
+[30:59] if it is above the blue line
+[31:01] means that the contract
+[31:03] has appreciated more
+[31:05] than what has been traded
+[31:07] if the yellow line is below
+[31:09] means that the contract
+[31:11] is depreciating more than what has been traded
+[31:13] that is
+[31:15] that person is on the water
+[31:17] or is making money
+[31:19] ok?
+[31:21] that is one of the most brutal things
+[31:23] of this new update
+[31:25] because you will be able to see in real time
+[31:27] the life premium for example
+[31:29] in this contract if you see
+[31:31] what is the life premium
+[31:33] that is basically
+[31:35] that 200 million dollars have been traded
+[31:37] but right now that contract
+[31:39] as it has been shot
+[31:41] what is in print
+[31:43] is 640 million dollars
+[31:45] that is
+[31:47] for you to see
+[31:49] that profit above what you can see
+[31:51] and here in the open premium
+[31:53] I can see how much money
+[31:55] is left to that contract
+[31:57] if they have 100 million
+[31:59] and as a sale
+[32:01] 139 million that had the premium
+[32:03] as
+[32:05] as there was a sale
+[32:07] of 139
+[32:09] down to 21 million
+[32:11] that is
+[32:13] basically what you are going to be able to see
+[32:15] and also something interesting that we still do not have here
+[32:17] is that when you go
+[32:19] if you click here
+[32:21] ok?
+[32:23] that we are going to have available for when someone comes out
+[32:25] May 11
+[32:27] when you click here
+[32:29] and they are going to show you the transaction
+[32:31] in the new times and sales of us
+[32:33] ok?
+[32:35] let's assume that this is a lot of graphics
+[32:37] and I do not want to see all these graphics
+[32:39] because I can open what is my chart studio now
+[32:41] I can see a graphics
+[32:43] at the same time
+[32:45] and I will be able to see
+[32:47] the different graphics
+[32:49] that are available to see in that contract
+[32:51] that is basically
+[32:53] I will be able to see the health of my contract
+[32:55] every time
+[32:57] the best of all this
+[32:59] is that here you are going to be able to compare
+[33:01] two contracts at the same time
+[33:03] or you are going to be able to see multiple contracts
+[33:05] or if you want to see the calls
+[33:07] and you want to see the puts at the same time
+[33:09] how is the health of those contracts
+[33:11] you are going to be able to see it
+[33:13] also in the same way
+[33:15] look at this that happened with the SPX
+[33:17] for all the people who like to bring
+[33:19] the NQ, the IS
+[33:21] or the SPX 0DT
+[33:25] look how interesting this is
+[33:27] SPX
+[33:29] we are going to put here 0DT
+[33:31] I am going to filter all the contracts
+[33:33] that have been built with 0DT
+[33:35] and I am going to go quickly
+[33:37] to these 7,650
+[33:39] ok
+[33:41] and look how interesting this is
+[33:43] I am going to copy this
+[33:45] and I am going to put it here
+[33:47] and we are going to put the calls
+[33:49] of 1.30
+[33:51] ok
+[33:54] look at this that I am going to be teaching now
+[33:56] ok
+[34:13] look at this
+[34:17] if you see
+[34:19] here
+[34:21] in this contract of the SPX
+[34:23] the 7,150
+[34:25] sold first
+[34:27] and automatically if I am trading a 0DT
+[34:29] sold the 7,150
+[34:31] if you see
+[34:33] the 12,55
+[34:35] ok, sell the 750
+[34:37] again
+[34:39] at this time
+[34:41] which is at the 7,5
+[34:43] well, at the 3,5
+[34:45] again a breakdown
+[34:47] and if you see
+[34:49] this contract
+[34:51] as it is a prime sale
+[34:56] because they are selling it
+[34:58] look how this contract
+[35:00] the yellow line was trading
+[35:02] premium
+[35:04] but look how that premium of $36 million
+[35:06] starts to go down
+[35:08] until it ends at $16 million
+[35:10] basically this person who sold here
+[35:12] look at how the contract
+[35:14] to have more value
+[35:16] of what he paid
+[35:18] to start
+[35:20] to decrease a lot of prices
+[35:22] why? because I can already identify
+[35:24] that a person sold
+[35:26] that contract or I hope
+[35:28] that the value of the contract begins to decrease a lot
+[35:30] and if you see
+[35:32] how much the contract traded
+[35:34] the contract traded $32 million
+[35:36] and ended with $16 million
+[35:38] basically this person who sold this money
+[35:40] ends up making money because
+[35:42] look how much is the premium traded
+[35:44] and look at how much is now the contract
+[35:46] basically now I'm going to be able to
+[35:48] measure in real time
+[35:50] and by the way this is what you are seeing
+[35:52] is a multi leg
+[35:54] that's why the market does not end at $150
+[35:56] because I already saw that the yellow
+[35:58] here they tell me
+[36:00] in a banner
+[36:02] that $9.4 million was a multi leg
+[36:04] versus a single leg
+[36:06] ok, let's go to the $7,700
+[36:08] look at this, it's interesting
+[36:10] here
+[36:14] if you see this contract
+[36:16] it starts to have a positive premium
+[36:18] all day
+[36:20] this contract has a positive premium all day
+[36:22] look at how the life premium exposure
+[36:24] of that contract begins to rise
+[36:26] substantially
+[36:28] and when they start to sell that contract
+[36:30] again look at how the contract ends
+[36:32] ending at $0
+[36:34] in real time
+[36:36] I can see
+[36:38] this contract is updated
+[36:40] all the time
+[36:42] this is in real time
+[36:44] while the market is running
+[36:46] ok
+[36:48] obviously the market is closed
+[36:50] but you won't see the transactions
+[36:52] this contract is updated
+[36:54] so you are going to be able to see it in real time
+[36:56] so what can I do
+[36:58] if I'm creating the SPX
+[37:00] or the NDX
+[37:02] I can have open multiple
+[37:04] and I can see
+[37:06] what is happening
+[37:08] in a contract specifically
+[37:10] I can come here
+[37:12] and I can have my contract
+[37:14] here and I can have another contract
+[37:16] on the left hand
+[37:20] and I can see two contracts at the same time
+[37:22] and I can see
+[37:24] which is the best
+[37:26] now something super interesting
+[37:28] is that I can concentrate
+[37:30] only on the exposure premium
+[37:32] I can move this graph
+[37:34] so it's my main graph
+[37:36] and now I can have it
+[37:38] on the main one
+[37:40] and for example if I also want to know
+[37:42] which is my net premium
+[37:44] I can move it here and I have to concentrate
+[37:46] on seeing these two graphs
+[37:48] same if I want to move this one
+[37:50] I move it
+[37:52] and now I can see
+[37:54] if I'm creating the SPX
+[37:56] there is pressure up
+[37:58] there is pressure down
+[38:00] they are selling premiums
+[38:02] they are buying and I can see it all in real time
+[38:04] for example
+[38:06] I knew that the market was going to fall a little
+[38:08] because these premiums
+[38:10] were positive
+[38:12] meaning that they were buying those
+[38:14] more than the beginning of the day
+[38:16] then it starts to go down
+[38:18] when the power starts to decrease
+[38:20] but if you see that contract
+[38:22] it was on sale all day
+[38:24] and that contract
+[38:26] if you see
+[38:28] of being in $3
+[38:30] almost $8
+[38:32] $9
+[38:34] and if you see it on sale all day
+[38:36] the premium of the maximum of the day
+[38:38] was not as high as in other contracts
+[38:40] but if we go
+[38:42] we are going to write the SPX
+[38:44] and we are going to look
+[38:47] for the zero DT
+[38:51] this had a lot of volume
+[38:53] this had a lot of volume
+[38:55] this had a lot of volume
+[38:57] this had a lot of volume
+[38:59] look at this
+[39:04] I come here
+[39:06] same
+[39:08] look what happens with these contracts
+[39:10] of the calls
+[39:12] in a given moment of the day
+[39:14] they were positive
+[39:16] ok
+[39:18] and look how it goes down to negative
+[39:20] we are
+[39:25] and here I can see that that contract
+[39:27] all day
+[39:29] this contract all day was trading
+[39:31] under what people were buying
+[39:33] that means that people were buying
+[39:35] more money
+[39:37] this contract at some point
+[39:39] came to pay
+[39:41] this contract
+[39:43] was traded $78
+[39:45] and ended with $51
+[39:47] in premium
+[39:49] even so
+[39:51] this contract
+[39:53] was never above
+[39:55] what people were buying
+[39:57] all day
+[39:59] at 10.35 in the morning
+[40:01] now
+[40:05] this is for people who want to do day trading
+[40:07] if I can open this chart
+[40:09] I don't have to be looking at so many charts
+[40:11] I can only concentrate
+[40:13] looking at this chart
+[40:15] I don't have to be looking
+[40:17] at all the charts at the same time
+[40:19] but what helps me
+[40:21] is to see the health of the contract
+[40:23] at any moment
+[40:25] what is interesting about this
+[40:27] is that look at this example
+[40:29] what is interesting for you
+[40:31] look at this from ARM
+[40:33] for people who like to do their trading
+[40:37] look at this
+[40:39] this contract
+[40:41] there were two purchases
+[40:43] look at how the net premium
+[40:45] of this contract, of being negative
+[40:47] look at this, what's interesting
+[40:49] look at how the contract of such
+[40:51] $60,000 below
+[40:53] the net premium
+[40:55] came to $21
+[40:57] from April to $20
+[40:59] million
+[41:01] how much was that contract at that price
+[41:03] look at it here
+[41:05] how much was the contract at that price
+[41:07] at $44.92
+[41:09] the other day at $44.45
+[41:11] guess what happened with that contract
+[41:13] several days later
+[41:16] at $100
+[41:18] that is, a person who bought
+[41:20] at $44.00 that contract
+[41:22] that contract
+[41:24] doubled
+[41:26] and I was able to see
+[41:28] several things that
+[41:30] helped me make money
+[41:32] I could have converted $4,000
+[41:34] what am I seeing?
+[41:36] the price of the option is
+[41:38] 98%
+[41:40] the net premium is positive
+[41:42] the premium price
+[41:44] is rising
+[41:46] and look at how
+[41:48] after the last transaction
+[41:50] how this
+[41:52] expulsion takes off
+[41:57] literally the transactions
+[41:59] are giving me
+[42:01] so here I can see
+[42:03] someone bought $19 million
+[42:05] and at the moment
+[42:07] RM went from
+[42:09] the $44.00 contract
+[42:11] to almost double
+[42:13] to almost $100.00
+[42:15] and this is the
+[42:17] new Verlac that Markersnack brings
+[42:19] that you can see
+[42:21] for example at $30.00
+[42:23] this contract was super cool
+[42:25] and this
+[42:27] is one of the best things
+[42:29] that Markersnack has
+[42:31] you can see them bought
+[42:33] and what is happening
+[42:35] for example this person
+[42:37] hasn't closed the RM transaction
+[42:39] he entered here
+[42:41] but he hasn't closed
+[42:43] because the net premium is still
+[42:45] positive
+[42:47] and although
+[42:49] the premium price was
+[42:51] $48 million and now it's $35 million
+[42:53] the person hasn't left
+[42:55] that transaction
+[42:57] and down here
+[42:59] I can see
+[43:01] what is my time sense
+[43:03] I can come here
+[43:05] and I can look for a premium
+[43:07] of more than $500.000
+[43:09] here I can see
+[43:11] the transaction
+[43:13] in April 20
+[43:15] someone bought $12 million
+[43:17] ok
+[43:21] and from that moment
+[43:23] the contract
+[43:25] was fired
+[43:27] this is part of the new updates
+[43:29] that we are going to bring
+[43:31] that you are going to be able to
+[43:33] literally know
+[43:35] everything about the contract
+[43:37] so you can optimize your performance
+[43:39] let's go with another contract
+[43:41] let's
+[43:43] maybe we can go
+[43:45] to look for the DB
+[43:47] ah, let's go to DB
+[43:49] I'll explain now
+[43:51] I don't have it here
+[43:53] because I'm involved in that contract
+[43:55] yes, it's
+[43:57] B26
+[43:59] summer
+[44:10] look at this
+[44:12] assume me
+[44:14] again
+[44:16] that you can see here
+[44:18] again in a pattern
+[44:20] the pressure
+[44:22] 90%
+[44:24] net premium
+[44:26] what happened with the net premium
+[44:28] again positive
+[44:32] what happened with the contract
+[44:39] a 900%
+[44:41] above
+[44:47] literally here
+[44:49] the action was at 229
+[44:51] when they were trading it
+[44:53] and now the company is at 287
+[44:55] look how much is the contract
+[44:57] there is another contract, there were several DB
+[45:01] yes, it is also looking
+[45:03] for that same but 150 columns
+[45:05] ah, 150 columns
+[45:07] that same, we are going to look
+[45:09] for this
+[45:11] 150
+[45:13] the same, let's see
+[45:23] this other contract
+[45:25] this contract page helps me
+[45:27] again
+[45:29] what happened here
+[45:31] the net premium
+[45:34] what happened with the net premium
+[45:50] let's go, let's go, let's go
+[45:52] in summer
+[45:54] we can start to die
+[45:56] how much
+[45:58] net premium, what happened here
+[46:01] negative
+[46:03] in April 8
+[46:05] what happened
+[46:07] it flew again
+[46:09] only
+[46:11] how much is the contract pressure
+[46:13] almost 90%
+[46:17] and that contract
+[46:19] of 25 dollars
+[46:23] how much is it
+[46:25] in 138
+[46:27] that is, it would have converted
+[46:29] 25 thousand dollars
+[46:31] in a month
+[46:33] or less, in 138 thousand dollars
+[46:35] or
+[46:40] 2500 pesos
+[46:42] in
+[46:44] 13800
+[46:48] that is correct
+[46:50] that person was lucky
+[46:52] ok
+[46:54] from 25 thousand to 38 thousand
+[46:56] from 2500 to 13 thousand pesos
+[46:58] but what happened
+[47:00] was negative the premium
+[47:02] and what happened with the premium
+[47:04] and look at this
+[47:06] if you see the exposure
+[47:08] this person entered, he uploaded the contract
+[47:10] but what happens
+[47:12] with the premium
+[47:14] these people converted
+[47:16] that is
+[47:18] 24 million dollars
+[47:20] in 94
+[47:22] that is
+[47:24] 25 million pesos
+[47:26] in 100 million pesos
+[47:28] it's good, it's good
+[47:30] they give something
+[47:34] they give something, right?
+[47:36] and what's good
+[47:38] now Marquesnack
+[47:40] throws you the feeling
+[47:42] look, this contract is bullish
+[47:44] basically
+[47:46] the algorithms we have behind
+[47:48] this contract is bullish
+[47:50] it's good
+[47:52] it also helps you as a trader
+[47:54] to know if you should hold
+[47:56] if you should analyze a little more
+[47:58] what you should do
+[48:00] that is, literally Marquesnack
+[48:02] accompanies you in the process
+[48:04] of all your transactions
+[48:06] and there we can show an example
+[48:08] there we see how the premium is high
+[48:10] but if you go to the new Intel
+[48:12] there's going to be
+[48:14] the one with the original Intel 525
+[48:16] let's go there
+[48:18] and you're going to see
+[48:20] the same
+[48:22] there's going to be the feeling
+[48:24] someone asked
+[48:26] why isn't it bullish
+[48:28] and it's because the person left
+[48:30] if you go to the sentiment
+[48:32] I'm going to take a moment
+[48:34] and see if
+[48:36] there's going to be
+[48:38] 119 million
+[48:40] and that's why the contract is bullish
+[48:42] because that person has already left
+[48:44] and has stopped being bullish
+[48:46] because he doesn't have those positions anymore
+[48:48] it's correct
+[48:50] it's correct
+[48:52] that is, there's already a person
+[48:54] who says
+[48:56] he doesn't have
+[48:58] that is, he has already left
+[49:00] his positions
+[49:02] it's no longer inside
+[49:04] that's the difference
+[49:06] it's still high
+[49:08] the life premium exposure is still high
+[49:10] and that's why the contract is bullish
+[49:12] you sent me this
+[49:14] but there's no
+[49:16] I don't know if you wrote it well
+[49:18] this is going to be available on May 11
+[49:24] ok
+[49:26] it works for the future
+[49:28] yes, because if you have
+[49:30] the SPX
+[49:32] it's the same as the IS
+[49:34] the NDE
+[49:36] the NQ
+[49:38] the SPX
+[49:40] or the triple Q
+[49:42] you can use the index, the ETF
+[49:44] and you're going to have the same exposure
+[49:46] better yet
+[49:48] the NDEX and the SPX
+[49:50] control the market a lot
+[49:52] so you can
+[49:54] use the SPX in the future
+[49:56] and see where they're buying
+[49:58] and selling the SPX
+[50:00] to make better decisions
+[50:02] let's see
+[50:04] this
+[50:06] look again
+[50:10] contract
+[50:12] bullish
+[50:14] right?
+[50:17] we have bullish contracts
+[50:19] we have a net premium again
+[50:21] what happened?
+[50:23] positive
+[50:27] we have a price index
+[50:29] in how much?
+[50:31] in 98
+[50:35] and now
+[50:38] I see this
+[50:40] there's not much difference
+[50:45] this is missing
+[50:49] and if you're looking for Q
+[50:51] look at this
+[50:54] in after hour
+[50:56] $175
+[50:58] that contract tomorrow
+[51:00] $8 will be like $20
+[51:04] NQ
+[51:06] the QQQ is the same
+[51:08] QQQ is the same as NQ
+[51:10] in the future
+[51:12] the converter
+[51:26] this person who invested
+[51:28] this person
+[51:31] $12 million
+[51:33] I'll tell you
+[51:35] the QQQ
+[51:57] this person invested
+[51:59] $13.2 million in April 24
+[52:01] for example
+[52:04] someone is telling me the SPX
+[52:06] if you're looking at the GEX
+[52:08] Marquesna doesn't have GEX right now
+[52:10] it doesn't
+[52:12] we'll have it in summer
+[52:14] we'll get it out soon
+[52:16] if you're looking
+[52:18] for the market
+[52:20] you're going to look
+[52:22] you're going to look
+[52:24] you're going to look
+[52:30] 5
+[52:32] 10
+[52:34] 15
+[52:36] and 20 points
+[52:38] above
+[52:40] both above
+[52:42] and below
+[52:44] what I'm going to do
+[52:46] I'm going to look for the $7,140
+[52:48] $7,150
+[52:52] $7,150
+[52:54] $7,000
+[52:56] $755
+[52:58] $7,160
+[53:00] $7,060
+[53:02] $7,130
+[53:06] $7,035
+[53:08] $7,125
+[53:10] $7,130
+[53:12] $7,130
+[53:14] $7,130
+[53:16] $7,130
+[53:18] $7,130
+[53:20] $7,130
+[53:22] And the howdo
+[53:28] $7,variable
+[53:36] $7,130
+[53:38] $7,130
+[53:46] $7,130
+[53:48] $7,130
+[53:50] $7,130
+[53:52] $7,130
+[53:54] $7,130
+[53:56] $2,Gs symbolic
+[53:58] 7,000 140 7,000 150 7,000 155 boom I have those four truth in the boots here I am going to see
+[54:17] which one has the most premium he has 13 million the lowest of all this has 58 this has
+[54:24] 53 this is 31 the geeks is basically it is to see where they are trading the money where they
+[54:34] are balancing that is all it is not a complex math there are programs that do it well we are going to
+[54:41] not have the best geeks of the market, it is safe, then this one that has 53 million is that
+[54:48] I am going to do because I open this contract and that I am going to do now I want to see that this
+[54:55] has reached 53 million dollars in truth ok those 53 million dollars that has been traded if I see
+[55:07] they are negative now at a time of the day they were positive at 9 40 at 9 40 that premium
+[55:17] was positive then it was below you see it but I come here at 140 at 135 I do the same I come here
+[55:29] and I open it and I am already seeing if you see this contract the 135 were positive all
+[55:43] the day in the afternoon or at 10 in the morning sorry excuse me if this was in the morning if you
+[55:51] see it was positive then it started to decrease a lot the 135 even if you get to see the market
+[55:58] ends at 135 which is the same contract that ends in the strongest premium on the day
+[56:05] ok where is the spx 135 because I come here and I put p that are the put 130 copy put 125 put 120 ok
+[56:23] that is happening 120 that is happening in the 125 that is happening in the 130 I come here
+[56:33] very simple and I see the 125 was positive during the day then the last one was negative
+[56:46] the put 120 they were negative then they were positive during the day 120 this
+[57:02] they were negative throughout the day the 125 but if you see you can determine where
+[57:09] the pressure is even today's pressure as it was a power if you see there was not so much pressure
+[57:15] on either side it was quite flat all day if you were almost the house that means that the market
+[57:21] was quite balanced if you see all the lines during the day except this one and the 135 that
+[57:31] was the only dollar 125 135 that was the support and resistance of the day were the only ones that
+[57:38] were positive and if you see very similar that is, but when I move to this one it is negative
+[57:48] when I move to this one it is negative when I go to this one it is negative ok that is the part
+[57:59] that I think you can understand also because it is the part that will help you analyze
+[58:04] while all day many of the contracts were near the net premium there was not so much movement
+[58:14] in the market but while for example something that I saw that I knew that the market was going to go up
+[58:22] you want to know how I knew that the market was going to go up I do an analysis of this so that
+[58:28] people can see because there are times that people understand but look at this look at this the 130
+[58:38] have negative net premium the premium trade is above the life exposure they are selling
+[58:44] today look at this at what time at 2 and 54 the 130 are putting the top for today today the 115
+[58:57] were negative for the day look at the look at how the 115 were negative in 6,000 they are selling
+[59:07] they are buying the they were buying the they were buying if you see here they were buying the 6,900
+[59:18] and look what happened when I saw that they were selling the 6,750 look 6,150 that is, I knew
+[59:32] the market may be thrown down and then it will go up again I am pending they are looking for
+[59:39] attention there is reverse in the net premium ok and look literally I pass a contract of 2 dollars
+[59:48] with 50 to 5 dollars today ok what was what I saw because simple I came I was here in that
+[59:55] px and I saw that at the moment this contract this contract at 2 and 50 from being positive 2
+[60:13] million between a transaction and the negative send the put in that and return to another order here
+[60:24] and it ends again this contract was one of the few contracts in the day
+[60:32] that I was trading above the life of the premium total of the day that is, if you see this was
+[60:43] of the few contracts that I had appreciated in value throughout the day when they start
+[60:50] to sell it that contract starts to get tired until it ends down Victor because this person
+[60:58] who sold because he looked at the transaction looked at the sale the person sold looked at the sale ok
+[61:06] look at the sale a person sold sold the contracts he sold them 31 dollars and as soon as the
+[61:15] contract ends today, that contract ends in how much in 13 dollars this person made money yes or no
+[61:26] if because he sold a contract at 30 dollars and that contract is now in 13 that is the good thing
+[61:34] or when the market was falling I knew that it was going to be thrown away from the 140
+[61:40] of the 150 because there was someone who was trading it down this is the good thing about having
+[61:46] this new graphic on the market I know that maybe at the beginning it is going to be a little
+[61:51] complicated and I am going to let Kevin explain a little more or less what it is but it is an
+[61:58] incredible advantage you know what is the activity that the contract is having to know if it is going to
+[62:04] go up and it is going to end up going down because there are times that you buy contracts but you
+[62:08] do not know if the contract is really appreciating or it is going to go down or it is going to go up ok Kevin
+[62:14] here we are good because as you know victory is more the day trailer I am more the
+[62:23] swing trader and now that he explained the platform to do day trading because I am going to explain it
+[62:27] to do swing trading and what I am going to do exactly I am going to use the platform with the update
+[62:35] so that they are familiar with me to share the screen so that they can see it I understand that if
+[62:46] ok as you know I am going to put the filters again here if they want to throw a few photos if I am not going to
+[62:56] put them in the description of the video that for example for those who do not know you can share
+[63:02] your url to any person so that they can see the contracts you can proceed I put here in video
+[63:09] and I put any type of contract I want to copy this contract and then I want to teach the
+[63:15] victor without having to send the contract I can take the url I send it to victor and since they
+[63:22] copy a url and it is going to open this same page that the filters go through with that
+[63:30] so I am going to share this in the description so that the one who does not have the filters
+[63:34] knows how to set it because I have to save them ok let's go I am I am I identify as a swing trader
+[63:43] and I can show you exactly what I do to identify contracts as possible
+[63:48] if you can if you can tell them how your processes are of analysis this one
+[63:56] ok then
+[63:59] that I liked to see there I liked to see the contracts that are single that the contracts
+[64:03] are aggressive I explain that it is aggressive aggressive for me so that I do not know this neutral
+[64:09] bar in the middle here you can see it you can see the legend of how these bars work and this
+[64:16] of the second bar to the third bar aggressive this is that it was bought in the last executed
+[64:20] and the third is that it was executed on the last it works exactly the same for the bit
+[64:27] but I started looking for aggressiveness this is a very aggressive contract in sale because it is
+[64:33] three bars on the left that is below bid this is a very aggressive contract sale of
+[64:37] print and we saw that the person works this contract in fact it is 305 and it is already earning
+[64:43] 15 dollars for the contract you can do the math they are around like 70 thousand dollars is
+[64:49] earning this person there and that is without counting that tomorrow it will open tomorrow it is very
+[64:56] likely that qq now opens tomorrow more high that I look because I as I already mentioned I put the
+[65:03] prime of major to identify the largest contracts I look at the prime I look at what was executed
+[65:10] in the last above the last or if it is very close to the example here we can see a contract
+[65:16] but it was not listening to the last I look at the first one here we see 10.9 million dollars
+[65:22] I look at the size 2077 and I look at the volume 7,566 this was the volume in the day until the
+[65:30] moment of this transaction at 10 21 in the morning they traded 7,566 contracts from the
+[65:38] 18th of December and from those 7,566,2,970 they were of this only 3 of 10.9 million dollars or 11
+[65:47] million as you want to see because I look at that I look at the size of the volume I compare it
+[65:54] and I compare it with the open interest it is very important remember that if I have a
+[65:59] larger volume to open interest it means that there are new new contracts entering and not
+[66:05] only are they coming out because these are the contracts that are already open to those of
+[66:09] what interests but if I see more volume because it means that there is a possibility that
+[66:15] new contracts are opening and that they remain for tomorrow I also look at the delta and look at
+[66:22] the paper I am explaining the concept now I am going and I summarize what I look at so stay with me
+[66:31] here a very interesting contract today was this amd and they will see why this person at 10
+[66:40] and 13 in the morning and eastern time entered in 321 amd this person can see that it was a
+[66:48] contract on top of that they can see that it was 30 cents of 20 50 20 80 and this person bought
+[66:53] 21 dollars 4500 contracts because I already see this I know that it is received the person has
+[67:00] a rush to enter this trade I see that a single leg lsl this means that it is a bullet and this
+[67:07] means that it is a user because I see that this person entered with 4500 of 6 on top of the
+[67:15] ask very early in the day with almost 10 million dollars what happens this size is almost all
+[67:23] volume of the day except 588 contracts and this is more than two or almost the double of the open
+[67:31] interest what does this mean this is a position that is opening because it is a position that they
+[67:36] entered on top of the last and it is more than the open interest so I already know that this person is
+[67:42] looking for that amd runs a little more during the day or rises at a price I like the delta
+[67:48] up to 50 or a contract to the money or in the money as I know that and something important to them is that they
+[67:55] are seeing that it is on top of the ask, that is, he is giving him a lot of conviction that he is seeing that
+[68:01] it is on top of an aggressive purchase on top, if that is the most that catches my attention and it is
+[68:07] something very visual on this platform because we can see it like this, you can see that the
+[68:12] contracts that have three lines the rectangle the complete rectangle is turned on and you can see the
+[68:19] contracts that have two lines only one part of the rectangle is turned on and you can see that the
+[68:23] contracts that have a line the rectangle turns on but does not turn on the edge you can see you can
+[68:28] visualize it to do exactly the same with the below b and with a contract that is executed in the
+[68:34] bill now I do not have this they see that they turn on the rectangle edge so something very visual when
+[68:41] I see a rectangle the edge completely turned on because I already know that something from the ask or
+[68:47] something from the bill executed below b and below b or above asca so this gives me a lot of conviction
+[68:53] on the day when I see that the size is more is almost double the open interest with 1.54
+[68:59] delta the implied volatility and it is already learning inusual are 76 percent I always try to
+[69:04] rule from 80 percent or we are there all the time what do you think what happened
+[69:10] what do you think happened this person you think he lost money what do you think in the
+[69:17] comments because if the one who guessed that if it was not this person made money you can
+[69:27] see that it entered $ 21 $ 2100 and the contract ended on the day in 30 80 we can see that here
+[69:34] I saw a contract and we can see the graphic that Victor just showed him the life premium
+[69:41] exposure is above the premium value you can see that the yellow is above the premium value you can
+[69:48] see that the net premium is very above and you can see that the option pressure index has almost
+[69:54] all been without gold this is a live contract of more than a swing trading what happens is that it
+[70:01] moved on the day today quite a bit but this person is very likely to hold it until tomorrow
+[70:08] or hold it until tomorrow we are going to see it if the volume if this volume is reflected
+[70:11] separately to the interest if this adds if we have 6000 volumes it is very likely that we will see
+[70:16] tomorrow of 6,000 8,000 open contracts here if not it was that it came out but it is very possible
+[70:23] that we will see it because it was deducted in Alaska you can see that the premium was 7 million dollars today
+[70:28] and you can see how you can see that the delta of 54 that was raised to 80 of delta excuse me
+[70:38] that it was here you can see that the exposure is higher here than the premium value you can see
+[70:49] the 8th price index that is 27 percent when that person entered you can see the blue the
+[70:56] premium is that it goes up here the premium is 7 million dollars and the contract was 3080 we can
+[71:05] see that the full volume of the day for 11,329 of the open interest was 2,261 it is very likely that
+[71:12] this is added tomorrow and the premium is 7 million the premium was 7 million dollars very likely
+[71:18] that this goes up tomorrow and you can see that the delta is 56 54 that was that the day began
+[71:26] at 10 and 13 ended in point 80 of delta amd of 321 of 321 that was ended in 337 in the day
+[71:37] you can see it now with the new asset price graph and you can see that right now we do not mention
+[71:45] the previous close of the previous day also comes out in the graph below now this closes in 323
+[71:51] and something very interesting to see this is an example of a swing trade because
+[71:59] this was although it was today and it went up to a sufficient price but it is very likely that this person
+[72:04] will be tomorrow I am going to teach you another contract so that you can see and you are going to say something
+[72:11] Victor no really super well really I do not like to hear you really
+[72:18] I am going to show you another contract that a person can, for example, look at this one that
+[72:25] reminds me now 26 12 18 I am going to enter here so that you can see this is an example of a swing trade
+[72:36] here you can see first this person entered look at how the first exposure versus the
+[72:54] premium value is, look at the first net right now they are 390 because this person has been
+[73:00] selling but if we go here to this part they will remove the section date here you can see
+[73:11] if you have it for the first time this is an example of igv igv so that you do not pay a software tf in
+[73:18] April 13 a person invested 19 points 19.7 million dollars 49,000 40 7,000 6 in a day with 49,000
+[73:31] volumes is basically all the volume of the day and look at the aggressiveness it was all it was
+[73:36] all about the contract was trading between 3.60 versus 4 dollars and he brought it in 4 in 4 20 19.7 million
+[73:46] dollars and look at how much the contract is worth today now the contract is the street price was
+[73:53] 750 but this contract arrived that the one that was on the discord could have been present and many
+[73:59] people brought it in fact this contract at some point was almost $ 10 if we go here a month we can
+[74:08] see how the contract was 10 40 in April 22 and this person entered 4 20 in April 13
+[74:16] you can see here the volume in 57,000 in the last volume that was 60 and this person can see that the
+[74:24] net premium still follows that is why we return here it is slightly bullish but if they click here we can
+[74:31] see that the last one has been 27 million and we can see how the net premium is 20 million
+[74:37] dollars still what is going to tell me this that this person has not left look at the option pressure
+[74:43] index in 28% has been single leg here you see nothing yellow very little and that we can observe it
+[74:50] one day five days a month I can change it here open interest I can change it here open premium
+[75:03] and something very this new update does not help much to know when a person has
+[75:13] entered when a person is negative when an institution is negative it is positive how long
+[75:19] we can hold the contract if we see this we can say that it is still inside like it has not moved
+[75:25] or this has been a multi leg this has been a single leg how it entered how it came out is a very
+[75:31] complete platform this is very complete for the platform and I hope that as Victor and I
+[75:39] found it very useful and I hope that you find it very useful and help them straight
+[75:44] if and something that something that I have been saying that I like it a lot one is always verifying
+[75:55] that it is above us truth that I like it a lot too that above us that those transactions above us
+[76:01] and there is someone who is asking about metal 120 col I am going to look for it quickly so that you can
+[76:10] see the metal 120 col ok something important for you to understand without me looking for the
+[76:16] metal you have to understand something kevin having all the flow fit does not necessarily see
+[76:23] a company does not only see something if you see every time that kevin looks for something and always
+[76:28] looks for the premium so for example we are going to put it here we are going we are going from zero
+[76:36] this is my flow fit I have it we are going to choose here section day so we are going to take it from
+[76:42] 13 to 20 from 13 to 29 the truth is that there are my sections that are basically several days
+[76:52] and I am going to write here ok
+[76:58] starting forward forward not not not not not not much one in the rebuke is more than
+[77:07] negative than positive that is to start this that means that there is more sale in metal
+[77:15] decors or puts that they even buy when you go here look at this 219 million
+[77:24] decors were executed in the beat 209 200 million dollars were executed in
+[77:30] the ass that was today ok when I look for the same thing that Kevin is looking for
+[77:34] we are going to learn a quick one starting ahead the first two transactions
+[77:42] of goal to start one is executed in the beat and they are and it is called and the second is for the
+[77:51] 2027 and they are in the core, that is, the two largest transactions that we have are in the
+[77:59] beat of course we have then this ass that I like this contract the safest tomorrow it falls a
+[78:06] little but the good thing about this contract that falls a little is that it is for June it is still missing
+[78:13] ok they are for July but if you see what it says Kevin again that depending on the above
+[78:26] beat and above ask what happened here what happened here understand now because maybe the same goal is
+[78:48] almost 50 pesos ok ok we get this in two days that Spira sold 37 million this sold 19 million
+[79:05] the only thing I have here is this contract but if I had the weight where it is mostly
+[79:14] true in the sales it is not the purchase but still this contract can be the one that is given because this
+[79:22] is for 620 for 50 days even right now they are 625 ok I still have the intrinsic value
+[79:33] what does it want to say victor and it has the intrinsic data that still that contract can
+[79:37] go back up to 70 because that person bought 75 that contract can go back up because
+[79:43] it is missing but the closest dates that is the closest date they sold it and this contract was below
+[79:50] below beat ok that is very important yes that is inside here for example look another one that
+[80:02] reported earnings amazon for example ok starting ahead amazon traded 800 million
+[80:10] but look at this again ok let's go again this we have here two multilets we have
+[80:18] sold 190 it was not necessarily above us for above it this is quite in the middle when
+[80:26] it is by the way something that I am going to tell you is every time that it is a little ray, a little ray
+[80:32] above a little ray below I do not love it so much I do not like that conviction by the way
+[80:36] what I am going to say is that this is what I am going to say now when it is a little ray this
+[80:43] I do not love it so much in the myth I do not like it either and I do not like it either or two
+[80:51] little rays up or three little rays that is my opinion that I can tell you the opinion of
+[80:58] me a little ray up a little ray down I do not like it I like it or two rays or a ray or three rays
+[81:06] ok that is very important to finish what I just said because it was going to forget me ok
+[81:13] because because the snack is making a calculation, right, how close it is going on the side or
+[81:20] how close it is going on the other side, which is very accurate, but at the same time I like it, I do not
+[81:25] like it, it is like they are on land, nobody I want a land, you understand me, for example, here the
+[81:31] only thing that is on land is this, it is the same goal the only thing that is on land is this
+[81:38] the only thing that is on land is this if you look at me here everything here sell the
+[81:44] calls the only thing that is on land and in amazon the unit is on land are the 220
+[81:53] and that is how I like it, there is a lot of circumstances that can happen, okay, let's go to
+[82:03] microsoft, for example, microsoft has obviously uploaded a lot, it has downloaded a lot and look at this
+[82:08] microsoft down in after a while crazy goat again but look at this they sold they sold they
+[82:16] sold they sold they sold they sold they sold that's why it is like this action
+[82:26] we are going to google for example this little baby daddy this little baby so
+[82:35] look at google what is it starting before what is the first thing they did in google they sold it
+[82:42] first they sold it first the frame
+[82:48] at 170 days they sold it 305 for 305 it is not going for 305 it is not going for 305 it is not going
+[83:04] ok that is that that is very important if the first sale defines you defines you that it is going to be
+[83:15] I like it a lot, I love the first sale because it defines me more usually if another example that
+[83:22] happened was I do not know if you remember me on March 30, March 31, I went down to 316 dollars but
+[83:28] I had so many prime sales, the puts of the 380 390 that you said they were selling
+[83:34] in-demon contract and I do not know where I am today, look for me honor, look for me where I am today,
+[83:41] I like it, I love it, they have sold all the puts available, there have been all that
+[83:46] m1 that m1 is a machine for prime sales, they sold it first, they sold it first, they bought it first, they
+[83:55] sold it first, m1 is a perfect example, if you want to practice the prime sale, m1 has been
+[84:06] a perfect example in the last three months, m1 has been the best of the best of the best
+[84:17] today, you want me to show you my m1 contract, this contract of Robin Hood here is
+[84:23] at the bar 170 days, October 20, I will add it today, that's a multileg but as it was,
+[84:29] I will add it because it is good, this contract can go up and you can leave guys with pants
+[84:34] and they are 9 pesos, which is an exaggerated discount, in the end it is positive, but
+[84:42] but look at this contract in life exposure it crossed now down, that means that you are
+[84:50] buying below what you are buying m1, you are buying cheaper, so I am a cheap ass but if you
+[84:56] get to see the difference of this Robin Hood contract 80 is that what is the pressure
+[85:01] the pressure is not 90, the pressure is not 80, I do not love it, let's continue, what was I saying,
+[85:12] I'm sorry, I'm going to share for a moment so that they can see, for example, I'm going to show you a
+[85:22] m1 contract, this account, I don't have the percentage, I have it in the other one, but
+[85:29] this contract that I am going to mention, look at Victor knows what it is, look at this contract, I have
+[85:47] added it in fact here in this account, look at this, I added it in 18 dollars, look at how much
+[85:55] is the contract right now, 130 dollars, sorry, sorry, sorry, sorry, look at this contract,
+[86:04] I added it in 18 dollars March 31, look at how much is the contract today, you invested 1840
+[86:13] and today it is 113 thousand dollars, 1813 thousand pesos, 18,000 are 130 k, they are good
+[86:25] and look at the impactant of this contract, it still comes out of bullish, look at the premium of the
+[86:30] contract, it is still being 50 million, the 8th price, look at the 82% price, it is single leg and
+[86:39] this person is still risking 50 million and look at the premium, I want you to look at the
+[86:47] premium exposure, 530 million dollars, this is another example that look here, March 34,000, 802
+[86:57] thousand interest, March 31, 34,000 interest and look at how he plays everything else, look at this,
+[87:08] 29,000, look at the price, 140, today it is up to 130, under 10 dollars of his return high,
+[87:19] but these are examples of that the premium does work to know if the person is inside,
+[87:25] to know if he is inside and look at the yellow line versus the blue line, I want you to
+[87:29] go with this of this class today, the yellow line above the blue line is that the person
+[87:33] is losing money and you can enter, I am in the option pressure index, I look for above 80,
+[87:46] if it is more than 90, better, by the way, if it is more than 90, better, ok, if it is more than 90,
+[87:54] better, if it is 80, it is fine, but the more it takes, the better it is, what I was going to tell you is
+[88:06] Kevin, by the way, Oracle is good so that you know why, look at this, look at what happens to me,
+[88:12] it is in the middle, if you see Oracle for October they sold it at 180, that means
+[88:20] that it must be above 180, it is not a lot of money, but they sold it at 180, it means that it
+[88:26] has to be above October 16th, above 180, which I can see, but if you look at it,
+[88:34] the next one is aggressive, this is going to go away, look at this, this at 16 days they sold it at
+[88:44] 175, that's why it didn't go up, look, what is the most aggressive, by the way, the most aggressive here
+[88:53] is this one, which is 180, it has to be above 180 for October 16th, and for May 15th,
+[89:09] above 175, this is great, I'm going to put it here, for May 15th it should be above
+[89:17] 175, Oracle, I can see it, 15 points, nothing more, I can see this happening, I can see this happening,
+[89:31] I can see it now for above 125, but the good thing is that now, for above 180 for October 16th,
+[89:48] yes, Oracle is a very good action to carry out, at this moment, as we are in the software sector,
+[90:02] what Oracle, Microsoft, well, Microsoft, Victor and I have been saying it for months,
+[90:10] when Microsoft was in 370, Microsoft was a mega purchase down there, and now we are in 423 in
+[90:19] the after hours, it has gone up to 53 pesos, man, I'm pending, and I'm telling you, here, here, here, here,
+[90:36] look, they are asking me, the discord, I'm going to send a link, as soon as we are about to finish the
+[90:42] live, so stay pending, I'm going to send it, I'm going to send it through the chat, look, this
+[90:49] user contract has gone up 1,000% today, look, look, in the premium, here, this
+[91:06] day, they shoot, look, they shoot, and that contract will ask for that trade to be shot, in 90,
+[91:12] Chau, it goes for 570, for the others, what is the first expiration, I hope today for me,
+[91:22] I hope today, if anyone does not know how to use US oil, that is a oil trade,
+[91:32] that is a unit of oil, so when the oil rises, obviously I use it with the oil,
+[91:39] this is the horse, for the first time, for the 2028, the 120 colts,
+[91:58] look, in the premium, look, in the premium,
+[92:01] hey, you look good, you look good, this in the premium, it became,
+[92:14] from being negative, it became green, I like this shit, when you are also seeing all the examples of
+[92:22] how the premium works here in this class, they are also seeing a positive, a negative,
+[92:29] look, this in the premium, the corweave, the corweave 120 of the 2028, this is really beautiful,
+[92:39] and you are buying cheaper, well, it is above, it has a premium above, because the premium is
+[92:45] 3.9.7, the life premium is 10.6, it is fine, but not so much, this is cool, I am going to add this
+[92:58] to my watch list, I am going to show you, this I like, Kevin, I am going to share with you
+[93:23] for a moment so that you can see, I speak, look at this, Kevin, June 18, 90, 90 of the score,
+[93:32] you had not seen it before, they bought it, this is also in the money,
+[93:45] now we are also seeing how we analyze the three pictures,
+[93:50] I mean, I forgot that there were people here, I am now here, I speak, yes, look, they bought it,
+[93:57] I see, they only bought it today before the market closed,
+[94:02] when it was in the market, it is not so low in the water, but that's why it was in the money,
+[94:13] that's why it was in the money, because there they are going to catch the 3, that tomorrow, that tomorrow
+[94:17] is at 4.20, 4.10 or 4.15, I already know this, I have seen this before,
+[94:25] and this is
+[94:36] 13% I understand that it was wrong
+[94:41] for 15 Verich the feeling 15% that it was wrong and 15% below
+[94:48] I
+[94:54] Look at the 370 of the WC
+[94:56] You said you were going to move this
+[94:58] The WC
+[95:04] Ah, this is
+[95:06] Now, 2 million in premium
+[95:08] Look at the 370
+[95:10] Ah, look at this
+[95:12] This is cool
+[95:16] I was selling for the little money
+[95:18] Ah, but the pressure index is weird
+[95:22] Kevin, you filter the multilex
+[95:24] I always filter the single lex
+[95:26] I always filter the single lex
+[95:28] On the multi lex
+[95:30] When I understand that I have seen almost everything
+[95:32] That I like in the single lex
+[95:34] I look for the multi lex
+[95:36] And the aspiration that I use to do swing trading
+[95:38] Usually
+[95:40] I take a lot of money
+[95:42] Entering a specific contract
+[95:44] If I see that
+[95:46] To do a swing trading I usually like more
+[95:48] Over 2 months
+[95:50] 60 days up
+[95:52] I usually take
+[95:54] Look at this
+[95:56] By the way, this initial score is very hard
+[95:58] For you to know
+[96:00] We are going to move this to the flowfit right now
+[96:02] Look at this
+[96:04] What is the initial score
+[96:06] With
+[96:08] With
+[96:10] Buy
+[96:12] 90 scores
+[96:16] And they are in the same contract
+[96:18] And look at that, click on that contract
+[96:20] So they can see what we are seeing
+[96:22] Look, they are doing size up
+[96:24] Size up
+[96:26] That person says size up
+[96:28] In some contracts that are weekly
+[96:30] How do I get a weekly?
+[96:32] In January?
+[96:34] Tomorrow he is going to look for the weight
+[96:36] This one is going to look for weight
+[96:38] By the way, that initial score
+[96:40] That is one that is very hard
+[96:44] That is the initial score
+[96:46] Look at that, look at that
+[96:48] It is premium
+[96:50] Look at that, look at that
+[96:52] No
+[96:56] This contract is very interesting
+[96:58] Look Kevin, Kevin, Kevin
+[97:02] Look at that
+[97:04] Look at the option pressure index
+[97:08] No, 28% of the option pressure index
+[97:10] That means that it is single leg
+[97:12] This contract was in June 5
+[97:14] And this is
+[97:16] June 5 or June 4
+[97:18] What day is it?
+[97:20] June 5, June 5, a weekly
+[97:22] It is a weekly
+[97:24] This person
+[97:26] 14.9 million dollars
+[97:28] This person
+[97:32] Amazon closed in June 3
+[97:34] And bought in June 5
+[97:36] Right now Amazon is
+[97:38] 270 after hours
+[97:40] Very likely to see that tomorrow
+[97:44] Look at the volume versus Open Interest
+[97:46] It is another very interesting thing
+[97:48] If you look at it up
+[97:52] The volume is 22,900
+[97:54] Open Interest is 351
+[97:56] These are new contracts that are coming in
+[97:58] It is very good
+[98:00] Look
+[98:02] Look how much is the premium life
+[98:04] Of that contract
+[98:06] That contract tomorrow is like in 60 million
+[98:08] No, Adriana
+[98:13] I
+[98:15] The contract I don't let it expire
+[98:17] Because letting it expire usually means
+[98:19] If it expires
+[98:21] Because they are going to assign it to the actions
+[98:23] For example, if I buy a contract
+[98:25] In 10 dollars that comes out
+[98:27] That is 1,000 dollars
+[98:29] And if I buy that 10 dollar jump
+[98:31] I sell it for 30 dollars
+[98:33] There I look for 200%
+[98:35] 300% of the price
+[98:37] There I have a profit
+[98:39] Before entering a trade
+[98:41] I want 20% of this investment
+[98:43] And if that trade comes from 1,000
+[98:45] To 1,200 I leave
+[98:47] But usually I don't let it expire
+[98:49] How did you do it?
+[98:53] They are asking me
+[98:55] That if we let it expire
+[98:57] The contracts for its trading
+[98:59] No, exactly
+[99:01] Usually most of the time
+[99:03] We don't let it expire
+[99:05] For example, if Victor
+[99:07] If you ask him in a zero DTE contract
+[99:09] If the contract has a lot of money
+[99:11] He usually lets it expire
+[99:13] Because it is zero DTE
+[99:15] If it is a contract with an index
+[99:17] Because the indexes are
+[99:19] Scatch Assignment
+[99:22] For example, an index is
+[99:24] The XPX
+[99:26] The NDX
+[99:28] Look how good you are
+[99:30] This person who traded it
+[99:32] Is at least below 50%
+[99:34] What is this?
+[99:36] 55 cents
+[99:40] It is good to buy
+[99:42] Gengazo
+[99:44] This is the 55 cents
+[99:46] The 55 cents for the 20,000
+[99:50] I have them
+[99:52] That is a contract
+[99:54] I think they are out of stock
+[99:56] Because the person is still in there
+[99:58] You can see it with the XP
+[100:00] That is 9.5 million
+[100:02] And you can see that the yellow one
+[100:04] Is below the blue one
+[100:06] In the life premium exposure
+[100:08] That means the person is losing money
+[100:10] The contract is out of stock
+[100:12] That is what the person pays
+[100:14] To enter the contract
+[100:21] So if you think
+[100:23] Between IDAO 13.6 million
+[100:25] And the life premium
+[100:27] 8.3
+[100:29] And in the life premium
+[100:31] 9.5 million
+[100:33] That contract
+[100:35] Of IDAO 14.6 million
+[100:37] Is about 4 million
+[100:39] You can't cry
+[100:41] You have to endure
+[100:43] You have to learn how to endure
+[100:45] Well, people, I'm going to ask
+[100:47] What are we going to do?
+[100:49] This new update comes out in May 11
+[100:51] How much do they want to have in May 11?
+[100:53] Or do we upload it later?
+[100:55] We wait like 3 months to upload it
+[100:57] Or do we throw it in May 11?
+[100:59] People don't like it
+[101:01] A lot of people came to understand
+[101:03] Yes, I think they don't want the update
+[101:05] I think we're going to delay it
+[101:07] We make a communication
+[101:09] We're going to delay it and use it for us
+[101:11] Tomorrow I have live trading
+[101:13] With infusion investment
+[101:15] And I'm going to use this live trading
+[101:17] Well, people, I'm going to leave the discord
+[101:20] What I posted in the chat
+[101:22] So that they can
+[101:24] Go in
+[101:26] They follow the instructions to activate it
+[101:28] How to activate it
+[101:30] And I think we can answer
+[101:32] Two or three questions
+[101:34] And so we finish
+[101:36] The conclusion of today's live trading
+[101:38] I hope it was of your benefit
+[101:40] We love to bring you the new update
+[101:42] Emotion to us
+[101:44] We can't imagine you
+[101:46] Yes, every time I do
+[101:48] I get excited
+[101:50] Now they're going to zoom in on the geeks
+[101:52] They're going to zoom in on the option chain
+[101:54] I'm not going to have to use the tinker swing
+[101:56] Everything here
+[101:58] So I'm very happy
+[102:00] You have to send
+[102:02] A special invitation
+[102:04] So that they can join
+[102:06] That they can give
+[102:08] Live for there
+[102:10] Like explaining things
+[102:12] Of the app market
+[102:14] So that they can learn to maximize it
+[102:16] So
+[102:18] Nothing
+[102:20] You still need a lot
+[102:22] To this contract
+[102:24] That you can click here
+[102:26] And you can see
+[102:28] What is this called
+[102:30] You filter
+[102:32] What you're seeing
+[102:34] Other things
+[102:36] The alerts are good
+[102:38] Now the alerts appear here
+[102:40] And you
+[102:42] For example, let's go to the contract price
+[102:44] Right?
+[102:46] And you can see where the alert came from
+[102:48] So
+[102:50] Of course we're still working
+[102:52] Here
+[102:54] There was something
+[102:56] So that you can go to the chart
+[102:58] Always very important
+[103:00] Add your contracts to the watchlist
+[103:02] Always add them to the watchlist
+[103:04] So that you can see those contracts
+[103:06] And
+[103:08] You can create alerts
+[103:10] Based on what you're looking for
+[103:12] And for example
+[103:14] If you don't want to miss something
+[103:16] You can come here
+[103:18] You can choose the price tag
+[103:20] I want you to let me know
+[103:22] And now I have a price tag
+[103:24] And I send you a text notification
+[103:26] And I give it on
+[103:28] And automatically
+[103:30] When Amazon arrives at $25
+[103:32] Market Snack will be sending
+[103:34] A
+[103:36] An
+[103:38] Alert
+[103:40] Yes, that's it
+[103:42] Maria, we're working with something for you
+[103:44] Yes, we're working with something
+[103:46] Ok
+[103:48] We're working on something soon
+[103:50] For people to print
+[103:52] That's it
+[103:54] I'm sure
+[103:56] Well
+[103:58] People
+[104:00] If you're learning how to use the app
+[104:02] Listen
+[104:04] To make money in life
+[104:06] You have to study
+[104:08] And practice
+[104:10] If you don't practice
+[104:12] You won't make money
+[104:14] Ok
+[104:16] Victor and I have already practiced
+[104:18] A lot
+[104:20] We've lost a lot of money in the beginning
+[104:22] Because that's also a factor
+[104:24] When you practice
+[104:26] It's like sports
+[104:28] You buy uniform, you spend gas
+[104:30] You buy balls, you do everything
+[104:32] You invest money
+[104:34] You have to invest money to be able to educate
+[104:36] To be able to understand
+[104:38] And I think the most important thing
+[104:40] In the world of trading is patience
+[104:42] You can't pretend
+[104:44] To know what Victor knows
+[104:46] What I know, what I know
+[104:48] Any other mentor you have
+[104:50] From one week to another
+[104:52] You have to be able to progress
+[104:54] Educate yourself
+[104:56] Making mistakes
+[104:58] Here's a question
+[105:00] What are the alerts now?
+[105:02] Once you add them to the watchlist
+[105:04] Mark Snack will literally
+[105:06] Give you the alert
+[105:08] Automatically
+[105:10] You have to add it to your watchlist
+[105:12] Mark Snack will be sending you
+[105:14] Alerts from that contract
+[105:16] So if you have it in your watchlist
+[105:18] Mark Snack will send you an alert
+[105:20] Even if you want to put it on a price target
+[105:22] A specific alert
+[105:24] It's put on it
+[105:26] And Mark Snack will let you know
+[105:28] Also by text
+[105:30] In what we took out in the app
+[105:32] So people
+[105:34] Kevin, anything else you want to say to the guys?
+[105:38] By the way, Kevin is the manager
+[105:40] Mark Snack for those who don't know
+[105:42] I obviously
+[105:44] Mark Snack does my work in product
+[105:46] Mark Snack does QA
+[105:48] I do what I ask
+[105:50] And ask what I want as a trader
+[105:52] But
+[105:54] For your channels
+[105:56] Mark Snack helps a lot the guys
+[105:58] To the engineers
+[106:00] To all the people who are doing this
+[106:02] What I do is ask
+[106:04] Go to the Discord
+[106:06] For you to leave your suggestions
+[106:08] We listen a lot to our users
+[106:10] To keep adding new
+[106:12] Updates so you can make money
+[106:14] Because we finish what we want
+[106:16] That you can make money
+[106:18] In the financial markets
+[106:20] And that you can optimize it
+[106:22] That's all
+[106:24] Kevin
+[106:26] Here we are at the board
+[106:28] We want to see you progress
+[106:30] And we are making a platform better
+[106:32] For us and for you
+[106:34] So you can progress
+[106:36] To the versions
+[106:38] So here at the board
+[106:40] It's always Victor and me
+[106:42] Let us know
+[106:44] Let's go to the Discord
+[106:46] And enjoy Mark Snack
+[106:50] See you next time
+[106:52] Bye

@@ -1,0 +1,564 @@
+Wyckoff Parte 3
+Karley B. Hernndez Sayago
+Estructura, Contexto y Zonas Operativas
+El mercado no es aleatorio es la huella de decisiones institucionales.
+Aprender a leerla es la ventaja que no cotiza en ningn ndice.
+El contexto lo es todo, antes de abrir cualquier operacin, la pregunta no
+es dnde entro es dnde estoy. El contexto define qu setups son vlidos
+y cules son trampas disfrazadas de oportunidad.
+Cul es el contexto?
+C O N T E X T O  B A J I S T A
+Distribucin
+por Arriba
+Precio consolida en mximos antes de 
+colapsar. Los vendedores institucionales 
+mandan. Sesgo: solo cortos.
+SESGO: CORTO
+C O N T E X T O  A L C I S T A
+Acumulacin
+por Debajo
+Precio construye base en mnimos. 
+Absorcin institucional silenciosa. 
+Correcciones = oportunidades de largo.
+SESGO: LARGO
+C O N T E X T O  N E U T R A L
+Dentro
+del Rango
+Precio oscila entre extremos. 
+Conservador: direccin tendencia previa. 
+Agresivo: ambas direcciones con 
+disciplina.
+SESGO: AMBOS
+4
+
+Las Cinco Fases del Ciclo
+A
+PA RADA
+La tendencia previa se 
+frena. SC/BC, AR, ST. 
+Peligrosa de operar 
+la inercia previa an 
+domina.
+B
+CO NST RUC CI N
+El rango toma forma. 
+Creek e Ice definidos. 
+Zona #3 activa en 
+extremos. A mayor 
+causa, mayor efecto.
+C
+SA CUDID A
+Spring o Upthrust. El 
+evento ms rentable. El 
+mercado declara su 
+intencin. Solo operar 
+en su direccin.
+D
+CO NF IRM ACI  N
+SOS rompe el Creek. 
+BUEC valida la ruptura. 
+Zonas #5 y #6. Cambio 
+de carcter oficial.
+E
+T ENDE NCI A
+Expansin fuera del 
+rango. Zonas #1, #2, #7 
+activas. Correcciones = 
+oportunidades, no 
+amenazas.
+Fase A Parada y zona operativa 1 bajista
+Impulso, Retroceso y Reversin del Movimiento
+L A  P RE G U N T A  C L A V E  E N  T E N D E N C I A
+El retroceso es solo un retroceso o se 
+convierte en un nuevo impulso?
+Impulso Movimiento fuerte en la direccin de la tendencia 
+amplio rango, volumen elevado, cierre en extremo.
+Retroceso Correccin contra la tendencia  rangos estrechos, 
+volumen bajo, sin momentum.
+ltima 
+SOSbar La barra de mayor fortaleza del ltimo impulso. Su rango 
+inferior es el nivel crtico de vigilancia.
+SOWbar Barra que cierra por debajo del rango de la ltima SOSbar 
+ seal de cambio de control a favor de los vendedores.
+Impulso? Si el retroceso genera una SOWbar, ya no es un retroceso 
+ es el inicio de un nuevo impulso bajista.
+C O N C E P T O  D E  R E V E RS I  N  D E L  M O V I M I E NT O
+ltima SOS Bar SOW Bar
+Cierre por debajo del rango de la ltima SOSbar = reversin del 
+movimiento, cambio del control del mercado a favor de los 
+vendedores
+Fase A Parada y zona operativa 1 alcista
+Retroceso en Tendencia Alcista: Correccin o Nuevo Impulso
+Bajista?
+L A  P RE G U N T A  C L A V E  E N  T E N D E N C I A  
+A L C I S T A
+El retroceso es solo un retroceso o se 
+convierte en un nuevo impulso bajista?
+Impulso 
+alcista Movimiento fuerte al alza  amplio rango, volumen 
+elevado, cierre en mximos. El comprador controla.
+Retroceso Correccin contra la tendencia  rangos estrechos, 
+volumen bajo. Normal y esperado en Fase E.
+ltima 
+SOWbar La barra de mayor debilidad bajista del retroceso. Su 
+rango superior es el nivel crtico de vigilancia.
+SOSbar Barra que cierra por encima del rango de la ltima 
+SOWbar  seal de cambio de control de vuelta a favor 
+de los compradores.Impulso 
+bajista? Si el retroceso genera una SOSbar, el retroceso ha 
+terminado  es la seal de entrada en largo.
+C O N C E P T O  D E  R E V E RS I  N  D E L  M O V I M I E NT O   
+A L C I S T A
+ltima SOW Bar
+SOS Bar
+Cierre por encima del rango de la ltima SOWbar = reversin del 
+movimiento, cambio del control del mercado de vuelta a favor de los 
+compradores
+Fase A y B Construccin de la causa
+De la parada al rango
+PSY/POD Preliminary Support/Supply
+Primeros intentos de frenar la tendencia. Volumen 
+sube pero la tendencia contina.
+SC/BC Selling/Buying Climax
+Clmax de la tendencia previa. Volumen extremo, 
+rangos amplios. Agotamiento real aunque no lo 
+parezca.
+AR Automatic Rally/Reaction
+Rebote reflejo tras el clmax. Define el extremo opuesto 
+del rango que se formar.
+ST Secondary Test
+Prueba del nivel del clmax con menor volumen. 
+Confirma agotamiento de la presin dominante.
+Creek/Ice Extremos del Rango (Fase B)
+Resistencia superior (Creek) y soporte inferior (Ice). 
+Zona #3 activa en cada toque de extremo.
+Duracin Principio de Causa
+A mayor duracin de Fase B, mayor magnitud de Fase 
+E. El tiempo en el rango es la causa del movimiento 
+futuro.
+Fase C El Momento decisivo
+La Sacudida: Spring y Upthrust
+S P R IN G  ( A c u m u la c i  n )
+ Rompe el Ice (soporte inferior) brevemente
+ Liquida los stops de los longs dbiles
+ Prueba la oferta disponible  si no hay 
+vendedor institucional, recuperacin 
+inmediata y potente
+ El volumen en el mnimo y la velocidad de 
+recuperacin son la firma institucional
+ REGLA: al aparecer el Spring, solo 
+posiciones largas
+U P T HR U S T  ( Di s t r i b u c i n )
+ Rompe el Creek (resistencia superior) 
+brevemente
+ Atrae compradores tardos que sern 
+liquidados
+ Prueba la demanda disponible  si no hay 
+comprador, colapso posterior violento
+ Seal: spike alcista con cierre de vuelta 
+dentro del rango
+ REGLA: al aparecer el Upthrust, solo 
+posiciones cortas
+Fase C El Momento decisivo: La Sacudida: Spring y 
+Upthrust
+ Rompe Ice, liquida stops recupera rpido
+ Seal: volumen alto en mnimo + cierre dentro
+ Regla: al Spring solo largos
+ La demanda super a la oferta
+ Rompe Creek, atrae compradores colapsa
+ Seal: volumen alto en mximo + cierre dentro
+ Regla: al Upthrust solo cortos
+ La oferta super a la demanda
+Las 7 Zonas Operativas
+EN RANGO (Zonas 0306) EN TENDENCIA (Zonas 010207)
+03 Extremos del Rango
+Fase B  Zona oferta/demanda
+04 Reversin (Spring/UT)
+Fase C  Sacudida decisiva
+05 Continuacin en Rango
+Fase D  minor SOS
+06 Continuacin Fuera
+Fase D  Test Creek/Ice (BUEC)
+01 Retroceso Bsico
+Fase E  SOSbar / SOWbar
+02 Correccin Mayor
+Fase E  Esquemas rpidos
+07 Continuacin Tendencia
+Fase E  Ordinary Shakeout
+12
+Zona en Tendencia
+Zonas #1 y #2: Operativa en Fase E
+01 Retroceso Bsico
+Fase E  Concepto de reversin del movimiento
+ Precio en Fase E (tendencia confirmada) produce 
+un retroceso
+ La ltima SOSbar marca el nivel crtico  el 
+mximo de fortaleza del impulso previo
+ Si el precio cierra por debajo de esa SOSbar  
+SOWbar  cambio de control
+ Si el precio respeta la zona y muestra fuerza  
+entrada en el retroceso
+ Stop: por debajo del mnimo del retroceso. 
+Objetivo: siguiente nivel de resistencia/SOS
+02 Correccin Mayor
+Fase E  Esquemas rpidos de distribucin
+/acumulacin
+Clmax El correctivo iguala o supera el impulso previo en 
+magnitud. Reversin total.
+Doble Toca exactamente el mismo nivel del extremo 
+previo. Simetra perfecta.
+Falla No llega al extremo previo. Seal de aceleracin 
+inminente en la direccin dominante.
+Trampa Supera el extremo hasta +20% para liquidar 
+stops, luego revierte con violencia.
+Esquemas Rpidos de Correccin
+Los 4 Esquemas Rpidos
+C L  M A X
+Correccin + profunda
+El correctivo iguala o 
+supera el impulso previo. 
+Alta volatilidad, volumen 
+clmax en el punto de giro. 
+La correccin ms violenta 
+ implica que el mercado 
+necesita 'deshacer' todo el 
+trabajo previo.
+ENTRADA: En el giro con 
+volumen extremo
+D O B L E
+Simetra perfecta
+Toca exactamente el mismo 
+nivel del extremo previo. 
+Volumen decreciente en el 
+segundo test confirma 
+agotamiento. Menos 
+dramtico que el clmax 
+pero igualmente fiable.
+ENTRADA: En el test del nivel 
+exacto
+F A L L A
+Seal de aceleracin
+El correctivo no llega al 
+extremo previo. Seal de 
+fortaleza del movimiento 
+dominante  el mercado 
+no necesita retroceder tan 
+lejos. Implica aceleracin 
+inminente.
+ENTRADA: Antes de que el 
+precio gire
+T R A M P A
+Ms rentable, +20%
+Supera levemente el 
+extremo (hasta +20%) para 
+liquidar stops, luego 
+revierte con violencia. El 
+favorito institucional: 
+extrae liquidez mxima 
+antes de moverse.
+ENTRADA: Tras el spike y 
+recuperacin
+01
+Retroceso 
+bsico
+SOSbar  SOWbar
+SOSbar
+02 Correccin 
+mayor
+Clmax
+Iguala el
+impulso previo. 
+Reversin total.
+Doble
+Toca el mismo
+nivel dos veces
+exacto.
+Falla
+No llega al 
+mnimo, previo. 
+Seal fuerte.
+Trampa
+Supera +20%, 
+liquida, stops y 
+revierte.
++20%
+Resistencia dinmica
+Soporte dinmico
+Zona en Tendencia
+Zonas #1 y #2: Operativa en Fase E
+Zona en Rango
+Zonas #4, #5  y #6: Operativa en Fase C y D
+04 Reversin
+Fase C  Spring / Upthrust
+ El Spring rompe el Ice para 
+liquidar longs y prueba la oferta 
+real
+ Al aparecer la sacudida, SOLO 
+operar en su direccin
+ El mercado ha declarado su 
+intencin  no se debate, se 
+ejecuta
+ Entrada ms rentable del ciclo si 
+se identifica correctamente
+05 Continuacin en Rango
+Fase D  minor Sign of Strength
+ El minor SOS es el impulso que 
+no alcanza el extremo opuesto del 
+rango
+ Entrada en retroceso tras el 
+mSOS, stop bajo el ltimo soporte 
+del rango
+ Si el movimiento alcanza el 
+extremo  ya no es Zona #5, es 
+Zona #6
+ La distincin define el stop y el 
+objetivo razonable
+06 Continuacin Fuera del 
+Rango
+Fase D  BUEC  Cambio de carcter
+ SOS rompe el Creek: cambio de 
+carcter de lateral a alcista
+ BUEC: el Creek antes resistencia 
+ahora es soporte (Last Point of 
+Support)
+ Entrada ms segura del ciclo: 
+ruptura confirmada, riesgo 
+definido
+ El mercado ha mostrado sus 
+cartas  solo queda ejecutar
+14
+Creek
+Ice
+Phase A Phase B
+Phase C
+Phase D Phase ESpring
+mSOS
+BUEC
+SOS
+04  Reversin
+Fase C  Spring / Upthrust
+Al Spring  solo en su direccin
+05  Continuacin
+Fase D  minor SOS
+Stop bajo ltimo soporte del rango
+06  Fuera del Rango
+Fase D  BUEC
+Creek  soporte (Last Point of Support)
+Zonas #4, #5  y #6: Operativa en Fase C y D
+Gatillos de Entrada y Zonas de Liquidez
+Agresivo vs. Conservador
+ENTRADA AG RESIVA  ANTICI PADA
+1 El precio llega a la zona operativa (extremo canal, 
+Creek/Ice)
+2 Primera seal de rechazo  spike con cierre 
+dentro, vela envolvente, volumen puntual
+3 Entrada ANTES de que el precio salga de la mini -
+estructura. Stop ajustado bajo el extremo
+Mayor R:R potencial Mayor tasa de falsas seales
+ENTRA DA  CO NSER VA DOR A  CO NFIRMADA
+1 Precio llega a la zona, hace la sacudida y 
+recupera el nivel relevante
+2 Se deja que el precio forme retroceso secundario 
+con volumen decreciente
+3 Entrada en ese pullback con cambio de direccin 
+confirmado. Stop ms amplio
+Mayor tasa de acierto Menor R:R  entrada ms tarda
+CLAVE: La zona dice DNDE vigilar. El gatillo dice CUNDO actuar. Sin gatillo, ests operando con 
+expectativas no con evidencia.
+18
+Las 3 Entradas en el Canal Alcista
+#1 Retroceso al Nivel 
+Horizontal
+Ms agresiva  Mejor precio
+El precio retrocede a un pivote 
+horizontal dentro del canal. 
+Requiere gatillo slido. El 
+soporte dinmico sigue por 
+debajo precio puede continuar 
+cayendo sin invalidar la 
+tendencia.
+MAYOR RIESGO MEJOR PRECIO DE 
+ENTRADA
+#2 Retroceso al Soporte
+Dinmico
+Entrada estndar  Confluencia 
+dinmica
+Precio llega a la lnea de soporte 
+del canal. El soporte dinmico es 
+la lnea de defensa  si se 
+mantiene, la tendencia contina. 
+Stop bajo el soporte dinmico.
+RIESGO MEDIO PRECIO JUSTO
+#3 Shakeout del Soporte 
+Dinmico
+Ms conservadora  Seal ms limpia
+El precio rompe brevemente el 
+soporte, liquida stops y 
+recupera. Zona #7 en el canal. 
+Los dbiles han sido eliminados. 
+Stop bajo el shakeout el stop 
+ms ajustado de las tres 
+entradas.
+MENOR RIESGO 
+RELATIVO
+MAYOR 
+CONFIRMACIN
+19
+Resistencia dinmica
+Soporte dinmico
+#1  Retroceso al Nivel Horizontal
+Ms agresivo  Mejor precio de entrada
+Retroceso a pivote horizontal dentro del canal. 
+Soporte dinmico sigue por debajo. Requiere 
+gatillo slido.
+MAYOR 
+RIESGO MEJOR PRECIO
+#2  Retroceso al Soporte Dinmico
+Entrada estndar  Confluencia dinmica
+Precio llega a la lnea de soporte. Si se 
+mantiene, la tendencia contina. Stop bajo el 
+soporte dinmico.
+RIESGO MEDIO PRECIO JUSTO
+#3  Shakeout del Soporte Dinmico
+Ms conservadora  Seal ms limpia
+Precio rompe brevemente el soporte, liquida stops 
+y recupera. Dbiles eliminados. Stop ms 
+ajustado.
+MENOR RIESGO MS 
+CONFIRMACIN
+Los Pivotes como Mapa de rdenes
+Pendientes
+Por qu el mercado va a buscar los pivotes?
+ Los pivotes son concentraciones de stops y 
+rdenes limitadas pendientes de ejecutar
+ El mercado institucional necesita contrapartida 
+para ejecutar rdenes grandes los pivotes la 
+proveen
+ Un movimiento hacia un pivote no es 'magia 
+tcnica' es bsqueda activa de liquidez
+ Cuanto ms prominente el pivote y mayor su 
+volumen de formacin, mayor la liquidez 
+acumulada
+ Pivote mximo: stops de longs + rdenes de 
+venta limitadas
+ Pivote mnimo: stops de shorts + rdenes de 
+compra limitadas
+PIVOTES VLIDOS para entrada
+ Creek e Ice de la estructura activa actual
+ Pivotes del canal dinmico activo
+ Pivotes con alto volumen de formacin
+PIVOTES INVLIDOS  marcar con 
+ Pivotes de tendencias anteriores al rango 
+actual
+ Niveles muy alejados sin relevancia estructural 
+presente
+ Pivotes de bajo volumen poca liquidez 
+acumulada
+Los Pivotes como Mapa de rdenes
+Pendientes
+Pivote
+mximo
+Pivote
+mnimo
+Stops de longs +
+rdenes de venta
+Stops de shorts +
+rdenes de compra
+El contexto determina el resultado
+C O N T E XT O  A L C I S T A
+Canal alcista  soportes son oportunidades de 
+largo
+ Cada retroceso al soporte dinmico es una
+oportunidad de largo 
+ Los pivotes horizontales de la bajada previa se 
+atraviesan hacia arriba no son resistencias de 
+entrada
+ Sesgo exclusivamente largo en canal alcista 
+fuerte
+ Intentar cortos en la resistencia = operar contra el 
+flujo institucional
+ Los niveles de la tendencia previa son objetivos 
+de toma de beneficio (si acaso) no zonas de 
+entrada
+C O N T E XT O  B A J I S T A
+Canal bajista  resistencias son oportunidades 
+de corto
+ Los mismos soportes dinmicos son ahora zonas 
+de corto el precio los usa como resistencia 
+ Los rebotes al soporte del canal bajista = zonas 
+de distribucin y corto
+ Los niveles horizontales (marcados con ) son 
+resistencias temporales, no soportes vlidos
+ Sesgo exclusivamente corto en canal bajista 
+confirmado
+ El mismo patrn grfico produce resultado 
+opuesto. La variable: el CONTEXTO
+Checklist Pre-Trade Wyckoff
+01 Cul es el contexto?
+Distribucin (bajista)  Acumulacin (alcista)  
+Rango (neutral)
+02 En qu fase estoy?
+A (parada)  B (construccin)  C (sacudida)  D 
+(confirmacin)  E (tendencia)
+03 Qu zona operativa est activa?
+Identificar cul de las 7 zonas corresponde al 
+momento actual del ciclo
+04 El sesgo favorece la direccin?
+El contexto mayor debe alinearse con la direccin 
+de la entrada planificada
+05 Hay confluencia multi -timeframe?
+Zona Wyckoff + extremo canal dinmico + 
+estructura menor alineados
+06 Hay gatillo vlido?
+Seal especfica de rechazo, absorcin o 
+reversin  no solo 'estamos en zona'
+07 Stop y objetivo pre -definidos?
+Stop bajo mnimo del retroceso. Objetivo primario 
+= extremo opuesto de la estructura
+08 Cul es el R:R mnimo aceptable?
+Ratio mnimo 1:2. Si el objetivo no lo permite, no 
+hay operacin.
+Resumn del mtodo
+El mercado no avisa  confirma.
+El patrn sin contexto es decoracin.
+La zona dice dnde. El gatillo dice 
+cundo. El contexto dice si.
+Richard D. Wyckoff  1873 - 1934
+La huella del dinero institucional es 
+permanente.
+01 Contexto primero Distribucin / Acumulacin / 
+Rango
+02 Fases AE El ciclo completo de la causa al 
+efecto
+03 7 Zonas operativas Dnde el mtodo tiene ventaja 
+estructural
+04 Esquemas rpidos Clmax, Doble, Falla, Trampa
+05 Gatillo especfico Agresivo o conservador sin 
+gatillo, sin entrada
+06 Pivotes = liquidez El mercado busca activamente 
+las rdenes pendientes
+07 Fractal MTF Zona mayor + canal + estructura 
+menor
+08 Gestin pre-definida Stop, parcial, objetivo antes de 
+entrar
+Que nos dice la grafica?
+
+Que nos dice la grafica?
+Fase A: Parada del downtrend El mercado vena en tendencia bajista hasta el evento marcado
+como SACUDIDA. Ese movimiento por debajo del VAL (~6,641) es el evento Phase C clsico: el Spring /
+Terminal Shakeout. No fue un colapso estructural; fue una absorcin de la oferta final de los vendedores
+rezagados.
+Fase C : El spring es un movimiento de precio por debajo del nivel de soporte del rango que rpidamente
+revierte y vuelve al interior del rango. Es una trampa bajista: la cada por debajo del soporte simula la
+reanudacin de la tendencia bajista, pero en realidad marca el inicio de un nuevo uptrend, atrapando a los
+vendedores tardos.
+Fase D : Seal de Fortaleza (SOS) El rebote vertical desde la sacudida hacia el VAH (~6,900) y luego la 
+ruptura hacia zona de mximos (~7,050+) es el Sign of Strength (SOS). Lo que debe seguir es la 
+dominancia consistente de la demanda sobre la oferta.
+Fase E: Ruptura sostenida?" Aqu est el nudo del anlisis. La lnea punteada superior con esa pregunta 
+(~7,050-7,115) es exactamente la frontera entre Fase D y Fase E.
+Mi Entrada: LPS sobre VAH (la ms clara ahora) en los 6950
+Nos vemos en
+una prxima clase!
+Recuerda unirte a nuestra Telegram: Latino Wall Street
+Sguenos en redes sociales

@@ -1,0 +1,174 @@
+Wyckoff Parte 2
+Karley B. Hernndez Sayago
+Fases del ciclo Wyckoff
+ Fase A  Parar la tendencia bajista mostrando entrada de demanda.
+ Fase B  Construir la causa: Instituciones acumulan discretamente 
+mientras el rango confunde a los traders.
+ Fase C  Spring/Sacudida: Falsa ruptura del soporte para limpiar stops; 
+seguida de un test de bajo volumen.
+ Fase D  SOS y LPS: Rally convincente a travs de la resistencia y 
+retrocesos superficiales defendidos.
+ Fase E  Markup: Tendencia alcista establecida; los retrocesos son poco 
+profundos y el pblico reconoce la tendencia.
+Las Etiquetas no te hacen ganar dinero, entender 
+el contexto si.
+
+El Mapa de ruta operativo
+Es uno de los puntos fuertes de la metodologa Wyckoff ya que nos
+permite saber por adelantado que es mas probable que suceda en base a la
+informacin en el grafico
+
+El Mapa de ruta segn contexto general
+
+El Mapa de ruta el desarrollo estructural
+
+El Mapa de ruta el desarrollo estructural
+De contexto a tendencia lateral
+El Mapa de ruta el desarrollo estructural
+En lateral operativa de extremos 
+El Mapa de ruta el desarrollo estructural
+Cambio de lateral 
+a alcista
+Esperar el desarrollo de la Sacudida
+El Mapa de ruta segn el evento operativo
+Spring/ Sacudida
+ Definicin: Falsa ruptura del soporte con 
+recuperacin inmediata.
+ Objetivo: Engaar a los vendedores y 
+ofrecer precios bajos a las manos fuertes.
+ Confirmacin: Se valida con un test de bajo 
+volumen que demuestra que la oferta se 
+agot.
+Ruptura
+ Definicin: Falsa ruptura por encima de la 
+resistencia con reversin rpida.
+ Objetivo: Atraer a compradores desprevenidos 
+para distribuir posiciones.
+ Caractersticas: Volumen alto en el breakout 
+seguido de rpida disminucin y cada hacia el 
+rango.
+Confirmacin del Spring y Test
+ Identificar pivotes: Trazar el 
+mximo del impulso (pivote 
+1) y el mximo del retroceso 
+(pivote 2).
+ Cierre por encima: La 
+confirmacin llega cuando el 
+precio supera el pivote 2 con 
+un cierre fuerte.
+ Test de bajo volumen: Se 
+prefiere un retroceso lento, 
+sin reingreso al rango ni giro 
+en V.
+ No siempre aparece un Test: 
+En ocasiones el mercado 
+continuar sin volver a la 
+zona del Spring.
+Confirmacin del Spring y Test
+ Identificar pivotes: Trazar el 
+mximo del impulso (pivote 
+1) y el mximo del retroceso 
+(pivote 2).
+ Cierre por encima: La 
+confirmacin llega cuando el 
+precio supera el pivote 2 con 
+un cierre fuerte.
+ Test de bajo volumen: Se 
+prefiere un retroceso lento, 
+sin reingreso al rango ni giro 
+en V.
+ No siempre aparece un Test: 
+En ocasiones el mercado 
+continuar sin volver a la 
+zona del Spring.
+Qu pasara? 
+Una posibilidad es regresar al rango
+
+Mapa de ruta tras spring
+
+Mapa de ruta tras spring
+Favorecer el 
+test tras ruptura 
+exitoso.
+Mapa de ruta tras Spring
+Si no hay 
+momentum 
+puede dejar un 
+nuevo minimo
+Mapa de ruta tras la ruptura
+Cambio de lateral 
+a alcista
+Mapa de ruta tras Spring
+Mientras no 
+reingrese 
+mantenemos el 
+escenario
+Wyckoff + tendencia
+Wyckoff funciona mejor con tendencia.
+ Acumulacin buscar compras.
+ Distribucin buscar ventas.
+Ejemplo:
+No compraren distribucin.
+Pregunta clave:
+Estoy operando a favor del flujo principal?
+Gestin avanzada del trade
+ Entrar en confirmacin.
+ Stop claro (invalidacin).
+ Dejar correr ganancias.
+Ejemplo:
+Entrada en LPS con SL bajo el mnimo.
+Pregunta clave:
+Mi riesgo est controlado antes de entrar?
+Timing de entrada.
+El timing lo es todo.
+Mejores zonas:
+ Fase D.
+ Retesteos.
+ Confirmaciones claras.
+Ejemplo:
+Entrar despus del breakout, no antes.
+Pregunta clave:
+Estoy adelantndome al mercado?
+Multitemporalidad
+ Top-down: Iniciar en temporalidades altas (diario/semanal) para 
+identificar estructura y tendencia.
+ Entradas: Usar marcos inferiores (4H/1H) alineados con la tendencia 
+mayor para ejecutar operaciones.
+ Evitar trampas: No partir del marco pequeo sin referencia; se pierde 
+perspectiva y aumenta el ruido.
+Errores Comunes
+ Contexto de mercado: Evale el entorno macro, el sentimiento y el 
+volumen antes de interpretar un patrn.
+ No anticipar: Evite asumir que habr Spring o Upthrust; espere 
+confirmacin con un test vlido.
+ Diferenciar patrones: Use el marco temporal mayor para distinguir 
+reacumulacin de redistribucin y no confundir con 
+acumulacin/distribucin.
+ Evitar FOMO: La paciencia y la disciplina generan entradas de mayor 
+probabilidad; no persiga movimientos tardos.
+ Herramientas complementarias: Combinar el mtodo Wyckoff con perfil 
+de volumen mejora la precisin
+Resumen
+Wyckoff avanzado se basa en ejecucin.
+Claves:
+ Confirmacin.
+ Timing.
+ Contexto.
+Preguntas clave
+ Hay confirmacin real?
+ Estoy en fase D o E?
+ Dnde est mi LPS o LPSY?
+ El contexto apoya mi trade?
+ Tengo invalidacin clara?
+Conclusiones
+La ventaja est en esperar, no en anticipar.
+ Confirmacin > prediccin.
+ Paciencia = rentabilidad.
+ Menos trades, mejor calidad.
+Idea final:
+ El mercado premia al que espera estructura no al que
+persigue precio.
+Nos vemos en
+una prxima clase!
+Recuerda unirte a nuestra Telegram: Latino Wall Street
+Sguenos en redes sociales
