@@ -33,6 +33,7 @@ _AUTHORIZE = f"{_BASE}/v1/oauth/authorize"
 _TOKEN = f"{_BASE}/v1/oauth/token"
 _QUOTES = f"{_BASE}/marketdata/v1/quotes"
 _CHAINS = f"{_BASE}/marketdata/v1/chains"
+_PRICEHISTORY = f"{_BASE}/marketdata/v1/pricehistory"
 
 _ACCESS_TTL_GUARD = 60  # refresh this many seconds before nominal expiry.
 _REFRESH_TTL_DAYS = 7   # Schwab refresh tokens expire after ~7 days.
@@ -235,6 +236,52 @@ class SchwabProvider:
             return r.json()
         except ValueError:
             return None
+
+    def price_history(self, symbol: str, *, period_type: str = "day",
+                      period: int = 10, frequency_type: str = "minute",
+                      frequency: int = 5, need_extended: bool = False,
+                      start_date: int | None = None,
+                      end_date: int | None = None) -> list | None:
+        """Velas historicas (read-only). Sirve para intradia (minute) e indices ($SPX).
+
+        Defaults = 10 dias de velas de 5 minutos. Para el estudio intradia de regreso
+        a la SMA. Devuelve lista de {datetime, open, high, low, close, volume} o None.
+        Frecuencias minute validas: 1,5,10,15,30. Solo datos de mercado — no toca ordenes.
+
+        `start_date`/`end_date` (epoch en MILISEGUNDOS) piden un rango explicito. Uselos
+        para traer la sesion de HOY: con `period` Schwab solo devuelve dias CERRADOS, no
+        la sesion parcial en curso. Si se pasan, se omite `period`.
+        """
+        token = self._valid_access_token()
+        if not token:
+            return None
+        params: dict[str, Any] = {
+            "symbol": symbol.upper(),
+            "periodType": period_type,
+            "frequencyType": frequency_type,
+            "frequency": frequency,
+            "needExtendedHoursData": str(need_extended).lower(),
+        }
+        if start_date is not None or end_date is not None:
+            if start_date is not None:
+                params["startDate"] = int(start_date)
+            if end_date is not None:
+                params["endDate"] = int(end_date)
+        else:
+            params["period"] = period
+        try:
+            r = self.client.get(_PRICEHISTORY, params=params,
+                                headers={"Authorization": f"Bearer {token}"})
+        except httpx.HTTPError:
+            return None
+        if r.status_code != 200:
+            return None
+        try:
+            data = r.json()
+        except ValueError:
+            return None
+        candles = data.get("candles")
+        return candles if isinstance(candles, list) else None
 
     def last_price(self, symbol: str) -> float | None:
         """Latest real-time price for `symbol`, or None."""
