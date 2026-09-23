@@ -1,0 +1,39 @@
+CLASE MARKETSNACK / INFUSIONTV — 2026-09-16 (día FOMC)
+Fuente: transcripción compartida por Tania. Tema: leer el FLUJO como dirección
+(put buying persistente = bajista), día FOMC (hike hawkish), niveles de tape SPX.
+
+[Transcripción con tiempos, verbatim de Tania]
+
+FOMC 16-sep: hike 25bps (ya priceado, ~90%); la sorpresa fue Kevin W (2:30pm) diciendo
+que vienen MÁS hikes pronto (inflación fuera de control). Mercado cayó fuerte al hablar W.
+SPX cerró ~7550 (-0.45%, -33pts); intradía llegó a 7623 antes del FOMC (squeeze de shorts).
+
+FLUJO (el punto central de la clase):
+- "El flujo estaba buscando dirección ANTES de la noticia." A las 9:43am entraron $7.3M al ask
+  (de $8M) en el 747 put (16 DTE) con SPX en 758.80 (ni siquiera en el pico, que fue 761).
+  Ese contrato pasó de ~$4.7M a $8 a las 3pm (30 min después de hablar W).
+- Patrón: puts ATM/OTM comprándose = "algo se está cocinando". Ejemplos: 713 put (lun 14) +40%;
+  724 put oct-16 (lun 14) de $4 a 5.82 = +$182/contrato (~$3M en 15,000 contratos).
+- "En el último mes NO hubo compra de calls agresiva — solo put buying y VIX calls (bajistas).
+  Si te agarraste en calls, MarketSnack no te dijo que compraras calls."
+- Regla: "Cuando veas dinero institucional entrando en CALLS + venta de puts, ENTONCES compras
+  el upside. Si no, NO compres calls." Sigue esperando ese giro.
+- Puts multileg grandes posicionándose para 25-sep (700/720 puts), $500M multileg. "Estamos
+  para otra caída." Retest del 7500.
+- Venta de premium como tell: Tesla — venden el 360 call (oct-2 weekly) = esperan TSLA < 360
+  = oportunidad de short. "Selling premium" en calls = sesgo bajista en ese nombre.
+- Nombres con puts institucionales persistentes y en ganancia (el "clue" para short): BX puts
+  (desde ago 17/26, un jugador +$31M ~100%), SMH 630 nov-20 puts, MSFT saliendo, XOM (energía).
+
+TAPE / niveles SPX (zonas manuales, notación /10 -> x100):
+- 7610 (resistencia, rechazó varias veces), 7580 (soporte grande; roto -> fue directo a 7510),
+  7509/7510 (soporte clave), 7460/7448 (liquidity grab).
+- Break 7580 -> puede subir; break 7509 -> baja al 7450. Longear en 7450; si rompe 7400 = feo.
+- γ NEGATIVA, magnet en 7500. September seasonality horrenda. Viernes = quad-witch (rebalanceo).
+- "Late shorters get wrecked": no perseguir el short tarde; short en resistencia (7580) con plan
+  de salida, o esperar volumen (viernes quad-witch).
+
+PLATAFORMA:
+- Real-time CBOE data para XPX/VIX = add-on pagado (prorrateado, ~$100/mes aparte); se activa 1 vez
+  (sirve para XPX y VIX). Founding member: 699/año sin data, 799/año con data.
+- Update próximo: filtro para REMOVER stickers (ej. CRM/ex-dividendo) del flow feed.

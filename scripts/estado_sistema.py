@@ -182,8 +182,92 @@ def main():
     check_cookie()
     check_errores()
     check_frescura()
+    check_entradas()
+    check_flip_levels()
+    check_selector()
+    check_vanna()
+    check_eod()
+    check_trampolin()
     print(f"\n{'#'*60}\n#  Fin del chequeo. Corre esto al iniciar cada sesión.\n{'#'*60}")
     return 0
+
+
+def check_trampolin():
+    """13) TRAMPOLIN (Roos): recompra forzada al expirar = rebote desde el put wall."""
+    hdr("13) TRAMPOLIN GUARD (rebote post-vencimiento por recompra forzada — Roos)")
+    try:
+        import subprocess
+        r = subprocess.run([sys.executable, str(REPO / "scripts" / "trampolin_guard.py"), "SPX"],
+                           capture_output=True, text=True, timeout=40)
+        out = (r.stdout or "").strip()
+        print(out if out else f"  {WARN} trampolin_guard sin salida (¿Tito?)")
+    except Exception as e:
+        print(f"  {WARN} no pude correr trampolin_guard.py: {e}")
+
+
+def check_vanna():
+    """11) VANNA (Roos): VIX-fade = rebote · pre-evento = venta mecanica."""
+    hdr("11) VANNA GUARD (VIX-fade rebote / pre-Fed venta mecanica — Roos)")
+    try:
+        import subprocess
+        r = subprocess.run([sys.executable, str(REPO / "scripts" / "vanna_guard.py"), "SPX"],
+                           capture_output=True, text=True, timeout=40)
+        out = (r.stdout or "").strip()
+        print(out if out else f"  {WARN} vanna_guard sin salida (¿Tito?)")
+    except Exception as e:
+        print(f"  {WARN} no pude correr vanna_guard.py: {e}")
+
+
+def check_eod():
+    """12) EOD AMPLIFY GUARD (Roos): ETF 2x/3x amplifican el cierre; no fadear dia trending."""
+    hdr("12) EOD AMPLIFY GUARD (no fadear el cierre en dia trending — Roos)")
+    try:
+        import subprocess
+        r = subprocess.run([sys.executable, str(REPO / "scripts" / "eod_amplify_guard.py"), "SPX"],
+                           capture_output=True, text=True, timeout=40)
+        out = (r.stdout or "").strip()
+        print(out if out else f"  {WARN} eod_guard sin salida (¿Tito?)")
+    except Exception as e:
+        print(f"  {WARN} no pude correr eod_amplify_guard.py: {e}")
+
+
+def check_selector():
+    """10) SELECTOR DEL MÉTODO DEL DÍA — condicion -> metodo -> entrada (SIN TRADES NO EXISTIMOS)."""
+    hdr("10) METODO DEL DIA + SETUPS EJECUTABLES (selector_metodo.py)")
+    try:
+        import subprocess
+        r = subprocess.run([sys.executable, str(REPO / "scripts" / "selector_metodo.py"), "SPX"],
+                           capture_output=True, text=True, timeout=50)
+        out = (r.stdout or "").strip()
+        print(out if out else f"  {WARN} selector sin salida (¿Tito/VS3D?)")
+    except Exception as e:
+        print(f"  {WARN} no pude correr selector_metodo.py: {e}")
+
+
+def check_flip_levels():
+    """9) Niveles de FLIP del MM (rebote abajo / rechazo arriba) — Roos/VS3D."""
+    hdr("9) FLIP LEVELS (rebote/rechazo mecanico del MM — Roos)")
+    try:
+        import subprocess
+        r = subprocess.run([sys.executable, str(REPO / "scripts" / "flip_level.py"), "SPX"],
+                           capture_output=True, text=True, timeout=40)
+        out = (r.stdout or "").strip()
+        print(out if out else f"  {WARN} flip_level sin salida (¿Tito/VS3D?)")
+    except Exception as e:
+        print(f"  {WARN} no pude correr flip_level.py: {e}")
+
+
+def check_entradas():
+    """Recuerda los pasos de cada metodo de entrada + nucleo (checklist_entradas.py)."""
+    hdr("8) CHECKLIST DE ENTRADAS (pasos de cada metodo + no mezclar)")
+    try:
+        import subprocess
+        r = subprocess.run([sys.executable, str(REPO / "scripts" / "checklist_entradas.py")],
+                           capture_output=True, text=True, timeout=40)
+        out = (r.stdout or "").strip()
+        print(out if out else f"  {WARN} checklist sin salida")
+    except Exception as e:
+        print(f"  {WARN} no pude correr checklist_entradas.py: {e}")
 
 
 if __name__ == "__main__":
