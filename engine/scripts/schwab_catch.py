@@ -17,6 +17,7 @@ Uso:
 from __future__ import annotations
 
 import datetime
+import html
 import re
 import ssl
 import sys
@@ -82,10 +83,19 @@ def _make_handler(schwab: SchwabProvider):
             code = unquote(m.group(1))
             ok = schwab.exchange_code(code)
             _RESULT["status"] = "ok" if ok else "fail"
+            err = getattr(schwab, "last_error", "") or ""
+            if not ok:
+                print(f"[!] Schwab rechazo el canje: {err}", flush=True)
+                try:
+                    log = Path(__file__).resolve().parents[2] / "logs" / "schwab_catch_error.log"
+                    with open(log, "a", encoding="utf-8") as f:
+                        f.write(f"{time.strftime('%Y-%m-%d %H:%M:%S')} {err}\n")
+                except OSError:
+                    pass
             page = (
                 "<h2>Listo. Ya puedes cerrar esta pestana.</h2>"
                 if ok else
-                "<h2>El intercambio fallo. Vuelve al asistente.</h2>"
+                f"<h2>El intercambio fallo. Vuelve al asistente.</h2><pre>{html.escape(err)}</pre>"
             )
             self.send_response(200)
             self.send_header("Content-Type", "text/html; charset=utf-8")

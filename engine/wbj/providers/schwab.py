@@ -114,9 +114,12 @@ class SchwabProvider:
         }
         try:
             r = self.client.post(_TOKEN, data=form, headers=headers)
-        except httpx.HTTPError:
+        except httpx.HTTPError as e:
+            self.last_error = f"{type(e).__name__}: {e}"
             return False
         if r.status_code != 200:
+            # El cuerpo de error de Schwab no trae tokens; sirve para diagnosticar.
+            self.last_error = f"HTTP {r.status_code}: {r.text[:300]}"
             return False
         try:
             payload = r.json()
